@@ -2,6 +2,8 @@
 
 Phase 3 environmental-feature results are available separately in [results/phase3](results/phase3/README.md), including the work completed, methods, results, quality checks and reproduction instructions. Computational validation is complete; the phase 2 research review gates still apply.
 
+Phase 4 exploratory model comparisons are in [results/phase4](results/phase4/README.md), with spatial/city holdouts, paired uncertainty, sensitivity analyses, model artifacts and figures. The supported computational workflow is validated; full phase 4 remains incomplete because forward temporal validation and the earlier research-review gates are pending.
+
 Start with [the execution report](reports/phase_1_2_report.md) and [the location map](reports/atm_locations_map.html).
 
 The main dataset is [the 2025 full-year historical panel](data/processed/atm_panel_2025_full_year.csv). It contains each ATM's latitude/longitude, snapshot-supported exposure, nearby robbery/burglary counts at 25/50/100 metres, and 2024 background crime at >200–500 metres.

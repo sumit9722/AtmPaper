@@ -1,0 +1,22 @@
+{
+  "exploratory_computational_status": "complete",
+  "validation_status": "PASS",
+  "full_blueprint_phase4_complete": false,
+  "confirmatory_modeling_ready": false,
+  "temporal_validation_status": "blocked: only 2025 outcome year",
+  "research_gates": "phase 2 independent review; phase 3 schema acceptance; future-period evaluation",
+  "sites": 1192,
+  "outer_evaluations": 47,
+  "fitted_outer_models": 141,
+  "prediction_rows": 42636,
+  "variants": [
+    "primary_50m",
+    "radius_25m",
+    "radius_100m",
+    "nearest_only_50m",
+    "report_cutoff_background",
+    "exclude_buffalo"
+  ],
+  "bootstrap_replicates_per_comparison": 2000,
+  "outcomes": "near-site police-recorded robbery/burglary; not verified ATM attacks"
+}

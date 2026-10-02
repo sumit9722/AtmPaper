@@ -1,0 +1,4 @@
+variant,scheme,fold,model,stage,warning
+radius_25m,leave_city_out,new_york_city,ALL,inner_0,Skipped inner fold: insufficient training rows or missing outcome class
+radius_25m,leave_city_out,new_york_city,ALL,inner_4,Skipped inner fold: insufficient training rows or missing outcome class
+exclude_buffalo,leave_city_out,new_york_city,ALL,inner_0,Skipped inner fold: insufficient training rows or missing outcome class

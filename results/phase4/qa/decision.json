@@ -1,0 +1,12 @@
+{
+  "exploratory_pooled_numerical_gate": "not_met",
+  "confirmatory_go": false,
+  "full_phase4_complete": false,
+  "reason": "Forward temporal validation and phase 2/3 research review are incomplete.",
+  "interpretation": "No pooled model comparison met the working AP-gain criterion in either evaluation.",
+  "criterion": {
+    "minimum_ap_gain": 0.01,
+    "lower_95pct_bound_must_exceed": 0
+  },
+  "no_effect_claim_supported": false
+}

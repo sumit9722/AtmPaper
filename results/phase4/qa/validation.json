@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Model cohort exactly matches phase 3 full-year sites",
+    "Research-review ineligibility remains explicit",
+    "All split and cohort hashes match their pre-fitting freeze",
+    "Every outer and inner split is disjoint, excludes test leakage, and satisfies 1,500 m center separation",
+    "Every leave-one-city-out model excludes all labels from its held-out city",
+    "Each eligible site is tested exactly once per variant and evaluation scheme",
+    "All fitted medians/scalers reconcile to outer training rows only",
+    "Every saved model reproduces its held-out probabilities and uses only the feature allowlist",
+    "Selected hyperparameters maximize inner validation AP; calibrators see outer-training OOF rows only",
+    "All AP, ROC-AUC, Brier, calibration and top-decile metrics reconcile to saved predictions",
+    "All paired intervals use 2,000 spatial-block draws and reconcile to bootstrap replicates",
+    "Input/specification/implementation checksums remain unchanged",
+    "Unavailable forward-time validation and pending research gates cannot be reported as completed"
+  ],
+  "model_artifacts_verified": 141,
+  "prediction_rows_verified": 42636,
+  "human_review_completed": false,
+  "forward_temporal_validation_completed": false
+}
