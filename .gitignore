@@ -1,0 +1,6 @@
+# Files larger than 100 MB (100,000,000 bytes).
+# Git cannot match file size; add new oversized files here as needed.
+/phase_1_2_package.zip
+/data/processed/crime_events_2024_2025.csv
+/data/processed/event_atm_links.csv
+/data/processed/event_atm_links_historical.csv
