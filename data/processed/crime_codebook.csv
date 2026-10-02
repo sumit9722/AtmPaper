@@ -1,0 +1,174 @@
+city,native_code,native_offense,native_description,common_category,primary_included,broad_included,rule,review_status,source_rows
+New York City,333,PETIT LARCENY,"LARCENY,PETIT FROM STORE-SHOPL",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,100727
+New York City,401,GRAND LARCENY,"LARCENY,GRAND BY ACQUIRING LOS",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,1170
+New York City,321,PETIT LARCENY,"LARCENY,PETIT FROM AUTO",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,14225
+New York City,339,PETIT LARCENY,"LARCENY,PETIT FROM OPEN AREAS,",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,18402
+New York City,402,GRAND LARCENY,"LARCENY,GRAND BY FALSE PROMISE-NOT IN PERSON CONTACT",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,4092
+New York City,386,ROBBERY,"ROBBERY,PERSONAL ELECTRONIC DEVICE",robbery,1,1,primary_physical_category,pending_independent_review,7067
+New York City,420,GRAND LARCENY,"LARCENY,GRAND BY OPEN/COMPROMISE CELL PHONE ACCT",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,1162
+New York City,459,GRAND LARCENY,"LARCENY,GRAND FROM RESIDENCE/BUILDING,UNATTENDED, PACKAGE THEFT OUTSIDE",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,523
+New York City,343,PETIT LARCENY,"LARCENY,PETIT OF BICYCLE",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,4457
+New York City,211,BURGLARY,"BURGLARY,COMMERCIAL,DAY",burglary,1,1,primary_physical_category,pending_independent_review,3223
+New York City,405,GRAND LARCENY,"LARCENY,GRAND BY THEFT OF CREDIT CARD",financial_theft,0,0,explicit_financial_descriptor,pending_independent_review,5751
+New York City,349,PETIT LARCENY,"LARCENY,PETIT OF LICENSE PLATE",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,12605
+New York City,224,BURGLARY,"BURGLARY,RESIDENCE,UNKNOWN TIM",burglary,1,1,primary_physical_category,pending_independent_review,1543
+New York City,438,GRAND LARCENY,"LARCENY,GRAND FROM BUILDING (NON-RESIDENCE) UNATTENDED",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,4107
+New York City,430,GRAND LARCENY,"LARCENY,GRAND BY BANK ACCT COMPROMISE-UNCLASSIFIED",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,1727
+New York City,439,GRAND LARCENY,"LARCENY,GRAND FROM OPEN AREAS, UNATTENDED",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,7328
+New York City,357,PETIT LARCENY,"LARCENY,PETIT OF VEHICLE ACCES",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,8292
+New York City,213,BURGLARY,"BURGLARY,COMMERCIAL,NIGHT",burglary,1,1,primary_physical_category,pending_independent_review,5395
+New York City,457,GRAND LARCENY,"LARCENY,GRAND OF VEHICULAR/MOTORCYCLE ACCESSORIES",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,7177
+New York City,338,PETIT LARCENY,"LARCENY,PETIT FROM BUILDING,UN",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,15276
+New York City,243,BURGLARY,"BURGLARY,UNCLASSIFIED,NIGHT",burglary,1,1,primary_physical_category,pending_independent_review,700
+New York City,433,GRAND LARCENY,"LARCENY,GRAND FROM STORE-SHOPL",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,8453
+New York City,408,GRAND LARCENY,"LARCENY,GRAND FROM PERSON,LUSH WORKER(SLEEPING/UNCON VICTIM)",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,948
+New York City,352,PETIT LARCENY,"LARCENY,PETIT FROM BUILDING,UNATTENDED, PACKAGE THEFT INSIDE",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,21788
+New York City,418,GRAND LARCENY,"LARCENY,GRAND BY ACQUIRING LOST CREDIT CARD",financial_theft,0,0,explicit_financial_descriptor,pending_independent_review,2274
+New York City,353,PETIT LARCENY,"LARCENY,PETIT FROM BUILDING,UNATTENDED, PACKAGE THEFT OUTSIDE",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,7721
+New York City,412,GRAND LARCENY,"LARCENY,GRAND FROM RESIDENCE, UNATTENDED",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,3487
+New York City,421,GRAND LARCENY,"LARCENY,GRAND FROM VEHICLE/MOTORCYCLE",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,9433
+New York City,313,PETIT LARCENY,"LARCENY,PETIT BY FALSE PROMISE",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,2780
+New York City,416,GRAND LARCENY,"LARCENY,GRAND FROM NIGHT CLUB, UNATTENDED",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,798
+New York City,383,ROBBERY,"ROBBERY,DELIVERY PERSON",robbery,1,1,primary_physical_category,pending_independent_review,1054
+New York City,415,GRAND LARCENY,"LARCENY,GRAND FROM PERSON,PICK",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,3226
+New York City,399,ROBBERY,"ROBBERY,COMMERCIAL UNCLASSIFIED",robbery,1,1,primary_physical_category,pending_independent_review,865
+New York City,233,BURGLARY,"BURGLARY,TRUCK NIGHT",burglary,1,1,primary_physical_category,pending_independent_review,1329
+New York City,411,GRAND LARCENY,"LARCENY,GRAND FROM EATERY, UNATTENDED",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,1178
+New York City,404,GRAND LARCENY,"LARCENY,GRAND FROM PERSON,PERSONAL ELECTRONIC DEVICE(SNATCH)",financial_theft,0,0,explicit_financial_descriptor,pending_independent_review,3873
+New York City,389,ROBBERY,"ROBBERY,DWELLING",robbery,1,1,primary_physical_category,pending_independent_review,2515
+New York City,388,ROBBERY,"ROBBERY,RESIDENTIAL COMMON AREA",robbery,1,1,primary_physical_category,pending_independent_review,1352
+New York City,223,BURGLARY,"BURGLARY,RESIDENCE,NIGHT",burglary,1,1,primary_physical_category,pending_independent_review,6198
+New York City,407,GRAND LARCENY,"LARCENY,GRAND BY DISHONEST EMP",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,692
+New York City,406,GRAND LARCENY,"LARCENY,GRAND FROM PERSON, BAG OPEN/DIP",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,2020
+New York City,221,BURGLARY,"BURGLARY,RESIDENCE,DAY",burglary,1,1,primary_physical_category,pending_independent_review,5341
+New York City,410,GRAND LARCENY,"LARCENY,GRAND FROM RETAIL STORE, UNATTENDED",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,1585
+New York City,424,GRAND LARCENY,"LARCENY,GRAND BY CREDIT CARD ACCT COMPROMISE-EXISTING ACCT",financial_theft,0,0,explicit_financial_descriptor,pending_independent_review,1251
+New York City,307,PETIT LARCENY,"LARCENY,PETIT BY DISHONEST EMP",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,376
+New York City,380,ROBBERY,"ROBBERY,CAR JACKING",robbery,1,1,primary_physical_category,pending_independent_review,754
+New York City,397,ROBBERY,"ROBBERY,OPEN AREA UNCLASSIFIED",robbery,1,1,primary_physical_category,pending_independent_review,5979
+New York City,305,PETIT LARCENY,"LARCENY,PETIT BY CREDIT CARD U",financial_theft,0,0,explicit_financial_descriptor,pending_independent_review,2476
+New York City,384,ROBBERY,"ROBBERY,POCKETBOOK/CARRIED BAG",robbery,1,1,primary_physical_category,pending_independent_review,1404
+New York City,301,PETIT LARCENY,"LARCENY,PETIT BY ACQUIRING LOS",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,1614
+New York City,425,GRAND LARCENY,"LARCENY,GRAND BY BANK ACCT COMPROMISE-ATM TRANSACTION",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,779
+New York City,214,BURGLARY,"BURGLARY,COMMERCIAL,UNKNOWN TI",burglary,1,1,primary_physical_category,pending_independent_review,433
+New York City,366,ROBBERY,"ROBBERY,BICYCLE",robbery,1,1,primary_physical_category,pending_independent_review,625
+New York City,382,ROBBERY,"ROBBERY,NECKCHAIN/JEWELRY",robbery,1,1,primary_physical_category,pending_independent_review,1937
+New York City,363,ROBBERY,"ROBBERY,BAR/RESTAURANT",robbery,1,1,primary_physical_category,pending_independent_review,134
+New York City,432,GRAND LARCENY,"LARCENY,GRAND BY IDENTITY THEFT-UNCLASSIFIED",financial_theft,0,0,explicit_financial_descriptor,pending_independent_review,1066
+New York City,390,ROBBERY,"ROBBERY,HOME INVASION",robbery,1,1,primary_physical_category,pending_independent_review,740
+New York City,398,ROBBERY,"ROBBERY,PUBLIC PLACE INSIDE",robbery,1,1,primary_physical_category,pending_independent_review,622
+New York City,344,PETIT LARCENY,PETIT LARCENY OF ANIMAL,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,158
+New York City,396,ROBBERY,"ROBBERY,BEGIN AS SHOPLIFTING",robbery,1,1,primary_physical_category,pending_independent_review,4256
+New York City,347,PETIT LARCENY,PETIT LARCENY-CHECK FROM MAILB,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,862
+New York City,443,GRAND LARCENY,"LARCENY,GRAND OF BICYCLE",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,4391
+New York City,409,GRAND LARCENY,"LARCENY,GRAND BY EXTORTION",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,2623
+New York City,422,GRAND LARCENY,"LARCENY,GRAND BY OPEN CREDIT CARD (NEW ACCT)",financial_theft,0,0,explicit_financial_descriptor,pending_independent_review,1520
+New York City,437,GRAND LARCENY,"LARCENY,GRAND BY FALSE PROMISE-IN PERSON CONTACT",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,3034
+New York City,417,GRAND LARCENY,"LARCENY,GRAND FROM PERSON,PURS",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,875
+New York City,434,GRAND LARCENY,"LARCENY,GRAND BY OPEN BANK ACCT",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,173
+New York City,458,GRAND LARCENY,"LARCENY,GRAND FROM RESIDENCE/BUILDING,UNATTENDED, PACKAGE THEFT INSIDE",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,1207
+New York City,403,GRAND LARCENY,"LARCENY,GRAND BY BANK ACCT COMPROMISE-REPRODUCED CHECK",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,1470
+New York City,414,GRAND LARCENY,"LARCENY,GRAND PERSON,NECK CHAI",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,1389
+New York City,428,GRAND LARCENY,"LARCENY,GRAND BY BANK ACCT COMPROMISE-UNAUTHORIZED PURCHASE",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,503
+New York City,419,GRAND LARCENY,"LARCENY,GRAND FROM PERSON,UNCL",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,1580
+New York City,241,BURGLARY,"BURGLARY,UNCLASSIFIED,DAY",burglary,1,1,primary_physical_category,pending_independent_review,244
+New York City,387,ROBBERY,"ROBBERY,CLOTHING",robbery,1,1,primary_physical_category,pending_independent_review,713
+New York City,361,ROBBERY,"ROBBERY,BANK",robbery,1,1,primary_physical_category,pending_independent_review,94
+New York City,303,PETIT LARCENY,"LARCENY,PETIT BY CHECK USE",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,604
+New York City,231,BURGLARY,"BURGLARY,TRUCK DAY",burglary,1,1,primary_physical_category,pending_independent_review,714
+New York City,394,ROBBERY,"ROBBERY,LICENSED FOR HIRE VEHICLE",robbery,1,1,primary_physical_category,pending_independent_review,276
+New York City,379,ROBBERY,"ROBBERY,GAS STATION",robbery,1,1,primary_physical_category,pending_independent_review,48
+New York City,377,ROBBERY,"ROBBERY,BODEGA/CONVENIENCE STORE",robbery,1,1,primary_physical_category,pending_independent_review,516
+New York City,244,BURGLARY,"BURGLARY,UNCLASSIFIED,UNKNOWN",burglary,1,1,primary_physical_category,pending_independent_review,261
+New York City,329,PETIT LARCENY,"LARCENY,PETIT FROM COIN MACHIN",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,29
+New York City,360,ROBBERY,"ROBBERY,ATM LOCATION",robbery,1,1,primary_physical_category,pending_independent_review,177
+New York City,335,PETIT LARCENY,"LARCENY,PETIT FROM TRUCK",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,151
+New York City,426,GRAND LARCENY,"LARCENY,GRAND BY BANK ACCT COMPROMISE-TELLER",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,250
+New York City,381,ROBBERY,"ROBBERY,HIJACKING",robbery,1,1,primary_physical_category,pending_independent_review,7
+New York City,234,BURGLARY,"BURGLARY, TRUCK UNKNOWN TIME",burglary,1,1,primary_physical_category,pending_independent_review,337
+New York City,445,GRAND LARCENY,"LARCENY,GRAND OF BOAT",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,33
+New York City,375,ROBBERY,"ROBBERY,PHARMACY",robbery,1,1,primary_physical_category,pending_independent_review,22
+New York City,331,PETIT LARCENY,"LARCENY,PETIT FROM PIER",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,19
+New York City,323,PETIT LARCENY,"LARCENY,PETIT FROM BOAT",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,4
+New York City,367,ROBBERY,"ROBBERY, CHAIN STORE",robbery,1,1,primary_physical_category,pending_independent_review,191
+New York City,365,ROBBERY,"ROBBERY,LIQUOR STORE",robbery,1,1,primary_physical_category,pending_independent_review,27
+New York City,435,GRAND LARCENY,"LARCENY,GRAND FROM TRUCK, UNATTENDED",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,123
+New York City,431,GRAND LARCENY,"LARCENY,GRAND FROM PIER, UNATTENDED",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,37
+New York City,393,ROBBERY,"ROBBERY,OF TRUCK DRIVER",robbery,1,1,primary_physical_category,pending_independent_review,7
+New York City,392,ROBBERY,"ROBBERY,UNLICENSED FOR HIRE VEHICLE",robbery,1,1,primary_physical_category,pending_independent_review,41
+New York City,391,ROBBERY,"ROBBERY,LICENSED MEDALLION CAB",robbery,1,1,primary_physical_category,pending_independent_review,89
+New York City,371,ROBBERY,"ROBBERY,CHECK CASHING BUSINESS",robbery,1,1,primary_physical_category,pending_independent_review,13
+New York City,395,ROBBERY,"ROBBERY,ON BUS/ OR BUS DRIVER",robbery,1,1,primary_physical_category,pending_independent_review,31
+New York City,423,GRAND LARCENY,"LARCENY,GRAND FROM BOAT, UNATTENDED",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,5
+New York City,327,PETIT LARCENY,"LARCENY,PETIT FROM PARKING MET",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,3
+New York City,373,ROBBERY,"ROBBERY,DOCTOR/DENTIST OFFICE",robbery,1,1,primary_physical_category,pending_independent_review,4
+New York City,385,ROBBERY,"ROBBERY, PAYROLL",robbery,1,1,primary_physical_category,pending_independent_review,31
+New York City,345,PETIT LARCENY,"LARCENY,PETIT OF BOAT",larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,1
+New York City,440,GRAND LARCENY,AGGRAVATED GRAND LARCENY OF ATM,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,2
+Buffalo,ASSAULT,ASSAULT,Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.,other,0,0,outside_primary_and_broad_definition,pending_independent_review,4596
+Buffalo,UUV,UUV,Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.,other,0,0,outside_primary_and_broad_definition,pending_independent_review,4547
+Buffalo,LARCENY/THEFT,LARCENY/THEFT,Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,12873
+Buffalo,BURGLARY,BURGLARY,Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.,burglary,1,1,primary_physical_category,pending_independent_review,2656
+Buffalo,ROBBERY,ROBBERY,Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.,robbery,1,1,primary_physical_category,pending_independent_review,917
+Buffalo,MURDER,MURDER,Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.,other,0,0,outside_primary_and_broad_definition,pending_independent_review,66
+Buffalo,RAPE,RAPE,Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.,other,0,0,outside_primary_and_broad_definition,pending_independent_review,295
+Buffalo,SEXUAL ABUSE,SEXUAL ABUSE,Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.,other,0,0,outside_primary_and_broad_definition,pending_independent_review,289
+Buffalo,MANSLAUGHTER,MANSLAUGHTER,Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.,other,0,0,outside_primary_and_broad_definition,pending_independent_review,5
+Buffalo,THEFT OF SERVICES,THEFT OF SERVICES,Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.,other,0,0,outside_primary_and_broad_definition,pending_independent_review,194
+Buffalo,SODOMY,SODOMY,Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.,other,0,0,outside_primary_and_broad_definition,pending_independent_review,1
+Buffalo,CRIM NEGLIGENT HOMICIDE,CRIM NEGLIGENT HOMICIDE,Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.,other,0,0,outside_primary_and_broad_definition,pending_independent_review,2
+Buffalo,AGGR ASSAULT,AGGR ASSAULT,Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.,other,0,0,outside_primary_and_broad_definition,pending_independent_review,7
+Rochester,155.25,Larceny,PETIT LARCENY,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,6458
+Rochester,120.10,Aggravated Assault,ASLT W/INT CAUS SER INJ W/WEAP,other,0,0,outside_primary_and_broad_definition,pending_independent_review,30
+Rochester,155.30,Larceny,GR LAR 4-VALUE PROPERTY GREATER THAN $1000,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,637
+Rochester,140.25,Burglary,BURGLARY 2ND DEGREE: ILLEGAL ENTRY- DWELLING,burglary,1,1,primary_physical_category,pending_independent_review,702
+Rochester,155.30,Motor Vehicle Theft,GRAND LARCENY  AUTO OVER $100,other,0,0,outside_primary_and_broad_definition,pending_independent_review,3338
+Rochester,120.14,Aggravated Assault,MENACING-2ND - WEAPON,other,0,0,outside_primary_and_broad_definition,pending_independent_review,860
+Rochester,160.10,Robbery,ROBBERY 2ND/AIDED BY ANOTHER,robbery,1,1,primary_physical_category,pending_independent_review,180
+Rochester,160.05,Robbery,ROBBERY-3RD,robbery,1,1,primary_physical_category,pending_independent_review,133
+Rochester,155.30,Larceny,GRAND LARCENY 4  CREDIT CARD,financial_theft,0,0,explicit_financial_descriptor,pending_independent_review,319
+Rochester,120.05,Aggravated Assault,ASLT 2ND DEG: W/INTENT TO CAUSE PHYSICAL INJURY  W/WEAPON,other,0,0,outside_primary_and_broad_definition,pending_independent_review,592
+Rochester,140.20,Burglary,BURGLARY-3RD DEG:ILLEGAL ENTRY WITH INTENT TO COMMIT A CRIME,burglary,1,1,primary_physical_category,pending_independent_review,874
+Rochester,155.35,Larceny,GRAND LARCENY 3RD DEGREE,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,49
+Rochester,125.25,Murder,MURDER  INTENTION,other,0,0,outside_primary_and_broad_definition,pending_independent_review,62
+Rochester,160.15,Robbery,ROB 1ST/DISPLAY FIREARM,robbery,1,1,primary_physical_category,pending_independent_review,151
+Rochester,155.35,Larceny,GRAND LARCENY 3RD DEGREE: PROPERTY VALUE EXCEEDS $3000,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,276
+Rochester,165.05,Motor Vehicle Theft,UNAUTH USE VEH W/O OWNR CONST,other,0,0,outside_primary_and_broad_definition,pending_independent_review,214
+Rochester,155.30,Larceny,GR LAR 4 PROPERTY FROM PERSON,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,78
+Rochester,120.05,Aggravated Assault,ASSAULT 2ND-  WITH INTENT CAUSE SERIOUS PHYSICAL INJURY,other,0,0,outside_primary_and_broad_definition,pending_independent_review,121
+Rochester,120.10,Aggravated Assault,ASLT - W/INT CAUS DISFIG/DISMEMB,other,0,0,outside_primary_and_broad_definition,pending_independent_review,7
+Rochester,160.15,Robbery,ROB  FORCBLE THEFT W/DEDLY WEAP,robbery,1,1,primary_physical_category,pending_independent_review,72
+Rochester,160.15,Robbery,ROB  FORCBLE THEFT W/USE-INSTRM,robbery,1,1,primary_physical_category,pending_independent_review,100
+Rochester,140.30,Burglary,BURG DWELL  W/EXPL OR DEAD WEAP,burglary,1,1,primary_physical_category,pending_independent_review,2
+Rochester,165.09,Larceny,AUTO STRIPPING-3RD,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,50
+Rochester,120.05,Aggravated Assault,ASSAULT ON NON-PARTIC DUR FELY,other,0,0,outside_primary_and_broad_definition,pending_independent_review,25
+Rochester,160.10,Robbery,ROBBERY 2ND- MOTOR VEHICLE,robbery,1,1,primary_physical_category,pending_independent_review,23
+Rochester,160.10,Robbery,ROBBERY-2ND DEGREE: DISPLAYS WHAT APPEARS TO BE A FIREARM,robbery,1,1,primary_physical_category,pending_independent_review,39
+Rochester,165.10,Larceny,AUTO STRIPPING-2ND,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,2
+Rochester,160.10,Robbery,ROB 2 CAUSES PHYSICAL INJURY,robbery,1,1,primary_physical_category,pending_independent_review,60
+Rochester,120.10,Aggravated Assault,ASLT-CAUS INJ THRU RISK DEATH,other,0,0,outside_primary_and_broad_definition,pending_independent_review,3
+Rochester,120.00,Aggravated Assault,ASSAULT 3RD: CRIM NEGLIGENCE CAUSE INJURY W/WEAP,other,0,0,outside_primary_and_broad_definition,pending_independent_review,48
+Rochester,155.30,Larceny,GRAND LARCENY 4TH DEGREE: FIREARMS/RIFLES/SHOTGUNS,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,42
+Rochester,155.40,Larceny,GR LARC 2-PROPTY VALUE GREATER THAN $50000,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,6
+Rochester,125.25,Murder,MURDER/DEPRAVED INDIFFERENCE,other,0,0,outside_primary_and_broad_definition,pending_independent_review,4
+Rochester,155.25,Larceny,PETIT LARCENY AS A CRIME OF PUBLIC CORRUPTION,larceny,0,1,broad_only_mechanism_not_fully_verified,pending_independent_review,7
+Rochester,121.12,Aggravated Assault,STRANGULATION 2ND-OBSTRUCT BREATH/BLOOD CIRC-CAUSE PHYS INJ,other,0,0,outside_primary_and_broad_definition,pending_independent_review,15
+Rochester,125.15,Non-Negligent Manslaughter,MANSL  RECKLESSLY CAUSES DEATH,other,0,0,outside_primary_and_broad_definition,pending_independent_review,4
+Rochester,120.05,Aggravated Assault,ASSAULT CAUSE INJURY TO PERSON LESS THAN 7 YRS,other,0,0,outside_primary_and_broad_definition,pending_independent_review,5
+Rochester,125.26,Murder,AGGRAVATED MURDER- POLICE OFFICER,other,0,0,outside_primary_and_broad_definition,pending_independent_review,5
+Rochester,165.06,Motor Vehicle Theft,UNAUTHORIZED USE OF VEHICLE-2,other,0,0,outside_primary_and_broad_definition,pending_independent_review,5
+Rochester,165.08,Motor Vehicle Theft,UNAUTHORIZED USE OF VEHICLE-1,other,0,0,outside_primary_and_broad_definition,pending_independent_review,2
+Rochester,215.51,Aggravated Assault,CRIM CONTEMPT-1ST:VIOLATE ORDER PROTECTION- WEAPON,other,0,0,outside_primary_and_broad_definition,pending_independent_review,3
+Rochester,160.10,Robbery,ROB-2/PHY INJ OR DISP FRARM,robbery,1,1,primary_physical_category,pending_independent_review,4
+Rochester,120.05,Aggravated Assault,ASSAULT 2ND DEG: RECKLESSLY CAUSE SERIOUS INJURY W/WEAPON,other,0,0,outside_primary_and_broad_definition,pending_independent_review,9
+Rochester,160.15,Robbery,ROB  FORC THEFT W/INJ-INCNT IND,robbery,1,1,primary_physical_category,pending_independent_review,2
+Rochester,125.25,Murder,MURDER-2ND DEG: KILL NON-PARTICIPANT DURING SPECIFIED FELONY,other,0,0,outside_primary_and_broad_definition,pending_independent_review,1
+Rochester,121.13,Aggravated Assault,STRANGULATION 1ST-OBSTRUCT BREATH-CAUSE SERIOUS PHYS INJ,other,0,0,outside_primary_and_broad_definition,pending_independent_review,1
+Rochester,125.10,Negligent Manslaughter,CRIMINALLY NEGLIGENT HOMICIDE,other,0,0,outside_primary_and_broad_definition,pending_independent_review,1
+Rochester,140.30,Burglary,BURGLARY-1ST: USE OR THREATEN USE OF DANGEROUS INSTRUMENT,burglary,1,1,primary_physical_category,pending_independent_review,2
+Rochester,120.06,Aggravated Assault,GANG ASSAULT-2ND DEGREE: CAUSE SERIOUS PHYSICAL INJURY,other,0,0,outside_primary_and_broad_definition,pending_independent_review,5
+Rochester,125.25,Murder,MURDER 2ND:IN COMMISSION OF SPECIFIED OFFENSE KILL PERSON<14,other,0,0,outside_primary_and_broad_definition,pending_independent_review,1
+Rochester,140.30,Burglary,BURGLARY-1ST DEGREE: DISPLAYS WHAT APPEARS TO BE A FIREARM,burglary,1,1,primary_physical_category,pending_independent_review,1
+Rochester,120.08,Aggravated Assault,ASLT-POLICE OFF/FIREMAN/EMT,other,0,0,outside_primary_and_broad_definition,pending_independent_review,3
+Rochester,120.10,Aggravated Assault,ASSAULT-1ST DEGREE: CAUSE SERIOUS PHYS INJURY DURING FELONY,other,0,0,outside_primary_and_broad_definition,pending_independent_review,1
+Rochester,140.25,Burglary,BURG-USES DANGEROUS INSTRUMENT,burglary,1,1,primary_physical_category,pending_independent_review,1

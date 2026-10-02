@@ -1,0 +1,13 @@
+{
+  "endpoint": "https://api.census.gov/data/2023/acs/acs5",
+  "params": {
+    "get": "NAME,B01003_001E,B01003_001M,B01003_001EA,B01003_001MA,B19013_001E,B19013_001M,B19013_001EA,B19013_001MA,B23025_003E,B23025_003M,B23025_003EA,B23025_003MA,B23025_005E,B23025_005M,B23025_005EA,B23025_005MA",
+    "for": "block group:*",
+    "in": "state:36 county:085 tract:*"
+  },
+  "authenticated": true,
+  "retrieved_utc": "2026-10-01T06:37:57.618618+00:00",
+  "sha256": "93182e66b800cebcb46f47c4614a928ca34f35c15b00ef37a185da3d4a103662",
+  "http_status": 200,
+  "raw_modified": false
+}

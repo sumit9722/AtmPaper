@@ -1,0 +1,4 @@
+city,valid_unique_records,minimum_valid_event_date,maximum_valid_event_date,excluded_records,missing_coordinate_records,precision_warning
+New York City,363173,2024-01-01,2025-12-31,21,0,"public coordinates, no verified incident-position accuracy"
+Buffalo,24483,2024-01-01,2025-12-31,1965,1852,"public coordinates, no verified incident-position accuracy"
+Rochester,15573,2024-01-01,2025-12-31,29,21,"public coordinates, no verified incident-position accuracy"

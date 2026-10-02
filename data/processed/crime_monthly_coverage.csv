@@ -1,0 +1,73 @@
+city,month,unique_valid_events
+New York City,2024-01,15338
+New York City,2024-02,14422
+New York City,2024-03,15216
+New York City,2024-04,14720
+New York City,2024-05,15652
+New York City,2024-06,15556
+New York City,2024-07,16538
+New York City,2024-08,16630
+New York City,2024-09,15850
+New York City,2024-10,16414
+New York City,2024-11,15568
+New York City,2024-12,14853
+New York City,2025-01,14110
+New York City,2025-02,12958
+New York City,2025-03,14803
+New York City,2025-04,14557
+New York City,2025-05,15671
+New York City,2025-06,14821
+New York City,2025-07,16007
+New York City,2025-08,15861
+New York City,2025-09,15439
+New York City,2025-10,15543
+New York City,2025-11,14285
+New York City,2025-12,12361
+Buffalo,2024-01,960
+Buffalo,2024-02,1010
+Buffalo,2024-03,1106
+Buffalo,2024-04,988
+Buffalo,2024-05,1111
+Buffalo,2024-06,1270
+Buffalo,2024-07,1301
+Buffalo,2024-08,1245
+Buffalo,2024-09,1168
+Buffalo,2024-10,1133
+Buffalo,2024-11,896
+Buffalo,2024-12,869
+Buffalo,2025-01,862
+Buffalo,2025-02,744
+Buffalo,2025-03,850
+Buffalo,2025-04,929
+Buffalo,2025-05,1031
+Buffalo,2025-06,1016
+Buffalo,2025-07,1223
+Buffalo,2025-08,1032
+Buffalo,2025-09,1130
+Buffalo,2025-10,1024
+Buffalo,2025-11,880
+Buffalo,2025-12,705
+Rochester,2024-01,651
+Rochester,2024-02,557
+Rochester,2024-03,623
+Rochester,2024-04,644
+Rochester,2024-05,603
+Rochester,2024-06,643
+Rochester,2024-07,801
+Rochester,2024-08,916
+Rochester,2024-09,849
+Rochester,2024-10,785
+Rochester,2024-11,710
+Rochester,2024-12,639
+Rochester,2025-01,579
+Rochester,2025-02,414
+Rochester,2025-03,582
+Rochester,2025-04,560
+Rochester,2025-05,612
+Rochester,2025-06,612
+Rochester,2025-07,659
+Rochester,2025-08,687
+Rochester,2025-09,690
+Rochester,2025-10,677
+Rochester,2025-11,590
+Rochester,2025-12,490

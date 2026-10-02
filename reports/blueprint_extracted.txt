@@ -1,0 +1,1932 @@
+Research Execution Blueprint for a Background-
+Adjusted, Cross-City ATM-Site Crime Study
+Executive summary
+The attached material supports a clear redesign: stop extending the earlier SEM–decision-tree–SHAP–
+FIS–Choquet pipeline and instead build a rigorously defined, exposure-aware ATM-site prediction
+study in New York City, Buffalo, and Rochester. The central question should be whether the immediate
+environment of an ATM site contains predictive information beyond ordinary surrounding crime, and
+whether that incremental signal survives transfer to another city. The longer 29-page document contains
+the full rationale and design; the shorter attachment substantially restates its later execution and fallback
+plan. fileciteturn0file1 fileciteturn0file0
+
+
+The strongest contribution is therefore not a novel classifier. It is a clean empirical test of three things:
+incremental ATM-site risk, external transportability, and the value of limited target-city data. This
+direction is well aligned with prior cross-city crime research: Bappee et al. explicitly treated Toronto and
+Vancouver as source domains and Halifax as a target domain, found source-only transfer weaker than
+configurations incorporating target examples, and documented the possibility of negative transfer when
+domains were dissimilar. 1 More sophisticated unsupervised cross-city adaptation has also been
+demonstrated, so there is no need to make deep domain adaptation the first version of this paper. 2
+Cross-jurisdictional place-based research likewise finds that environmental risk factors may recur across
+cities without having identical effects, which is precisely the scientific pattern this ATM study should test.
+ 3
+
+
+
+
+The largest unresolved issue is ATM exposure history. The New York State Department of Financial
+Services dataset is an excellent common denominator because it is statewide, has individual ATM locations,
+is posted monthly, and specifically covers bank-owned or in-bank ATMs. However, its public metadata
+describes the time period as current, not as a historical panel, and explicitly excludes independent non-
+bank ATMs such as machines in delis and bodegas. As of September 15, 2026, that dataset had been
+updated during the month immediately preceding this report. 4 A retrospective ATM-year study must
+therefore first determine whether past monthly snapshots can be recovered. A current September 2026
+ATM list must not simply be assumed to represent the ATM universe in 2022–2025.
+
+
+The second critical issue is outcome harmonization. The paper should study ATM-site acquisitive crime
+risk, not claim to identify literal attacks on ATM machines unless police records support that interpretation.
+NYPD records are complaints, with detailed offense descriptors and location fields, and their own
+documentation notes that complaint classifications reflect the most serious offense and that geocoding/
+report timing have limitations. 5 Buffalo exposes incident date/type/description fields, while Rochester
+publicly exposes Part I categories such as robbery, burglary, and larceny. 6 Consequently, a common
+codebook must be created before model fitting, with fraud, forgery, account compromise, and other
+nonphysical mechanisms separated from the primary endpoint.
+
+
+
+
+                                                        1
+The recommended execution has seven gated phases:
+
+
+  Phase                   Required output                         Main decision gate
+
+                          Signed/preregistered study              Is one common outcome and unit
+  Freeze construct
+                          specification                           defensible across cities?
+
+  Build ATM-site          Exposure-aware ATM-period               Can ATM activity periods be reconstructed
+  panel                   denominator + incident linkage          adequately?
+
+  Build common            Identical ex-ante feature schema        Are enough common variables available
+  features                in every city                           without temporal leakage?
+
+  Test incremental        M0 vs M1/M2 on strict held-out          Do environmental variables add precise,
+  signal                  data                                    meaningful predictive value?
+
+                          Zero-shot, multi-source, 10%/25%        Is there transportability or measurable
+  Test city transfer
+                          adaptation                              transfer benefit?
+
+  Interpret validated                                             Do explanations replicate in direction/
+                          Stable versus city-specific effects
+  models                                                          shape?
+
+  Optional                                                        Are genuine candidate sites, demand,
+                          Pareto/risk-based decision support
+  placement layer                                                 accessibility, and cost data available?
+
+The attached plan specifies the research field, broad objectives, cities, proposed model families,
+transfer concept, preferred metrics, radii, common-feature philosophy, and fallback hierarchy. It does
+not fully specify the exact primary crime codebook, exact observation years, smallest practically meaningful
+effect, historical ATM availability, staffing, exact deadline, computing resources, stakeholders, publication
+venue, IRB/ethics determination, budget, or formal deliverable acceptance criteria. Those items should be
+treated as unspecified, not inferred. fileciteturn0file1
+
+
+A realistic baseline execution period is approximately 14–16 weeks if historical ATM exposure can be
+resolved quickly. If it cannot, there are only three scientifically honest options: obtain historical records from
+DFS/platform archives; switch to a prospective outcome window beginning from a known ATM snapshot; or
+reduce the paper to a more limited design while explicitly weakening exposure claims. The worst option is
+silently joining a 2026 ATM list to many prior years of crime.
+
+
+Research architecture and decision branches
+The confirmatory study should formalize the attached plan as a comparison between background crime
+and incremental site context. fileciteturn0file1 Define, for ATM site i and prediction period t:
+
+
+
+                Yit = {
+                          count of qualifying incidents within r of site i,      count design
+                          1{at least one qualifying incident occurs},            binary design
+
+with a preregistered primary radius r = 50 m and sensitivity radii of 25 m and 100 m.
+
+
+Define lagged background crime as:
+
+
+
+
+                                                         2
+   Bi,t−1 = qualifying incidents during the previous period in an outer annulus, e.g. 200–500 m,
+
+so that the outcome buffer itself is not recycled into the baseline predictor. This is the central design
+innovation in the attachments. fileciteturn0file1
+
+
+The confirmatory model ladder should be:
+
+
+                                               M0 : Yit ∼ Bi,t−1
+
+                                            M1 : Yit ∼ Bi,t−1 + Xi
+
+where M1 is regularized logistic regression for binary outcomes or Negative Binomial regression for counts,
+and
+
+
+                                           M2 = fboost (Bi,t−1 , Xi )
+
+using either XGBoost or LightGBM. Both are established gradient-boosting systems; their use should be
+described as a flexible tabular benchmark rather than a methodological novelty. 7
+
+
+For transfer, define:
+
+
+                                   Transfer Gap = Plocal-full − Pzero-shot ,
+
+and
+
+
+                          Transfer Benefit(k) = Psource+k% target − Pk% target only .
+
+The second quantity is essential. Improvement after adding 10% target data is not evidence that transfer
+helped unless source + 10% target also beats a model trained on the same 10% target data alone. This
+comparison mirrors an important lesson from Bappee et al., where adding suitable target data materially
+changed cross-domain performance and poorly related sources could produce negative transfer. 8
+
+
+The overall branching logic should be frozen before the main analysis:
+
+
+
+
+                                                        3
+                                                                                                                                                      Freeze research construct
+
+
+
+
+                                                                                                                                                          Common primary
+                                                                                                                                                              outcome
+                                                                                                                                                        defensible in all cities?
+
+
+
+
+                                                                                                          Yes                             Only two cities               No
+
+
+
+                                                                                                Build NYC + Buffalo +                 Use two-city minimum                   Narrow outcome
+                                                                                                  Rochester panel                         viable design                         definition
+
+
+
+
+                                                                                                                             Historical ATM exposure
+                                                                                                                                   recoverable?
+
+
+
+
+                                                                                                                                                                                         No
+
+
+
+
+                                                              Complete                                Partial                                                                   Prospective collection
+                                                                                                                                                                                      feasible?
+
+
+
+
+                                                                                                                                              Yes                                        No
+
+
+
+                                                                                                                                                                                 Use limited recent
+                                                         Construct ATM-year or                                                   Freeze current ATM cohort
+                                                                                               Restrict to common                                                               retrospective design
+                                                         ATM-window exposure                                                         and predict future
+                                                                                                defensible period                                                             with downgraded claims
+                                                                 panel                                                                   incidents
+                                                                                                                                                                                   or NYC fallback
+
+
+
+
+                                                                                                                                 Build common ex-ante
+                                                                                                                                        features
+
+
+
+
+                                                                                                                                  Fit M0, M1, M2 using
+                                                                                                                                temporal/spatial holdouts
+
+
+
+
+                                                                                                                                Incremental signal above
+                                                                                                                                         M0?
+
+
+
+
+                                                                                          Robust positive                       Precise near-zero                            Uncertain / wide CI                          City-specific
+
+
+
+                                                                                                                                    Publish                             Diagnose power, outcome,                     Frame as heterogeneity
+                                                                                    Run cross-city transfer
+                                                                                                                            background-dominant/nul                             exposure;                               and test transfer
+                                                                                           ladder
+                                                                                                                                    l result                             do not call it a null result                      cautiously
+
+
+
+
+                                                                                   Zero-shot transfer useful?
+
+
+
+
+                                           Yes                      No, few-shot helps                  No, target-only is as good                                                            Source hurts
+
+
+
+                                      Quantify stable               Quantify local-data                                                                                                 Report negative transfer /
+                                                                                                        Report no transfer benefit
+                                    transportable risk                requirement                                                                                                             domain shift
+
+
+
+
+                                                                                         Interpret validated
+                                                                                               models
+
+
+
+
+                                                                                   Real non-ATM candidate
+                                                                                             sites
+                                                                                      plus demand/cost
+                                                                                          available?
+
+
+
+
+                                                                                                Yes                                  No
+
+
+
+                                                                                        Optional Pareto                   Stop at ATM-site risk
+                                                                                      placement analysis                      assessment
+
+
+
+
+The scope decision matrix should be applied strictly rather than choosing the version with the most
+attractive numerical results.
+
+
+ Situation discovered during
+                                  Correct branch                                                                                                                                                          Scientific status                   What not to do
+ execution
+
+                                                                                                                                                                                                                                              Do not add extra
+ Three cities have compatible
+                                  Full NYC + Buffalo +                                                                                                                                                                                        algorithms merely
+ outcome and historical ATM                                                                                                                                                                               Preferred
+                                  Rochester study                                                                                                                                                                                             because time
+ exposure
+                                                                                                                                                                                                                                              remains
+
+ One city's crime or ATM                                                                                                                                                                                                                      Do not impute an
+                                                                                                                                                                                                          Minimum viable
+ exposure cannot be               Two-city design                                                                                                                                                                                             entire city's outcome
+                                                                                                                                                                                                          paper
+ harmonized                                                                                                                                                                                                                                   definition
+
+                                  Restrict to common                                                                                                                                                      Acceptable if                       Do not pretend
+ Historical ATM snapshots are
+                                  period and model actual                                                                                                                                                 enough events                       current ATMs were
+ partial
+                                  active exposure                                                                                                                                                         remain                              historically active
+
+                                  Prospective cohort is
+ No historical ATM                strongest; recent                                                                                                                                                       Timeline-                           Do not call historical
+ information is recoverable       retrospective sensitivity is                                                                                                                                            dependent                           ATM-years known
+                                  weaker
+
+
+
+
+                                                                                                                                     4
+ Situation discovered during
+                                   Correct branch                Scientific status    What not to do
+ execution
+
+ Environmental lift is robustly                                  Core hypothesis      Do not skip M0 or
+                                   Proceed to transfer
+ positive                                                        supported            local-full comparator
+
+                                                                 Publishable          Do not hunt
+ Environmental lift is precisely   Background-dominant           null/                features/models
+ negligible                        result                        equivalence          until something
+                                                                 result               becomes positive
+
+ Environmental lift estimate is    Underpowered/                 Needs redesign       Do not label it “no
+ near zero but imprecise           inconclusive                  or more data         effect”
+
+                                                                                      Do not claim
+                                                                 Potentially
+ Lift appears in one city only     Heterogeneity result                               universal ATM-
+                                                                 interesting
+                                                                                      specific risk
+
+ Zero-shot poor, source +                                        Strong practical     Do not obscure
+                                   Useful few-shot transfer
+ target beats target-only                                        result               target-only baseline
+
+                                                                                      Do not describe
+ Source + target does not beat                                   Negative but         simple target
+                                   No transfer benefit
+ target-only                                                     informative          calibration as
+                                                                                      successful transfer
+
+ Source data makes target                                        Important            Do not average it
+                                   Negative transfer
+ prediction worse                                                result               away across cities
+
+                                                                                      Do not call it
+ Only existing ATM sites are       Risk ranking/site
+                                                                 Valid extension      greenfield
+ available for decision support    evaluation
+                                                                                      placement
+
+ Lisbon's 107 observations
+                                                                                      Do not reintroduce
+ cannot be verified as             Use Lisbon only as
+                                                                 Safest               inferred labels into
+ exposed attacked and              motivation/context
+                                                                                      supervision
+ exposed non-attacked sites
+
+The last Lisbon branch is particularly important. The detailed attachment identifies the earlier paper's
+central validity problem as the use of geography-informed inferred labels followed by modeling with
+overlapping geographical predictors; it recommends retaining Lisbon only as contextual evidence unless a
+valid observed risk set can be reconstructed. fileciteturn0file1
+
+
+Phase-by-phase execution protocol
+The staffing structure is unspecified in the attachments. The instructions below therefore use functional
+roles: PI/lead researcher, data/GIS analyst, statistical/ML analyst, crime-domain reviewer, and QA/
+reproducibility reviewer. One person can hold several roles in a low-resource project, but the primary crime
+codebook and a sample of event–ATM matches should ideally receive an independent second review.
+
+
+
+
+                                                       5
+Freeze the research construct
+
+
+ Item             Execution instructions
+
+                  Step 1: Create study_spec_v1.0 before inspecting model performance. Step 2:
+                  Freeze the population as bank-owned/in-bank ATM sites, matching the DFS coverage
+                  limitation. Step 3: Freeze city boundaries using geographic polygons rather than
+                  relying only on address strings. Step 4: Write the exact primary outcome definition and
+ Step-by-step     an inclusion/exclusion codebook. Step 5: Freeze the primary 50 m buffer, 25/100 m
+ actions          sensitivities, and background annulus. Step 6: Choose ATM-year or another fixed ATM-
+                  period as the unit. Step 7: Freeze M0/M1/M2, holdout hierarchy, primary metric,
+                  transfer ladder, and statistical uncertainty procedure. Step 8: Define the smallest effect
+                  worth continuing to transfer analysis. Step 9: Timestamp the specification and record
+                  all later deviations as exploratory.
+
+                  Outcome harmonizes well: proceed unchanged. Larceny/theft descriptions are
+                  incompatible: narrow the primary endpoint and move broad theft to sensitivity
+ Plausible        analysis. One city lacks defensible matching: drop that city rather than invent a
+ cases            translation. Repeated incidents are common: prefer a count/NB formulation. Positive
+                  counts are mostly one per site-period and zeros dominate: binary is likely more
+                  stable.
+
+ Responsible      PI owns construct and claims; crime-domain reviewer approves codebook; methods
+ roles            lead approves unit/model/metric choices.
+
+ Required         Attachments; official police dictionaries; one-page protocol; version-controlled
+ resources        repository; decision log.
+
+ Estimated
+                  3–7 working days.
+ time
+
+                  Every primary choice is written down before confirmatory modeling; terminology
+ Success
+                  distinguishes “ATM-site crime” from “ATM-machine attack”; no unresolved city-specific
+ criteria
+                  category mapping remains.
+
+ Key risk and     Risk: post-hoc outcome/model shopping. Mitigation: signed/tagged specification and
+ mitigation       separate confirmatory versus exploratory folders.
+
+The attached plan already recommends a narrow acquisitive/physical-site outcome, ATM × period unit, 50 m
+primary radius, 25/100 m sensitivities, background crime baseline, 10–20 common covariates, AUPRC for
+binary prediction, logistic/NB and boosting, and leave-one-city-out external testing. Those should be treated
+as the starting defaults unless the data audit demonstrates that one is infeasible. fileciteturn0file1
+
+
+Build the ATM-site and outcome panel
+
+
+
+
+                                                      6
+Item           Execution instructions
+
+               Step 1: Download and checksum the DFS ATM data. Step 2: preserve raw institution
+               name, address, city, coordinates, and all source fields. Step 3: Normalize addresses
+               without deleting original values. Step 4: Assign municipal boundaries spatially. Step 5:
+               create a stable site_id ; where multiple records occupy essentially the same physical
+               facility, create a site_cluster_id as well. Step 6: investigate historical monthly
+               versions. Check the dataset changelog/archive if exposed, then contact NY DFS/data
+Step-by-step
+               portal administrators for prior extracts if necessary. Step 7: derive active_from ,
+actions
+               active_to , and active days/months where evidence exists. Step 8: ingest each city's
+               crime data and map native offense fields into the frozen codebook. Step 9: project
+               coordinates into appropriate metric coordinate systems and calculate event-to-site
+               distances. Step 10: aggregate target events to ATM-period. Step 11: calculate lagged
+               background incidents in the outer annulus separately. Step 12: freeze an audit sample
+               and manually inspect it.
+
+               Historical ATM snapshots complete: build dynamic ATM-months, aggregate to ATM-
+               years, and use exposure time as an offset for counts when necessary. Partial: use only
+Exposure
+               the common period supported by snapshots. No history: either create a prospective
+branches
+               cohort from the known current snapshot or use a clearly labeled weaker recent-
+               retrospective analysis; do not imply known historical exposure.
+
+               One event, one nearby site: normal assignment. Several nearby ATMs: retain match
+               multiplicity; primary analysis may use “any site within radius,” but run nearest-site-only
+Matching       sensitivity. Co-located ATM records: collapse/cluster at the physical-site level to avoid
+branches       artificial duplicate sites. Coordinates missing/implausible: geocode only using a
+               documented source, assign a quality flag, and exclude unresolved records from the
+               confirmatory sample.
+
+               If manual inspection reveals substantial transactional fraud, customer-account
+               compromise, or unrelated incidents, tighten the codebook. If errors concentrate near
+QA branches
+               the 50 m boundary, emphasize 25/50/100 m sensitivity. If a city's offense descriptions
+               are too coarse, narrow the common outcome or drop that city.
+
+Responsible    Data/GIS analyst builds panel; crime reviewer validates offense mapping; QA reviewer
+roles          audits records; PI approves exposure assumptions.
+
+Required       Official ATM/crime extracts; GIS tooling; data dictionary; source manifest; manual-audit
+resources      form.
+
+Estimated
+               2–4 weeks, potentially longer if historical ATM records require agency correspondence.
+time
+
+               Every modeled ATM-period has documented exposure status; target and background
+Success
+               crime are distinct; event matching is reproducible; audit errors are understood and
+criteria
+               corrected before modeling.
+
+               Risk: exposure misclassification. Mitigation: historical snapshots/common-window
+Key risk and
+               restriction/prospective cohort, plus a sensitivity analysis that shows how results change
+mitigation
+               under alternate exposure assumptions.
+
+
+
+
+                                                   7
+The DFS source is particularly suitable for a common denominator because it identifies statewide individual
+bank-owned/in-bank ATM locations and is posted monthly, but its current-period metadata and omission of
+independent ATMs must become explicit study limitations. 9 Socrata now supports dataset-version
+archives where a publisher has enabled archiving, but whether this particular New York dataset has usable
+past archives must be verified rather than assumed. 10
+
+
+For NYC, the historic complaint table is complaint-level and currently contains more than ten million rows;
+its live preview includes complaints dated through December 31, 2025. The landing-page prose still contains
+an outdated reference to 2019, illustrating why the pipeline should calculate actual minimum/maximum
+event dates instead of trusting descriptive text. 11 The 2026 year-to-date complaint dataset was updated
+July 27, 2026. 12
+
+
+For Rochester, another metadata inconsistency needs to be explicitly checked: the public crime-mapping
+page says Part I mapping data are available since 2011, while the underlying ArcGIS service description says
+“2000-Present”; importantly, the actual historical layer is labeled “2011 to Present.” Use the queried layer
+dates, not the broad service description, and record the discrepancy. 13
+
+
+Create the common city-independent feature layer
+
+
+ Item             Execution instructions
+
+                  Step 1: create a common feature dictionary before extraction. Step 2: retain only
+                  information that would have been available before the prediction period. Step 3:
+                  compute road accessibility and street-network measures using one definition in all
+                  cities. Step 4: attach EPA Smart Location variables by block group where appropriate.
+ Step-by-step
+                  Step 5: attach a fixed, ex-ante ACS vintage for socioeconomic controls. Step 6:
+ actions
+                  compute ATM density and nearest-ATM distance from exposure-valid ATM records.
+                  Step 7: calculate lagged crime only from prior periods. Step 8: perform missingness,
+                  range, distribution, and redundancy checks. Step 9: lock the primary feature matrix
+                  before outcome-model tuning.
+
+                  Ambient background crime; distance/access to major roads; intersection/street
+ Primary
+                  density; commercial/activity intensity; population/employment density; destination
+ feature
+                  accessibility; transit accessibility; ATM density/competition; guardianship proxy such as
+ families
+                  police-station distance; limited socioeconomic controls.
+
+                  Variable present consistently: keep. Equivalent concept but inconsistent
+                  definition: replace with a common source/definition. Only one city has it: exclude
+                  from primary transfer model and optionally analyze separately. Feature measured
+ Cases
+                  after prediction period: exclude as leakage. High missingness: repair from the same
+                  authoritative source or drop rather than city-specific imputation. Highly redundant
+                  features: keep the more interpretable/common measure.
+
+ Responsible      GIS/data analyst extracts; methods analyst checks distributions; PI approves final
+ roles            schema.
+
+ Required
+                  EPA SLD, Census ACS/TIGER, ATM panel, road/network layer, spatial processing code.
+ resources
+
+
+
+
+                                                     8
+ Item              Execution instructions
+
+ Estimated
+                   2–3 weeks, overlapping with the end of panel construction.
+ time
+
+                   Exactly the same feature definitions and transformations are executable in every city;
+ Success
+                   all predictors have provenance and temporal cutoffs; no target-period crime leaks into
+ criteria
+                   covariates.
+
+                   Risk: apparently good transfer created by target/future information. Mitigation:
+ Key risk and
+                   source manifest includes “data vintage,” “available-at date,” and prediction cutoff for
+ mitigation
+                   every variable.
+
+EPA's Smart Location Database is well suited to this purpose because it provides more than 90 built-
+environment/location-efficiency attributes at census-block-group scale across most of the United States;
+however, the current version is the 2021 release, so it should be treated as a fixed contextual layer rather
+than a contemporaneous 2026 measure. 14 ACS five-year detailed estimates are available down to block-
+group geography, and TIGER/Line provides official geographic boundaries and road layers that can be
+linked to Census data. 15
+
+
+Establish whether an incremental research result exists
+
+
+ Item              Execution instructions
+
+                   Step 1: create temporal and spatial splits before training. Step 2: fit M0 with lagged
+                   background crime only. Step 3: fit M1 with the common environmental feature set.
+                   Step 4: fit M2 with the same inputs using boosting. Step 5: keep all imputation, scaling,
+ Step-by-step
+                   feature selection, weighting, tuning, and calibration inside training folds. Step 6: score
+ actions
+                   only untouched observations. Step 7: calculate paired uncertainty for M1−M0 and
+                   M2−M0. Step 8: examine calibration and top-decile capture, not just discrimination.
+                   Step 9: make the go/no-go decision from the preregistered primary endpoint.
+
+                   Clear positive incremental value: proceed to transfer. Estimate centered near zero
+                   with narrow CI inside a prespecified “negligible” margin: support the background-
+                   dominant/null conclusion. Near-zero estimate with wide CI: call it inconclusive, not
+ Outcome           null. Strong value only in one city: treat heterogeneity as the result. Only boosting
+ branches          improves: retain nonlinear model but make “nonlinear incremental signal” the
+                   interpretation rather than claiming all models support it. Poor calibration despite
+                   useful ranking: report ranking performance but do not present raw probabilities as
+                   trustworthy absolute risks.
+
+ Responsible       Statistical/ML analyst leads; PI enforces confirmatory gate; reproducibility reviewer
+ roles             checks split isolation.
+
+ Required          Logistic/NB implementation; XGBoost or LightGBM; calibration tools; blocked
+ resources         resampling; experiment registry.
+
+ Estimated
+                   2–3 weeks.
+ time
+
+
+
+
+                                                      9
+ Item              Execution instructions
+
+ Success           Held-out environmental lift is quantified with uncertainty and compared to M0; no
+ criteria          metric is selected after viewing results.
+
+ Key risk and      Risk: falsely optimistic random cross-validation. Mitigation: use future-time and
+ mitigation        spatial/city blocking aligned with intended deployment.
+
+This split strategy is not cosmetic. For spatially or temporally structured data, ordinary random cross-
+validation can underestimate prediction error; blocked validation is specifically recommended when the
+intended prediction is to new locations, times, or predictor regimes. 16
+
+
+Perform city-transfer experiments
+
+
+For each target T , define a final target test period first. Never draw the “10% target” adaptation sample
+from that test set. The 10% and 25% target labels must come from earlier target periods that would
+genuinely have been available before the evaluation period.
+
+
+ Experiment          Training data                    Test data               Purpose
+
+                                                      untouched later
+ Local-full          All eligible prior target data                           Upper local benchmark
+                                                      target period
+
+ Zero-shot           One source city                  same target test        Direct transportability
+
+                                                                              Whether pooling sources
+ Multi-source        Other two cities                 same target test
+                                                                              improves transfer
+
+ Source + 10%        Source city/cities + sampled
+                                                      same target test        Low-label adaptation
+ target              earlier target labels
+
+                     Exactly the same target
+ 10% target only                                      same target test        Transfer-benefit control
+                     subset
+
+ Source + 25%        Source city/cities + sampled
+                                                      same target test        Larger adaptation
+ target              earlier target labels
+
+                     Exactly the same target
+ 25% target only                                      same target test        Larger target-only control
+                     subset
+
+For the 10% and 25% experiments, repeat target-subset sampling across multiple fixed seeds and report
+the distribution or confidence interval, not a lucky single draw.
+
+
+ Observed case                                   Required interpretation/action
+
+ Zero-shot nearly matches local-full             Strong transportability; quantify small transfer gap
+
+ Zero-shot weak, but source + target             Useful transfer; estimate how much local labeling is
+ materially beats target-only                    required
+
+
+
+
+                                                      10
+ Observed case                                 Required interpretation/action
+
+ Source + target improves over zero-shot       Local data help, but source knowledge adds no
+ but equals target-only                        demonstrated value
+
+ Target-only beats source + target             Negative transfer; diagnose source-target mismatch
+
+ One source helps and another hurts            Do not pool blindly; report source-specific compatibility
+
+ Both sources together worse than best         Multi-source negative transfer; retain best-source result
+ individual source                             and explain heterogeneity
+
+ Feature ranges barely overlap between         Mark extrapolation explicitly; do not treat zero-shot
+ cities                                        estimates as ordinary interpolation
+
+                                               Keep the preregistered primary result; use alternate
+ Transfer differs by outcome/radius
+                                               results only as sensitivity analyses
+
+Bappee et al. provide a particularly relevant precedent: their source-only Toronto and Vancouver models
+generally lost performance on Halifax, target-inclusive configurations performed better, and adding a
+distant source did not necessarily improve a multi-source model. 8 This is exactly why both target-only
+controls and negative-transfer reporting belong in the paper.
+
+
+Interpret only externally validated relationships
+
+
+ Item             Execution instructions
+
+                  Step 1: interpret only models that passed the prediction gate. Step 2: report logistic/
+                  NB coefficients and uncertainty where applicable. Step 3: for boosting, compute SHAP
+                  or another prespecified attribution method. Step 4: pair importance with effect-shape
+ Step-by-step     plots such as accumulated local effects/partial dependence where appropriate. Step 5:
+ actions          repeat explanation calculations by city. Step 6: compare sign, approximate nonlinear
+                  shape, ranking, and bootstrap stability. Step 7: label each variable stable, partially
+                  stable, reversed, or unsupported. Step 8: use causal language only if the design truly
+                  supports it—which this observational prediction design generally will not.
+
+                  Same sign/shape across cities: candidate transportable risk marker. Same sign but
+                  different magnitude: partially transportable. Sign reversal: context-specific
+ Cases            relationship or proxy/confounding candidate. High SHAP importance but unstable
+                  across resamples: do not elevate it as a substantive finding. Strong local effect but
+                  no external performance: explanation is local, not transportable.
+
+ Responsible      Methods analyst generates explanations; crime-domain reviewer assesses substantive
+ roles            plausibility; PI controls claims.
+
+ Required
+                  Coefficient tables, SHAP implementation, effect plots, bootstrap results.
+ resources
+
+ Estimated
+                  1–2 weeks.
+ time
+
+
+
+
+                                                    11
+  Item             Execution instructions
+
+  Success          Every substantive feature claim is connected to a model with demonstrated held-out/
+  criteria         external performance and a reproducibility/stability check.
+
+                   Risk: interpreting model artifacts as criminological mechanisms. Mitigation: use
+  Key risk and
+                   language such as “predictive association,” compare cities, and triangulate statistical
+  mitigation
+                   and flexible models.
+
+SHAP is an appropriate tool for attribution, but its original formulation explains model predictions rather
+than establishing causality. 17 Recent crime-prediction research likewise shows that explanation methods
+can differ locally even when global rankings are broadly similar, reinforcing the need for stability checks
+instead of treating one SHAP ranking as ground truth. 18
+
+
+Decide whether placement belongs in the paper
+
+
+The placement analysis should remain gated behind successful risk validation, exactly as the attachments
+recommend. fileciteturn0file1
+
+
+  Data situation                                   Action
+
+  Genuine candidate locations where no ATM
+  currently exists + demand + accessibility +      Add an optional multi-objective/Pareto analysis
+  cost
+
+  Candidate locations exist but no demand          Do not optimize placement; at most show risk
+  measure                                          screening
+
+                                                   Call the extension “ATM-site evaluation” or “security-
+  Only existing ATM sites are available
+                                                   aware site assessment”
+
+  Risk model has not survived external
+                                                   Do not add placement at all
+  validation
+
+                                                   Present transparent weights and sensitivity as a
+  Stakeholders demand one composite score          secondary decision illustration, not the paper's
+                                                   scientific contribution
+
+A simple formulation is:
+
+
+                                                  min R(x)
+                                                   x
+
+subject to
+
+
+                                     A(x) ≥ Amin ,          D(x) ≥ Dmin ,
+
+or, if risk, access, and cost are genuinely measured, retain nondominated sites on a Pareto frontier. This is
+methodologically cleaner than resurrecting a fuzzy/Choquet aggregation solely to create apparent novelty.
+fileciteturn0file1
+
+
+
+
+                                                       12
+Data collection, analysis, and validation specification
+The raw-data pipeline should be reproducible from immutable extracts:
+
+
+        NYC complaints
+
+                                                          Geocoded target events
+
+
+    Buffalo crime incidents     Common crime codebook
+
+                                                                                                                           M0 background only
+                                                         Lagged background-crime
+                                                                  events
+
+   Rochester Part I incidents
+
+                                                                                                      Temporal + spatial   M1 logistic / Negative                           Leave-one-city-out
+                                                                                   ATM-period panel                                                      Within-city gate                        Few-shot adaptation   Validated interpretation
+                                                                                                        training folds           Binomial                                        transfer
+
+                                  Canonical ATM-site /
+   NYS DFS ATM snapshots
+                                    exposure table
+
+                                                                                                                             M2 boosted trees
+
+
+                                  EPA Smart Location
+                                       Database
+
+
+
+                                                         Common environmental
+                                          ACS                   layer
+
+
+
+
+                                TIGER / road geography
+
+
+
+
+Prioritized data and evidence sources
+
+
+ Priority                        Source                                            Recommended use                                              Important constraint
+
+                                 New York State
+ Primary                                                                           ATM denominator                                              Current-period dataset; bank-owned/in-
+                                 DFS Bank-Owned
+ official                                                                          and coordinates                                              bank only; monthly posting. 9
+                                 ATM Locations
+
+                                                                                                                                                Complaint-level rather than dedicated
+                                 NYPD Historic +                                   NYC incident records
+ Primary                                                                                                                                        ATM-attack records; use occurrence/
+                                 Current Complaint                                 and detailed offense
+ official                                                                                                                                       offense fields carefully and follow dataset
+                                 Data                                              coding
+                                                                                                                                                footnotes. 5
+
+                                                                                                                                                Verify exact minimum/maximum dates,
+                                                                                                                                                coordinates, missingness and category
+ Primary                         Buffalo Crime                                     Buffalo point/event
+                                                                                                                                                stability programmatically; portal
+ official                        Incidents                                         data
+                                                                                                                                                indicates daily-updated Crime Incidents.
+                                                                                                                                                    19
+
+
+                                 Rochester RPD                                                                                                  Historical layer is labeled 2011-present;
+ Primary                                                                           Rochester robbery/
+                                 Part I Crime                                                                                                   reconcile service-level “2000-present”
+ official                                                                          burglary/larceny etc.
+                                 service                                                                                                        metadata before analysis. 20
+
+                                 EPA Smart                                         Common built
+ Primary                                                                                                                                        Current SLD version dates to 2021; treat
+                                 Location Database                                 environment, density,
+ official                                                                                                                                       as fixed-context data. 14
+                                 v3                                                accessibility, transit
+
+                                                                                   Block-group                                                  Detailed estimates available at block-
+ Primary                         Census ACS five-
+                                                                                   socioeconomic                                                group scale; select an ex-ante vintage.
+ official                        year
+                                                                                   controls                                                         21
+
+
+ Primary                                                                           Boundaries, roads,                                           Geographic rather than demographic
+                                 Census TIGER/Line
+ official                                                                          geographic keys                                              data; link using Census codes. 22
+
+
+
+
+                                                                                                                    13
+ Priority        Source                    Recommended use         Important constraint
+
+                                           Transfer-experiment     Shows source-target distribution
+ Original
+                 Bappee et al.             precedent and target-   differences and negative-transfer
+ research
+                                           data controls           possibility. 23
+
+                                           Advanced-domain-
+ Original                                  adaptation              Useful related work; unnecessary for
+                 Zhou et al.
+ research                                  comparison/future       initial implementation. 2
+                                           work
+
+                                           Cross-jurisdiction
+ Original                                                          Similar risk factors can operate differently
+                 Barnum et al.             environmental-risk
+ research                                                          across urban environments. 24
+                                           rationale
+
+                                           Multi-city common-      Demonstrates common OSM/register
+ Original
+                 Kronkvist et al.          feature and prior-      place features and models with/without
+ research
+                                           crime comparisons       prior crime. 25
+
+                                                                   Supports blocked rather than ordinary
+ Original        Roberts et al.;           Spatial/temporal
+                                                                   random CV for dependent geographic
+ methods         Pohjankukka et al.        validation
+                                                                   data. 16
+
+ Original        Saito &                   Binary imbalance        Supports PR/AUPRC emphasis when
+ methods         Rehmsmeier                evaluation              positives are rare. 26
+
+ Original        Chen & Guestrin;          Flexible tabular        Original XGBoost and LightGBM
+ methods         Ke et al.                 models                  references. 7
+
+ Original
+                 Lundberg & Lee            Model attribution       Original SHAP framework.     17
+ methods
+
+Recommended target-codebook rule. The main outcome should include only events that can defensibly
+be interpreted as physical/acquisitive incidents in the ATM micro-environment. Purely transactional fraud,
+bank-account compromise, forgery, identity theft, and electronically mediated loss should not be mixed into
+the physical-site endpoint merely to enlarge the sample. The attached plan reaches the same conclusion
+after noting the heterogeneity of the existing NYC ATM-premise complaints. fileciteturn0file1
+
+
+The event audit should be expanded beyond the original suggestion of approximately 100 NYC matches. A
+stronger implementation is a stratified review across all included cities, oversampling ambiguous
+offense categories and cases near 25/50/100 m thresholds. Record event ID, site ID, distance, native
+description, common category, fraud/transaction flag, duplicate flag, location plausibility, and reviewer
+decision. A second reviewer should independently code a subset and disagreements should be adjudicated
+before the final codebook is locked.
+
+
+Recommended panel schema
+
+
+ Variable group           Example fields
+
+ Site identity            site_id , site_cluster_id , institution, normalized address, city
+
+
+
+
+                                                          14
+  Variable group       Example fields
+
+  Exposure              active_from , active_to , active_days , exposure-source/quality flag
+
+  Time                 period start/end, prediction cutoff
+
+  Outcome              target count, target binary, offense-specific counts
+
+  Background           prior-period qualifying crimes in 200–500 m annulus
+
+  Roads                distance to major road, road/intersection density
+
+  Activity/access      commercial intensity, destination accessibility, transit accessibility
+
+  Urban form           population/employment density, design measures
+
+  Guardianship         police-station/access proxy if consistently available
+
+  ATM
+                       ATM density, nearest-ATM distance
+  environment
+
+  Context              selected income/unemployment or other preregistered nonprotected controls
+
+                       coordinate quality, offense-codebook version, matching multiplicity, source-version
+  QA
+                       hash
+
+Validation hierarchy. The principal result should come from a deployment-realistic split, not random cross-
+validation. Use training on earlier periods and testing on later periods; add spatial holdouts such as
+neighborhood/grid/precinct groups; then rotate a completely held-out city. Spatially structured random
+splits can give optimistic error estimates because neighboring observations are dependent. 16
+
+
+All learned preprocessing belongs inside the training folds: missing-value imputation, scaling, feature
+selection, hyperparameter optimization, class weighting/resampling, and probability calibration. A final test
+city/time block must never influence these operations.
+
+
+For binary outcomes, designate AUPRC as the primary discrimination metric if the positive class is rare;
+precision-recall analysis is more informative than relying only on ROC curves under strong class imbalance.
+ 26 Also report ROC-AUC, Brier score, calibration intercept/slope or calibration plot, top-5% and top-10%
+
+recall, precision in the top risk fraction, and lift. For counts, report Negative Binomial/Poisson deviance as
+appropriate, MAE, calibration of predicted counts, and site-ranking performance.
+
+
+Do not bootstrap individual ATM-period rows naively when the same ATM appears repeatedly. For
+uncertainty, resample at least at the ATM/site level; where residual spatial dependence remains material,
+use a spatial-block bootstrap. Model-to-model comparisons should be paired so both models are evaluated
+on identical held-out observations.
+
+
+For logistic regression, standardization parameters must be learned from training data only. For zero-shot
+transfer, the safest primary representation uses physically interpretable common units. A sensitivity analysis
+may use city-standardized variables, but because target-city feature distributions are then used in
+constructing the representation, that analysis should be labeled explicitly as a transductive/domain-
+normalized variant.
+
+
+
+
+                                                      15
+The paper should report distribution shift before transfer. For every continuous feature, compare ranges,
+quantiles, missingness, and standardized differences between source and target. A multivariate distance
+diagnostic can be supplementary. Bappee et al. explicitly examined source-target feature-distribution
+differences before interpreting transfer performance, and their results show why this matters. 27
+
+
+Risk register, branching matrix, and budget
+Risk register
+
+
+                                                   Trigger/
+ Risk                 Likelihood       Impact                         Mitigation              Owner
+                                                   evidence
+
+                                                                      Search official
+                                                                      archive/changelog;
+ Historical ATM                                    Only current       contact DFS; restrict
+                                                                                              PI + data
+ exposure cannot      High              Critical   DFS list           common period;
+                                                                                              lead
+ be reconstructed                                  accessible         prospectively freeze
+                                                                      cohort; downgrade
+                                                                      retrospective claims
+
+                                                                      Automated exposure
+ Current ATM                                       Same ATM
+                                                                      assertion; prohibit
+ records are                                       universe
+                                                                      panel construction      Data
+ mistakenly           Preventable       Critical   appears in
+                                                                      until active_from/      lead
+ treated as                                        every historical
+                                                                      active_to rule is
+ historical                                        year
+                                                                      signed off
+
+                                                   Large numbers
+                                                                      Narrow primary
+                                                   of native
+ Crime construct                                                      endpoint; separate
+                      Medium–                      categories have                            Crime
+ differs across                         Critical                      secondary outcomes;
+                      High                         no defensible                              reviewer
+ cities                                                               drop incompatible
+                                                   common
+                                                                      city
+                                                   mapping
+
+                                                   Manuscript
+                                                                      Use “ATM-site/micro-
+ “Near an ATM” is                                  wording
+                                                                      environment
+ interpreted as       Medium              High     exceeds                                    PI
+                                                                      acquisitive crime”
+ “attack on ATM”                                   available police
+                                                                      terminology
+                                                   fields
+
+                                                                      Consider two-year
+                                                                      windows, binary
+                                                   Extreme zero
+ Rare target                                                          endpoint, reduced
+                                                   proportion;                                Methods
+ events produce       High                High                        feature count, pooled
+                                                   unstable                                   lead
+ weak power                                                           source training;
+                                                   coefficients/CIs
+                                                                      report inconclusive
+                                                                      rather than null
+
+
+
+
+                                                    16
+                                             Trigger/
+Risk               Likelihood     Impact                        Mitigation               Owner
+                                             evidence
+
+                                                                Make temporal/
+                                             Random CV
+Spatial/temporal                                                spatial/city holdouts
+                                             much better                                 Methods
+leakage inflates   Medium         Critical                      primary; pipeline all
+                                             than blocked/                               lead
+accuracy                                                        preprocessing inside
+                                             future holdout
+                                                                folds
+
+Outcome                                      Same event falls
+                                                                Enforce time lag and
+accidentally                                 in target and
+                                                                inner exclusion          Data
+enters             Medium         Critical   lagged/
+                                                                radius                   lead
+background                                   background
+                                                                programmatically
+predictor                                    window
+
+                                                                Record multiplicity;
+Overlapping                                                     cluster co-located
+                   High in                   Event linked to
+ATM buffers                      Medium                         ATMs; nearest-only       GIS lead
+                   dense areas               several sites
+share events                                                    sensitivity; clustered
+                                                                uncertainty
+
+                                             Large              Report negative
+Source-target
+                                             distribution       transfer; compare
+feature shift      Medium–                                                               Methods
+                                    High     mismatch;          individual sources;
+causes negative    High                                                                  lead
+                                             source+target <    only then consider
+transfer
+                                             target-only        weighting/adaptation
+
+                                                                Use AUPRC and
+Class imbalance                              Majority-class
+                                                                ranking/calibration      Methods
+makes accuracy     High             High     accuracy
+                                                                metrics rather than      lead
+misleading                                   dominates
+                                                                accuracy as primary
+
+                                                                Bootstrap
+                                             SHAP/effect
+Model                                                           explanation stability;
+                                 Medium–     ranks change                                Methods
+explanation is     Medium                                       report only externally
+                                    High     across                                      lead
+unstable                                                        validated
+                                             resamples/cities
+                                                                relationships
+
+                                             Rochester/NYC
+Official source                                                 Calculate date ranges
+                                             descriptive
+metadata                                                        and schema directly;     Data
+                   Medium        Medium      dates conflict
+contain                                                         version raw files;       lead
+                                             with actual
+inconsistencies                                                 document anomalies
+                                             layer/rows
+
+                                                                Archive immutable
+Public datasets
+                                             Row counts or      raw snapshots with       Repro
+update during      High          Medium
+                                             records change     checksums and            lead
+the project
+                                                                retrieval timestamp
+
+
+
+
+                                              17
+                                                     Trigger/
+ Risk                  Likelihood          Impact                         Mitigation                Owner
+                                                     evidence
+
+                                                     Core validation
+                                                                          Enforce go/no-go
+ Scope creep into                                    incomplete
+                                                                          gates; move
+ deep learning or      Medium               High     while new                                      PI
+                                                                          additions to future
+ placement                                           components are
+                                                                          work
+                                                     added
+
+                                                                          Exclude protected
+ Protected/social
+                                                                          attributes from
+ attributes                                          Risk score
+                                                                          operational model
+ produce                                             driven by                                      PI/ethics
+                       Medium               High                          unless specifically
+ problematic                                         sensitive                                      reviewer
+                                                                          justified; discuss
+ operational                                         demographics
+                                                                          fairness and
+ targeting
+                                                                          intended use
+
+                                                     Data-quality
+                                                                          Build two-city and
+                                                     gate fails after
+ One city fails late   Medium               High                          NYC-only fallbacks        PI
+                                                     substantial
+                                                                          from the start
+                                                     work
+
+The two source-quality issues already visible in official portals—Rochester's differing date descriptions and
+NYC's stale prose alongside current records—make the raw-source manifest and automated date assertions
+essential rather than optional. 28
+
+
+Branching decision matrix
+
+
+ Decision               Preferred choice                   Switch when                 Fallback
+
+                        Negative Binomial count if
+                                                           Counts are
+ Count vs binary        repeated site-period                                           Binary logistic +
+                                                           overwhelmingly 0/1 or
+ outcome                incidents contain real                                         boosted classifier
+                                                           unstable
+                        information
+
+ Three vs two                                              One city fails outcome/     Best two compatible
+                        NYC + Buffalo + Rochester
+ cities                                                    exposure gate               cities
+
+ Historical vs
+                                                           Reliable past ATM
+ prospective            Historical dynamic panel                                       Prospective cohort
+                                                           snapshots unavailable
+ exposure
+
+ 50 m outcome                                              Never switch because        25/100 m only as
+                        Keep as confirmatory
+ radius                                                    results look better         sensitivities
+
+                                                           Events-per-parameter/       Smaller theory-driven
+ Feature count          10–20 common variables
+                                                           power insufficient          set
+
+ Imbalance                                                 Only reconsider if          Training-fold-only
+                        Class weights/proper loss
+ method                                                    diagnostics justify         sampling
+
+
+
+
+                                                      18
+  Decision               Preferred choice                    Switch when                 Fallback
+
+                                                             Implementation/             The other boosting
+  Flexible model         One of XGBoost or LightGBM
+                                                             reproducibility issue       implementation
+
+                         Direct source/pooled/few-           Only after baseline         Optional TrAdaBoost/
+  Transfer method
+                         shot ladder                         ladder complete             weighting exploratory
+
+                         Coefficients + SHAP/effect          Prediction fails            Do not interpret ML
+  Explainability
+                         curves                              external validation         feature importance
+
+                         Pareto/multi-objective only         Candidate/demand/           Stop at site-risk
+  Placement
+                         with true candidates                cost data incomplete        evaluation
+
+Budget. No budget is supplied in either attachment, so the following figures are planning scenarios rather
+than documented project commitments. Core source data are publicly accessible through the cited
+government portals; the major cost is labor rather than data licensing. 29
+
+
+      Phase                                    Low scenario*      Medium scenario**        High scenario***
+
+      Protocol/codebook                               $0–$300            $500–$1,500          $2,000–$4,000
+
+      ATM exposure/panel engineering                  $0–$700          $2,500–$6,000         $7,000–$14,000
+
+      Crime harmonization + manual QA                 $0–$500          $2,000–$5,000         $6,000–$12,000
+
+      Common GIS/features                             $0–$500          $1,500–$4,000          $4,000–$9,000
+
+      Within-city models/validation                   $0–$500          $2,000–$5,000         $5,000–$10,000
+
+      Transfer experiments                            $0–$400          $1,500–$4,000          $4,000–$8,000
+
+      Interpretation/sensitivity                      $0–$300          $1,000–$3,000          $3,000–$7,000
+
+      Reproducibility + manuscript                    $0–$500          $2,000–$5,000         $5,000–$12,000
+
+      Approximate total                            $0–$3,700         $13,000–$33,500       $36,000–$76,000
+
+* Low: researcher labor is already funded/not monetized; open-source software and local compute.
+* Medium: substantial part-time RA/GIS/methods support and modest compute/storage.
+* High: dedicated analyst/RA time, independent coding/QA, statistical consultation, and stronger reproducibility
+support. Institutional overhead, publication fees, conference travel, and salaries already committed to staff are
+not specified* and are excluded.
+
+
+The low scenario is viable technically because this is primarily a tabular/GIS project rather than a GPU-
+intensive deep-learning project. The high scenario mainly buys labor, independent validation, and faster
+execution—not a fundamentally different scientific design.
+
+
+
+
+                                                        19
+Timeline and consolidated checklist
+The following baseline schedule begins October 1, 2026 and assumes historical ATM exposure is resolved
+by approximately the end of the third week. The exact project deadline is unspecified in the attachments. If
+historical exposure cannot be recovered, a strong prospective validation will necessarily extend beyond this
+schedule.
+
+
+ Calendar
+                                                      Main activity                                                                                                                                                                Gate/output
+ period
+
+ Oct 1–7                                              Freeze protocol, crime construct, codebook draft                                                                                                                                  study_spec_v1.0
+
+                                                      ATM data, deduplication, exposure-history
+ Oct 5–26                                                                                                                                                                                                                          Exposure decision
+                                                      investigation
+
+ Oct 12–Nov 2                                         Crime ingestion, crosswalk, event/site QA                                                                                                                                    Validated common outcome
+
+ Oct 19–Nov 9                                         EPA/ACS/TIGER/common GIS feature layer                                                                                                                                       Frozen feature matrix
+
+ Nov 2–23                                             M0/M1/M2, temporal/spatial validation                                                                                                                                        Incremental-signal gate
+
+                                                      Leave-one-city-out + multi-source + 10%/25%
+ Nov 16–Dec 14                                                                                                                                                                                                                     Transfer table
+                                                      transfer
+
+                                                      Stability, SHAP/effect curves, radius/outcome
+ Dec 7–28                                                                                                                                                                                                                          Interpretation package
+                                                      sensitivities
+
+                                                                                                                                                                                                                                   Submission-ready core
+ Dec 14–Jan 15                                        Manuscript, appendices, reproducibility audit
+                                                                                                                                                                                                                                   paper
+
+                                                      Optional placement layer only if all core gates
+ Jan 4 onward                                                                                                                                                                                                                      Optional extension
+                                                      passed
+
+
+
+                                                                                                                                  Baseline ATM-Crime Research Schedule
+
+  Design              Freeze construct and protocol
+
+                          ATM denominator and exposure history
+
+  Data                                                Crime harmonization and QA
+
+                                                                                Common feature layer
+
+                                                                                                         Within-city baseline and lift gate
+
+  Modeling                                                                                                                                              Cross-city transfer experiments
+
+                                                                                                                                                                                                     Interpretation and sensitivities
+
+                                                                                                                                                                                                                                          Writing and reproducibility audit
+  Paper
+                                                                                                                                                                                                                                                                              Optional placement extension
+
+             Oct 04         Oct 11                Oct 18               Oct 25                 Nov 01   Nov 08                  Nov 15         Nov 22             Nov 29                   Dec 06   Dec 13                 Dec 20           Dec 27                  Jan 03             Jan 10                 Jan 17
+
+
+
+
+Consolidated execution checklist
+
+
+ Check                Required before proceeding
+
+ ☐                    Population explicitly says bank-owned/in-bank ATM sites, not all ATMs in New York
+
+ ☐                    Primary outcome has written inclusions/exclusions
+
+ ☐                    Transactional fraud/forgery/account compromise handled separately
+
+
+
+
+                                                                                                                                                       20
+Check   Required before proceeding
+
+☐       Primary unit, prediction period, radius, and outer background annulus frozen
+
+☐       Exact city boundary rule frozen
+
+☐       DFS raw extract archived with retrieval date and checksum
+
+☐       Historical ATM availability investigated and documented
+
+☐       No ATM-period exists outside defensible site exposure
+
+☐       Crime datasets archived separately by city and version
+
+☐       Native crime codes mapped to one common codebook
+
+☐       Event dates and coordinate ranges programmatically validated
+
+☐       Duplicate/co-located ATM rule implemented
+
+☐       Event-to-multiple-ATM linkage multiplicity recorded
+
+☐       Stratified event–ATM manual QA completed
+
+☐       Core features use one definition/code path in every city
+
+☐       Every predictor has a provenance and “available before prediction” check
+
+        Protected demographic variables excluded from the operational core unless specifically
+☐
+        justified
+
+☐       M0 background-only baseline fitted before claims about environmental risk
+
+☐       Temporal and spatial holdouts fixed before tuning
+
+☐       Preprocessing occurs entirely inside training folds
+
+☐       AUPRC/count metric and go/no-go criterion fixed
+
+☐       Confidence intervals accompany environmental lift
+
+☐       Precise null distinguished from underpowered/inconclusive result
+
+☐       Final target-city test data never used for target adaptation
+
+☐       10%/25% source+target runs compared with identical target-only subsets
+
+☐       Transfer gap and transfer benefit reported separately
+
+☐       Source-target feature distribution shift documented
+
+☐       Explainability run only after external-validation gate
+
+☐       25/50/100 m sensitivity completed without changing the confirmatory radius
+
+☐       Narrow/broad outcome sensitivity completed
+
+
+
+
+                                                   21
+ Check      Required before proceeding
+
+ ☐          Exposure-assumption sensitivity completed
+
+ ☐          All results traceable to data hash, code commit, model seed, and experiment ID
+
+ ☐          Placement claims excluded unless genuine non-ATM candidate sites exist
+
+ ☐          Lisbon inferred labels excluded from supervised New York modeling
+
+            Final paper limitations explicitly include bank-owned-only coverage and police-report
+ ☐
+            measurement limitations
+
+
+The intended reporting order should be equally disciplined: data validity → value above background
+crime → future/spatial validation → cross-city transfer → few-shot recovery → interpretation. That
+ordering keeps the paper's scientific logic visible and prevents methods from obscuring the main question.
+fileciteturn0file1
+
+
+Documentation templates and final deliverables
+The following templates should be created at the start of the project rather than reconstructed during
+manuscript writing.
+
+
+Preregistered study specification
+
+
+
+  STUDY ID:
+  VERSION / DATE:
+  CONFIRMATORY OR EXPLORATORY:
+
+  Research question:
+  Does ATM-site environmental context predict future acquisitive crime
+  beyond lagged surrounding crime, and does that signal transfer across cities?
+
+  Population:
+  Bank-owned/in-bank ATM sites in ______________________
+
+  Cities:
+  _______________________________________________
+
+  Observation/exposure period:
+  _______________________________________________
+
+  Primary outcome:
+  Exact included categories:
+  Exact excluded categories:
+
+  Primary unit:
+  ATM site × __________________ period
+
+
+
+                                                     22
+Primary site radius:
+________ meters
+
+Sensitivity radii:
+________ / ________ meters
+
+Background-crime definition:
+Prior period: __________________
+Inner exclusion: _______________
+Outer radius/annulus: ___________
+
+Core feature set:
+_______________________________________________
+
+Primary statistical model:
+_______________________________________________
+
+Primary flexible model:
+_______________________________________________
+
+Primary baseline:
+_______________________________________________
+
+Primary metric:
+_______________________________________________
+
+Secondary metrics:
+_______________________________________________
+
+Temporal holdout:
+_______________________________________________
+
+Spatial holdout:
+_______________________________________________
+
+External city holdout:
+_______________________________________________
+
+Target adaptation fractions:
+_______________________________________________
+
+Primary go/no-go criterion:
+_______________________________________________
+
+Smallest effect considered practically meaningful:
+_______________________________________________
+
+
+
+
+                                       23
+  Sensitivity analyses:
+  _______________________________________________
+
+
+  Known deviations from attached redesign plan:
+  _______________________________________________
+
+
+Raw-data/source manifest
+
+
+            Field                              Required entry
+
+            Source ID                          Short immutable project name
+
+            Provider                           DFS / NYPD / Buffalo / Rochester / EPA / Census
+
+            Official dataset name              Exact published title
+
+            Dataset identifier                 Socrata/ArcGIS/API identifier where relevant
+
+            Retrieved                          Timestamp and time zone
+
+            File hash                          SHA-256
+
+            Row count                          Before filters
+
+            Minimum event/exposure date        Calculated from data
+
+            Maximum event/exposure date        Calculated from data
+
+            Coordinate CRS                     Source and analysis CRS
+
+            Filters                            Exact query/filter
+
+            Missing coordinates                Count/%
+
+            Data vintage                       Publication/reference period
+
+            Available-before-prediction?       Yes/no + reason
+
+            Raw file modified?                 Must be “No”; transformations create new files
+
+            Notes                              Metadata conflicts, exclusions, quality issues
+
+This manifest is particularly important because the official sources themselves can update and, as noted
+above, some descriptive metadata do not perfectly match the underlying records. 30
+
+
+Crime codebook
+
+
+
+
+                                                    24
+               Native
+                           Native          Common            Primary     Financial-   Ambiguity
+ City          offense                                                                            Reviewer
+                           description     category          included?   only?        rule
+               code
+
+                                           robbery/
+ NYC                                       burglary/         Y/N         Y/N
+                                           theft/etc.
+
+ Buffalo
+
+ Rochester
+
+The final appendix should publish this crosswalk so that reviewers can see exactly what “ATM-site acquisitive
+crime” means in each jurisdiction.
+
+
+Event-to-ATM audit record
+
+
+
+  AUDIT ID:
+  CITY:
+  EVENT ID:
+  ATM SITE ID:
+  SITE CLUSTER ID:
+
+  Event date:
+  Native offense:
+  Common offense:
+  Event coordinates:
+  ATM coordinates:
+  Distance in meters:
+
+  Within primary radius?                 Y / N
+  Within sensitivity radius?             25 / 50 / 100 / none
+  Physical/acquisitive event?            Y / N / uncertain
+  Transactional/financial?               Y / N / uncertain
+  Duplicate complaint/event?             Y / N / uncertain
+  Multiple ATM matches?                  Y / N
+  Nearest ATM assignment:                __________________
+
+  Reviewer decision:
+  KEEP / EXCLUDE / ADJUDICATE
+
+  Reason:
+  ________________________________________
+
+
+Experiment run card
+
+
+
+
+                                                        25
+RUN ID:
+DATE:
+GIT COMMIT:
+DATASET HASH / PANEL VERSION:
+CODEBOOK VERSION:
+
+Target city:
+Source city/cities:
+
+
+Training dates:
+Adaptation dates:
+Final test dates:
+
+
+Adaptation fraction:
+Random seed / sampling replicate:
+
+Model:
+Hyperparameters:
+
+Feature set version:
+Imputation fitted on:
+Scaling fitted on:
+Calibration fitted on:
+
+Primary metric:
+AUPRC / Deviance =
+
+Secondary:
+ROC-AUC =
+Brier =
+Top-10% recall =
+Top-10% precision =
+Lift =
+Calibration =
+
+Baseline M0 result:
+Environmental M1/M2 result:
+Delta from M0:
+95% CI:
+
+Transfer gap:
+Transfer benefit:
+
+Pass/fail predefined gate:
+Reason:
+
+
+
+
+                                    26
+  Known warnings:
+  ________________________________________
+
+
+Core results table
+
+
+                           Zero-
+                                     Other                     10%                25%
+ Target          Local-     shot                +10%                   +25%                Transfer      Transfer
+                                     cities                  target             target
+ city              full     best               target                 target                   gap        benefit
+                                    pooled                     only               only
+                          source
+
+ NYC
+
+ Buffalo
+
+ Rochester
+
+This should be one of the paper's main tables; the attached plan correctly argues that a clear transfer table
+is scientifically more valuable than adding several additional classifiers. fileciteturn0file1
+
+
+A second central table should show the incremental environmental signal:
+
+
+                           M0
+                                   M1 background             M2          ΔM1−M0          ΔM2−M0
+ City              background                                                                          Conclusion
+                                    + environment        boosted          with CI         with CI
+                          only
+
+ NYC
+
+ Buffalo
+
+ Rochester
+
+A third should summarize transportable interpretation:
+
+
+                           NYC direction/                                 Stability
+ Feature                                       Buffalo       Rochester                              Interpretation
+                           shape                                          classification
+
+ Lagged background
+ crime
+
+ Major-road
+ accessibility
+
+ Commercial
+ intensity
+
+ Transit accessibility
+
+ ATM density
+
+
+
+
+                                                        27
+                                 NYC direction/                                      Stability
+     Feature                                            Buffalo      Rochester                                 Interpretation
+                                 shape                                               classification
+
+     Police/guardianship
+     proxy
+
+The final reproducible deliverable should contain the frozen protocol, source manifest, raw-data retrieval
+instructions, crime codebook, ATM exposure construction, derived-data dictionary, QA report, modeling/
+validation code, experiment registry, main tables/figures, sensitivity appendix, limitation statement, and
+manuscript. The principal paper should follow the sequence recommended in the attachment: ATM-risk/
+background-crime problem, data and exposure definition, common feature design, models, temporal/
+spatial/external validation, environmental lift, transfer, few-shot recovery, interpretation, limitations, and
+conclusion. fileciteturn0file1
+
+
+The final scientific claim should remain deliberately narrow: the study tests whether bank-owned/in-
+bank ATM sites contain a reproducible, transportable environmental risk signal beyond surrounding
+crime concentration. A positive result, a precise null result, and a finding of strong within-city but poor
+cross-city transportability are all legitimate outcomes. The redesigned paper becomes weak only if the
+analysis changes definitions, cities, radii, features, or models after observing which choices produce the
+most attractive answer.
+
+
+
+ 1 Examining the impact of cross-domain learning on crime prediction | Journal of Big Data | Springer
+Nature Link
+https://link.springer.com/article/10.1186/s40537-021-00489-9?utm_source=chatgpt.com
+
+ 2    Unsupervised Domain Adaptation for Crime Risk Prediction Across Cities
+https://doi.org/10.1109%2FTCSS.2022.3207987?utm_source=chatgpt.com
+
+ 3     The Crime Kaleidoscope: A Cross-Jurisdictional Analysis of Place Features and Crime in Three Urban
+       24
+
+Environments
+https://www.ojp.gov/ncjrs/virtual-library/abstracts/crime-kaleidoscope-cross-jurisdictional-analysis-place-features-and?
+utm_source=chatgpt.com
+
+ 4     9    29   About Bank-Owned ATM Locations in New York State Map | State of New York
+https://data.ny.gov/en/Government-Finance/Bank-Owned-ATM-Locations-in-New-York-State-Map/ygnk-5wb9/about?
+utm_source=chatgpt.com
+
+ 5     11   30   NYPD Complaint Data Historic | NYC Open Data
+https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i?utm_source=chatgpt.com
+
+ 6     19   data.buffalony.gov
+https://data.buffalony.gov/w/d6g9-xbgu/ixf7-aa9j?cur=6omw1tqotmP&utm_source=chatgpt.com
+
+ 7 XGBoost | Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and
+Data Mining
+https://doi.org/10.1145/2939672.2939785?utm_source=chatgpt.com
+
+ 8     23 Examining the impact of cross-domain learning on crime prediction | Journal of Big Data |
+            27
+
+Springer Nature Link
+https://link.springer.com/article/10.1186/s40537-021-00489-9
+
+
+
+
+                                                                28
+10   Introducing Dataset Archiving – Data & Insights Client Center
+https://support.socrata.com/hc/en-us/articles/9486838238743-Introducing-Dataset-Archiving?utm_source=chatgpt.com
+
+12   NYPD Complaint Data Current (Year To Date) | NYC Open Data
+https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-Date-/5uac-w243?utm_source=chatgpt.com
+
+13   RPD: Rochester crime mapping | City of Rochester, New York
+https://www.cityofrochester.gov/departments/rochester-police-department/rpd-rochester-crime-mapping?
+utm_source=chatgpt.com
+
+14   Smart Location Mapping | US EPA
+https://www.epa.gov/smartgrowth/smart-location-mapping?utm_source=chatgpt.com
+
+15   21   American Community Survey 5-Year Data (2009-2024)
+https://www.census.gov/data/developers/data-sets/acs-5year.html?utm_source=chatgpt.com
+
+16   Ecography - Wiley Online Library
+https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.02881?utm_source=chatgpt.com
+
+17   A Unified Approach to Interpreting Model Predictions
+https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html?utm_source=chatgpt.com
+
+18Comparing XAI techniques for interpreting short-term burglary predictions at micro-places |
+Computational Urban Science | Springer Nature Link
+https://link.springer.com/article/10.1007/s43762-025-00185-x?utm_source=chatgpt.com
+
+20   28   RPD/RPD_Part_I_Crime (MapServer)
+https://gis.cityofrochester.gov/arcgis/rest/services/RPD/RPD_Part_I_Crime/MapServer
+
+22   TIGER/Line Geodatabase Documentation
+https://www.census.gov/programs-surveys/geography/technical-documentation/complete-technical-documentation/tiger-
+geodatabase-file.2025.html?utm_source=chatgpt.com
+
+25 Predicting Public Violent Crime Using Register and OpenStreetMap Data: A Risk Terrain Modeling
+Approach Across Three Cities of Varying Size | Applied Spatial Analysis and Policy | Springer Nature Link
+https://link.springer.com/article/10.1007/s12061-024-09609-3?utm_source=chatgpt.com
+
+26 The Precision-Recall Plot Is More Informative than the ROC Plot When Evaluating Binary Classifiers on
+Imbalanced Datasets | PLOS One
+https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0118432&utm_source=chatgpt.com
+
+
+
+
+                                                             29
+

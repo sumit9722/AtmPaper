@@ -1,0 +1,213 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-30T14:06:34Z",
+    "timestamp_areas_base": "2026-09-29T07:52:35Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 925059027,
+      "lat": 43.1523772,
+      "lon": -77.6029726,
+      "tags": {
+        "addr:city": "Rochester",
+        "addr:housenumber": "225",
+        "addr:postcode": "14604",
+        "addr:state": "NY",
+        "addr:street": "Chestnut Street",
+        "air_conditioning": "yes",
+        "amenity": "bank",
+        "atm": "yes",
+        "branch": "Chestnut Street",
+        "brand": "ESL Federal Credit Union",
+        "brand:wikidata": "Q5324174",
+        "description": "This building is also home to ESL's corporate office",
+        "drive_through": "yes",
+        "level": "1",
+        "name": "ESL Federal Credit Union",
+        "operator": "ESL Federal Credit Union",
+        "website": "https://www.esl.org/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 925063072,
+      "lat": 43.1492578,
+      "lon": -77.5970329,
+      "tags": {
+        "amenity": "atm",
+        "brand": "Canandaigua National Bank & Trust",
+        "brand:wikidata": "Q113587210",
+        "currency:USD": "yes",
+        "drive_through": "yes",
+        "operator": "Canandaigua National Bank & Trust",
+        "operator:wikidata": "Q113587210",
+        "website": "https://www.cnbank.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 925063081,
+      "lat": 43.1458178,
+      "lon": -77.5918361,
+      "tags": {
+        "amenity": "atm",
+        "brand": "Chase",
+        "brand:wikidata": "Q524629",
+        "cash_in": "yes",
+        "drive_through": "yes",
+        "operator": "Chase",
+        "operator:wikidata": "Q524629",
+        "operator:wikipedia": "en:Chase Bank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1513391867,
+      "lat": 43.1428215,
+      "lon": -77.6013982,
+      "tags": {
+        "addr:city": "Rochester",
+        "addr:housenumber": "395",
+        "addr:postcode": "14620-1327",
+        "addr:state": "NY",
+        "addr:street": "Gregory Street",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Genesee Coop Federal Credit Union",
+        "opening_hours": "Mo-Th 10:00-17:00; Fr 10:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3453071090,
+      "lat": 43.1191518,
+      "lon": -77.6206185,
+      "tags": {
+        "amenity": "atm",
+        "brand": "Canandaigua National Bank & Trust",
+        "brand:wikidata": "Q113587210",
+        "drive_through": "yes",
+        "operator": "Canandaigua National Bank & Trust",
+        "operator:wikidata": "Q113587210",
+        "website": "https://www.cnbank.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8786027623,
+      "lat": 43.1235489,
+      "lon": -77.6184626,
+      "tags": {
+        "addr:city": "Rochester",
+        "addr:housenumber": "1341",
+        "addr:postcode": "14620",
+        "addr:state": "NY",
+        "addr:street": "Mount Hope Avenue",
+        "amenity": "bank",
+        "atm": "yes",
+        "branch": "Rochester - College Town",
+        "brand": "Canandaigua National Bank & Trust",
+        "brand:wikidata": "Q113587210",
+        "drive_through": "no",
+        "name": "Canandaigua National Bank & Trust",
+        "nysgissam:nysaddresspointid": "MONR405133",
+        "opening_hours": "Mo-Fr 09:00-17:00; Sa-Su 09:00-13:00",
+        "website": "https://www.cnbank.com/Your_Bank/Locations/Branch_Pages/College_Town/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11929448230,
+      "lat": 43.1937174,
+      "lon": -77.6272119,
+      "tags": {
+        "amenity": "atm",
+        "brand": "ESL Federal Credit Union",
+        "brand:wikidata": "Q5324174",
+        "drive_through": "yes",
+        "opening_hours": "24/7",
+        "operator": "ESL Federal Credit Union",
+        "operator:wikidata": "Q5324174",
+        "website": "https://www.esl.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11929739352,
+      "lat": 43.151664,
+      "lon": -77.6032075,
+      "tags": {
+        "amenity": "atm",
+        "brand": "ESL Federal Credit Union",
+        "brand:wikidata": "Q5324174",
+        "drive_through": "yes",
+        "operator": "ESL Federal Credit Union",
+        "operator:wikidata": "Q5324174",
+        "source": "survey;local knowledge;aerial imagery",
+        "website": "https://www.esl.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12117233243,
+      "lat": 43.1646835,
+      "lon": -77.5889756,
+      "tags": {
+        "amenity": "atm",
+        "cash_in": "no",
+        "drive_through": "no",
+        "operator": "Sundberg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12117237790,
+      "lat": 43.1656361,
+      "lon": -77.5890733,
+      "tags": {
+        "amenity": "atm",
+        "cash_in": "no",
+        "drive_through": "no",
+        "operator": "Sundberg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12117238502,
+      "lat": 43.1651524,
+      "lon": -77.5894348,
+      "tags": {
+        "amenity": "atm",
+        "cash_in": "no",
+        "drive_through": "no",
+        "operator": "Sundberg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12117242785,
+      "lat": 43.1652462,
+      "lon": -77.5899212,
+      "tags": {
+        "amenity": "atm",
+        "cash_in": "no",
+        "drive_through": "no",
+        "operator": "Sundberg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14181671129,
+      "lat": 43.173789,
+      "lon": -77.6127348,
+      "tags": {
+        "amenity": "atm"
+      }
+    }
+  ]
+}

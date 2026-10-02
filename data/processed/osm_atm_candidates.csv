@@ -1,0 +1,766 @@
+osm_id,osm_type,expected_city,polygon_city,latitude,longitude,amenity,atm_tag,name,operator,snapshot_timestamp,nearest_dfs_site_id,nearest_dfs_distance_m,primary_population_included,ownership_verified,source_file
+419367087,node,New York City,New York City,40.7473249,-73.9771517,atm,,,,2026-09-30T14:01:28Z,dfs_1b3d4c79841f294f,186.138,False,False,export (1).json
+419367317,node,New York City,New York City,40.7311374,-73.9856068,atm,,,,2026-09-30T14:01:28Z,dfs_b0dabd761c173a62,202.678,False,False,export (1).json
+502834894,node,New York City,New York City,40.7605446,-73.8304276,bank,yes,Citibank,Citi Bank,2026-09-30T14:01:28Z,dfs_6c33d5b6b7d12a40,14.241,False,False,export (1).json
+580418718,node,New York City,New York City,40.7906199,-73.9743648,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_8f89e4ad9adf4196,23.879,False,False,export (1).json
+663084281,node,New York City,New York City,40.7559085,-73.9830221,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_b6b365a90566e626,34.111,False,False,export (1).json
+663086460,node,New York City,New York City,40.750366,-73.982918,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_58d8f8d27b380ccd,19.988,False,False,export (1).json
+883174326,node,New York City,New York City,40.7481684,-73.9845248,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_3cf2c8d716644710,17.266,False,False,export (1).json
+889078654,node,New York City,New York City,40.7147515,-74.0117712,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_f78bc9395edf8b52,44.605,False,False,export (1).json
+1242371874,node,New York City,New York City,40.752085,-73.9895832,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_cebf976a5e28fdf2,16.629,False,False,export (1).json
+1279337156,node,New York City,New York City,40.7083019,-74.0110037,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_6846d4b5c381fd1b,38.761,False,False,export (1).json
+1292790751,node,New York City,New York City,40.7504084,-73.9792269,atm,,,Bank of America,2026-09-30T14:01:28Z,dfs_089447b5dbec3bcd,30.834,False,False,export (1).json
+1292790756,node,New York City,New York City,40.750855,-73.9789037,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_089447b5dbec3bcd,31.727,False,False,export (1).json
+1292794347,node,New York City,New York City,40.750301,-73.978632,bank,yes,Metropolitan National Bank,,2026-09-30T14:01:28Z,dfs_a991de4ccb0e350a,22.265,False,False,export (1).json
+1297282196,node,New York City,New York City,40.7451691,-73.9829825,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_f2c928fc7f7759f3,16.792,False,False,export (1).json
+1383918588,node,New York City,New York City,40.7672715,-73.9827246,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_bb4d5d17f7c618c8,24.013,False,False,export (1).json
+1383936936,node,New York City,New York City,40.7697666,-73.9818221,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_317ce0fe7b7815d0,15.971,False,False,export (1).json
+1383956918,node,New York City,New York City,40.7659988,-73.9816603,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_c3d82528191137c1,24.218,False,False,export (1).json
+1396580643,node,New York City,New York City,40.7166025,-73.9977464,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_9163676e67993010,21.328,False,False,export (1).json
+1426276530,node,New York City,New York City,40.7563513,-73.9870948,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_6055c6ec19230262,38.645,False,False,export (1).json
+1427233328,node,New York City,New York City,40.7533827,-73.9766738,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_90c72856c81fb865,58.117,False,False,export (1).json
+1427285893,node,New York City,New York City,40.7518554,-73.975518,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_0caf18f4d630c483,17.312,False,False,export (1).json
+1428036347,node,New York City,New York City,40.7532596,-73.9808098,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_c03a7c2f30941e0d,17.492,False,False,export (1).json
+1640916379,node,New York City,New York City,40.6752586,-73.9631416,atm,,,,2026-09-30T14:01:28Z,dfs_bdcb660f23345c45,671.869,False,False,export (1).json
+1666605529,node,New York City,New York City,40.8063138,-73.9542239,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_1dd8016b499ca257,52.277,False,False,export (1).json
+1706057512,node,New York City,New York City,40.7553098,-73.9848042,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_e9c2013345f78dc7,17.796,False,False,export (1).json
+1825853212,node,New York City,New York City,40.7951119,-73.9711312,bank,yes,Bank of America,Bank of America Corporation,2026-09-30T14:01:28Z,dfs_1d3e4b235e31aea6,20.155,False,False,export (1).json
+1825853214,node,New York City,New York City,40.7406369,-74.0021615,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_5efbdbcc74e4c873,34.227,False,False,export (1).json
+1825853218,node,New York City,New York City,40.7880383,-73.9763608,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_af021aaa1fff103e,35.034,False,False,export (1).json
+1825853219,node,New York City,New York City,40.7946267,-73.972166,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_d405025c90af5f30,58.086,False,False,export (1).json
+1825853226,node,New York City,New York City,40.7392273,-74.0024985,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_8b1a80deb25c2f74,21.155,False,False,export (1).json
+1825853227,node,New York City,New York City,40.7935647,-73.9729753,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_57b68d1b27418432,20.767,False,False,export (1).json
+1825853229,node,New York City,New York City,40.7406522,-74.002154,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_5efbdbcc74e4c873,32.993,False,False,export (1).json
+1825853230,node,New York City,New York City,40.7410583,-74.0018528,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_5efbdbcc74e4c873,33.548,False,False,export (1).json
+1825853231,node,New York City,New York City,40.7880317,-73.9763655,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_af021aaa1fff103e,34.377,False,False,export (1).json
+1825853232,node,New York City,New York City,40.7889553,-73.9755886,bank,yes,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_8ba9c766e9dd1b81,18.843,False,False,export (1).json
+1873813850,node,New York City,New York City,40.7586769,-73.9927249,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_615f7908209bbef1,19.215,False,False,export (1).json
+1873813921,node,New York City,New York City,40.758505,-73.9923381,bank,yes,TD Bank,Mo-Fr 07:30-20:00; Sa 07:30-18:00; Su 11:00-16:00,2026-09-30T14:01:28Z,dfs_615f7908209bbef1,19.334,False,False,export (1).json
+1994680551,node,New York City,New York City,40.7837582,-73.9804188,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_87e84c1401a28bb7,24.579,False,False,export (1).json
+1994680554,node,New York City,New York City,40.8035649,-73.9667771,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_9dc08e35be271518,21.064,False,False,export (1).json
+1994680563,node,New York City,New York City,40.8039054,-73.9672427,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_286f1b251b49c2cb,17.869,False,False,export (1).json
+2017697825,node,New York City,New York City,40.7349155,-73.8740098,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_dee660f19cd32c99,18.638,False,False,export (1).json
+2017701500,node,New York City,New York City,40.7356712,-73.8753559,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_9ab9979385807a23,22.32,False,False,export (1).json
+2017701866,node,New York City,New York City,40.7357671,-73.8755426,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_9ab9979385807a23,27.461,False,False,export (1).json
+2020723102,node,New York City,New York City,40.7381947,-73.9996791,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_da634e80d8404195,263.226,False,False,export (1).json
+2034010947,node,New York City,New York City,40.70608,-74.0132866,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_fea9d2a2e7f882bb,12.652,False,False,export (1).json
+2045635332,node,New York City,New York City,40.7927919,-73.9678814,bank,yes,Popular Community Bank,,2026-09-30T14:01:28Z,dfs_8738bcce0d3ccd15,88.846,False,False,export (1).json
+2045635531,node,New York City,New York City,40.7399899,-73.9893519,bank,yes,Valley National Bank,,2026-09-30T14:01:28Z,dfs_feaf8a5b5763c17e,16.5,False,False,export (1).json
+2047269447,node,New York City,New York City,40.7102264,-74.0080462,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_df15edee711d0e3a,115.602,False,False,export (1).json
+2052328162,node,New York City,New York City,40.7786706,-73.9822564,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_0907374a4d0095eb,17.463,False,False,export (1).json
+2065798244,node,New York City,New York City,40.7597562,-73.9210223,bank,yes,Flagstar Bank,,2026-09-30T14:01:28Z,dfs_219b1655832e8f5b,15.308,False,False,export (1).json
+2066803575,node,New York City,New York City,40.760274,-73.922177,bank,yes,Dime,,2026-09-30T14:01:28Z,dfs_48374abb9dcd4f9a,18.561,False,False,export (1).json
+2070045695,node,New York City,New York City,40.763671,-73.914969,atm,,Bank of America,,2026-09-30T14:01:28Z,dfs_a9f3400839a98fc4,103.944,False,False,export (1).json
+2070982494,node,New York City,New York City,40.7109117,-74.0087617,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_df15edee711d0e3a,20.729,False,False,export (1).json
+2077086334,node,New York City,New York City,40.7802857,-73.9818329,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_9e637b875ba9c4c8,19.198,False,False,export (1).json
+2089444275,node,New York City,New York City,40.7776752,-73.978887,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_0d8a81f3bb96676f,16.64,False,False,export (1).json
+2089444277,node,New York City,New York City,40.7713885,-73.9817728,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_2acc23d8a464d361,39.944,False,False,export (1).json
+2131716792,node,New York City,New York City,40.7833002,-73.974249,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_1507807b322b23ee,20.214,False,False,export (1).json
+2131716808,node,New York City,New York City,40.7833074,-73.9742442,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_1507807b322b23ee,20.074,False,False,export (1).json
+2158425800,node,New York City,New York City,40.7896095,-73.9750965,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_9ad3e38a8e2833e7,20.28,False,False,export (1).json
+2219125029,node,New York City,New York City,40.7532086,-73.8216745,bank,yes,Flushing Bank,,2026-09-30T14:01:28Z,dfs_9c79b8045d3856ce,27.609,False,False,export (1).json
+2259025504,node,New York City,New York City,40.801814,-73.9575077,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_cb332c186e715d95,438.607,False,False,export (1).json
+2262146997,node,New York City,New York City,40.7291822,-73.9874819,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_b0dabd761c173a62,66.778,False,False,export (1).json
+2279017960,node,New York City,New York City,40.8019491,-73.9675075,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_2eadff8dfbab0e72,22.959,False,False,export (1).json
+2279506338,node,New York City,New York City,40.7320222,-73.982307,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_13c152710ac546e5,16.1,False,False,export (1).json
+2279507740,node,New York City,New York City,40.7320333,-73.9816966,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_d4b1ac89a4f964c3,12.4,False,False,export (1).json
+2300356461,node,New York City,New York City,40.6943057,-73.9920273,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_b66731cd4f081fb7,13.346,False,False,export (1).json
+2301162810,node,New York City,New York City,40.7851519,-73.9786461,bank,yes,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_6bbbf0f17a675071,22.655,False,False,export (1).json
+2301167312,node,New York City,New York City,40.7865613,-73.9775754,bank,yes,Charles Schwab,Charles Schwab,2026-09-30T14:01:28Z,dfs_af021aaa1fff103e,165.541,False,False,export (1).json
+2302043649,node,New York City,New York City,40.8747813,-73.9098155,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_5afd5058ce79cfb3,515.961,False,False,export (1).json
+2310498478,node,New York City,New York City,40.7705656,-73.9824419,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_cda34cabfdf5e0cf,16.294,False,False,export (1).json
+2348610317,node,New York City,New York City,40.8553547,-73.9379618,bank,yes,The Berkshire Bank,,2026-09-30T14:01:28Z,dfs_26b3052d25d15d4b,19.547,False,False,export (1).json
+2348610332,node,New York City,New York City,40.855016,-73.9367189,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_b043146f33e92d76,18.855,False,False,export (1).json
+2348610411,node,New York City,New York City,40.8652463,-73.9273619,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_52a0c77608c47489,25.462,False,False,export (1).json
+2348610412,node,New York City,New York City,40.8653482,-73.9268706,atm,,Capital One,Capital One,2026-09-30T14:01:28Z,dfs_52a0c77608c47489,19.984,False,False,export (1).json
+2348621723,node,New York City,New York City,40.8391754,-73.9407572,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_d35e4da82efb65b9,17.773,False,False,export (1).json
+2357883811,node,New York City,New York City,40.6830243,-73.9957782,bank,yes,Apple Bank,,2026-09-30T14:01:28Z,dfs_d35d481f02f2d45f,17.014,False,False,export (1).json
+2357937191,node,New York City,New York City,40.7631572,-73.9699958,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_d08083aafd66b636,120.752,False,False,export (1).json
+2357937242,node,New York City,New York City,40.7765852,-73.9492609,bank,yes,Ridgewood Savings Bank,,2026-09-30T14:01:28Z,dfs_496b8e8159ff9b31,28.676,False,False,export (1).json
+2357937280,node,New York City,New York City,40.7631686,-73.9719879,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_688403df9cc0ecba,20.364,False,False,export (1).json
+2358000767,node,New York City,New York City,40.7560243,-73.9766969,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_24a39d653c6a0526,27.651,False,False,export (1).json
+2358000768,node,New York City,New York City,40.763538,-73.969728,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_d08083aafd66b636,167.185,False,False,export (1).json
+2358048553,node,New York City,New York City,40.7332332,-74.0026154,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_e23c85436ab99131,14.244,False,False,export (1).json
+2366519602,node,New York City,New York City,40.7478019,-74.0037753,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_435d220f06c7bff3,27.441,False,False,export (1).json
+2366519603,node,New York City,New York City,40.7483851,-74.008099,atm,,Capital One,Capital One,2026-09-30T14:01:28Z,dfs_aabf16db09fd6419,257.835,False,False,export (1).json
+2377128161,node,New York City,New York City,40.7448288,-73.998551,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_c33446ea3d9e5fcd,20.351,False,False,export (1).json
+2377128197,node,New York City,New York City,40.7412737,-74.001687,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_237854274a67e491,20.073,False,False,export (1).json
+2377128198,node,New York City,New York City,40.7416901,-74.0008357,atm,,Capital One,Capital One,2026-09-30T14:01:28Z,dfs_d9b0457bfebc3f97,49.003,False,False,export (1).json
+2377128199,node,New York City,New York City,40.7422163,-74.0010011,atm,,,Valley National Bank,2026-09-30T14:01:28Z,dfs_d9b0457bfebc3f97,20.242,False,False,export (1).json
+2384821688,node,New York City,New York City,40.74907,-73.992305,bank,yes,Astoria Bank,,2026-09-30T14:01:28Z,dfs_6d15d146116cc19c,104.344,False,False,export (1).json
+2384821719,node,New York City,New York City,40.7488997,-73.9919013,bank,yes,Emigrant Savings Bank,,2026-09-30T14:01:28Z,dfs_6d15d146116cc19c,103.305,False,False,export (1).json
+2384821749,node,New York City,New York City,40.7491185,-73.9917001,bank,yes,PNC Bank,,2026-09-30T14:01:28Z,dfs_6d15d146116cc19c,132.915,False,False,export (1).json
+2384821785,node,New York City,New York City,40.7381843,-73.9996882,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_da634e80d8404195,262.998,False,False,export (1).json
+2413226691,node,New York City,New York City,40.7417234,-74.0045129,bank,yes,Wells Fargo,Wells Fargo,2026-09-30T14:01:28Z,dfs_394e16fad466c195,165.644,False,False,export (1).json
+2427682633,node,New York City,New York City,40.6086928,-73.9581291,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_ea14ecab11c821f9,12.349,False,False,export (1).json
+2427682634,node,New York City,New York City,40.6089254,-73.9581771,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_a8bf8761401b6cc3,12.442,False,False,export (1).json
+2427704789,node,New York City,New York City,40.5870823,-73.9532794,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_af7123c81be8cf47,16.218,False,False,export (1).json
+2477140739,node,New York City,New York City,40.7018828,-73.808134,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_355a0fbc63062d38,38.798,False,False,export (1).json
+2494045826,node,New York City,New York City,40.6046364,-73.9979748,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_23d319816b763f6a,20.499,False,False,export (1).json
+2494057286,node,New York City,New York City,40.6879215,-73.9897672,atm,,,,2026-09-30T14:01:28Z,dfs_60aaf712c80b13d7,143.527,False,False,export (1).json
+2494153106,node,New York City,New York City,40.6932775,-73.9908184,atm,,,Signature Bank,2026-09-30T14:01:28Z,dfs_e3cd6fdbbdb844ad,15.212,False,False,export (1).json
+2494252032,node,New York City,New York City,40.6805246,-73.9965896,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_783c4e2afccbe480,16.079,False,False,export (1).json
+2494254658,node,New York City,New York City,40.6942093,-73.9916462,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_19e7d9571e2adde7,14.053,False,False,export (1).json
+2505404940,node,New York City,New York City,40.7263556,-73.851507,bank,yes,M&T Bank,,2026-09-30T14:01:28Z,dfs_eec617b030204211,64.407,False,False,export (1).json
+2515736376,node,New York City,New York City,40.7754885,-73.9824748,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_a932de97fd9545fa,19.751,False,False,export (1).json
+2523609802,node,New York City,New York City,40.6915238,-73.9916465,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_e6862b0dd2c363d7,12.827,False,False,export (1).json
+2547023927,node,New York City,New York City,40.730359,-73.9927942,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_d348acfa8ecb6807,14.581,False,False,export (1).json
+2547041148,node,New York City,New York City,40.7251978,-73.995012,atm,,,Bank of America,2026-09-30T14:01:28Z,dfs_b79d2ef68fdd3cb3,17.501,False,False,export (1).json
+2547169342,node,New York City,New York City,40.7315381,-73.9918293,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_9327b0d52838d8e7,20.315,False,False,export (1).json
+2547630762,node,New York City,New York City,40.680016,-73.9449499,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_8f9db524b43d65eb,18.725,False,False,export (1).json
+2547682730,node,New York City,New York City,40.6248231,-73.9635122,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_09b0b4f8a586ccb5,13.068,False,False,export (1).json
+2549878198,node,New York City,New York City,40.6519742,-73.9589386,bank,yes,Carver Federal Savings Bank,,2026-09-30T14:01:28Z,dfs_54dc95bc7ad6ef5a,18.022,False,False,export (1).json
+2550005909,node,New York City,New York City,40.6896547,-73.9831908,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_7644164bd65c7536,13.321,False,False,export (1).json
+2550007710,node,New York City,New York City,40.7242554,-73.9911005,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_c332f608a853d5c4,14.253,False,False,export (1).json
+2550045047,node,New York City,New York City,40.6737966,-73.9760951,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_96ee53a0f61fa72c,15.309,False,False,export (1).json
+2550112945,node,New York City,New York City,40.7745185,-73.9811352,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_c232fa63ccd61b68,16.648,False,False,export (1).json
+2552604075,node,New York City,New York City,40.6230079,-74.0284756,bank,yes,Dime Bank,,2026-09-30T14:01:28Z,dfs_f0660fa8c0df0cb8,19.246,False,False,export (1).json
+2552604113,node,New York City,New York City,40.6225889,-74.031249,bank,yes,Empire State Bank,,2026-09-30T14:01:28Z,dfs_4e58f20d20a03750,13.567,False,False,export (1).json
+2552672523,node,New York City,New York City,40.6294447,-74.0287823,bank,yes,Valley Bank,,2026-09-30T14:01:28Z,dfs_808e6c71a28b0c74,12.244,False,False,export (1).json
+2552762166,node,New York City,New York City,40.5767585,-73.982444,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_bf0c0c4f9f71de5d,12.386,False,False,export (1).json
+2552880645,node,New York City,New York City,40.5767194,-73.9648313,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_a34efb8130f6bbe3,18.514,False,False,export (1).json
+2552885426,node,New York City,New York City,40.62429,-74.0249347,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_bd45a8fe491f4d66,16.141,False,False,export (1).json
+2552909006,node,New York City,New York City,40.6267094,-74.0239537,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_6ede0ea901b3474d,13.721,False,False,export (1).json
+2552912658,node,New York City,New York City,40.7403369,-73.7871183,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_208d126a3c1a219e,13.044,False,False,export (1).json
+2553307766,node,New York City,New York City,40.7488468,-73.7562193,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_cb046b4036c008e1,27.954,False,False,export (1).json
+2555120216,node,New York City,New York City,40.7194094,-74.0016033,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_d7101b1887680e76,21.153,False,False,export (1).json
+2555135915,node,New York City,New York City,40.7358573,-73.9914514,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_1fd823cd10ad655b,72.567,False,False,export (1).json
+2555989804,node,New York City,New York City,40.6006276,-73.9912713,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_15193832fda3ca65,238.34,False,False,export (1).json
+2556091859,node,New York City,New York City,40.5968897,-73.9751605,bank,yes,Northfield Bank,,2026-09-30T14:01:28Z,dfs_a641b573bf8aada6,12.305,False,False,export (1).json
+2556469733,node,New York City,New York City,40.6183575,-73.99075,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_351f04b6ac3a60af,13.676,False,False,export (1).json
+2561792453,node,New York City,New York City,40.6478954,-74.0076321,bank,yes,Popular,,2026-09-30T14:01:28Z,dfs_eb074a60e1c9ee23,523.78,False,False,export (1).json
+2562438633,node,New York City,New York City,40.8092477,-73.9485008,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_385476af90324fb6,33.824,False,False,export (1).json
+2562438703,node,New York City,New York City,40.8241317,-73.9444319,atm,,Capital One,Capital One,2026-09-30T14:01:28Z,dfs_16af1602876554ad,176.259,False,False,export (1).json
+2562787070,node,New York City,New York City,40.5959618,-73.9612162,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_3dbc5cc63740ba78,7.98,False,False,export (1).json
+2562938486,node,New York City,New York City,40.5990398,-73.9556793,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_02b883aaaffb5ed0,14.901,False,False,export (1).json
+2563439495,node,New York City,New York City,40.63492,-73.9626097,atm,,,Bank of America,2026-09-30T14:01:28Z,dfs_845861d48f085b35,37.766,False,False,export (1).json
+2563439539,node,New York City,New York City,40.6347236,-73.9625672,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_845861d48f085b35,16.56,False,False,export (1).json
+2563985435,node,New York City,New York City,40.7169274,-73.9975575,bank,yes,Flushing Bank,,2026-09-30T14:01:28Z,dfs_9163676e67993010,18.139,False,False,export (1).json
+2563986149,node,New York City,New York City,40.7180433,-73.9996992,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_1c971fab0c057ed6,26.118,False,False,export (1).json
+2567551912,node,New York City,New York City,40.7152018,-73.9969659,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_6acb3227d4e8542e,55.163,False,False,export (1).json
+2568087454,node,New York City,New York City,40.6822983,-73.9604727,bank,yes,Ridgewood Savings Bank,,2026-09-30T14:01:28Z,dfs_051052f4e9473eae,19.489,False,False,export (1).json
+2568194150,node,New York City,New York City,40.6932822,-73.965652,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_41bb0b07e4a17d58,22.985,False,False,export (1).json
+2568752299,node,New York City,New York City,40.6674732,-73.9812919,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_b1cc80c5cebcc3f5,14.637,False,False,export (1).json
+2572216588,node,New York City,New York City,40.7295928,-73.9867224,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_b0dabd761c173a62,18.629,False,False,export (1).json
+2572245357,node,New York City,New York City,40.7166185,-73.995554,bank,yes,EastWest Unibank,,2026-09-30T14:01:28Z,dfs_49a149940dd94e99,19.803,False,False,export (1).json
+2572245364,node,New York City,New York City,40.7169895,-73.998811,bank,yes,EastWest Unibank,,2026-09-30T14:01:28Z,dfs_ee113d63a8c5581f,23.74,False,False,export (1).json
+2572245375,node,New York City,New York City,40.7164502,-73.9962092,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_8eba9ad74c3ad2ef,18.223,False,False,export (1).json
+2572245383,node,New York City,New York City,40.7164133,-73.9972202,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_68d975543163f832,22.969,False,False,export (1).json
+2572411286,node,New York City,New York City,40.7182721,-73.9951302,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_6ed1c3b36ed28238,33.125,False,False,export (1).json
+2572411288,node,New York City,New York City,40.7230126,-73.9990655,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_5dfc8b65503893e7,19.376,False,False,export (1).json
+2572411295,node,New York City,New York City,40.7325246,-73.9898344,bank,yes,Valley National Bank,,2026-09-30T14:01:28Z,dfs_cad4c40e18a87a9a,24.774,False,False,export (1).json
+2572411298,node,New York City,New York City,40.7184413,-73.9951769,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_6ed1c3b36ed28238,15.369,False,False,export (1).json
+2572411299,node,New York City,New York City,40.7230083,-73.999069,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_5dfc8b65503893e7,19.343,False,False,export (1).json
+2572411301,node,New York City,New York City,40.732514,-73.9898363,atm,,,Valley National Bank,2026-09-30T14:01:28Z,dfs_cad4c40e18a87a9a,24.15,False,False,export (1).json
+2573047724,node,New York City,New York City,40.6809387,-73.9749616,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_445e555a5b85a7fe,30.636,False,False,export (1).json
+2592317378,node,New York City,New York City,40.9081105,-73.9040456,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_85b6bc41dec02ddc,182.502,False,False,export (1).json
+2592317382,node,New York City,New York City,40.9063743,-73.9048044,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_85b6bc41dec02ddc,21.736,False,False,export (1).json
+2596227490,node,New York City,New York City,40.6917164,-73.9883667,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_6904f06855d9e4e2,12.815,False,False,export (1).json
+2603955333,node,New York City,New York City,40.843449,-73.9393862,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_c06da3b3acb3a1b9,22.336,False,False,export (1).json
+2603955405,node,New York City,New York City,40.8413759,-73.9399231,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_03dc65fcbdaba84d,156.597,False,False,export (1).json
+2603955420,node,New York City,New York City,40.8434557,-73.9393856,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_c06da3b3acb3a1b9,22.11,False,False,export (1).json
+2605399143,node,New York City,New York City,40.6929751,-73.9690989,bank,yes,Apple Bank,,2026-09-30T14:01:28Z,dfs_66f2542f1c5979e9,15.086,False,False,export (1).json
+2605399144,node,New York City,New York City,40.6929886,-73.9696036,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_72132e2fa3c05b2e,13.492,False,False,export (1).json
+2605399147,node,New York City,New York City,40.6930276,-73.9684575,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_bea4910cdf6452af,12.626,False,False,export (1).json
+2610440241,node,New York City,New York City,40.7628715,-73.9822575,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_cad3eecf6cf91d2d,22.166,False,False,export (1).json
+2610440264,node,New York City,New York City,40.7617657,-73.9825061,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_d25c97507763ba5b,53.061,False,False,export (1).json
+2610440265,node,New York City,New York City,40.7621069,-73.9822562,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_d25c97507763ba5b,20.829,False,False,export (1).json
+2610440267,node,New York City,New York City,40.7628755,-73.9822669,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_cad3eecf6cf91d2d,23.057,False,False,export (1).json
+2611468718,node,New York City,New York City,40.7016036,-73.8077917,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_aa2cda6b01d2a4ee,11.109,False,False,export (1).json
+2611541689,node,New York City,New York City,40.7439838,-73.9231224,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_62aeac2b91cbffd4,58.446,False,False,export (1).json
+2611782749,node,New York City,New York City,40.761965,-73.9786125,bank,yes,Apple Bank,,2026-09-30T14:01:28Z,dfs_4d166233b03c04a5,84.36,False,False,export (1).json
+2611782751,node,New York City,New York City,40.7568069,-73.9824512,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_75b69075a435aaec,37.364,False,False,export (1).json
+2611782759,node,New York City,New York City,40.7549098,-73.9837692,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_e9c2013345f78dc7,92.658,False,False,export (1).json
+2611782762,node,New York City,New York City,40.7555256,-73.9833268,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_b6b365a90566e626,31.093,False,False,export (1).json
+2611782763,node,New York City,New York City,40.7565894,-73.982602,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_75b69075a435aaec,17.713,False,False,export (1).json
+2620513836,node,New York City,New York City,40.7792619,-73.9555193,bank,yes,Bank of America,Bank of America Corporation,2026-09-30T14:01:28Z,dfs_d194d10ea116a813,20.88,False,False,export (1).json
+2620513909,node,New York City,New York City,40.7781083,-73.9547613,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_56bdfdca592cb396,19.465,False,False,export (1).json
+2620513910,node,New York City,New York City,40.7759713,-73.9557489,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_3175148faddebc66,225.854,False,False,export (1).json
+2620513911,node,New York City,New York City,40.7792183,-73.9555156,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_d194d10ea116a813,25.433,False,False,export (1).json
+2623014649,node,New York City,New York City,40.7696778,-73.9609463,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_76180ee954d64c9a,20.932,False,False,export (1).json
+2623014661,node,New York City,New York City,40.7646512,-73.964601,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_035861e5ea828e84,22.51,False,False,export (1).json
+2623014696,node,New York City,New York City,40.7743561,-73.9569681,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_3175148faddebc66,19.418,False,False,export (1).json
+2629277987,node,New York City,New York City,40.7644047,-73.9768632,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_b19281d0d97dbcd4,124.04,False,False,export (1).json
+2629277988,node,New York City,New York City,40.7616431,-73.9703313,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_ea0912d8a092559f,39.802,False,False,export (1).json
+2629277999,node,New York City,New York City,40.7619109,-73.9709184,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_ea0912d8a092559f,21.852,False,False,export (1).json
+2629278001,node,New York City,New York City,40.7633611,-73.9776464,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_b19281d0d97dbcd4,20.084,False,False,export (1).json
+2629371807,node,New York City,New York City,40.7675548,-73.95591,bank,yes,Bank of America,Bank of America Corporation,2026-09-30T14:01:28Z,dfs_363fab56f0f1c82f,27.145,False,False,export (1).json
+2629371812,node,New York City,New York City,40.7677332,-73.9563296,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_d2cc6bcdb3eb2aa8,20.008,False,False,export (1).json
+2629371818,node,New York City,New York City,40.7671455,-73.9562037,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_363fab56f0f1c82f,38.281,False,False,export (1).json
+2629371852,node,New York City,New York City,40.7579191,-73.9694901,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_95f90c19f9d992a0,21.987,False,False,export (1).json
+2629371853,node,New York City,New York City,40.7644185,-73.9581907,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_749fa7d22e7740c1,25.289,False,False,export (1).json
+2629371902,node,New York City,New York City,40.7720749,-73.9525944,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_61a85344eb145892,168.155,False,False,export (1).json
+2649092001,node,New York City,New York City,40.7559332,-73.9909675,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_a93b2f65c5ca581b,17.944,False,False,export (1).json
+2653577641,node,New York City,New York City,40.6246346,-73.9649281,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_a3cdfc0d20b8d9fb,18.648,False,False,export (1).json
+2657908666,node,New York City,New York City,40.7093779,-73.8189815,bank,yes,HSBC,,2026-09-30T14:01:28Z,dfs_bc02226adfd8cf72,136.0,False,False,export (1).json
+2689493105,node,New York City,New York City,40.7305176,-73.8613056,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_f3be928b635a7243,177.542,False,False,export (1).json
+2702887557,node,New York City,New York City,40.7399172,-74.0021757,bank,yes,HSBC,,2026-09-30T14:01:28Z,dfs_8b1a80deb25c2f74,83.004,False,False,export (1).json
+2702954492,node,New York City,New York City,40.7362336,-73.9937306,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_0b28fe3454ebc056,21.177,False,False,export (1).json
+2703083234,node,New York City,New York City,40.7435107,-73.9925628,atm,,,,2026-09-30T14:01:28Z,dfs_b40a80ce74cfa1f0,52.276,False,False,export (1).json
+2705020502,node,New York City,New York City,40.7454427,-73.9907176,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_5fbd4ab8b0f174d0,19.722,False,False,export (1).json
+2705020503,node,New York City,New York City,40.7458506,-73.9904205,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_5fbd4ab8b0f174d0,62.301,False,False,export (1).json
+2709335877,node,New York City,New York City,40.745424,-73.9827721,bank,yes,M&T Bank,,2026-09-30T14:01:28Z,dfs_213f89530fd9a6a0,27.496,False,False,export (1).json
+2709430271,node,New York City,New York City,40.7512478,-73.9907,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_ec04ba2a3b816705,21.806,False,False,export (1).json
+2710186720,node,New York City,New York City,40.7370018,-73.9955652,bank,yes,Popular,,2026-09-30T14:01:28Z,dfs_da634e80d8404195,163.039,False,False,export (1).json
+2713490462,node,New York City,New York City,40.677589,-73.9635664,atm,,,,2026-09-30T14:01:28Z,dfs_051052f4e9473eae,566.049,False,False,export (1).json
+2714777535,node,New York City,New York City,40.7492543,-73.975145,bank,yes,Citizens Bank,Citizens Bank,2026-09-30T14:01:28Z,dfs_b9d770bca47db9df,67.423,False,False,export (1).json
+2715512021,node,New York City,New York City,40.7549267,-73.975929,bank,yes,HSBC,,2026-09-30T14:01:28Z,dfs_744419513c8adee5,15.334,False,False,export (1).json
+2717542877,node,New York City,New York City,40.7575404,-73.9790056,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_562bbdcdbf0cef3a,70.546,False,False,export (1).json
+2724236560,node,New York City,New York City,40.779568,-73.9553268,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_d194d10ea116a813,17.128,False,False,export (1).json
+2762343473,node,New York City,New York City,40.7000195,-73.9208509,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_a4c985b8c5d14968,20.949,False,False,export (1).json
+2765578595,node,New York City,New York City,40.8042749,-73.9367044,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_e6745c7aa51020e2,28.859,False,False,export (1).json
+2765578612,node,New York City,New York City,40.8040311,-73.9361953,bank,yes,Apple Bank,,2026-09-30T14:01:28Z,dfs_1aaa554e5b7e6189,16.608,False,False,export (1).json
+2782255474,node,New York City,New York City,40.7086989,-73.9592065,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_c22aad794dec6ce5,20.362,False,False,export (1).json
+2782255499,node,New York City,New York City,40.7102238,-73.9622655,bank,yes,Willamsburgh Savings Bank,,2026-09-30T14:01:28Z,dfs_cc09e23ac2edd6d4,209.363,False,False,export (1).json
+2782255522,node,New York City,New York City,40.7085466,-73.9579353,atm,,,,2026-09-30T14:01:28Z,dfs_0a894f689db4731d,52.374,False,False,export (1).json
+2782255551,node,New York City,New York City,40.7099585,-73.9627628,atm,,,,2026-09-30T14:01:28Z,dfs_cc09e23ac2edd6d4,232.452,False,False,export (1).json
+2789510007,node,New York City,New York City,40.7037215,-73.7995916,atm,yes,Chase,Chase,2026-09-30T14:01:28Z,dfs_b8a7255a92818d6a,12.416,False,False,export (1).json
+2797210301,node,New York City,New York City,40.8427869,-73.9394245,bank,yes,Popular,,2026-09-30T14:01:28Z,dfs_35c07e07cdd9aba4,31.182,False,False,export (1).json
+2797614230,node,New York City,New York City,40.7053021,-73.7949672,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_f1d766afc0b5fab6,143.997,False,False,export (1).json
+2797739146,node,New York City,New York City,40.8638865,-73.9259936,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_5d3924383c75970b,19.364,False,False,export (1).json
+2818038693,node,New York City,New York City,40.7051728,-74.0131052,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_c91928fddf686d04,63.964,False,False,export (1).json
+2821335225,node,New York City,New York City,40.7146483,-74.0061262,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_6f26b4041f65f7f5,71.399,False,False,export (1).json
+2824696349,node,New York City,New York City,40.7101837,-74.0094825,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_2061dd14dbe9515b,15.016,False,False,export (1).json
+2830647396,node,New York City,New York City,40.7130415,-74.0074818,bank,yes,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_6e3588128efd60ef,26.233,False,False,export (1).json
+2837699735,node,New York City,New York City,40.758116,-73.7841139,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_6b4339075202d319,16.118,False,False,export (1).json
+2838087248,node,New York City,New York City,40.741046,-73.9041439,bank,yes,Queens County Savings Bank,,2026-09-30T14:01:28Z,dfs_2df031bb54db8e5d,41.224,False,False,export (1).json
+2844942086,node,New York City,New York City,40.7426007,-73.9189327,bank,yes,Dime,,2026-09-30T14:01:28Z,dfs_9c3c4cbd63d0902f,60.734,False,False,export (1).json
+2846364434,node,New York City,New York City,40.7470814,-73.8903649,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_d92481ddf65bd86c,21.344,False,False,export (1).json
+2850979481,node,New York City,New York City,40.7628435,-73.7708853,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_6831029d2fd7d10f,23.587,False,False,export (1).json
+2850982603,node,New York City,New York City,40.7634063,-73.7711964,atm,,,,2026-09-30T14:01:28Z,dfs_6831029d2fd7d10f,73.527,False,False,export (1).json
+2850982607,node,New York City,New York City,40.7610883,-73.7700082,bank,yes,Investors Bank,,2026-09-30T14:01:28Z,dfs_e0ee854d9639d869,10.056,False,False,export (1).json
+2853151396,node,New York City,New York City,40.7750305,-73.9117736,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_e4dfcea77ec646df,34.964,False,False,export (1).json
+2862434677,node,New York City,New York City,40.6748222,-73.8049831,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_21a81387c0780d5e,18.155,False,False,export (1).json
+2871010407,node,New York City,New York City,40.7297264,-73.8235926,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_40bc9362b637f5cd,349.127,False,False,export (1).json
+2878118472,node,New York City,New York City,40.7883599,-73.7851635,atm,,,,2026-09-30T14:01:28Z,dfs_d5469eb737cd73a8,25.956,False,False,export (1).json
+2882010599,node,New York City,New York City,40.7642291,-73.786879,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_c586d8cb24f153ad,179.004,False,False,export (1).json
+2883438286,node,New York City,New York City,40.7603743,-73.8277583,bank,yes,Queens County Savings Bank,,2026-09-30T14:01:28Z,dfs_5118ee04fa66536a,22.334,False,False,export (1).json
+2883438618,node,New York City,New York City,40.7601258,-73.8302104,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_77f5c8aaaeab0902,16.643,False,False,export (1).json
+2888097364,node,New York City,New York City,40.587447,-73.952127,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_469293b9a13780fa,14.377,False,False,export (1).json
+2895508067,node,New York City,New York City,40.8327954,-73.8602482,bank,yes,Apple Bank,,2026-09-30T14:01:28Z,dfs_5cd02b7574360ad0,20.988,False,False,export (1).json
+2898706762,node,New York City,New York City,40.7064378,-74.0053153,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_68ce708ed7ef6ef2,186.585,False,False,export (1).json
+3003918345,node,New York City,New York City,40.7175722,-73.9578506,atm,,,,2026-09-30T14:01:28Z,dfs_7dc8fbce86458455,48.758,False,False,export (1).json
+3118018817,node,New York City,New York City,40.6453994,-73.9021563,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_f6461df5856b5548,20.535,False,False,export (1).json
+3118144412,node,New York City,New York City,40.6698443,-73.9106068,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_49b9f6085806765a,13.295,False,False,export (1).json
+3146200329,node,New York City,New York City,40.766586,-73.987006,atm,,,Chase,2026-09-30T14:01:28Z,dfs_e8641a2dbb0e4f3d,25.61,False,False,export (1).json
+3146526129,node,New York City,New York City,40.742618,-74.006402,atm,,,,2026-09-30T14:01:28Z,dfs_394e16fad466c195,227.278,False,False,export (1).json
+3154274269,node,New York City,New York City,40.7121473,-73.9405317,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_5ffab38318a8d57b,268.997,False,False,export (1).json
+3215276726,node,New York City,New York City,40.7648167,-73.9836953,atm,,,TD,2026-09-30T14:01:28Z,dfs_411a5c6d6cddbff8,40.401,False,False,export (1).json
+3215276727,node,New York City,New York City,40.7628801,-73.9859058,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_264f9ce91410f4b4,20.052,False,False,export (1).json
+3238681556,node,New York City,New York City,40.7340228,-73.9893272,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_befc7db42cbba3e5,21.02,False,False,export (1).json
+3246839598,node,New York City,New York City,40.7565504,-73.9767613,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_24a39d653c6a0526,31.153,False,False,export (1).json
+3248774681,node,New York City,New York City,40.7795197,-73.9820933,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_f0597958528adec2,21.409,False,False,export (1).json
+3449138655,node,New York City,New York City,40.6918198,-73.9638204,atm,,,,2026-09-30T14:01:28Z,dfs_41bb0b07e4a17d58,216.979,False,False,export (1).json
+3450800432,node,New York City,New York City,40.7777996,-73.9520412,bank,yes,Chase,Chase,2026-09-30T14:01:28Z,dfs_a875d5cfe5e7c8c7,20.206,False,False,export (1).json
+3451116501,node,New York City,New York City,40.7510522,-73.9912571,bank,yes,M&T Bank,,2026-09-30T14:01:28Z,dfs_ec04ba2a3b816705,33.119,False,False,export (1).json
+3451203778,node,New York City,New York City,40.7507171,-73.9874523,bank,yes,Santander,Santander,2026-09-30T14:01:28Z,dfs_1ed21ec7ce97ae37,24.978,False,False,export (1).json
+3451208754,node,New York City,New York City,40.7511874,-73.9874771,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_1ed21ec7ce97ae37,65.07,False,False,export (1).json
+3502137813,node,New York City,New York City,40.7321008,-73.9946231,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_877f49b65584fc6f,19.383,False,False,export (1).json
+3565800093,node,New York City,New York City,40.6712268,-73.9636183,atm,,,,2026-09-30T14:01:28Z,dfs_bdcb660f23345c45,496.752,False,False,export (1).json
+3575305298,node,New York City,New York City,40.7108688,-73.9678024,atm,,,MetaBank,2026-09-30T14:01:28Z,dfs_cc09e23ac2edd6d4,668.243,False,False,export (1).json
+3627524353,node,New York City,New York City,40.8346748,-73.9441017,bank,yes,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_cff905b2218bade8,30.574,False,False,export (1).json
+3727111708,node,New York City,New York City,40.6681402,-73.9873705,bank,yes,Kearny Bank,,2026-09-30T14:01:28Z,dfs_8036de0bfc3bd52e,15.128,False,False,export (1).json
+3770866555,node,New York City,New York City,40.7390406,-73.9832175,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_15498b0de2d90949,157.34,False,False,export (1).json
+3775454043,node,New York City,New York City,40.7430721,-73.976667,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_89dbcc7c76560bd7,24.795,False,False,export (1).json
+3778148131,node,New York City,New York City,40.7048219,-74.0144286,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_994e40479d0c4f0f,35.513,False,False,export (1).json
+3829602556,node,New York City,New York City,40.7507513,-73.9712998,atm,,UNFCU,UNFCU,2026-09-30T14:01:28Z,dfs_a56e2fc18b9bc39e,78.637,False,False,export (1).json
+3843990711,node,New York City,New York City,40.8857496,-73.909735,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_c762487f0fe9df95,18.199,False,False,export (1).json
+3843990873,node,New York City,New York City,40.8881127,-73.9077895,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_88fb90671f26fae8,16.923,False,False,export (1).json
+3860735150,node,New York City,New York City,40.761827,-73.924658,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_108d9d3332e9a4ef,18.759,False,False,export (1).json
+3913449147,node,New York City,New York City,40.8501569,-73.8805108,atm,,,,2026-09-30T14:01:28Z,dfs_4d8c637de1d95974,857.851,False,False,export (1).json
+3958232657,node,New York City,New York City,40.7431323,-73.9928868,bank,yes,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_b40a80ce74cfa1f0,18.969,False,False,export (1).json
+3971304158,node,New York City,New York City,40.7428121,-73.9893274,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_ea159f06bce9d006,20.972,False,False,export (1).json
+3976829570,node,New York City,New York City,40.7533121,-73.9728718,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_fff7e04ef6d7ab43,29.049,False,False,export (1).json
+4015185750,node,New York City,New York City,40.833732,-73.8614079,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_4e4fe1791544aeb2,29.822,False,False,export (1).json
+4015260299,node,New York City,New York City,40.5868233,-73.9523867,bank,yes,Valley National Bank,,2026-09-30T14:01:28Z,dfs_855768e6b9907911,14.065,False,False,export (1).json
+4092433432,node,New York City,New York City,40.743254,-74.0034485,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_394e16fad466c195,32.98,False,False,export (1).json
+4110025390,node,New York City,New York City,40.63981,-73.781318,atm,,,,2026-09-30T14:01:28Z,dfs_423f63fa2634c81f,3798.465,False,False,export (1).json
+4111933908,node,New York City,New York City,40.6746342,-73.9754998,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_9eb12eaed2a8bc0b,83.534,False,False,export (1).json
+4144668734,node,New York City,New York City,40.7632469,-73.9851823,atm,,Santander,Santander,2026-09-30T14:01:28Z,dfs_264f9ce91410f4b4,66.971,False,False,export (1).json
+4213034147,node,New York City,New York City,40.7112329,-73.7910434,atm,,,,2026-09-30T14:01:28Z,dfs_1181512c10fe107d,57.57,False,False,export (1).json
+4213034148,node,New York City,New York City,40.7075873,-73.7889207,atm,,,,2026-09-30T14:01:28Z,dfs_855f50575a569b5e,338.756,False,False,export (1).json
+4367840493,node,New York City,New York City,40.672431,-73.9417937,atm,,,,2026-09-30T14:01:28Z,dfs_8c3876569c7c0ce6,318.138,False,False,export (1).json
+4382629941,node,New York City,New York City,40.7351212,-73.9919648,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_1fd823cd10ad655b,20.596,False,False,export (1).json
+4397681690,node,New York City,New York City,40.7355865,-73.9797375,atm,,,Bank of America,2026-09-30T14:01:28Z,dfs_b4baeacb9c7674eb,120.303,False,False,export (1).json
+4402335681,node,New York City,New York City,40.6896246,-74.0460078,atm,,,,2026-09-30T14:01:28Z,dfs_1aa8f6245de34dfc,3129.453,False,False,export (1).json
+4407735191,node,New York City,New York City,40.5762669,-74.1660663,atm,,,,2026-09-30T14:01:28Z,dfs_2a3b1d062b063310,227.241,False,False,export (1).json
+4407796043,node,New York City,New York City,40.6034433,-74.1621781,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_2df5d4490ab7e9df,15.213,False,False,export (1).json
+4409129938,node,New York City,New York City,40.5638741,-74.1157838,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_64b8f71facc815d7,36.02,False,False,export (1).json
+4409230095,node,New York City,New York City,40.5898703,-74.1007702,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_083cd29cacbfadd7,113.548,False,False,export (1).json
+4409230096,node,New York City,New York City,40.5919528,-74.1006777,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_cfec7977f19005c9,23.095,False,False,export (1).json
+4412575737,node,New York City,New York City,40.545937,-74.1609392,atm,,,,2026-09-30T14:01:28Z,dfs_b0751ca232003c03,127.01,False,False,export (1).json
+4412575739,node,New York City,New York City,40.5456022,-74.1593089,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_7d4c9d861254fcad,17.965,False,False,export (1).json
+4412589470,node,New York City,New York City,40.5500205,-74.1510999,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_3b213d7c025eb8e4,14.491,False,False,export (1).json
+4412656399,node,New York City,New York City,40.6279292,-74.0761459,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_aa05fd8c3a2efac2,16.506,False,False,export (1).json
+4412656429,node,New York City,New York City,40.6173603,-74.0682983,bank,yes,Northfield Bank,,2026-09-30T14:01:28Z,dfs_b94b2f755443e063,10.309,False,False,export (1).json
+4413028227,node,New York City,New York City,40.5643525,-74.1152591,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_19fc175b005054c1,59.044,False,False,export (1).json
+4413028301,node,New York City,New York City,40.5661186,-74.1136153,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_662f710496010cad,72.35,False,False,export (1).json
+4414226411,node,New York City,New York City,40.5639761,-74.1144723,atm,,,,2026-09-30T14:01:28Z,dfs_19fc175b005054c1,22.084,False,False,export (1).json
+4442516682,node,New York City,New York City,40.6463653,-73.7998153,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_21a81387c0780d5e,3172.612,False,False,export (1).json
+4442522235,node,New York City,New York City,40.6735015,-73.7710012,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_423f63fa2634c81f,43.67,False,False,export (1).json
+4444179114,node,New York City,New York City,40.7176193,-73.737575,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_a5321c316184ce54,21.18,False,False,export (1).json
+4556116010,node,New York City,New York City,40.7507176,-73.9738666,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_1a309fbe9a5fdd02,51.936,False,False,export (1).json
+4604146990,node,New York City,New York City,40.7508672,-73.9982613,atm,,,,2026-09-30T14:01:28Z,dfs_4966feb86ac369d6,36.401,False,False,export (1).json
+4676427566,node,New York City,New York City,40.7529319,-73.9775953,atm,,,,2026-09-30T14:01:28Z,dfs_df659158e75d43ec,83.94,False,False,export (1).json
+4676427583,node,New York City,New York City,40.7529532,-73.9776453,atm,,,,2026-09-30T14:01:28Z,dfs_df659158e75d43ec,82.398,False,False,export (1).json
+4676427789,node,New York City,New York City,40.75294,-73.9776144,atm,,,,2026-09-30T14:01:28Z,dfs_df659158e75d43ec,83.318,False,False,export (1).json
+4676427791,node,New York City,New York City,40.7529563,-73.9776537,atm,,,,2026-09-30T14:01:28Z,dfs_df659158e75d43ec,82.127,False,False,export (1).json
+4676427814,node,New York City,New York City,40.7529286,-73.9775863,atm,,,,2026-09-30T14:01:28Z,dfs_df659158e75d43ec,84.282,False,False,export (1).json
+4676427826,node,New York City,New York City,40.7529497,-73.9776379,atm,,,,2026-09-30T14:01:28Z,dfs_df659158e75d43ec,82.584,False,False,export (1).json
+4676427832,node,New York City,New York City,40.7529359,-73.9776047,atm,,,,2026-09-30T14:01:28Z,dfs_df659158e75d43ec,83.63,False,False,export (1).json
+4676427852,node,New York City,New York City,40.7529448,-73.9776265,atm,,,,2026-09-30T14:01:28Z,dfs_df659158e75d43ec,82.919,False,False,export (1).json
+4715379490,node,New York City,New York City,40.8193959,-73.9138826,atm,,,,2026-09-30T14:01:28Z,dfs_60a7771570919acc,100.209,False,False,export (1).json
+4768397331,node,New York City,New York City,40.6902987,-73.9922486,bank,yes,Northfield Bank,,2026-09-30T14:01:28Z,dfs_c4398a841478a1ff,10.907,False,False,export (1).json
+4771881054,node,New York City,New York City,40.7213141,-73.9840446,atm,,,,2026-09-30T14:01:28Z,dfs_e243a36ebb3781c1,50.52,False,False,export (1).json
+4790055021,node,New York City,New York City,40.7301075,-73.9540794,bank,yes,Citizens Bank,Citizens Bank,2026-09-30T14:01:28Z,dfs_afed731b79b5dd46,10.713,False,False,export (1).json
+4813709923,node,New York City,New York City,40.5904283,-73.797667,atm,,,,2026-09-30T14:01:28Z,dfs_3f1da4d229ecea85,2482.4,False,False,export (1).json
+4850205321,node,New York City,New York City,40.7049006,-74.00727,atm,,PNC Bank,PNC Bank,2026-09-30T14:01:28Z,dfs_800d856b9483aa95,21.05,False,False,export (1).json
+4913377825,node,New York City,New York City,40.709517,-74.0085505,bank,yes,PNC Bank,,2026-09-30T14:01:28Z,dfs_82e66e752e91f891,57.105,False,False,export (1).json
+4915258224,node,New York City,New York City,40.7065894,-74.0064379,atm,,PNC Bank,PNC Bank,2026-09-30T14:01:28Z,dfs_800d856b9483aa95,181.076,False,False,export (1).json
+4990556245,node,New York City,New York City,40.6929031,-74.015932,atm,,,,2026-09-30T14:01:28Z,dfs_d9a999cf48142c36,1087.31,False,False,export (1).json
+4990556276,node,New York City,New York City,40.6895037,-74.0187116,atm,,,,2026-09-30T14:01:28Z,dfs_1aa8f6245de34dfc,1412.274,False,False,export (1).json
+4990556277,node,New York City,New York City,40.6884893,-74.0171613,atm,,,,2026-09-30T14:01:28Z,dfs_1aa8f6245de34dfc,1261.271,False,False,export (1).json
+4995781963,node,New York City,New York City,40.7458646,-73.94688,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_4f6cf49a45863e90,12.468,False,False,export (1).json
+4995839491,node,New York City,New York City,40.7487009,-73.9396535,atm,,,,2026-09-30T14:01:28Z,dfs_467329ac0d943157,239.954,False,False,export (1).json
+5023063721,node,New York City,New York City,40.7630541,-73.9778787,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_b19281d0d97dbcd4,52.7,False,False,export (1).json
+5093784260,node,New York City,New York City,40.5800745,-73.9719557,bank,yes,WebsterBank,,2026-09-30T14:01:28Z,dfs_7f5271262f48137b,23.856,False,False,export (1).json
+5108265922,node,New York City,New York City,40.6023557,-73.9949571,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_cfc03445073f09bd,22.383,False,False,export (1).json
+5171953029,node,New York City,New York City,40.7174111,-73.9910158,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_cc30cb13224a6789,16.927,False,False,export (1).json
+5190571559,node,New York City,New York City,40.7476901,-73.9832034,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_af0a17cfbbb1e1d7,32.246,False,False,export (1).json
+5193848792,node,New York City,New York City,40.747502,-73.9866594,bank,yes,Bank of Hope,Hope Bancorp Inc.,2026-09-30T14:01:28Z,dfs_9b7403cbec3dd1f2,13.741,False,False,export (1).json
+5212644024,node,New York City,New York City,40.6041272,-73.9711098,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_1eff9b961cd66c15,19.624,False,False,export (1).json
+5220850408,node,New York City,New York City,40.7572946,-73.8270554,bank,yes,HSBC,,2026-09-30T14:01:28Z,dfs_c5cf8e9c6faefc3f,163.311,False,False,export (1).json
+5241629954,node,New York City,New York City,40.7505339,-73.9676469,bank,yes,UNFCU,UNFCU,2026-09-30T14:01:28Z,dfs_1381bb691e5c17fb,227.398,False,False,export (1).json
+5241638301,node,New York City,New York City,40.7507813,-73.9696094,bank,yes,UNFCU,UNFCU,2026-09-30T14:01:28Z,dfs_a56e2fc18b9bc39e,205.318,False,False,export (1).json
+5254498634,node,New York City,New York City,40.751058,-73.9745396,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_1a309fbe9a5fdd02,31.139,False,False,export (1).json
+5269167822,node,New York City,New York City,40.6423961,-73.7916198,atm,,,,2026-09-30T14:01:28Z,dfs_21a81387c0780d5e,3757.51,False,False,export (1).json
+5283338296,node,New York City,New York City,40.7230295,-73.9896169,atm,,Bank of America ATM,Bank of America,2026-09-30T14:01:28Z,dfs_90c9deb7bd1fec0f,110.33,False,False,export (1).json
+5312847084,node,New York City,New York City,40.7416942,-73.88111,bank,yes,Cathay Bank,,2026-09-30T14:01:28Z,dfs_c26dfe0349d2dd05,13.792,False,False,export (1).json
+5314267214,node,New York City,New York City,40.8105968,-73.9511285,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_b593ef73bf317978,45.123,False,False,export (1).json
+5314268565,node,New York City,New York City,40.8101236,-73.9515356,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_8b0f9b46b2ada6eb,21.815,False,False,export (1).json
+5317574174,node,New York City,New York City,40.8073876,-73.9461497,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_5c422af3b656c3c6,35.987,False,False,export (1).json
+5329733250,node,New York City,New York City,40.6672985,-73.8508716,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_b74e3f448cfe27b9,11.05,False,False,export (1).json
+5387292233,node,New York City,New York City,40.7006441,-73.9012465,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_fe86ac2d5a2738c4,17.503,False,False,export (1).json
+5387300759,node,New York City,New York City,40.7006138,-73.9000686,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_2c22a1372d3ad6a5,12.638,False,False,export (1).json
+5387321623,node,New York City,New York City,40.7009747,-73.9002279,bank,yes,Capitol One Bank,,2026-09-30T14:01:28Z,dfs_2c22a1372d3ad6a5,54.377,False,False,export (1).json
+5390420688,node,New York City,New York City,40.7539106,-73.9882226,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_af7c22fdc71596e1,16.8,False,False,export (1).json
+5390474760,node,New York City,New York City,40.752057,-74.0013553,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_97ddaf8a86eaaefd,26.591,False,False,export (1).json
+5390481968,node,New York City,New York City,40.7450761,-73.9914795,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_3ce56a2bd3a2d0a4,19.156,False,False,export (1).json
+5411082106,node,New York City,New York City,40.7058296,-73.8969267,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_fe6a128b7932d5d9,159.768,False,False,export (1).json
+5411100118,node,New York City,New York City,40.7058183,-73.896362,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_fe6a128b7932d5d9,176.66,False,False,export (1).json
+5415645946,node,New York City,New York City,40.7367822,-73.9788748,bank,yes,M&T Bank,,2026-09-30T14:01:28Z,dfs_b624b3aec57ca775,17.665,False,False,export (1).json
+5454117999,node,New York City,New York City,40.7603477,-73.8303337,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_b22b491b4b142e87,14.911,False,False,export (1).json
+5493805796,node,New York City,New York City,40.712293,-73.9006441,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_35cf6c7b9902360a,13.566,False,False,export (1).json
+5506774611,node,New York City,New York City,40.6699419,-73.9858628,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_1ecd845c90e0c5f0,14.923,False,False,export (1).json
+5542991750,node,New York City,New York City,40.7001758,-73.9117768,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_fc39be1581e2d8eb,22.509,False,False,export (1).json
+5549150588,node,New York City,New York City,40.6813026,-73.976753,atm,,,,2026-09-30T14:01:28Z,dfs_aa6476c805b1d564,30.097,False,False,export (1).json
+5560578058,node,New York City,New York City,40.7002876,-73.9036522,bank,yes,Popular,,2026-09-30T14:01:28Z,dfs_152997bacba9e34f,23.381,False,False,export (1).json
+5591304774,node,New York City,New York City,40.6177926,-73.99132,bank,yes,Apple Bank,,2026-09-30T14:01:28Z,dfs_3cf0f835314088d8,16.019,False,False,export (1).json
+5608140407,node,New York City,New York City,40.7205948,-73.8429163,bank,yes,TD Bank,"TD Bank, N.A.",2026-09-30T14:01:28Z,dfs_edc7dbf2ffa58655,26.173,False,False,export (1).json
+5612327532,node,New York City,New York City,40.7033315,-73.8951526,bank,yes,Polish & Slavic Federal Credit Union,,2026-09-30T14:01:28Z,dfs_403cda0d9438848d,32.038,False,False,export (1).json
+5618389932,node,New York City,New York City,40.7008438,-73.8959126,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_e3ecb321a111c1d1,18.397,False,False,export (1).json
+5629864554,node,New York City,New York City,40.7213485,-74.0000613,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_566e2b2c7c8a399c,9.272,False,False,export (1).json
+5656966137,node,New York City,New York City,40.6166133,-73.9929439,bank,yes,Cathay Bank,,2026-09-30T14:01:28Z,dfs_8adb64bd87ad02f1,14.627,False,False,export (1).json
+5683043824,node,New York City,New York City,40.615919,-73.99321,bank,yes,Western Union,,2026-09-30T14:01:28Z,dfs_81beac877ea9c6de,51.354,False,False,export (1).json
+5687058540,node,New York City,New York City,40.7128582,-73.7822675,atm,,,,2026-09-30T14:01:28Z,dfs_6177ad46c11e9a22,133.562,False,False,export (1).json
+5687058541,node,New York City,New York City,40.7127106,-73.7828554,atm,,,,2026-09-30T14:01:28Z,dfs_6177ad46c11e9a22,88.413,False,False,export (1).json
+5691689930,node,New York City,New York City,40.6153171,-73.9942603,bank,yes,Ridgewood Savings Bank,,2026-09-30T14:01:28Z,dfs_6e4e7b9b3ba92fe3,16.041,False,False,export (1).json
+5712402443,node,New York City,New York City,40.6816463,-73.9770538,atm,,,,2026-09-30T14:01:28Z,dfs_aa6476c805b1d564,28.626,False,False,export (1).json
+5714373046,node,New York City,New York City,40.7615391,-73.9668257,bank,yes,Bank of America,Bank of America Corporation,2026-09-30T14:01:28Z,dfs_363b4b2fafb990c5,17.136,False,False,export (1).json
+5745808908,node,New York City,New York City,40.6883457,-73.9888394,atm,,,,2026-09-30T14:01:28Z,dfs_60aaf712c80b13d7,163.8,False,False,export (1).json
+5754769712,node,New York City,New York City,40.7809286,-73.9467173,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_e9f083c30ea23f2d,32.821,False,False,export (1).json
+5766604842,node,New York City,New York City,40.758417,-73.8297914,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_50541a8a41596aca,18.223,False,False,export (1).json
+5780231448,node,New York City,New York City,40.7815731,-73.9522199,bank,yes,Chase,"JPMorgan Chase Bank, N.A.",2026-09-30T14:01:28Z,dfs_cbede9dea5393191,16.494,False,False,export (1).json
+5782951767,node,New York City,New York City,40.6848977,-73.9782962,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_af4b09123e7edb8c,20.135,False,False,export (1).json
+5784049461,node,New York City,New York City,40.6661113,-73.9890676,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_6d06179c4219ed9b,15.501,False,False,export (1).json
+5793239117,node,New York City,New York City,40.7725824,-73.9608259,bank,yes,Bank of America,Bank of America Corporation,2026-09-30T14:01:28Z,dfs_57570248d06c9245,23.693,False,False,export (1).json
+5793254014,node,New York City,New York City,40.7875957,-73.9540901,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_5c3108c628d42fd0,27.953,False,False,export (1).json
+5794664403,node,New York City,New York City,40.6825948,-73.9959885,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_ea9801cff8b1a021,17.225,False,False,export (1).json
+5794694808,node,New York City,New York City,40.683345,-73.9995819,atm,,,,2026-09-30T14:01:28Z,dfs_ea9801cff8b1a021,331.765,False,False,export (1).json
+5798351445,node,New York City,New York City,40.7980115,-73.9397443,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_0d5fa4b0148271ae,66.69,False,False,export (1).json
+5807244946,node,New York City,New York City,40.7982214,-73.9402805,bank,yes,Chase,Chase,2026-09-30T14:01:28Z,dfs_0d5fa4b0148271ae,20.533,False,False,export (1).json
+5815795753,node,New York City,New York City,40.6059808,-73.9999777,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_75fdad535da4fce3,30.505,False,False,export (1).json
+5832647115,node,New York City,New York City,40.6665988,-73.9816337,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_b1cc80c5cebcc3f5,99.285,False,False,export (1).json
+5852491180,node,New York City,New York City,40.6783485,-73.9976557,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_2973f1442df625ad,13.981,False,False,export (1).json
+5854772930,node,New York City,New York City,40.7089951,-73.9224935,atm,,,,2026-09-30T14:01:28Z,dfs_be756bbe28dfc8ed,780.091,False,False,export (1).json
+5854848884,node,New York City,New York City,40.7063134,-73.9226268,atm,,,Atmworld,2026-09-30T14:01:28Z,dfs_a4c985b8c5d14968,706.686,False,False,export (1).json
+5855075605,node,New York City,New York City,40.7657704,-73.9822605,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_c3d82528191137c1,34.135,False,False,export (1).json
+5856146543,node,New York City,New York City,40.7517218,-73.9940546,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_79721f55efe653ec,41.888,False,False,export (1).json
+5889477214,node,New York City,New York City,40.7487203,-73.9847797,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_d355539b9f0e1bbc,34.052,False,False,export (1).json
+5893507565,node,New York City,New York City,40.6763572,-73.972144,bank,yes,M&T Bank,,2026-09-30T14:01:28Z,dfs_e82acaaf43cf0cd0,12.056,False,False,export (1).json
+5893507582,node,New York City,New York City,40.6757509,-73.971174,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_43ab0b4699560226,18.687,False,False,export (1).json
+5906945985,node,New York City,New York City,40.6479568,-73.7908703,atm,,,,2026-09-30T14:01:28Z,dfs_21a81387c0780d5e,3197.32,False,False,export (1).json
+5906948486,node,New York City,New York City,40.6473256,-73.7928155,atm,,,,2026-09-30T14:01:28Z,dfs_21a81387c0780d5e,3205.801,False,False,export (1).json
+5907007485,node,New York City,New York City,40.6491727,-73.7947148,atm,,,American Airlines Credit Union,2026-09-30T14:01:28Z,dfs_21a81387c0780d5e,2961.17,False,False,export (1).json
+5912968136,node,New York City,New York City,40.6908367,-73.9916269,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_baadfe1be49bc6f6,16.01,False,False,export (1).json
+5916567991,node,New York City,New York City,40.7183616,-73.9885477,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_059321f4dbd3d4ac,21.163,False,False,export (1).json
+5932291050,node,New York City,New York City,40.6730222,-73.9905554,atm,,,,2026-09-30T14:01:28Z,dfs_1ecd845c90e0c5f0,538.068,False,False,export (1).json
+5934767193,node,New York City,New York City,40.7183637,-73.9998598,bank,yes,Eastbank,,2026-09-30T14:01:28Z,dfs_86e6b1c63e0058e9,19.27,False,False,export (1).json
+5938006746,node,New York City,New York City,40.706163,-73.9231488,atm,,,,2026-09-30T14:01:28Z,dfs_a4c985b8c5d14968,702.448,False,False,export (1).json
+5960289929,node,New York City,New York City,40.6884401,-73.9794075,atm,,,,2026-09-30T14:01:28Z,dfs_d898cc156be337c5,137.266,False,False,export (1).json
+5970481594,node,New York City,New York City,40.6809953,-73.9967245,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_2bd1e0e5e58ed168,14.206,False,False,export (1).json
+5978745698,node,New York City,New York City,40.7524007,-73.9772311,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_a9ae30c485f64e48,42.688,False,False,export (1).json
+5978866787,node,New York City,New York City,40.7678369,-73.9588136,bank,yes,Valley National Bank,,2026-09-30T14:01:28Z,dfs_85faafdf68204bcc,22.57,False,False,export (1).json
+5986292885,node,New York City,New York City,40.7339865,-73.8693468,atm,,,,2026-09-30T14:01:28Z,dfs_c75cfd5b0fb0b6e0,62.63,False,False,export (1).json
+6008597570,node,New York City,New York City,40.6180345,-74.0305259,atm,,,,2026-09-30T14:01:28Z,dfs_8a0ecce59a0761c1,38.406,False,False,export (1).json
+6056137496,node,New York City,New York City,40.7781617,-73.9519194,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_e8fa9d47fb93125f,21.039,False,False,export (1).json
+6066744615,node,New York City,New York City,40.6730203,-73.9762604,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_f75ba64272ce6421,12.734,False,False,export (1).json
+6074588086,node,New York City,New York City,40.6179709,-73.9915843,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_3cf0f835314088d8,14.704,False,False,export (1).json
+6099932185,node,New York City,New York City,40.6027953,-73.9931956,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_b6ef8b3267694919,17.563,False,False,export (1).json
+6104251096,node,New York City,New York City,40.753594,-73.9873522,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_78320a8f4c4dce78,59.582,False,False,export (1).json
+6134882709,node,New York City,New York City,40.7285369,-73.9987401,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_7b5e0ff7543fa1ec,82.959,False,False,export (1).json
+6135689367,node,New York City,New York City,40.7116748,-73.7870623,atm,,,,2026-09-30T14:01:28Z,dfs_9a2dfbb1704d7833,119.501,False,False,export (1).json
+6139141877,node,New York City,New York City,40.7742196,-73.8693529,atm,,,Bank of America,2026-09-30T14:01:28Z,dfs_ca56fe706b1a0ca8,1927.484,False,False,export (1).json
+6139141878,node,New York City,New York City,40.7734451,-73.8688716,atm,,,Bank of America,2026-09-30T14:01:28Z,dfs_ca56fe706b1a0ca8,1851.099,False,False,export (1).json
+6177318451,node,New York City,New York City,40.6859488,-73.9908476,bank,yes,Ponce de Leon Federal Bank,,2026-09-30T14:01:28Z,dfs_b6e253a99b6b8fc6,12.943,False,False,export (1).json
+6201863798,node,New York City,New York City,40.6413517,-73.7826723,atm,,,travelex,2026-09-30T14:01:28Z,dfs_423f63fa2634c81f,3661.079,False,False,export (1).json
+6206166085,node,New York City,New York City,40.5762206,-73.96722,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_4fc03c10e18c760b,20.571,False,False,export (1).json
+6220901120,node,New York City,New York City,40.7842393,-73.9476495,atm,,,,2026-09-30T14:01:28Z,dfs_b5998f5754894bf4,179.674,False,False,export (1).json
+6230904363,node,New York City,New York City,40.7483642,-73.9879796,bank,yes,Chase,"JPMorgan Chase Bank, N.A.",2026-09-30T14:01:28Z,dfs_28618a0f8a8bbf43,17.932,False,False,export (1).json
+6233725920,node,New York City,New York City,40.719075,-73.9890379,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_84d3e338cf3c93f0,22.699,False,False,export (1).json
+6240108335,node,New York City,New York City,40.6710058,-73.9576771,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_bdcb660f23345c45,24.166,False,False,export (1).json
+6240316585,node,New York City,New York City,40.7909287,-73.9424355,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_e35011fa954530c2,175.989,False,False,export (1).json
+6242987485,node,New York City,New York City,40.57765,-73.9622804,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_3786027acf3a03d1,23.491,False,False,export (1).json
+6255187535,node,New York City,New York City,40.7065725,-73.8967554,bank,yes,Queens County Savings Bank,,2026-09-30T14:01:28Z,dfs_fe6a128b7932d5d9,87.25,False,False,export (1).json
+6261908601,node,New York City,New York City,40.7165968,-73.99764,atm,,,,2026-09-30T14:01:28Z,dfs_b8b9950559d8b720,17.933,False,False,export (1).json
+6270647901,node,New York City,New York City,40.7877036,-73.9536486,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_5c3108c628d42fd0,13.935,False,False,export (1).json
+6281530308,node,New York City,New York City,40.8845909,-73.9006372,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_464c6355300210e5,55.104,False,False,export (1).json
+6288549410,node,New York City,New York City,40.7563772,-73.9827989,atm,,,Wells Fargo,2026-09-30T14:01:28Z,dfs_0c51a5b92a55f0da,16.956,False,False,export (1).json
+6295899097,node,New York City,New York City,40.7427456,-73.9769046,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_89dbcc7c76560bd7,27.305,False,False,export (1).json
+6296631885,node,New York City,New York City,40.6022106,-73.9938014,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_38e48bb2f2aa3ad9,29.631,False,False,export (1).json
+6299824439,node,New York City,New York City,40.6586233,-73.9817342,atm,,,Innovative Card Solutions,2026-09-30T14:01:28Z,dfs_4c67406d30c1c4dd,109.559,False,False,export (1).json
+6299927216,node,New York City,New York City,40.659584,-73.9812459,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_4c67406d30c1c4dd,12.931,False,False,export (1).json
+6306929740,node,New York City,New York City,40.7123285,-73.7858346,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_9a2dfbb1704d7833,18.939,False,False,export (1).json
+6307075981,node,New York City,New York City,40.7040003,-73.7979984,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_cf5767cfbe4d412e,28.187,False,False,export (1).json
+6319844694,node,New York City,New York City,40.6889459,-73.9906435,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_60aaf712c80b13d7,18.186,False,False,export (1).json
+6321803324,node,New York City,New York City,40.6897842,-73.9920924,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_c08037849376c64f,19.307,False,False,export (1).json
+6343579439,node,New York City,New York City,40.6871206,-73.9848641,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_ef06be1c7d31ddeb,22.369,False,False,export (1).json
+6379862626,node,New York City,New York City,40.6798171,-73.9969167,atm,,Santander,Santander,2026-09-30T14:01:28Z,dfs_783c4e2afccbe480,91.79,False,False,export (1).json
+6394957232,node,New York City,New York City,40.7599261,-73.8292874,bank,yes,Capital One,"Capital One, LLC",2026-09-30T14:01:28Z,dfs_537db6e28f65fa97,54.43,False,False,export (1).json
+6401451685,node,New York City,New York City,40.7031934,-73.9865017,atm,,,Bank of America,2026-09-30T14:01:28Z,dfs_5bf68d8ffdf64fca,102.812,False,False,export (1).json
+6403173245,node,New York City,New York City,40.7917842,-73.9447474,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_4e42b92b13761711,17.09,False,False,export (1).json
+6442303490,node,New York City,New York City,40.6436964,-73.7812546,atm,,,travelex,2026-09-30T14:01:28Z,dfs_423f63fa2634c81f,3378.382,False,False,export (1).json
+6442303685,node,New York City,New York City,40.6430684,-73.7827847,atm,,,,2026-09-30T14:01:28Z,dfs_423f63fa2634c81f,3480.515,False,False,export (1).json
+6442305185,node,New York City,New York City,40.6436006,-73.7798455,atm,,,travelex,2026-09-30T14:01:28Z,dfs_423f63fa2634c81f,3360.297,False,False,export (1).json
+6442347487,node,New York City,New York City,40.6392954,-73.7814383,atm,,,,2026-09-30T14:01:28Z,dfs_423f63fa2634c81f,3856.425,False,False,export (1).json
+6442347489,node,New York City,New York City,40.639102,-73.7811273,atm,,,Delta Community Credit Union,2026-09-30T14:01:28Z,dfs_423f63fa2634c81f,3871.465,False,False,export (1).json
+6448338514,node,New York City,New York City,40.6856831,-73.9944767,bank,yes,Ridgewood Savings Bank,,2026-09-30T14:01:28Z,dfs_43aee8eda8bee043,11.561,False,False,export (1).json
+6462532122,node,New York City,New York City,40.7308823,-73.9887035,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_8338be11ce59d85a,18.394,False,False,export (1).json
+6507019902,node,New York City,New York City,40.7505753,-73.9911926,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_b6636d81f9dc0733,54.171,False,False,export (1).json
+6530593034,node,New York City,New York City,40.7148107,-73.9965532,atm,,,,2026-09-30T14:01:28Z,dfs_655a8bdeb5e73bea,100.711,False,False,export (1).json
+6535598485,node,New York City,New York City,40.6933004,-73.9836911,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_337d61889e26678e,46.77,False,False,export (1).json
+6594755292,node,New York City,New York City,40.7426531,-73.9528925,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_adf95f40e54f57ee,22.099,False,False,export (1).json
+6595216850,node,New York City,New York City,40.6571471,-73.9638059,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_54dc95bc7ad6ef5a,709.774,False,False,export (1).json
+6611254405,node,New York City,New York City,40.701485,-74.0132488,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_d9a999cf48142c36,179.865,False,False,export (1).json
+6615272825,node,New York City,New York City,40.7571111,-73.9820848,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_75b69075a435aaec,82.745,False,False,export (1).json
+6630517159,node,New York City,New York City,40.7274727,-74.0074855,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_d826c9aad414cfdb,14.207,False,False,export (1).json
+6630517165,node,New York City,New York City,40.7272907,-74.0057436,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_041b09fc3aefae5f,18.843,False,False,export (1).json
+6639135304,node,New York City,New York City,40.6888048,-73.9860047,atm,,,,2026-09-30T14:01:28Z,dfs_cf219ebb189c50d0,196.117,False,False,export (1).json
+6672688809,node,New York City,New York City,40.7613971,-73.9939721,atm,,,,2026-09-30T14:01:28Z,dfs_de905cc70c53c48a,233.975,False,False,export (1).json
+6680686141,node,New York City,New York City,40.7789845,-73.9561573,bank,yes,Metropolitan Commercial Bank,,2026-09-30T14:01:28Z,dfs_5f100c5b14df57ca,18.424,False,False,export (1).json
+6680686159,node,New York City,New York City,40.7630635,-73.9679312,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_5e33a1ef1b83fcb3,28.848,False,False,export (1).json
+6681964473,node,New York City,New York City,40.7024153,-73.9895055,atm,,,,2026-09-30T14:01:28Z,dfs_5bf68d8ffdf64fca,195.695,False,False,export (1).json
+6684023489,node,New York City,New York City,40.6498574,-73.782363,atm,,Travelex,,2026-09-30T14:01:28Z,dfs_423f63fa2634c81f,2753.665,False,False,export (1).json
+6699676908,node,New York City,New York City,40.5417665,-74.1776049,atm,,,Flagstar Bank,2026-09-30T14:01:28Z,dfs_07581cc8e6e61a47,14.892,False,False,export (1).json
+6699676909,node,New York City,New York City,40.5417516,-74.1776029,atm,,,Flagstar Bank,2026-09-30T14:01:28Z,dfs_07581cc8e6e61a47,14.983,False,False,export (1).json
+6715872220,node,New York City,New York City,40.7237818,-73.9929941,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_d8f90ab18d9ffa9b,22.79,False,False,export (1).json
+6772982785,node,New York City,New York City,40.7090442,-74.0068976,atm,,,,2026-09-30T14:01:28Z,dfs_896c195d96a39d66,70.109,False,False,export (1).json
+6781584778,node,New York City,New York City,40.7718673,-73.865972,atm,,,Travelex,2026-09-30T14:01:28Z,dfs_ca56fe706b1a0ca8,1753.29,False,False,export (1).json
+6791069753,node,New York City,New York City,40.7331118,-73.7835144,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_4cceb83c3dbdcbaa,108.693,False,False,export (1).json
+6800989343,node,New York City,New York City,40.8932818,-73.856211,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_63e0f5f805cc1cda,19.342,False,False,export (1).json
+6831582730,node,New York City,New York City,40.7033473,-74.0097294,bank,yes,PenFed Credit Union,,2026-09-30T14:01:28Z,dfs_d1ff58db17459aef,46.367,False,False,export (1).json
+6852207226,node,New York City,New York City,40.7499871,-73.9769042,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_b1e43278dc6a4cac,18.323,False,False,export (1).json
+6868798538,node,New York City,New York City,40.5795885,-73.9721443,bank,yes,Apple Bank,,2026-09-30T14:01:28Z,dfs_141c98fc0bdca836,29.982,False,False,export (1).json
+6910650056,node,New York City,New York City,40.7198626,-73.9902959,atm,,,,2026-09-30T14:01:28Z,dfs_84d3e338cf3c93f0,133.068,False,False,export (1).json
+6916314389,node,New York City,New York City,40.7256627,-73.7914838,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_a639ef12b4198feb,27.352,False,False,export (1).json
+6918962447,node,New York City,New York City,40.7989644,-73.942008,atm,,,,2026-09-30T14:01:28Z,dfs_c4a700d88616e12a,110.369,False,False,export (1).json
+6921710506,node,New York City,New York City,40.6110746,-74.0080492,bank,yes,Dime,,2026-09-30T14:01:28Z,dfs_c18fbd46323255fb,13.908,False,False,export (1).json
+6935858258,node,New York City,New York City,40.718995,-73.9563445,atm,,,,2026-09-30T14:01:28Z,dfs_7dc8fbce86458455,155.265,False,False,export (1).json
+6935858259,node,New York City,New York City,40.7188019,-73.9561855,atm,,,,2026-09-30T14:01:28Z,dfs_7dc8fbce86458455,150.41,False,False,export (1).json
+6966637054,node,New York City,New York City,40.6123709,-73.9826823,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_f991bd200978a697,19.538,False,False,export (1).json
+6992697771,node,New York City,New York City,40.7123135,-73.7859409,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_9a2dfbb1704d7833,20.792,False,False,export (1).json
+7024717897,node,New York City,New York City,40.5875453,-73.9544708,bank,yes,Apple Bank,,2026-09-30T14:01:28Z,dfs_bcb5d53c6384dd3b,15.585,False,False,export (1).json
+7041755302,node,New York City,New York City,40.7499042,-73.9748121,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_b9d770bca47db9df,23.977,False,False,export (1).json
+7055608601,node,New York City,New York City,40.7421628,-73.9804707,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_d779f7c22821dc6c,17.934,False,False,export (1).json
+7091113350,node,New York City,New York City,40.7169046,-73.9617749,atm,,,,2026-09-30T14:01:28Z,dfs_cc412a6322080272,200.462,False,False,export (1).json
+7132179451,node,New York City,New York City,40.6831874,-73.9824089,atm,,,,2026-09-30T14:01:28Z,dfs_af4b09123e7edb8c,412.843,False,False,export (1).json
+7143243404,node,New York City,New York City,40.6844222,-73.9919161,atm,,,,2026-09-30T14:01:28Z,dfs_b6e253a99b6b8fc6,187.508,False,False,export (1).json
+7173321589,node,New York City,New York City,40.6979187,-73.9617555,atm,,,,2026-09-30T14:01:28Z,dfs_41bb0b07e4a17d58,592.588,False,False,export (1).json
+7209800035,node,New York City,New York City,40.6753078,-74.0011277,atm,,,,2026-09-30T14:01:28Z,dfs_2973f1442df625ad,444.777,False,False,export (1).json
+7256313322,node,New York City,New York City,40.6231367,-74.0284225,atm,,,Dime Bank,2026-09-30T14:01:28Z,dfs_f0660fa8c0df0cb8,18.8,False,False,export (1).json
+7256957268,node,New York City,New York City,40.6383201,-74.0064125,atm,,,Chase ATM,2026-09-30T14:01:28Z,dfs_a6ea8c3a031f61b1,12.114,False,False,export (1).json
+7262668660,node,New York City,New York City,40.8470543,-73.8591556,atm,,,,2026-09-30T14:01:28Z,dfs_c534fbcd6121e1c4,336.11,False,False,export (1).json
+7278603334,node,New York City,New York City,40.6349241,-74.0104589,bank,yes,HSBC,,2026-09-30T14:01:28Z,dfs_8f902b557af30dbd,21.843,False,False,export (1).json
+7306888985,node,New York City,New York City,40.6637617,-73.950795,bank,yes,Carver Bank,,2026-09-30T14:01:28Z,dfs_31dc8123b16190a9,12.496,False,False,export (1).json
+7360048876,node,New York City,New York City,40.7377142,-73.9883819,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_76149c340431753f,19.433,False,False,export (1).json
+7368515785,node,New York City,New York City,40.7493062,-73.9883682,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_e205e7a44da4b56a,50.05,False,False,export (1).json
+7368515786,node,New York City,New York City,40.7493581,-73.988387,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_e205e7a44da4b56a,47.119,False,False,export (1).json
+7436683606,node,New York City,New York City,40.6019591,-73.9934803,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_15193832fda3ca65,21.741,False,False,export (1).json
+7467218204,node,New York City,New York City,40.6506432,-73.9585904,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_cf42e5e7145d7360,16.358,False,False,export (1).json
+7505992419,node,New York City,New York City,40.8799345,-73.8272554,bank,yes,Municipal Credit union,,2026-09-30T14:01:28Z,dfs_6d017077630602b9,54.596,False,False,export (1).json
+7545887609,node,New York City,New York City,40.8792943,-73.8266241,atm,,,,2026-09-30T14:01:28Z,dfs_6d017077630602b9,81.701,False,False,export (1).json
+7545887610,node,New York City,New York City,40.8793147,-73.8265721,atm,,,,2026-09-30T14:01:28Z,dfs_6d017077630602b9,79.538,False,False,export (1).json
+7545887611,node,New York City,New York City,40.87933,-73.8265129,atm,,,,2026-09-30T14:01:28Z,dfs_6d017077630602b9,78.259,False,False,export (1).json
+7630034930,node,New York City,New York City,40.7381999,-73.8601796,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_4ed512c7e9265bd4,15.804,False,False,export (1).json
+7678230974,node,New York City,New York City,40.7341562,-73.9910907,atm,,Santander,Santander,2026-09-30T14:01:28Z,dfs_65f911e18a0f5326,22.523,False,False,export (1).json
+7696399385,node,New York City,New York City,40.7069367,-74.0053035,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_68ce708ed7ef6ef2,136.538,False,False,export (1).json
+7781914583,node,New York City,New York City,40.5213638,-74.2355404,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_f4994643871491c0,16.14,False,False,export (1).json
+7801509226,node,New York City,New York City,40.775546,-73.8719146,atm,,,,2026-09-30T14:01:28Z,dfs_ca56fe706b1a0ca8,2047.19,False,False,export (1).json
+7907119175,node,New York City,New York City,40.5777634,-73.95983,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_a5420a118d1050b9,40.656,False,False,export (1).json
+7917605553,node,New York City,New York City,40.7150145,-73.7755222,atm,,,,2026-09-30T14:01:28Z,dfs_3b468b2a7b1bbdfb,197.947,False,False,export (1).json
+8151656742,node,New York City,New York City,40.7166537,-73.9967759,bank,yes,First Republican Bank,,2026-09-30T14:01:28Z,dfs_d468780c945e9a72,21.621,False,False,export (1).json
+8226530660,node,New York City,New York City,40.7132312,-74.0073045,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_7d026f95ebcd4d77,19.116,False,False,export (1).json
+8250735010,node,New York City,New York City,40.7717928,-73.9558903,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_123beee94c759e19,23.627,False,False,export (1).json
+8307408827,node,New York City,New York City,40.839164,-73.9408147,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_d35e4da82efb65b9,14.193,False,False,export (1).json
+8316237201,node,New York City,New York City,40.7591727,-73.9190676,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_bff8237d122ca3a6,15.707,False,False,export (1).json
+8373415513,node,New York City,New York City,40.7493473,-73.9921822,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_6d15d146116cc19c,136.824,False,False,export (1).json
+8375950592,node,New York City,New York City,40.8122461,-73.9573375,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_733ee6edc5693fca,19.946,False,False,export (1).json
+8455829694,node,New York City,New York City,40.745462,-73.9821457,atm,,TD Bank,TD Bank,2026-09-30T14:01:28Z,dfs_213f89530fd9a6a0,25.702,False,False,export (1).json
+8458432262,node,New York City,New York City,40.7385537,-73.7933801,atm,,TD Bank,TD Bank,2026-09-30T14:01:28Z,dfs_41dfd8339580191f,23.297,False,False,export (1).json
+8593615314,node,New York City,New York City,40.7592012,-73.9656945,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_94525a2b912b58e9,65.399,False,False,export (1).json
+8648127119,node,New York City,New York City,40.7162462,-74.0090041,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_fb8637ca3fe33f5e,50.606,False,False,export (1).json
+8699239281,node,New York City,New York City,40.7901982,-73.9754158,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_35831bef7d7bfc93,21.425,False,False,export (1).json
+8699249537,node,New York City,New York City,40.7908318,-73.9742129,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_8f89e4ad9adf4196,46.31,False,False,export (1).json
+8769373117,node,New York City,New York City,40.715417,-74.0077674,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_48295340da20d958,17.297,False,False,export (1).json
+8780665841,node,New York City,New York City,40.7672415,-73.9822581,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_bb4d5d17f7c618c8,31.249,False,False,export (1).json
+8780665847,node,New York City,New York City,40.768079,-73.9827208,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_54af7258b67763e7,27.671,False,False,export (1).json
+8895611581,node,New York City,New York City,40.7648255,-73.8233533,bank,yes,HSBC,,2026-09-30T14:01:28Z,dfs_e9ad50cbf1f2f460,60.84,False,False,export (1).json
+8934083909,node,New York City,New York City,40.7201247,-73.8450035,bank,yes,Flagstar,,2026-09-30T14:01:28Z,dfs_ba02a381a4e35944,38.428,False,False,export (1).json
+8936725188,node,New York City,New York City,40.7239391,-73.8480512,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_97357eb332a7a74b,54.488,False,False,export (1).json
+8936725193,node,New York City,New York City,40.7237732,-73.8483777,atm,,,,2026-09-30T14:01:28Z,dfs_97357eb332a7a74b,26.307,False,False,export (1).json
+8942090278,node,New York City,New York City,40.7619577,-73.9250938,atm,,Investors Bank,Investors Bank,2026-09-30T14:01:28Z,dfs_38357a10be6bf4b4,11.021,False,False,export (1).json
+8942090284,node,New York City,New York City,40.7612516,-73.9241069,atm,,,,2026-09-30T14:01:28Z,dfs_108d9d3332e9a4ef,70.827,False,False,export (1).json
+8969249028,node,New York City,New York City,40.7057967,-74.0040296,atm,,,,2026-09-30T14:01:28Z,dfs_68ce708ed7ef6ef2,246.389,False,False,export (1).json
+9005683038,node,New York City,New York City,40.7094833,-73.7974912,atm,,,,2026-09-30T14:01:28Z,dfs_3c35f770ef124fa5,381.936,False,False,export (1).json
+9038428116,node,New York City,New York City,40.7297054,-73.9913425,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_0781c822637f09f3,15.393,False,False,export (1).json
+9057619312,node,New York City,New York City,40.7069866,-73.8352182,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_00a8e7a60d12f0dc,21.143,False,False,export (1).json
+9060121390,node,New York City,New York City,40.6884035,-73.980372,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_d898cc156be337c5,70.06,False,False,export (1).json
+9083988946,node,New York City,New York City,40.7020837,-73.8805756,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_9dbcadcc765b78ca,13.745,False,False,export (1).json
+9092737217,node,New York City,New York City,40.7109519,-73.7928586,atm,,,,2026-09-30T14:01:28Z,dfs_3c35f770ef124fa5,47.569,False,False,export (1).json
+9124467725,node,New York City,New York City,40.6940653,-73.9920754,bank,yes,HSBC,,2026-09-30T14:01:28Z,dfs_b66731cd4f081fb7,13.855,False,False,export (1).json
+9133644434,node,New York City,New York City,40.6333076,-74.0209048,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_fc7638fa82b10f64,14.308,False,False,export (1).json
+9136556338,node,New York City,New York City,40.561279,-73.9118975,bank,yes,Ridgewood Savings Bank,,2026-09-30T14:01:28Z,dfs_9254ddced0981256,78.971,False,False,export (1).json
+9140832072,node,New York City,New York City,40.7405052,-73.9907071,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_feaf8a5b5763c17e,111.814,False,False,export (1).json
+9140832081,node,New York City,New York City,40.7369853,-73.9926128,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_ce79ce24eb39e307,22.544,False,False,export (1).json
+9140853419,node,New York City,New York City,40.7360786,-73.9932937,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_0b28fe3454ebc056,20.043,False,False,export (1).json
+9140853421,node,New York City,New York City,40.736518,-73.9929824,bank,yes,City National Bank,,2026-09-30T14:01:28Z,dfs_b372617f65272b2c,21.057,False,False,export (1).json
+9149294700,node,New York City,New York City,40.7094629,-74.0091584,bank,yes,Flagstar Bank,,2026-09-30T14:01:28Z,dfs_82e66e752e91f891,14.871,False,False,export (1).json
+9247775998,node,New York City,New York City,40.8467479,-73.8322634,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_88a40cb2d6cc65ce,4.699,False,False,export (1).json
+9247775999,node,New York City,New York City,40.8467165,-73.8322443,atm,,TD Bank,TD Bank,2026-09-30T14:01:28Z,dfs_88a40cb2d6cc65ce,5.63,False,False,export (1).json
+9307172184,node,New York City,New York City,40.576755,-73.9824709,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_bf0c0c4f9f71de5d,13.036,False,False,export (1).json
+9330433960,node,New York City,New York City,40.6939091,-73.991634,bank,yes,Flushing Bank,,2026-09-30T14:01:28Z,dfs_7d27720d0c43ab20,17.609,False,False,export (1).json
+9330433969,node,New York City,New York City,40.6938682,-73.9914869,bank,yes,Dime Bank,,2026-09-30T14:01:28Z,dfs_490d737e4d82b967,17.749,False,False,export (1).json
+9348991205,node,New York City,New York City,40.7131019,-73.8766495,atm,,,,2026-09-30T14:01:28Z,dfs_103f2af167945642,19.885,False,False,export (1).json
+9350957304,node,New York City,New York City,40.7135689,-73.8722664,atm,,TD Bank,TD Bank,2026-09-30T14:01:28Z,dfs_c53fe394bc0589ab,12.799,False,False,export (1).json
+9356239881,node,New York City,New York City,40.5751774,-73.9966269,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_1bb178e841773599,18.113,False,False,export (1).json
+9362944089,node,New York City,New York City,40.7353891,-73.8743292,atm,,,,2026-09-30T14:01:28Z,dfs_dee660f19cd32c99,69.502,False,False,export (1).json
+9371669969,node,New York City,New York City,40.7467319,-73.9429425,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_51e5f80868cf783c,36.185,False,False,export (1).json
+9379722178,node,New York City,New York City,40.5971778,-73.9728163,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_23145da140d38664,19.18,False,False,export (1).json
+9379722179,node,New York City,New York City,40.5971554,-73.9728183,atm,,Santander,Santander,2026-09-30T14:01:28Z,dfs_23145da140d38664,16.729,False,False,export (1).json
+9379733417,node,New York City,New York City,40.7255308,-73.9519459,atm,,,,2026-09-30T14:01:28Z,dfs_30b17703be84ae8c,107.674,False,False,export (1).json
+9380668922,node,New York City,New York City,40.7505262,-73.9408626,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_467329ac0d943157,13.826,False,False,export (1).json
+9382602103,node,New York City,New York City,40.7220859,-73.9578167,atm,,,,2026-09-30T14:01:28Z,dfs_574c6c6c40f2ae38,444.871,False,False,export (1).json
+9382857144,node,New York City,New York City,40.6498891,-73.7823549,atm,,Travelex,,2026-09-30T14:01:28Z,dfs_423f63fa2634c81f,2750.127,False,False,export (1).json
+9393419569,node,New York City,New York City,40.619363,-73.9901597,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_8b17009387db97f9,13.644,False,False,export (1).json
+9404212605,node,New York City,New York City,40.7675579,-73.8598334,atm,,Travelex,,2026-09-30T14:01:28Z,dfs_ca56fe706b1a0ca8,1632.645,False,False,export (1).json
+9481392669,node,New York City,New York City,40.7024406,-73.8189758,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_f8d070106cc64a4a,313.549,False,False,export (1).json
+9533126242,node,New York City,New York City,40.7787808,-73.9544432,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_56bdfdca592cb396,87.473,False,False,export (1).json
+9644617680,node,New York City,New York City,40.7476009,-73.9868755,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_1c1e1ae7dd4b454d,12.317,False,False,export (1).json
+9659096583,node,New York City,New York City,40.7546542,-73.9988236,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_30fa419816dfa348,40.532,False,False,export (1).json
+9666653954,node,New York City,New York City,40.7886914,-73.8149634,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_f826f38955f408db,15.159,False,False,export (1).json
+9678625823,node,New York City,New York City,40.7572096,-73.8342038,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_567469c502c8eeaf,97.846,False,False,export (1).json
+9681228253,node,New York City,New York City,40.7074902,-73.9133871,atm,,,,2026-09-30T14:01:28Z,dfs_fec1970a7ce47e26,678.473,False,False,export (1).json
+9681258926,node,New York City,New York City,40.7070471,-73.9127183,atm,,,,2026-09-30T14:01:28Z,dfs_fec1970a7ce47e26,739.269,False,False,export (1).json
+9698998292,node,New York City,New York City,40.7601167,-73.7689582,atm,,Capital One,Capital One,2026-09-30T14:01:28Z,dfs_73ef9bcb88401e09,22.086,False,False,export (1).json
+9726274327,node,New York City,New York City,40.7593771,-73.9953831,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_de905cc70c53c48a,23.337,False,False,export (1).json
+9733275485,node,New York City,New York City,40.7075949,-73.7970319,atm,,,,2026-09-30T14:01:28Z,dfs_f1d766afc0b5fab6,176.114,False,False,export (1).json
+9736351522,node,New York City,New York City,40.6181511,-73.9598567,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_4dce52de842ca531,14.016,False,False,export (1).json
+9746583341,node,New York City,New York City,40.6848807,-73.9915384,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_b6e253a99b6b8fc6,128.205,False,False,export (1).json
+9760704257,node,New York City,New York City,40.7023275,-73.9870617,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_5bf68d8ffdf64fca,15.72,False,False,export (1).json
+9799686899,node,New York City,New York City,40.7123177,-73.7839192,atm,,,,2026-09-30T14:01:28Z,dfs_6177ad46c11e9a22,73.851,False,False,export (1).json
+9823082272,node,New York City,New York City,40.5832184,-73.9867197,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_bf0c0c4f9f71de5d,792.635,False,False,export (1).json
+9853269820,node,New York City,New York City,40.6075072,-74.0033532,atm,,,,2026-09-30T14:01:28Z,dfs_75fdad535da4fce3,322.573,False,False,export (1).json
+9853269828,node,New York City,New York City,40.6506643,-73.9493854,atm,,Citibank,Citibank,2026-09-30T14:01:28Z,dfs_86c5d31cf9831dc9,39.086,False,False,export (1).json
+9859499644,node,New York City,New York City,40.5766486,-73.9667722,atm,,,Valley Bank,2026-09-30T14:01:28Z,dfs_c9bc110e217ca3b8,17.822,False,False,export (1).json
+9876778518,node,New York City,New York City,40.7069749,-73.8046246,atm,,,,2026-09-30T14:01:28Z,dfs_944dcca92e268316,21.753,False,False,export (1).json
+9876805319,node,New York City,New York City,40.7069872,-73.8046334,atm,,,,2026-09-30T14:01:28Z,dfs_944dcca92e268316,20.199,False,False,export (1).json
+9876805418,node,New York City,New York City,40.7069638,-73.8046167,atm,,,,2026-09-30T14:01:28Z,dfs_944dcca92e268316,23.154,False,False,export (1).json
+9879181338,node,New York City,New York City,40.689828,-74.0206556,atm,,,,2026-09-30T14:01:28Z,dfs_1aa8f6245de34dfc,1513.556,False,False,export (1).json
+9884107163,node,New York City,New York City,40.5795907,-73.9721797,atm,,Apple Bank,Apple Bank,2026-09-30T14:01:28Z,dfs_141c98fc0bdca836,27.882,False,False,export (1).json
+9943140843,node,New York City,New York City,40.6848339,-73.8303423,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_89596153cca15538,18.21,False,False,export (1).json
+9943767987,node,New York City,New York City,40.5669809,-74.1127087,atm,,Chase,Chase,2026-09-30T14:01:28Z,dfs_d7c46b2af996f612,46.615,False,False,export (1).json
+9966052106,node,New York City,New York City,40.6168867,-74.0266653,atm,,,,2026-09-30T14:01:28Z,dfs_8a0ecce59a0761c1,338.766,False,False,export (1).json
+10144958289,node,New York City,New York City,40.7508803,-73.9739993,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_1a309fbe9a5fdd02,30.683,False,False,export (1).json
+10195939269,node,New York City,New York City,40.572325,-74.1136548,atm,,Santander,Santander,2026-09-30T14:01:28Z,dfs_31833065ae590d08,78.218,False,False,export (1).json
+10216105386,node,New York City,New York City,40.7586434,-73.9790075,atm,,,,2026-09-30T14:01:28Z,dfs_562bbdcdbf0cef3a,55.849,False,False,export (1).json
+10218247118,node,New York City,New York City,40.6223078,-74.0257356,bank,yes,Alma Bank,,2026-09-30T14:01:28Z,dfs_14fd18de27c78fd0,9.453,False,False,export (1).json
+10218508025,node,New York City,New York City,40.7013505,-73.8076863,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_32d1d7ac35653dc6,19.689,False,False,export (1).json
+10227046545,node,New York City,New York City,40.7665569,-73.9209496,bank,yes,Flushing Bank,Flushing Bank,2026-09-30T14:01:28Z,dfs_0c082a9002887d13,18.011,False,False,export (1).json
+10270243628,node,New York City,New York City,40.7168729,-73.9974224,bank,yes,Royal Business Bank,,2026-09-30T14:01:28Z,dfs_b8b9950559d8b720,17.884,False,False,export (1).json
+10538298399,node,New York City,New York City,40.720498,-73.9851134,atm,,,,2026-09-30T14:01:28Z,dfs_e243a36ebb3781c1,173.844,False,False,export (1).json
+10587469005,node,New York City,New York City,40.5985925,-73.9574582,bank,yes,East West Bank,,2026-09-30T14:01:28Z,dfs_e5e4b9a95991c4e3,12.717,False,False,export (1).json
+10599995461,node,New York City,New York City,40.6502265,-73.9607628,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_84db50db1f4fcbca,23.59,False,False,export (1).json
+10687171154,node,New York City,New York City,40.676062,-74.014105,atm,,,,2026-09-30T14:01:28Z,dfs_1aa8f6245de34dfc,229.855,False,False,export (1).json
+10689197469,node,New York City,New York City,40.7329656,-73.9876484,atm,,,Bank of America,2026-09-30T14:01:28Z,dfs_befc7db42cbba3e5,173.621,False,False,export (1).json
+10739815897,node,New York City,New York City,40.7192287,-73.8426103,bank,yes,First Central Savings Bank,,2026-09-30T14:01:28Z,dfs_83bd0f963099a3c0,11.347,False,False,export (1).json
+10757509894,node,New York City,New York City,40.7341821,-73.9807308,bank,yes,Ponce Bank,,2026-09-30T14:01:28Z,dfs_cdfa3f2f131812e3,15.767,False,False,export (1).json
+10759831077,node,New York City,New York City,40.6265879,-74.163053,bank,yes,M&T Bank,,2026-09-30T14:01:28Z,dfs_5e23f7e21c58ba03,32.116,False,False,export (1).json
+10794215235,node,New York City,New York City,40.7104863,-73.7932008,atm,,,,2026-09-30T14:01:28Z,dfs_3c35f770ef124fa5,16.147,False,False,export (1).json
+10794215236,node,New York City,New York City,40.7104911,-73.7931896,atm,,,,2026-09-30T14:01:28Z,dfs_3c35f770ef124fa5,15.798,False,False,export (1).json
+10812448860,node,New York City,New York City,40.7578994,-73.9812513,bank,yes,Valley Bank,,2026-09-30T14:01:28Z,dfs_1471b190d8c3a984,8.958,False,False,export (1).json
+10822825620,node,New York City,New York City,40.626916,-74.0235158,bank,yes,M&T Bank,,2026-09-30T14:01:28Z,dfs_3e1e0e58a3b9d498,14.857,False,False,export (1).json
+10822931537,node,New York City,New York City,40.6255574,-74.0244185,bank,yes,Flagstar Bank,,2026-09-30T14:01:28Z,dfs_b1cb50bd977290e9,13.436,False,False,export (1).json
+10827603590,node,New York City,New York City,40.7251729,-73.9964908,bank,yes,Citizens,,2026-09-30T14:01:28Z,dfs_57776d4743da69cd,75.5,False,False,export (1).json
+10858374397,node,New York City,New York City,40.7190467,-73.8115769,atm,yes,,Santander,2026-09-30T14:01:28Z,dfs_554ef63d0e9bf9d2,31.63,False,False,export (1).json
+10871915773,node,New York City,New York City,40.6502906,-73.9584547,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_a8366e98614b56e6,19.941,False,False,export (1).json
+10885572120,node,New York City,New York City,40.7141588,-74.0065583,bank,yes,Municipal Credit Union,,2026-09-30T14:01:28Z,dfs_6f26b4041f65f7f5,45.079,False,False,export (1).json
+10900127225,node,New York City,New York City,40.6781621,-73.8971723,bank,yes,Citi,,2026-09-30T14:01:28Z,dfs_5ce617c997ca9780,28.503,False,False,export (1).json
+10913597836,node,New York City,New York City,40.7199982,-73.9847116,atm,,,,2026-09-30T14:01:28Z,dfs_e243a36ebb3781c1,191.415,False,False,export (1).json
+10943173972,node,New York City,New York City,40.7801393,-73.7770791,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_17001698a600337f,11.505,False,False,export (1).json
+11040482725,node,New York City,New York City,40.6173637,-74.0682237,atm,,,Northfield Bank,2026-09-30T14:01:28Z,dfs_b94b2f755443e063,11.118,False,False,export (1).json
+11119854461,node,New York City,New York City,40.7102996,-74.0093344,bank,yes,PNC Bank,,2026-09-30T14:01:28Z,dfs_2061dd14dbe9515b,30.086,False,False,export (1).json
+11126118106,node,New York City,New York City,40.7410975,-73.9889943,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_58f32983d675b2c7,34.526,False,False,export (1).json
+11170408963,node,New York City,New York City,40.784133,-73.9793982,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_014d7c6ce8fa05d8,19.364,False,False,export (1).json
+11249821853,node,New York City,New York City,40.7454968,-73.9563653,atm,,,,2026-09-30T14:01:28Z,dfs_a86f7125c647fca8,449.792,False,False,export (1).json
+11249821854,node,New York City,New York City,40.7454163,-73.9559473,atm,,,,2026-09-30T14:01:28Z,dfs_adf95f40e54f57ee,422.089,False,False,export (1).json
+11249821855,node,New York City,New York City,40.7494089,-73.9556748,atm,,,,2026-09-30T14:01:28Z,dfs_adf95f40e54f57ee,808.159,False,False,export (1).json
+11264976620,node,New York City,New York City,40.685942,-73.8246977,atm,,,,2026-09-30T14:01:28Z,dfs_0d5a31452d9d962d,78.759,False,False,export (1).json
+11265125072,node,New York City,New York City,40.7487004,-73.975722,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_1b3d4c79841f294f,17.701,False,False,export (1).json
+11371599269,node,New York City,New York City,40.7934085,-73.9705878,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_c23101206462ce13,147.324,False,False,export (1).json
+11410857309,node,New York City,New York City,40.8037796,-73.9673272,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_286f1b251b49c2cb,18.328,False,False,export (1).json
+11414307371,node,New York City,New York City,40.7984526,-73.9686559,atm,,,Bank of America,2026-09-30T14:01:28Z,dfs_2eadff8dfbab0e72,382.199,False,False,export (1).json
+11422163590,node,New York City,New York City,40.7335825,-73.7587245,atm,,,,2026-09-30T14:01:28Z,dfs_048df32835ed2730,785.999,False,False,export (1).json
+11481202130,node,New York City,New York City,40.6335911,-74.0267496,bank,yes,Citizens Bank,,2026-09-30T14:01:28Z,dfs_519e449dfcabe51f,14.129,False,False,export (1).json
+11498464843,node,New York City,New York City,40.7846423,-73.94705,atm,,,,2026-09-30T14:01:28Z,dfs_b5998f5754894bf4,222.93,False,False,export (1).json
+11504858123,node,New York City,New York City,40.7292763,-73.7816566,atm,,,Chase,2026-09-30T14:01:28Z,dfs_f622a076a0509bbd,20.376,False,False,export (1).json
+11504858124,node,New York City,New York City,40.7293027,-73.7814272,atm,,,Chase,2026-09-30T14:01:28Z,dfs_f622a076a0509bbd,14.994,False,False,export (1).json
+11505373271,node,New York City,New York City,40.7486435,-73.756662,bank,yes,Flushing Bank,,2026-09-30T14:01:28Z,dfs_cb046b4036c008e1,17.078,False,False,export (1).json
+11505373288,node,New York City,New York City,40.7490107,-73.7561211,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_cb046b4036c008e1,44.358,False,False,export (1).json
+11509837678,node,New York City,New York City,40.7364976,-73.9909386,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_03752612db99ea08,16.436,False,False,export (1).json
+11517760254,node,New York City,New York City,40.7941275,-73.971836,atm,,,Chase,2026-09-30T14:01:28Z,dfs_c23101206462ce13,27.072,False,False,export (1).json
+11517887759,node,New York City,New York City,40.7638411,-73.9145791,atm,,,,2026-09-30T14:01:28Z,dfs_a9f3400839a98fc4,76.958,False,False,export (1).json
+11597487990,node,New York City,New York City,40.7754463,-73.8726235,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_ca56fe706b1a0ca8,2033.11,False,False,export (1).json
+11597487991,node,New York City,New York City,40.7746617,-73.8723229,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_ca56fe706b1a0ca8,1947.159,False,False,export (1).json
+11597487992,node,New York City,New York City,40.7739022,-73.8717547,atm,,Cardtronics,,2026-09-30T14:01:28Z,dfs_ca56fe706b1a0ca8,1866.082,False,False,export (1).json
+11597487993,node,New York City,New York City,40.7734648,-73.8724031,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_ca56fe706b1a0ca8,1814.071,False,False,export (1).json
+11717083179,node,New York City,New York City,40.7619437,-73.9660929,atm,,,,2026-09-30T14:01:28Z,dfs_363b4b2fafb990c5,72.792,False,False,export (1).json
+11717251427,node,New York City,New York City,40.7601865,-73.9721318,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_d4e2c1ca36c70423,18.125,False,False,export (1).json
+11748451719,node,New York City,New York City,40.8500326,-73.9350437,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_2b8103d04a58419f,44.376,False,False,export (1).json
+11756377092,node,New York City,New York City,40.5963316,-73.754372,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_96a1e8db84d59e53,45.43,False,False,export (1).json
+11771957325,node,New York City,New York City,40.5915315,-73.9403852,bank,yes,Citizens Bank,Citizens Bank,2026-09-30T14:01:28Z,dfs_1a918c7ffff33214,21.851,False,False,export (1).json
+11772965583,node,New York City,New York City,40.8152992,-73.9582237,bank,yes,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_f34cc17199629735,67.822,False,False,export (1).json
+11772978389,node,New York City,New York City,40.8156413,-73.957977,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_f34cc17199629735,27.855,False,False,export (1).json
+11805177028,node,New York City,New York City,40.6081672,-74.0241276,bank,yes,Advantage Federal Federal Credit Union,,2026-09-30T14:01:28Z,dfs_8a0ecce59a0761c1,1236.695,False,False,export (1).json
+11815630527,node,New York City,New York City,40.5774276,-73.9631413,bank,yes,Apple Bank,,2026-09-30T14:01:28Z,dfs_2b93d09b39942a6f,19.111,False,False,export (1).json
+11821142052,node,New York City,New York City,40.7189616,-73.8118948,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_554ef63d0e9bf9d2,12.91,False,False,export (1).json
+11886298150,node,New York City,New York City,40.7476405,-73.885061,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_84b664a6b0636a69,14.663,False,False,export (1).json
+11937569547,node,New York City,New York City,40.6036855,-73.9970472,bank,yes,Valley Bank,,2026-09-30T14:01:28Z,dfs_41b02a8c4c67bcf9,15.144,False,False,export (1).json
+11937583494,node,New York City,New York City,40.6032682,-73.9963518,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_2ecb9bb057e750a2,22.201,False,False,export (1).json
+11980017816,node,New York City,New York City,40.8101282,-73.9527803,bank,yes,Municipal Credit Union,,2026-09-30T14:01:28Z,dfs_5fb8cf774bd1d259,23.815,False,False,export (1).json
+11984232066,node,New York City,New York City,40.7110908,-73.7914785,atm,,,,2026-09-30T14:01:28Z,dfs_1181512c10fe107d,88.651,False,False,export (1).json
+12015668130,node,New York City,New York City,40.5806173,-73.969955,bank,yes,Consumers Federal Credit Union,Consumers Federal Credit Union,2026-09-30T14:01:28Z,dfs_7f5271262f48137b,187.929,False,False,export (1).json
+12017416573,node,New York City,New York City,40.885895,-73.9106986,atm,,,Citizens Bank,2026-09-30T14:01:28Z,dfs_0a85f7b02d8964eb,36.464,False,False,export (1).json
+12068766241,node,New York City,New York City,40.7026796,-73.7993402,atm,,,,2026-09-30T14:01:28Z,dfs_b8a7255a92818d6a,105.654,False,False,export (1).json
+12074277345,node,New York City,New York City,40.5996813,-73.961106,bank,yes,Ukrainian National Federal Credit Union,,2026-09-30T14:01:28Z,dfs_e5e4b9a95991c4e3,323.294,False,False,export (1).json
+12077150294,node,New York City,New York City,40.7862631,-73.9720927,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_0a807ebe0c6d351d,21.774,False,False,export (1).json
+12124758225,node,New York City,New York City,40.6757231,-73.7397661,bank,yes,Ridgewood Savings Bank,,2026-09-30T14:01:28Z,dfs_1c7ed3ee4051e274,11.949,False,False,export (1).json
+12132967494,node,New York City,New York City,40.6669264,-73.7570954,atm,,,,2026-09-30T14:01:28Z,dfs_967c2003f9bd242d,1338.229,False,False,export (1).json
+12140887840,node,New York City,New York City,40.5450447,-74.1618535,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_b0751ca232003c03,8.698,False,False,export (1).json
+12145680525,node,New York City,New York City,40.7537737,-73.9230732,atm,,,,2026-09-30T14:01:28Z,dfs_163dd7ea6c081469,566.055,False,False,export (1).json
+12155976199,node,New York City,New York City,40.7535347,-73.9236033,atm,,,,2026-09-30T14:01:28Z,dfs_163dd7ea6c081469,612.668,False,False,export (1).json
+12170467432,node,New York City,New York City,40.7504913,-73.9870459,bank,yes,Bank United,,2026-09-30T14:01:28Z,dfs_1ed21ec7ce97ae37,20.504,False,False,export (1).json
+12210840526,node,New York City,New York City,40.8358692,-73.8602496,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_7099db5f966f0785,19.66,False,False,export (1).json
+12228583515,node,New York City,New York City,40.635034,-73.9918656,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_ae140e975602a121,17.182,False,False,export (1).json
+12251081127,node,New York City,New York City,40.6240384,-74.0309927,bank,yes,Northfield Bank,,2026-09-30T14:01:28Z,dfs_60c7bea540cb347e,13.606,False,False,export (1).json
+12285971856,node,New York City,New York City,40.7514528,-73.9737045,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_f83761fab7ed86b9,19.055,False,False,export (1).json
+12290499382,node,New York City,New York City,40.6252185,-73.9622095,bank,yes,Apple Bank,,2026-09-30T14:01:28Z,dfs_88a84cd2fe9ca72f,15.406,False,False,export (1).json
+12304752255,node,New York City,New York City,40.609661,-74.0902826,atm,,,,2026-09-30T14:01:28Z,dfs_24cc448d83965e1f,1300.698,False,False,export (1).json
+12388280114,node,New York City,New York City,40.5777454,-73.9600421,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_a5420a118d1050b9,26.579,False,False,export (1).json
+12421958383,node,New York City,New York City,40.590808,-73.7965374,atm,,,Bank of America,2026-09-30T14:01:28Z,dfs_3f1da4d229ecea85,2586.431,False,False,export (1).json
+12437245037,node,New York City,New York City,40.6088564,-73.9712001,bank,yes,Santander,,2026-09-30T14:01:28Z,dfs_8b9ac85060cddebd,17.388,False,False,export (1).json
+12463387960,node,New York City,New York City,40.753918,-73.9724037,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_f239d2357141dc6d,32.109,False,False,export (1).json
+12467278174,node,New York City,New York City,40.765406,-73.8619685,atm,,,,2026-09-30T14:01:28Z,dfs_ca56fe706b1a0ca8,1336.79,False,False,export (1).json
+12493021331,node,New York City,New York City,40.6260992,-73.9764838,atm,,Bank of America,Bank of America,2026-09-30T14:01:28Z,dfs_a9353db7b2ad5067,528.679,False,False,export (1).json
+12536618633,node,New York City,New York City,40.5175082,-74.233942,atm,,Investors Bank,Citizens Bank,2026-09-30T14:01:28Z,dfs_1cf48a456a13e90c,8.355,False,False,export (1).json
+12567017537,node,New York City,New York City,40.7259646,-73.9965323,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_892ef7d812392763,13.965,False,False,export (1).json
+12660808465,node,New York City,New York City,40.6249653,-73.962119,bank,yes,Flushing Bank,,2026-09-30T14:01:28Z,dfs_87c5cc099e6f091e,13.879,False,False,export (1).json
+12685110144,node,New York City,New York City,40.7395334,-73.9247294,atm,,,Paramount,2026-09-30T14:01:28Z,dfs_62aeac2b91cbffd4,459.195,False,False,export (1).json
+12688143990,node,New York City,New York City,40.5438034,-74.1641054,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_76213e812d8767b3,12.864,False,False,export (1).json
+12710609099,node,New York City,New York City,40.7012231,-73.9420305,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_9334a0ac61960891,13.558,False,False,export (1).json
+12710609100,node,New York City,New York City,40.7014005,-73.9420638,bank,yes,TD Bank,,2026-09-30T14:01:28Z,dfs_9334a0ac61960891,23.691,False,False,export (1).json
+12732221765,node,New York City,New York City,40.6318573,-73.9956402,bank,yes,Citibank,,2026-09-30T14:01:28Z,dfs_635571e01ec47c8b,17.733,False,False,export (1).json
+12739422700,node,New York City,New York City,40.7501998,-73.9746137,bank,yes,OceanFirst Bank,,2026-09-30T14:01:28Z,dfs_45e9ec0f4fdd3124,23.396,False,False,export (1).json
+12754702365,node,New York City,New York City,40.7528415,-73.9736723,bank,yes,Hab Bank,,2026-09-30T14:01:28Z,dfs_fff7e04ef6d7ab43,79.164,False,False,export (1).json
+12760709329,node,New York City,New York City,40.7473711,-73.8926263,bank,yes,WebsterBank,,2026-09-30T14:01:28Z,dfs_af04b3a730d03d08,35.797,False,False,export (1).json
+12814408063,node,New York City,New York City,40.6130656,-74.1201663,bank,yes,Empire State Bank,,2026-09-30T14:01:28Z,dfs_787b57b9baf958d7,23.635,False,False,export (1).json
+12815117801,node,New York City,New York City,40.7333909,-73.8639404,bank,yes,Municipal Credit Union,,2026-09-30T14:01:28Z,dfs_84ec40d5c582711b,20.961,False,False,export (1).json
+12849797836,node,New York City,New York City,40.7434434,-73.9235315,atm,,,Capital One,2026-09-30T14:01:28Z,dfs_62aeac2b91cbffd4,14.145,False,False,export (1).json
+12863413867,node,New York City,New York City,40.6974675,-73.9320055,atm,,,,2026-09-30T14:01:28Z,dfs_dcadbbf8f740a476,929.372,False,False,export (1).json
+12884013821,node,New York City,New York City,40.6760724,-73.8498714,atm,,,,2026-09-30T14:01:28Z,dfs_68b34cac845297c5,879.232,False,False,export (1).json
+12918215847,node,New York City,New York City,40.7365093,-73.9846051,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_8b6d1f2204e5b10d,17.79,False,False,export (1).json
+12952378753,node,New York City,New York City,40.750172,-73.9369011,atm,,,AFCN,2026-09-30T14:01:28Z,dfs_467329ac0d943157,340.192,False,False,export (1).json
+13061848121,node,New York City,New York City,40.7404543,-73.9887884,bank,yes,KeyBank,,2026-09-30T14:01:28Z,dfs_58f32983d675b2c7,66.262,False,False,export (1).json
+13098977822,node,New York City,New York City,40.5417801,-74.1776575,bank,yes,Flagstar Bank,,2026-09-30T14:01:28Z,dfs_07581cc8e6e61a47,19.273,False,False,export (1).json
+13187426414,node,New York City,New York City,40.6808792,-73.875073,bank,yes,Brooklyn Coop Federal Credit Union,,2026-09-30T14:01:28Z,dfs_19659b564a626020,419.664,False,False,export (1).json
+13273076613,node,New York City,New York City,40.7058854,-73.7920335,atm,,,,2026-09-30T14:01:28Z,dfs_855f50575a569b5e,119.072,False,False,export (1).json
+13288405979,node,New York City,New York City,40.6091277,-73.9570928,bank,yes,Flagstar Bank,,2026-09-30T14:01:28Z,dfs_f2682ff0f16ce49c,57.232,False,False,export (1).json
+13352375666,node,New York City,New York City,40.712278,-73.7860309,atm,,,,2026-09-30T14:01:28Z,dfs_9a2dfbb1704d7833,23.503,False,False,export (1).json
+13387756650,node,New York City,New York City,40.6791053,-73.9787942,bank,yes,Wells Fargo,,2026-09-30T14:01:28Z,dfs_aa6476c805b1d564,291.764,False,False,export (1).json
+13398322219,node,New York City,New York City,40.7204061,-74.0008422,bank,yes,Valley National Bank,,2026-09-30T14:01:28Z,dfs_99ea16db4ec9ed64,10.203,False,False,export (1).json
+13506798821,node,New York City,New York City,40.6776892,-73.9831191,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_693931df6aa41535,397.474,False,False,export (1).json
+13605586553,node,New York City,New York City,40.6855772,-73.9787806,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_76e4adda2e823cbb,19.979,False,False,export (1).json
+13625909896,node,New York City,New York City,40.7692475,-73.9824422,bank,yes,Capital One,,2026-09-30T14:01:28Z,dfs_baf390f49c9e3b55,23.173,False,False,export (1).json
+13631127205,node,New York City,New York City,40.7752969,-73.9805536,atm,,,Bank of America,2026-09-30T14:01:28Z,dfs_0755276e96deaf1f,9.464,False,False,export (1).json
+13631242948,node,New York City,New York City,40.7807045,-73.9167946,atm,,Bitcoin ATM,Crypto Planet,2026-09-30T14:01:28Z,dfs_274560dcef1de683,594.524,False,False,export (1).json
+13709755890,node,New York City,New York City,40.7154378,-73.9873711,atm,,,,2026-09-30T14:01:28Z,dfs_23f86145bf1cd345,73.982,False,False,export (1).json
+13720851086,node,New York City,New York City,40.6427426,-73.7898197,atm,,,,2026-09-30T14:01:28Z,dfs_423f63fa2634c81f,3727.125,False,False,export (1).json
+13720908697,node,New York City,New York City,40.6994367,-73.8076849,atm,,,,2026-09-30T14:01:28Z,dfs_32d1d7ac35653dc6,218.849,False,False,export (1).json
+13722533249,node,New York City,New York City,40.6990874,-73.8075172,atm,,,,2026-09-30T14:01:28Z,dfs_32d1d7ac35653dc6,258.947,False,False,export (1).json
+13730649404,node,New York City,New York City,40.7581141,-73.9841954,atm,,,,2026-09-30T14:01:28Z,dfs_75b69075a435aaec,203.923,False,False,export (1).json
+13740325205,node,New York City,New York City,40.7421767,-74.004921,atm,,,,2026-09-30T14:01:28Z,dfs_394e16fad466c195,140.95,False,False,export (1).json
+13740325206,node,New York City,New York City,40.7421935,-74.0049721,atm,,,,2026-09-30T14:01:28Z,dfs_394e16fad466c195,142.572,False,False,export (1).json
+13745836173,node,New York City,New York City,40.7024287,-73.9903215,atm,,,,2026-09-30T14:01:28Z,dfs_5bf68d8ffdf64fca,264.651,False,False,export (1).json
+13752938488,node,New York City,New York City,40.6436804,-74.076505,atm,,Anthem,Santander,2026-09-30T14:01:28Z,dfs_a7e14eda7eb97dd2,18.215,False,False,export (1).json
+13752938490,node,New York City,New York City,40.644087,-74.0724899,atm,,Anthem,,2026-09-30T14:01:28Z,dfs_a7e14eda7eb97dd2,325.288,False,False,export (1).json
+13808561756,node,New York City,New York City,40.7022392,-74.0124354,atm,,,,2026-09-30T14:01:28Z,dfs_d9a999cf48142c36,103.918,False,False,export (1).json
+13815536523,node,New York City,New York City,40.7179982,-73.9577026,bank,yes,Chase,,2026-09-30T14:01:28Z,dfs_7dc8fbce86458455,11.194,False,False,export (1).json
+13837911425,node,New York City,New York City,40.7352917,-73.9745016,atm,,,,2026-09-30T14:01:28Z,dfs_d22465046f738784,210.932,False,False,export (1).json
+13931862186,node,New York City,New York City,40.7414886,-73.9898892,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_58f32983d675b2c7,81.643,False,False,export (1).json
+13991865116,node,New York City,New York City,40.7427068,-73.935283,atm,,,Access One,2026-09-30T14:01:28Z,dfs_32334d1a6c0a0ced,755.418,False,False,export (1).json
+13991865168,node,New York City,New York City,40.7424078,-73.9363769,atm,,,,2026-09-30T14:01:28Z,dfs_51e5f80868cf783c,733.062,False,False,export (1).json
+14003842717,node,New York City,New York City,40.6842878,-73.976394,atm,,,Citibank,2026-09-30T14:01:28Z,dfs_dabd5225dd0af875,100.399,False,False,export (1).json
+14016343238,node,New York City,New York City,40.7285521,-73.9533756,bank,yes,Bank of America,,2026-09-30T14:01:28Z,dfs_11cd60872c9ce35c,10.301,False,False,export (1).json
+14082269062,node,New York City,New York City,40.6686251,-73.9865606,bank,yes,WebsterBank,,2026-09-30T14:01:28Z,dfs_28c17ad5a76bbdb8,13.27,False,False,export (1).json
+14099580092,node,New York City,New York City,40.6278931,-74.0290903,atm,,,Bank of America,2026-09-30T14:01:28Z,dfs_b8ae1a380f9675d0,14.154,False,False,export (1).json
+1892277713,node,Buffalo,Buffalo,42.9546365,-78.8201665,atm,,,generic,2026-09-30T14:04:30Z,dfs_e9dc09c4e32a04b9,690.717,False,False,export (2).json
+2665577554,node,Buffalo,Buffalo,42.8539235,-78.808489,bank,yes,KeyBank,,2026-09-30T14:04:30Z,dfs_b0ee454f7dbd1134,32.517,False,False,export (2).json
+4716756109,node,Buffalo,Buffalo,42.9019565,-78.8688082,bank,yes,KeyBank,,2026-09-30T14:04:30Z,dfs_6d2b73be3145563b,186.093,False,False,export (2).json
+7228983248,node,Buffalo,Buffalo,42.8809112,-78.8770218,atm,,,,2026-09-30T14:04:30Z,dfs_77601ac5f00bc064,369.959,False,False,export (2).json
+8454666308,node,Buffalo,Buffalo,42.9223179,-78.8768243,bank,yes,NBT Bank,,2026-09-30T14:04:30Z,dfs_ac9c90beea125df0,16.034,False,False,export (2).json
+8454696860,node,Buffalo,Buffalo,42.9223748,-78.8285691,bank,yes,KeyBank,,2026-09-30T14:04:30Z,dfs_ef77d963383254b1,730.445,False,False,export (2).json
+8457887648,node,Buffalo,Buffalo,42.8932184,-78.8369679,bank,yes,KeyBank,,2026-09-30T14:04:30Z,dfs_b0d8becc50e7051b,10.526,False,False,export (2).json
+9077603419,node,Buffalo,Buffalo,42.9550524,-78.87805,atm,,M&T Bank,M&T Bank,2026-09-30T14:04:30Z,dfs_8ba2c99a4ba487ec,116.715,False,False,export (2).json
+9080956536,node,Buffalo,Buffalo,42.9570143,-78.8699198,bank,yes,NBT Bank,,2026-09-30T14:04:30Z,dfs_c1feea62b3b1df5a,13.965,False,False,export (2).json
+9288696851,node,Buffalo,Buffalo,42.9478582,-78.8543112,bank,yes,Bank of America,,2026-09-30T14:04:30Z,dfs_86ad9cc384b94c48,16.145,False,False,export (2).json
+9412324686,node,Buffalo,Buffalo,42.9399122,-78.81387,bank,yes,KeyBank,,2026-09-30T14:04:30Z,dfs_99615c7be7056b65,18.722,False,False,export (2).json
+11226852117,node,Buffalo,Buffalo,42.9227068,-78.8763047,atm,,,,2026-09-30T14:04:30Z,dfs_ac9c90beea125df0,71.852,False,False,export (2).json
+11226867474,node,Buffalo,Buffalo,42.9223665,-78.8768423,atm,,,NBT Bank,2026-09-30T14:04:30Z,dfs_ac9c90beea125df0,15.064,False,False,export (2).json
+11226867477,node,Buffalo,Buffalo,42.9227058,-78.8762979,atm,,,,2026-09-30T14:04:30Z,dfs_ac9c90beea125df0,72.24,False,False,export (2).json
+11226867660,node,Buffalo,Buffalo,42.9259352,-78.8772952,atm,,,,2026-09-30T14:04:30Z,dfs_2925389dfa0a33eb,172.021,False,False,export (2).json
+11236853340,node,Buffalo,Buffalo,42.946847,-78.8693222,atm,,,KeyBank,2026-09-30T14:04:30Z,dfs_90911e99223e1f8e,45.176,False,False,export (2).json
+11282324759,node,Buffalo,Buffalo,42.9345709,-78.9027858,atm,,,KeyBank,2026-09-30T14:04:30Z,dfs_e581ff6317a87a50,40.258,False,False,export (2).json
+12650579738,node,Buffalo,Buffalo,42.9183927,-78.8774013,atm,,,,2026-09-30T14:04:30Z,dfs_9ba9df4ea5be56bf,182.535,False,False,export (2).json
+13040429584,node,Buffalo,Buffalo,42.9344207,-78.8440125,bank,yes,KeyBank,,2026-09-30T14:04:30Z,dfs_39d701f175069cdc,28.274,False,False,export (2).json
+925059027,node,Rochester,Rochester,43.1523772,-77.6029726,bank,yes,ESL Federal Credit Union,ESL Federal Credit Union,2026-09-30T14:06:34Z,dfs_9c80a2c2fcb567f7,52.247,False,False,export (3).json
+925063072,node,Rochester,Rochester,43.1492578,-77.5970329,atm,,,Canandaigua National Bank & Trust,2026-09-30T14:06:34Z,dfs_7fcecada14761565,32.358,False,False,export (3).json
+925063081,node,Rochester,Rochester,43.1458178,-77.5918361,atm,,,Chase,2026-09-30T14:06:34Z,dfs_eaa673ff4c6479ee,42.73,False,False,export (3).json
+1513391867,node,Rochester,Rochester,43.1428215,-77.6013982,bank,yes,Genesee Coop Federal Credit Union,,2026-09-30T14:06:34Z,dfs_7fcecada14761565,796.902,False,False,export (3).json
+3453071090,node,Rochester,Rochester,43.1191518,-77.6206185,atm,,,Canandaigua National Bank & Trust,2026-09-30T14:06:34Z,dfs_0a417253652e5916,6.651,False,False,export (3).json
+8786027623,node,Rochester,Rochester,43.1235489,-77.6184626,bank,yes,Canandaigua National Bank & Trust,,2026-09-30T14:06:34Z,dfs_238502b6353dea7e,28.45,False,False,export (3).json
+11929448230,node,Rochester,Rochester,43.1937174,-77.6272119,atm,,,ESL Federal Credit Union,2026-09-30T14:06:34Z,dfs_9deb8d86783b1ae4,63.051,False,False,export (3).json
+11929739352,node,Rochester,Rochester,43.151664,-77.6032075,atm,,,ESL Federal Credit Union,2026-09-30T14:06:34Z,dfs_9c80a2c2fcb567f7,102.752,False,False,export (3).json
+12117233243,node,Rochester,Rochester,43.1646835,-77.5889756,atm,,,Sundberg,2026-09-30T14:06:34Z,dfs_247c3098348cdf3e,639.018,False,False,export (3).json
+12117237790,node,Rochester,Rochester,43.1656361,-77.5890733,atm,,,Sundberg,2026-09-30T14:06:34Z,dfs_247c3098348cdf3e,701.525,False,False,export (3).json
+12117238502,node,Rochester,Rochester,43.1651524,-77.5894348,atm,,,Sundberg,2026-09-30T14:06:34Z,dfs_247c3098348cdf3e,697.043,False,False,export (3).json
+12117242785,node,Rochester,Rochester,43.1652462,-77.5899212,atm,,,Sundberg,2026-09-30T14:06:34Z,dfs_247c3098348cdf3e,736.521,False,False,export (3).json
+14181671129,node,Rochester,Rochester,43.173789,-77.6127348,atm,,,,2026-09-30T14:06:34Z,dfs_23e3941803569a84,1184.283,False,False,export (3).json

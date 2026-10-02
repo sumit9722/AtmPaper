@@ -1,0 +1,49 @@
+{
+  "New York City": {
+    "dfs_source_records": 1437,
+    "dfs_sites": 1426,
+    "site_clusters": 1387,
+    "crime_raw_rows": 363194,
+    "crime_excluded_outside_city_polygon": 21,
+    "crime_unique_valid": 363173,
+    "primary_2024": 29595,
+    "broad_2024": 177744,
+    "primary_2025": 27709,
+    "broad_2025": 167220,
+    "primary_events_multiple_sites_50m": 399,
+    "sites_positive_50m": 810,
+    "primary_site_event_links_50m": 2657
+  },
+  "Buffalo": {
+    "dfs_source_records": 70,
+    "dfs_sites": 69,
+    "site_clusters": 67,
+    "crime_raw_rows": 26448,
+    "crime_excluded_missing_coordinates": 1852,
+    "crime_excluded_outside_city_polygon": 113,
+    "crime_unique_valid": 24483,
+    "primary_2024": 1761,
+    "broad_2024": 7821,
+    "primary_2025": 1630,
+    "broad_2025": 7221,
+    "primary_events_multiple_sites_50m": 3,
+    "sites_positive_50m": 19,
+    "primary_site_event_links_50m": 28
+  },
+  "Rochester": {
+    "dfs_source_records": 38,
+    "dfs_sites": 37,
+    "site_clusters": 37,
+    "crime_raw_rows": 15635,
+    "crime_excluded_outside_city_polygon": 8,
+    "crime_excluded_missing_coordinates": 21,
+    "duplicate_case_rows": 33,
+    "crime_unique_valid": 15573,
+    "primary_2025": 970,
+    "broad_2025": 4664,
+    "primary_2024": 1366,
+    "broad_2024": 5255,
+    "sites_positive_50m": 11,
+    "primary_site_event_links_50m": 16
+  }
+}

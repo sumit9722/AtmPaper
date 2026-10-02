@@ -1,0 +1,2255 @@
+{
+  "id" : "d6g9-xbgu",
+  "name" : "Crime Incidents",
+  "assetType" : "dataset",
+  "attribution" : "Buffalo Police Department",
+  "attributionLink" : "https://www.bpdyny.org/",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1504737298,
+  "description" : "This is a dataset of crime incidents in the City of Buffalo. This dataset is updated daily and offers a preliminary look at crime reports in the City of Buffalo. See disclaimer in metadata below for further information.",
+  "diciBackend" : false,
+  "displayType" : "table",
+  "domainCName" : "data.buffalony.gov",
+  "downloadCount" : 22671,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "licenseId" : "USGOV_WORKS",
+  "locked" : false,
+  "newBackend" : true,
+  "numberOfComments" : 0,
+  "oid" : 40351101,
+  "provenance" : "official",
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1704831597,
+  "publicationGroup" : 14446856,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 588064427,
+  "rowsUpdatedAt" : 1790832889,
+  "rowsUpdatedBy" : "3v4m-nid8",
+  "tableId" : 19424082,
+  "totalTimesRated" : 0,
+  "viewCount" : 214513,
+  "viewLastModified" : 1790832883,
+  "viewType" : "tabular",
+  "approvals" : [ {
+    "reviewedAt" : 1522873730,
+    "reviewedAutomatically" : true,
+    "state" : "approved",
+    "submissionId" : 6056157,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1522873730,
+    "targetAudience" : "public",
+    "workflowId" : 2502,
+    "submissionDetails" : {
+      "permissionType" : "READ"
+    },
+    "submissionOutcomeApplication" : {
+      "failureCount" : 0,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "h8kc-nhfe",
+      "displayName" : "Open Data Buffalo"
+    }
+  }, {
+    "message" : "The `strict_permissions` flag must be on to enable internal approvals.",
+    "state" : "unsubmittable",
+    "targetAudience" : "internal",
+    "workflowId" : 5251
+  } ],
+  "clientContext" : {
+    "clientContextVariables" : [ ],
+    "inheritedVariables" : { }
+  },
+  "columns" : [ {
+    "id" : 588064427,
+    "name" : "Case Number",
+    "dataTypeName" : "text",
+    "description" : "The case number for each crime incident.",
+    "fieldName" : "case_number",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 52946199,
+    "cachedContents" : {
+      "non_null" : "338017",
+      "largest" : "987654321",
+      "null" : "0",
+      "top" : [ {
+        "item" : "06-0010086",
+        "count" : "1"
+      }, {
+        "item" : "06-0010110",
+        "count" : "1"
+      }, {
+        "item" : "06-0010115",
+        "count" : "1"
+      }, {
+        "item" : "06-0010168",
+        "count" : "1"
+      }, {
+        "item" : "06-0010204",
+        "count" : "1"
+      }, {
+        "item" : "06-0010209",
+        "count" : "1"
+      }, {
+        "item" : "06-0010229",
+        "count" : "1"
+      }, {
+        "item" : "06-0010243",
+        "count" : "1"
+      }, {
+        "item" : "06-0010244",
+        "count" : "1"
+      }, {
+        "item" : "06-0010268",
+        "count" : "1"
+      }, {
+        "item" : "06-0010313",
+        "count" : "1"
+      }, {
+        "item" : "06-0010320",
+        "count" : "1"
+      }, {
+        "item" : "06-0010329",
+        "count" : "1"
+      }, {
+        "item" : "06-0010330",
+        "count" : "1"
+      }, {
+        "item" : "06-0010388",
+        "count" : "1"
+      }, {
+        "item" : "06-0010390",
+        "count" : "1"
+      }, {
+        "item" : "06-0010399",
+        "count" : "1"
+      }, {
+        "item" : "06-0010431",
+        "count" : "1"
+      }, {
+        "item" : "06-0010445",
+        "count" : "1"
+      }, {
+        "item" : "06-0010050",
+        "count" : "1"
+      } ],
+      "smallest" : "06-0010050",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064465,
+    "name" : "Incident Datetime",
+    "dataTypeName" : "calendar_date",
+    "description" : "The date and time of the crime incident.",
+    "fieldName" : "incident_datetime",
+    "position" : 2,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 150828346,
+    "cachedContents" : {
+      "non_null" : "338017",
+      "largest" : "2026-09-30T00:17:17.000",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2006-01-01T00:00:00.000",
+        "count" : "54"
+      }, {
+        "item" : "2007-01-01T00:00:00.000",
+        "count" : "42"
+      }, {
+        "item" : "2009-05-01T00:00:00.000",
+        "count" : "34"
+      }, {
+        "item" : "2009-09-01T00:00:00.000",
+        "count" : "34"
+      }, {
+        "item" : "2009-01-01T00:00:00.000",
+        "count" : "31"
+      }, {
+        "item" : "2010-10-01T00:00:00.000",
+        "count" : "29"
+      }, {
+        "item" : "2008-08-01T00:00:00.000",
+        "count" : "29"
+      }, {
+        "item" : "2006-09-01T00:00:00.000",
+        "count" : "27"
+      }, {
+        "item" : "2008-09-01T00:00:00.000",
+        "count" : "27"
+      }, {
+        "item" : "2009-12-01T00:00:00.000",
+        "count" : "26"
+      }, {
+        "item" : "2010-07-01T00:00:00.000",
+        "count" : "26"
+      }, {
+        "item" : "2007-08-01T00:00:00.000",
+        "count" : "26"
+      }, {
+        "item" : "2006-06-01T00:00:00.000",
+        "count" : "26"
+      }, {
+        "item" : "2008-10-01T00:00:00.000",
+        "count" : "25"
+      }, {
+        "item" : "2007-03-01T00:00:00.000",
+        "count" : "25"
+      }, {
+        "item" : "2007-07-01T00:00:00.000",
+        "count" : "24"
+      }, {
+        "item" : "2006-07-01T00:00:00.000",
+        "count" : "24"
+      }, {
+        "item" : "2008-01-01T00:00:00.000",
+        "count" : "24"
+      }, {
+        "item" : "2008-07-01T00:00:00.000",
+        "count" : "24"
+      }, {
+        "item" : "2009-03-01T00:00:00.000",
+        "count" : "23"
+      } ],
+      "smallest" : "1910-12-22T00:00:00.000",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064429,
+    "name" : "Incident ID",
+    "dataTypeName" : "text",
+    "description" : "The unique identifier of the crime incident.",
+    "fieldName" : "incident_id",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 150343729,
+    "cachedContents" : {
+      "non_null" : "0",
+      "null" : "338017",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064430,
+    "name" : "Incident Type Primary",
+    "dataTypeName" : "text",
+    "description" : "The primary crime type of the incident.",
+    "fieldName" : "incident_type_primary",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 52946201,
+    "cachedContents" : {
+      "non_null" : "338017",
+      "largest" : "UUV",
+      "null" : "0",
+      "top" : [ {
+        "item" : "LARCENY/THEFT",
+        "count" : "146273"
+      }, {
+        "item" : "ASSAULT",
+        "count" : "66258"
+      }, {
+        "item" : "BURGLARY",
+        "count" : "58609"
+      }, {
+        "item" : "UUV",
+        "count" : "33534"
+      }, {
+        "item" : "ROBBERY",
+        "count" : "20119"
+      }, {
+        "item" : "RAPE",
+        "count" : "3228"
+      }, {
+        "item" : "SEXUAL ABUSE",
+        "count" : "3031"
+      }, {
+        "item" : "THEFT OF SERVICES",
+        "count" : "2211"
+      }, {
+        "item" : "Larceny",
+        "count" : "1663"
+      }, {
+        "item" : "MURDER",
+        "count" : "1035"
+      }, {
+        "item" : "Assault",
+        "count" : "675"
+      }, {
+        "item" : "Unauthorized Use of Vehicle",
+        "count" : "536"
+      }, {
+        "item" : "Burglary",
+        "count" : "252"
+      }, {
+        "item" : "Robbery",
+        "count" : "131"
+      }, {
+        "item" : "AGGR ASSAULT",
+        "count" : "131"
+      }, {
+        "item" : "Breaking & Entering",
+        "count" : "84"
+      }, {
+        "item" : "Sexual Offense",
+        "count" : "81"
+      }, {
+        "item" : "CRIM NEGLIGENT HOMICIDE",
+        "count" : "72"
+      }, {
+        "item" : "Theft",
+        "count" : "37"
+      }, {
+        "item" : "MANSLAUGHTER",
+        "count" : "22"
+      } ],
+      "smallest" : "AGG ASSAULT ON P/OFFICER",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064431,
+    "name" : "Incident Description",
+    "dataTypeName" : "text",
+    "description" : "A description of the crime incident",
+    "fieldName" : "incident_description",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 52946202,
+    "cachedContents" : {
+      "non_null" : "338017",
+      "largest" : "UUV",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Buffalo Police are investigating this report of a crime.  It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.",
+        "count" : "328631"
+      }, {
+        "item" : "Buffalo Police are investigating this report of a crime. It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of this report may be necessary.",
+        "count" : "5195"
+      }, {
+        "item" : "LARCENY/THEFT",
+        "count" : "2016"
+      }, {
+        "item" : "BURGLARY",
+        "count" : "1061"
+      }, {
+        "item" : "ASSAULT",
+        "count" : "706"
+      }, {
+        "item" : "SEXUAL ABUSE",
+        "count" : "149"
+      }, {
+        "item" : "UUV",
+        "count" : "111"
+      }, {
+        "item" : "RAPE",
+        "count" : "72"
+      }, {
+        "item" : "ROBBERY",
+        "count" : "36"
+      }, {
+        "item" : "CRIM NEGLIGENT HOMICIDE",
+        "count" : "22"
+      }, {
+        "item" : "THEFT OF SERVICES",
+        "count" : "12"
+      }, {
+        "item" : "MURDER",
+        "count" : "2"
+      }, {
+        "item" : "AGGR ASSAULT",
+        "count" : "2"
+      }, {
+        "item" : "AGG ASSAULT ON P/OFFICER",
+        "count" : "2"
+      } ],
+      "smallest" : "AGG ASSAULT ON P/OFFICER",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064432,
+    "name" : "Parent Incident Type",
+    "dataTypeName" : "text",
+    "description" : "The parent type of the crime incident.",
+    "fieldName" : "parent_incident_type",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 52946217,
+    "cachedContents" : {
+      "non_null" : "338017",
+      "largest" : "Theft of Vehicle",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Theft",
+        "count" : "150189"
+      }, {
+        "item" : "Assault",
+        "count" : "67074"
+      }, {
+        "item" : "Breaking & Entering",
+        "count" : "58949"
+      }, {
+        "item" : "Theft of Vehicle",
+        "count" : "34074"
+      }, {
+        "item" : "Robbery",
+        "count" : "20250"
+      }, {
+        "item" : "Sexual Assault",
+        "count" : "2497"
+      }, {
+        "item" : "Other Sexual Offense",
+        "count" : "2241"
+      }, {
+        "item" : "Sexual Offense",
+        "count" : "1609"
+      }, {
+        "item" : "Homicide",
+        "count" : "1131"
+      }, {
+        "item" : "SODOMY",
+        "count" : "3"
+      } ],
+      "smallest" : "Assault",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064433,
+    "name" : "Hour of Day",
+    "dataTypeName" : "text",
+    "description" : "The hour of the day associated with the crime incident.",
+    "fieldName" : "hour_of_day",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 150343728,
+    "cachedContents" : {
+      "non_null" : "338017",
+      "largest" : "9",
+      "null" : "0",
+      "top" : [ {
+        "item" : "0",
+        "count" : "34337"
+      }, {
+        "item" : "12",
+        "count" : "20023"
+      }, {
+        "item" : "16",
+        "count" : "17194"
+      }, {
+        "item" : "17",
+        "count" : "16940"
+      }, {
+        "item" : "18",
+        "count" : "16054"
+      }, {
+        "item" : "15",
+        "count" : "15840"
+      }, {
+        "item" : "20",
+        "count" : "15594"
+      }, {
+        "item" : "21",
+        "count" : "15344"
+      }, {
+        "item" : "11",
+        "count" : "15240"
+      }, {
+        "item" : "14",
+        "count" : "15078"
+      }, {
+        "item" : "13",
+        "count" : "14952"
+      }, {
+        "item" : "22",
+        "count" : "14846"
+      }, {
+        "item" : "10",
+        "count" : "14570"
+      }, {
+        "item" : "19",
+        "count" : "14443"
+      }, {
+        "item" : "23",
+        "count" : "14293"
+      }, {
+        "item" : "9",
+        "count" : "13892"
+      }, {
+        "item" : "8",
+        "count" : "12496"
+      }, {
+        "item" : "1",
+        "count" : "11087"
+      }, {
+        "item" : "2",
+        "count" : "9913"
+      }, {
+        "item" : "3",
+        "count" : "8580"
+      } ],
+      "smallest" : "0",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064434,
+    "name" : "Day of Week",
+    "dataTypeName" : "text",
+    "description" : "The day of the week associated with the crime incident.",
+    "fieldName" : "day_of_week",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 52946216,
+    "cachedContents" : {
+      "non_null" : "338017",
+      "largest" : "Wednesday",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Friday",
+        "count" : "50130"
+      }, {
+        "item" : "Saturday",
+        "count" : "49084"
+      }, {
+        "item" : "Monday",
+        "count" : "48919"
+      }, {
+        "item" : "Wednesday",
+        "count" : "47934"
+      }, {
+        "item" : "Tuesday",
+        "count" : "47874"
+      }, {
+        "item" : "Thursday",
+        "count" : "47346"
+      }, {
+        "item" : "Sunday",
+        "count" : "46730"
+      } ],
+      "smallest" : "Friday",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064435,
+    "name" : "Address",
+    "dataTypeName" : "text",
+    "description" : "The address of the crime incident.",
+    "fieldName" : "address_1",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 52946204,
+    "cachedContents" : {
+      "non_null" : "337975",
+      "largest" : "ZOLLARS AV & MARILLA ST",
+      "null" : "42",
+      "top" : [ {
+        "item" : "2100 Block ELMWOOD AV",
+        "count" : "2446"
+      }, {
+        "item" : "2600 Block DELAWARE AV",
+        "count" : "2062"
+      }, {
+        "item" : "600 Block AMHERST ST",
+        "count" : "1554"
+      }, {
+        "item" : "2200 Block DELAWARE AV",
+        "count" : "1362"
+      }, {
+        "item" : "300 Block AMHERST ST",
+        "count" : "1295"
+      }, {
+        "item" : "400 Block GRIDER ST",
+        "count" : "1112"
+      }, {
+        "item" : "400 Block NIAGARA ST",
+        "count" : "1091"
+      }, {
+        "item" : "1000 Block HERTEL AV",
+        "count" : "970"
+      }, {
+        "item" : "900 Block BROADWAY",
+        "count" : "907"
+      }, {
+        "item" : "200 Block W FERRY ST",
+        "count" : "860"
+      }, {
+        "item" : "1 Block W CHIPPEWA ST",
+        "count" : "860"
+      }, {
+        "item" : "2100 Block DELAWARE AV",
+        "count" : "782"
+      }, {
+        "item" : "100 Block GRANT ST",
+        "count" : "769"
+      }, {
+        "item" : "600 Block MAIN ST",
+        "count" : "736"
+      }, {
+        "item" : "2700 Block BAILEY AV",
+        "count" : "714"
+      }, {
+        "item" : "1700 Block BROADWAY",
+        "count" : "713"
+      }, {
+        "item" : "400 Block ELMWOOD AV",
+        "count" : "710"
+      }, {
+        "item" : "1 Block DELAWARE AV",
+        "count" : "703"
+      }, {
+        "item" : "100 Block HIGH ST",
+        "count" : "694"
+      }, {
+        "item" : "200 Block ELMWOOD AV",
+        "count" : "652"
+      } ],
+      "smallest" : "0 Block 10TH ST",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064436,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "description" : "The city where the crime incident was reported.",
+    "fieldName" : "city",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 52946206,
+    "cachedContents" : {
+      "non_null" : "338004",
+      "largest" : "Mount vernon",
+      "null" : "13",
+      "top" : [ {
+        "item" : "Buffalo",
+        "count" : "337999"
+      }, {
+        "item" : "Kenmore",
+        "count" : "2"
+      }, {
+        "item" : "Buffaalo",
+        "count" : "1"
+      }, {
+        "item" : "Cheektowaga",
+        "count" : "1"
+      }, {
+        "item" : "Mount vernon",
+        "count" : "1"
+      } ],
+      "smallest" : "Buffaalo",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064437,
+    "name" : "State",
+    "dataTypeName" : "text",
+    "description" : "The state where the crime incident was reported",
+    "fieldName" : "state",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 52946207,
+    "cachedContents" : {
+      "non_null" : "338005",
+      "largest" : "NY",
+      "null" : "12",
+      "top" : [ {
+        "item" : "NY",
+        "count" : "338005"
+      } ],
+      "smallest" : "NY",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064438,
+    "name" : "Location",
+    "dataTypeName" : "point",
+    "description" : "The geographic location associated with the crime incident",
+    "fieldName" : "location",
+    "position" : 12,
+    "renderTypeName" : "point",
+    "tableColumnId" : 150529481,
+    "cachedContents" : {
+      "non_null" : "330165",
+      "null" : "7852",
+      "top" : [ {
+        "item" : {
+          "coordinates" : [ -78.816, 42.94 ],
+          "type" : "Point"
+        },
+        "count" : "1532"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.874, 42.955 ],
+          "type" : "Point"
+        },
+        "count" : "1334"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.829, 42.918 ],
+          "type" : "Point"
+        },
+        "count" : "1325"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.878, 42.954 ],
+          "type" : "Point"
+        },
+        "count" : "1138"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.871, 42.948 ],
+          "type" : "Point"
+        },
+        "count" : "862"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.882, 42.89 ],
+          "type" : "Point"
+        },
+        "count" : "828"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.838, 42.914 ],
+          "type" : "Point"
+        },
+        "count" : "822"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.879, 42.885 ],
+          "type" : "Point"
+        },
+        "count" : "788"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.879, 42.954 ],
+          "type" : "Point"
+        },
+        "count" : "771"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.865, 42.901 ],
+          "type" : "Point"
+        },
+        "count" : "764"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.871, 42.874 ],
+          "type" : "Point"
+        },
+        "count" : "685"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.871, 42.893 ],
+          "type" : "Point"
+        },
+        "count" : "649"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.884, 42.948 ],
+          "type" : "Point"
+        },
+        "count" : "646"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.813, 42.93 ],
+          "type" : "Point"
+        },
+        "count" : "603"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.807, 42.898 ],
+          "type" : "Point"
+        },
+        "count" : "576"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.831, 42.858 ],
+          "type" : "Point"
+        },
+        "count" : "563"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.878, 42.886 ],
+          "type" : "Point"
+        },
+        "count" : "563"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.824, 42.94 ],
+          "type" : "Point"
+        },
+        "count" : "556"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.824, 42.848 ],
+          "type" : "Point"
+        },
+        "count" : "548"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.826, 42.951 ],
+          "type" : "Point"
+        },
+        "count" : "533"
+      } ],
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064439,
+    "name" : "Latitude",
+    "dataTypeName" : "text",
+    "description" : "The latitude associated with the crime incident",
+    "fieldName" : "latitude",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 150343726,
+    "cachedContents" : {
+      "non_null" : "335444",
+      "largest" : "UNKNOWN",
+      "null" : "2573",
+      "top" : [ {
+        "item" : "42.94",
+        "count" : "6789"
+      }, {
+        "item" : "42.948",
+        "count" : "6716"
+      }, {
+        "item" : "42.915",
+        "count" : "6457"
+      }, {
+        "item" : "42.91",
+        "count" : "5450"
+      }, {
+        "item" : "42.918",
+        "count" : "5369"
+      }, {
+        "item" : "42.914",
+        "count" : "5287"
+      }, {
+        "item" : "UNKNOWN",
+        "count" : "5279"
+      }, {
+        "item" : "42.922",
+        "count" : "5261"
+      }, {
+        "item" : "42.893",
+        "count" : "5070"
+      }, {
+        "item" : "42.911",
+        "count" : "5040"
+      }, {
+        "item" : "42.89",
+        "count" : "4962"
+      }, {
+        "item" : "42.913",
+        "count" : "4789"
+      }, {
+        "item" : "42.891",
+        "count" : "4739"
+      }, {
+        "item" : "42.896",
+        "count" : "4723"
+      }, {
+        "item" : "42.909",
+        "count" : "4699"
+      }, {
+        "item" : "42.899",
+        "count" : "4682"
+      }, {
+        "item" : "42.912",
+        "count" : "4658"
+      }, {
+        "item" : "42.947",
+        "count" : "4578"
+      }, {
+        "item" : "42.897",
+        "count" : "4433"
+      }, {
+        "item" : "42.916",
+        "count" : "4377"
+      } ],
+      "smallest" : "42.596",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064440,
+    "name" : "Longitude",
+    "dataTypeName" : "text",
+    "description" : "The longitude associated with the crime incident",
+    "fieldName" : "longitude",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 150343725,
+    "cachedContents" : {
+      "non_null" : "335444",
+      "largest" : "UNKNOWN",
+      "null" : "2573",
+      "top" : [ {
+        "item" : "-78.877",
+        "count" : "8755"
+      }, {
+        "item" : "-78.878",
+        "count" : "7029"
+      }, {
+        "item" : "-78.814",
+        "count" : "6260"
+      }, {
+        "item" : "-78.824",
+        "count" : "5787"
+      }, {
+        "item" : "UNKNOWN",
+        "count" : "5279"
+      }, {
+        "item" : "-78.871",
+        "count" : "5108"
+      }, {
+        "item" : "-78.879",
+        "count" : "5101"
+      }, {
+        "item" : "-78.89",
+        "count" : "4913"
+      }, {
+        "item" : "-78.874",
+        "count" : "4905"
+      }, {
+        "item" : "-78.816",
+        "count" : "4889"
+      }, {
+        "item" : "-78.813",
+        "count" : "4814"
+      }, {
+        "item" : "-78.807",
+        "count" : "4804"
+      }, {
+        "item" : "-78.808",
+        "count" : "4570"
+      }, {
+        "item" : "-78.839",
+        "count" : "4277"
+      }, {
+        "item" : "-78.829",
+        "count" : "4162"
+      }, {
+        "item" : "-78.809",
+        "count" : "4153"
+      }, {
+        "item" : "-78.81",
+        "count" : "4145"
+      }, {
+        "item" : "-78.812",
+        "count" : "4096"
+      }, {
+        "item" : "-78.815",
+        "count" : "4057"
+      }, {
+        "item" : "-78.868",
+        "count" : "4023"
+      } ],
+      "smallest" : "-78.497",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064464,
+    "name" : "Created At",
+    "dataTypeName" : "calendar_date",
+    "description" : "The time the crime incident was created.",
+    "fieldName" : "created_at",
+    "position" : 15,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 150828345,
+    "cachedContents" : {
+      "non_null" : "93953",
+      "largest" : "2026-09-30T00:17:17.000",
+      "null" : "244064",
+      "top" : [ {
+        "item" : "2019-10-10T19:15:00.000",
+        "count" : "495"
+      }, {
+        "item" : "2019-10-10T19:18:00.000",
+        "count" : "375"
+      }, {
+        "item" : "2016-10-27T04:06:00.000",
+        "count" : "264"
+      }, {
+        "item" : "2010-10-11T02:31:00.000",
+        "count" : "231"
+      }, {
+        "item" : "2009-11-24T05:31:00.000",
+        "count" : "214"
+      }, {
+        "item" : "2019-10-10T19:16:00.000",
+        "count" : "165"
+      }, {
+        "item" : "2010-10-04T11:22:00.000",
+        "count" : "162"
+      }, {
+        "item" : "2009-11-24T05:30:00.000",
+        "count" : "157"
+      }, {
+        "item" : "2011-11-23T07:00:00.000",
+        "count" : "129"
+      }, {
+        "item" : "2016-11-13T05:07:00.000",
+        "count" : "120"
+      }, {
+        "item" : "2010-10-01T17:50:00.000",
+        "count" : "116"
+      }, {
+        "item" : "2015-10-28T03:54:00.000",
+        "count" : "103"
+      }, {
+        "item" : "2014-12-31T07:05:00.000",
+        "count" : "101"
+      }, {
+        "item" : "2019-10-10T19:17:00.000",
+        "count" : "101"
+      }, {
+        "item" : "2015-10-10T06:07:00.000",
+        "count" : "97"
+      }, {
+        "item" : "2016-10-05T04:06:00.000",
+        "count" : "97"
+      }, {
+        "item" : "2015-12-10T04:48:00.000",
+        "count" : "95"
+      }, {
+        "item" : "2017-11-19T07:05:00.000",
+        "count" : "92"
+      }, {
+        "item" : "2011-10-18T06:00:00.000",
+        "count" : "84"
+      }, {
+        "item" : "2010-11-30T07:01:00.000",
+        "count" : "81"
+      } ],
+      "smallest" : "2009-10-01T01:00:00.000",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064442,
+    "name" : "updated_at",
+    "dataTypeName" : "text",
+    "description" : "The time the crime incident was last updated",
+    "fieldName" : "updated_at",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 150343723,
+    "cachedContents" : {
+      "non_null" : "0",
+      "null" : "338017",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064443,
+    "name" : "zip_code",
+    "dataTypeName" : "text",
+    "description" : "The zip code of the crime incident.",
+    "fieldName" : "zip_code",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 150344595,
+    "cachedContents" : {
+      "non_null" : "335205",
+      "largest" : "UNKNOWN",
+      "null" : "2812",
+      "top" : [ {
+        "item" : "14215",
+        "count" : "47596"
+      }, {
+        "item" : "14211",
+        "count" : "32973"
+      }, {
+        "item" : "14207",
+        "count" : "28719"
+      }, {
+        "item" : "14213",
+        "count" : "28564"
+      }, {
+        "item" : "14216",
+        "count" : "21517"
+      }, {
+        "item" : "14214",
+        "count" : "19923"
+      }, {
+        "item" : "14201",
+        "count" : "17893"
+      }, {
+        "item" : "14206",
+        "count" : "17314"
+      }, {
+        "item" : "14212",
+        "count" : "15834"
+      }, {
+        "item" : "14220",
+        "count" : "15275"
+      }, {
+        "item" : "14202",
+        "count" : "15216"
+      }, {
+        "item" : "14222",
+        "count" : "13584"
+      }, {
+        "item" : "14210",
+        "count" : "12937"
+      }, {
+        "item" : "14208",
+        "count" : "12598"
+      }, {
+        "item" : "14204",
+        "count" : "12111"
+      }, {
+        "item" : "14203",
+        "count" : "10964"
+      }, {
+        "item" : "14209",
+        "count" : "10535"
+      }, {
+        "item" : "UNKNOWN",
+        "count" : "1300"
+      }, {
+        "item" : "14218",
+        "count" : "246"
+      }, {
+        "item" : "14223",
+        "count" : "102"
+      } ],
+      "smallest" : "14201",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064444,
+    "name" : "neighborhood",
+    "dataTypeName" : "text",
+    "description" : "The neighborhood of the crime incident.",
+    "fieldName" : "neighborhood",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 150343722,
+    "cachedContents" : {
+      "non_null" : "334241",
+      "largest" : "West Side",
+      "null" : "3776",
+      "top" : [ {
+        "item" : "Broadway Fillmore",
+        "count" : "19027"
+      }, {
+        "item" : "Central",
+        "count" : "17918"
+      }, {
+        "item" : "North Park",
+        "count" : "17244"
+      }, {
+        "item" : "Kensington-Bailey",
+        "count" : "17231"
+      }, {
+        "item" : "Genesee-Moselle",
+        "count" : "14572"
+      }, {
+        "item" : "Elmwood Bidwell",
+        "count" : "14048"
+      }, {
+        "item" : "Schiller Park",
+        "count" : "13585"
+      }, {
+        "item" : "Elmwood Bryant",
+        "count" : "13513"
+      }, {
+        "item" : "Upper West Side",
+        "count" : "12879"
+      }, {
+        "item" : "University Heights",
+        "count" : "12366"
+      }, {
+        "item" : "West Side",
+        "count" : "12118"
+      }, {
+        "item" : "Kenfield",
+        "count" : "11486"
+      }, {
+        "item" : "Riverside",
+        "count" : "10932"
+      }, {
+        "item" : "Lovejoy",
+        "count" : "10443"
+      }, {
+        "item" : "Masten Park",
+        "count" : "10396"
+      }, {
+        "item" : "Lower West Side",
+        "count" : "9653"
+      }, {
+        "item" : "Hopkins-Tifft",
+        "count" : "8707"
+      }, {
+        "item" : "Delavan Grider",
+        "count" : "8482"
+      }, {
+        "item" : "Allentown",
+        "count" : "7909"
+      }, {
+        "item" : "Fillmore-Leroy",
+        "count" : "7670"
+      } ],
+      "smallest" : "Allentown",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064445,
+    "name" : "Council District",
+    "dataTypeName" : "text",
+    "description" : "The council district of the crime incident.. District boundary effective Jan 1, 2024",
+    "fieldName" : "council_district",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 150343719,
+    "cachedContents" : {
+      "non_null" : "335113",
+      "largest" : "UNNOWN",
+      "null" : "2904",
+      "top" : [ {
+        "item" : "FILLMORE",
+        "count" : "55695"
+      }, {
+        "item" : "ELLICOTT",
+        "count" : "47472"
+      }, {
+        "item" : "MASTEN",
+        "count" : "40752"
+      }, {
+        "item" : "NORTH",
+        "count" : "39641"
+      }, {
+        "item" : "LOVEJOY",
+        "count" : "35995"
+      }, {
+        "item" : "UNIVERSITY",
+        "count" : "35043"
+      }, {
+        "item" : "NIAGARA",
+        "count" : "34083"
+      }, {
+        "item" : "SOUTH",
+        "count" : "23120"
+      }, {
+        "item" : "DELAWARE",
+        "count" : "21949"
+      }, {
+        "item" : "UNNOWN",
+        "count" : "1363"
+      } ],
+      "smallest" : "DELAWARE",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064446,
+    "name" : "Council District 2011",
+    "dataTypeName" : "text",
+    "description" : "The council district of the crime incident.. District boundary expired Dec 31, 2023",
+    "fieldName" : "council_district_2011",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 150343720,
+    "cachedContents" : {
+      "non_null" : "335205",
+      "largest" : "UNKNOWN",
+      "null" : "2812",
+      "top" : [ {
+        "item" : "FILLMORE",
+        "count" : "52894"
+      }, {
+        "item" : "ELLICOTT",
+        "count" : "48346"
+      }, {
+        "item" : "NORTH",
+        "count" : "41501"
+      }, {
+        "item" : "MASTEN",
+        "count" : "41420"
+      }, {
+        "item" : "LOVEJOY",
+        "count" : "36204"
+      }, {
+        "item" : "NIAGARA",
+        "count" : "35117"
+      }, {
+        "item" : "UNIVERSITY",
+        "count" : "34995"
+      }, {
+        "item" : "DELAWARE",
+        "count" : "22313"
+      }, {
+        "item" : "SOUTH",
+        "count" : "20867"
+      }, {
+        "item" : "UNKNOWN",
+        "count" : "1373"
+      }, {
+        "item" : "UnAssigned",
+        "count" : "175"
+      } ],
+      "smallest" : "DELAWARE",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064447,
+    "name" : "Census Tract",
+    "dataTypeName" : "text",
+    "description" : "The census tract of the crime incident.",
+    "fieldName" : "census_tract",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 140604170,
+    "cachedContents" : {
+      "non_null" : "334241",
+      "largest" : "UNKNOWN",
+      "null" : "3776",
+      "top" : [ {
+        "item" : "165",
+        "count" : "15603"
+      }, {
+        "item" : "50",
+        "count" : "8874"
+      }, {
+        "item" : "61",
+        "count" : "7415"
+      }, {
+        "item" : "42",
+        "count" : "7192"
+      }, {
+        "item" : "37",
+        "count" : "6930"
+      }, {
+        "item" : "43",
+        "count" : "6665"
+      }, {
+        "item" : "56",
+        "count" : "6531"
+      }, {
+        "item" : "47.02",
+        "count" : "6485"
+      }, {
+        "item" : "41",
+        "count" : "6188"
+      }, {
+        "item" : "34",
+        "count" : "6167"
+      }, {
+        "item" : "171",
+        "count" : "5873"
+      }, {
+        "item" : "10",
+        "count" : "5776"
+      }, {
+        "item" : "24",
+        "count" : "5738"
+      }, {
+        "item" : "2",
+        "count" : "5556"
+      }, {
+        "item" : "58.02",
+        "count" : "5453"
+      }, {
+        "item" : "31",
+        "count" : "5293"
+      }, {
+        "item" : "68.02",
+        "count" : "5155"
+      }, {
+        "item" : "71.02",
+        "count" : "5043"
+      }, {
+        "item" : "164",
+        "count" : "5031"
+      }, {
+        "item" : "55",
+        "count" : "4950"
+      } ],
+      "smallest" : "10",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064448,
+    "name" : "Census Block Group",
+    "dataTypeName" : "text",
+    "description" : "The census block group of the crime incident.",
+    "fieldName" : "census_block_group",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 140604168,
+    "cachedContents" : {
+      "non_null" : "334241",
+      "largest" : "UNKNOWN",
+      "null" : "3776",
+      "top" : [ {
+        "item" : "1",
+        "count" : "120485"
+      }, {
+        "item" : "2",
+        "count" : "89593"
+      }, {
+        "item" : "3",
+        "count" : "68288"
+      }, {
+        "item" : "4",
+        "count" : "35535"
+      }, {
+        "item" : "5",
+        "count" : "14387"
+      }, {
+        "item" : "UNKNOWN",
+        "count" : "2943"
+      }, {
+        "item" : "6",
+        "count" : "2315"
+      }, {
+        "item" : "7",
+        "count" : "695"
+      } ],
+      "smallest" : "1",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064449,
+    "name" : "Census Block",
+    "dataTypeName" : "text",
+    "description" : "The census block of the crime incident.",
+    "fieldName" : "census_block",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 140604169,
+    "cachedContents" : {
+      "non_null" : "334241",
+      "largest" : "UNKNOWN",
+      "null" : "3776",
+      "top" : [ {
+        "item" : "1001",
+        "count" : "12776"
+      }, {
+        "item" : "1000",
+        "count" : "12754"
+      }, {
+        "item" : "1003",
+        "count" : "12429"
+      }, {
+        "item" : "1004",
+        "count" : "11725"
+      }, {
+        "item" : "1005",
+        "count" : "11118"
+      }, {
+        "item" : "2004",
+        "count" : "11093"
+      }, {
+        "item" : "1002",
+        "count" : "10876"
+      }, {
+        "item" : "2000",
+        "count" : "10447"
+      }, {
+        "item" : "3000",
+        "count" : "10326"
+      }, {
+        "item" : "2002",
+        "count" : "10251"
+      }, {
+        "item" : "3005",
+        "count" : "10161"
+      }, {
+        "item" : "3001",
+        "count" : "9718"
+      }, {
+        "item" : "2005",
+        "count" : "8919"
+      }, {
+        "item" : "2003",
+        "count" : "8757"
+      }, {
+        "item" : "2001",
+        "count" : "8713"
+      }, {
+        "item" : "1006",
+        "count" : "7723"
+      }, {
+        "item" : "4000",
+        "count" : "7134"
+      }, {
+        "item" : "3003",
+        "count" : "6937"
+      }, {
+        "item" : "3004",
+        "count" : "6818"
+      }, {
+        "item" : "3002",
+        "count" : "6423"
+      } ],
+      "smallest" : "1000",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064450,
+    "name" : "2010 Census Tract ",
+    "dataTypeName" : "text",
+    "description" : "The 2010 census tract associated with the crime incident.",
+    "fieldName" : "census_tract_2010",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 139155127,
+    "cachedContents" : {
+      "non_null" : "334241",
+      "largest" : "UNKNOWN",
+      "null" : "3776",
+      "top" : [ {
+        "item" : "UNKNOWN",
+        "count" : "16516"
+      }, {
+        "item" : "165",
+        "count" : "14937"
+      }, {
+        "item" : "47",
+        "count" : "8816"
+      }, {
+        "item" : "50",
+        "count" : "8219"
+      }, {
+        "item" : "68",
+        "count" : "7897"
+      }, {
+        "item" : "61",
+        "count" : "7098"
+      }, {
+        "item" : "42",
+        "count" : "6904"
+      }, {
+        "item" : "37",
+        "count" : "6737"
+      }, {
+        "item" : "43",
+        "count" : "6443"
+      }, {
+        "item" : "56",
+        "count" : "6280"
+      }, {
+        "item" : "40.01",
+        "count" : "6110"
+      }, {
+        "item" : "41",
+        "count" : "5953"
+      }, {
+        "item" : "34",
+        "count" : "5910"
+      }, {
+        "item" : "16",
+        "count" : "5722"
+      }, {
+        "item" : "168",
+        "count" : "5697"
+      }, {
+        "item" : "171",
+        "count" : "5638"
+      }, {
+        "item" : "2",
+        "count" : "5579"
+      }, {
+        "item" : "10",
+        "count" : "5561"
+      }, {
+        "item" : "24",
+        "count" : "5517"
+      }, {
+        "item" : "35",
+        "count" : "5401"
+      } ],
+      "smallest" : "10",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064451,
+    "name" : "2010 Census Block Group",
+    "dataTypeName" : "text",
+    "description" : "The 2010 census block group associated with the crime incident.",
+    "fieldName" : "census_block_group_2010",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 139155125,
+    "cachedContents" : {
+      "non_null" : "334241",
+      "largest" : "UNKNOWN",
+      "null" : "3776",
+      "top" : [ {
+        "item" : "1",
+        "count" : "101770"
+      }, {
+        "item" : "2",
+        "count" : "75449"
+      }, {
+        "item" : "3",
+        "count" : "70681"
+      }, {
+        "item" : "4",
+        "count" : "49100"
+      }, {
+        "item" : "5",
+        "count" : "17037"
+      }, {
+        "item" : "UNKNOWN",
+        "count" : "16560"
+      }, {
+        "item" : "6",
+        "count" : "2983"
+      }, {
+        "item" : "7",
+        "count" : "661"
+      } ],
+      "smallest" : "1",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064452,
+    "name" : "2010 Census Block",
+    "dataTypeName" : "text",
+    "description" : "The 2010 census block associated with the crime incident.",
+    "fieldName" : "census_block_2010",
+    "position" : 26,
+    "renderTypeName" : "text",
+    "tableColumnId" : 139155126,
+    "cachedContents" : {
+      "non_null" : "334241",
+      "largest" : "UNKNOWN",
+      "null" : "3776",
+      "top" : [ {
+        "item" : "UNKNOWN",
+        "count" : "16518"
+      }, {
+        "item" : "1000",
+        "count" : "11499"
+      }, {
+        "item" : "2000",
+        "count" : "9198"
+      }, {
+        "item" : "1002",
+        "count" : "9093"
+      }, {
+        "item" : "2002",
+        "count" : "9080"
+      }, {
+        "item" : "1001",
+        "count" : "8988"
+      }, {
+        "item" : "2005",
+        "count" : "8792"
+      }, {
+        "item" : "3000",
+        "count" : "8615"
+      }, {
+        "item" : "4000",
+        "count" : "8587"
+      }, {
+        "item" : "2003",
+        "count" : "8534"
+      }, {
+        "item" : "1005",
+        "count" : "8473"
+      }, {
+        "item" : "1003",
+        "count" : "8045"
+      }, {
+        "item" : "3001",
+        "count" : "7990"
+      }, {
+        "item" : "3004",
+        "count" : "7945"
+      }, {
+        "item" : "1004",
+        "count" : "7939"
+      }, {
+        "item" : "2004",
+        "count" : "7846"
+      }, {
+        "item" : "1006",
+        "count" : "7716"
+      }, {
+        "item" : "2001",
+        "count" : "7671"
+      }, {
+        "item" : "3002",
+        "count" : "7521"
+      }, {
+        "item" : "3003",
+        "count" : "7352"
+      } ],
+      "smallest" : "1000",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064453,
+    "name" : "Police District",
+    "dataTypeName" : "text",
+    "description" : "The police district associated with the crime incident.",
+    "fieldName" : "police_district",
+    "position" : 27,
+    "renderTypeName" : "text",
+    "tableColumnId" : 140604167,
+    "cachedContents" : {
+      "non_null" : "334241",
+      "largest" : "UNKNOWN",
+      "null" : "3776",
+      "top" : [ {
+        "item" : "District D",
+        "count" : "79173"
+      }, {
+        "item" : "District B",
+        "count" : "76214"
+      }, {
+        "item" : "District E",
+        "count" : "75895"
+      }, {
+        "item" : "District C",
+        "count" : "59399"
+      }, {
+        "item" : "District A",
+        "count" : "40599"
+      }, {
+        "item" : "UNKNOWN",
+        "count" : "2961"
+      } ],
+      "smallest" : "District A",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064454,
+    "name" : "TRACTCE20",
+    "dataTypeName" : "text",
+    "description" : "The six-digit 2020 census tract of the crime incident.",
+    "fieldName" : "tractce20",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 140604164,
+    "cachedContents" : {
+      "non_null" : "334378",
+      "largest" : "UNKNOWN",
+      "null" : "3639",
+      "top" : [ {
+        "item" : "016500",
+        "count" : "15603"
+      }, {
+        "item" : "005000",
+        "count" : "8874"
+      }, {
+        "item" : "006100",
+        "count" : "7415"
+      }, {
+        "item" : "004200",
+        "count" : "7192"
+      }, {
+        "item" : "003700",
+        "count" : "6930"
+      }, {
+        "item" : "004300",
+        "count" : "6665"
+      }, {
+        "item" : "005600",
+        "count" : "6531"
+      }, {
+        "item" : "004702",
+        "count" : "6485"
+      }, {
+        "item" : "004100",
+        "count" : "6188"
+      }, {
+        "item" : "003400",
+        "count" : "6167"
+      }, {
+        "item" : "017100",
+        "count" : "5873"
+      }, {
+        "item" : "001000",
+        "count" : "5776"
+      }, {
+        "item" : "002400",
+        "count" : "5738"
+      }, {
+        "item" : "000200",
+        "count" : "5556"
+      }, {
+        "item" : "005802",
+        "count" : "5453"
+      }, {
+        "item" : "003100",
+        "count" : "5293"
+      }, {
+        "item" : "006802",
+        "count" : "5155"
+      }, {
+        "item" : "007102",
+        "count" : "5043"
+      }, {
+        "item" : "016400",
+        "count" : "5031"
+      }, {
+        "item" : "005500",
+        "count" : "4950"
+      } ],
+      "smallest" : "000110",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064455,
+    "name" : "GEOID20_tract",
+    "dataTypeName" : "text",
+    "description" : "The geographic identifier assigned to the 2020 census tract where the crime incident was located",
+    "fieldName" : "geoid20_tract",
+    "position" : 29,
+    "renderTypeName" : "text",
+    "tableColumnId" : 140604163,
+    "cachedContents" : {
+      "non_null" : "334378",
+      "largest" : "UNKNOWN",
+      "null" : "3639",
+      "top" : [ {
+        "item" : "36029016500",
+        "count" : "15603"
+      }, {
+        "item" : "36029005000",
+        "count" : "8874"
+      }, {
+        "item" : "36029006100",
+        "count" : "7415"
+      }, {
+        "item" : "36029004200",
+        "count" : "7192"
+      }, {
+        "item" : "36029003700",
+        "count" : "6930"
+      }, {
+        "item" : "36029004300",
+        "count" : "6665"
+      }, {
+        "item" : "36029005600",
+        "count" : "6531"
+      }, {
+        "item" : "36029004702",
+        "count" : "6485"
+      }, {
+        "item" : "36029004100",
+        "count" : "6188"
+      }, {
+        "item" : "36029003400",
+        "count" : "6167"
+      }, {
+        "item" : "36029017100",
+        "count" : "5873"
+      }, {
+        "item" : "36029001000",
+        "count" : "5776"
+      }, {
+        "item" : "36029002400",
+        "count" : "5738"
+      }, {
+        "item" : "36029000200",
+        "count" : "5556"
+      }, {
+        "item" : "36029005802",
+        "count" : "5453"
+      }, {
+        "item" : "36029003100",
+        "count" : "5293"
+      }, {
+        "item" : "36029006802",
+        "count" : "5155"
+      }, {
+        "item" : "36029007102",
+        "count" : "5043"
+      }, {
+        "item" : "36029016400",
+        "count" : "5031"
+      }, {
+        "item" : "36029005500",
+        "count" : "4950"
+      } ],
+      "smallest" : "36029000110",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064456,
+    "name" : "GEOID20_blockgroup",
+    "dataTypeName" : "text",
+    "description" : "The geographic identifier assigned to the 2020 census block group where the crime incident was located",
+    "fieldName" : "geoid20_blockgroup",
+    "position" : 30,
+    "renderTypeName" : "text",
+    "tableColumnId" : 140604171,
+    "cachedContents" : {
+      "non_null" : "334378",
+      "largest" : "UNKNOWN",
+      "null" : "3639",
+      "top" : [ {
+        "item" : "360290001101",
+        "count" : "96032"
+      }, {
+        "item" : "360290001102",
+        "count" : "72554"
+      }, {
+        "item" : "360290001103",
+        "count" : "54634"
+      }, {
+        "item" : "360290002004",
+        "count" : "28779"
+      }, {
+        "item" : "360290007005",
+        "count" : "11748"
+      }, {
+        "item" : "UNKNOWN",
+        "count" : "3080"
+      }, {
+        "item" : "360290043006",
+        "count" : "2093"
+      }, {
+        "item" : "360290050003",
+        "count" : "1524"
+      }, {
+        "item" : "360290005001",
+        "count" : "1496"
+      }, {
+        "item" : "360290165001",
+        "count" : "1251"
+      }, {
+        "item" : "360290165002",
+        "count" : "1080"
+      }, {
+        "item" : "360290164001",
+        "count" : "774"
+      }, {
+        "item" : "360290042001",
+        "count" : "738"
+      }, {
+        "item" : "360290043007",
+        "count" : "695"
+      }, {
+        "item" : "360290050001",
+        "count" : "670"
+      }, {
+        "item" : "360290027031",
+        "count" : "662"
+      }, {
+        "item" : "360290068023",
+        "count" : "628"
+      }, {
+        "item" : "360290068011",
+        "count" : "593"
+      }, {
+        "item" : "360290031004",
+        "count" : "587"
+      }, {
+        "item" : "360290034005",
+        "count" : "563"
+      } ],
+      "smallest" : "360290001101",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064457,
+    "name" : "GEOID20_block",
+    "dataTypeName" : "text",
+    "description" : "The geographic identifier assigned to the 2020 census block where the crime incident was located",
+    "fieldName" : "geoid20_block",
+    "position" : 31,
+    "renderTypeName" : "text",
+    "tableColumnId" : 140604165,
+    "cachedContents" : {
+      "non_null" : "334378",
+      "largest" : "UNKNOWN",
+      "null" : "3639",
+      "top" : [ {
+        "item" : "360290019001001",
+        "count" : "10154"
+      }, {
+        "item" : "360290035021000",
+        "count" : "9992"
+      }, {
+        "item" : "360290035021003",
+        "count" : "9937"
+      }, {
+        "item" : "360290055001004",
+        "count" : "9769"
+      }, {
+        "item" : "360290002001005",
+        "count" : "9204"
+      }, {
+        "item" : "360290165002004",
+        "count" : "9133"
+      }, {
+        "item" : "360290001101002",
+        "count" : "8621"
+      }, {
+        "item" : "360290046012000",
+        "count" : "8509"
+      }, {
+        "item" : "360290167003000",
+        "count" : "8224"
+      }, {
+        "item" : "360290035022002",
+        "count" : "8209"
+      }, {
+        "item" : "360290071043001",
+        "count" : "7989"
+      }, {
+        "item" : "360290034003005",
+        "count" : "7696"
+      }, {
+        "item" : "360290011002005",
+        "count" : "7194"
+      }, {
+        "item" : "360290170002003",
+        "count" : "7021"
+      }, {
+        "item" : "360290033022001",
+        "count" : "6987"
+      }, {
+        "item" : "360290035021006",
+        "count" : "6448"
+      }, {
+        "item" : "360290054003003",
+        "count" : "5644"
+      }, {
+        "item" : "360290002004000",
+        "count" : "5632"
+      }, {
+        "item" : "360290001103004",
+        "count" : "5583"
+      }, {
+        "item" : "360290163002006",
+        "count" : "5254"
+      } ],
+      "smallest" : "360290001101000",
+      "count" : "338017",
+      "cardinality" : "338017"
+    },
+    "format" : { }
+  }, {
+    "id" : 588064458,
+    "name" : "ZIP Codes",
+    "dataTypeName" : "number",
+    "description" : "This column was automatically created in order to record in what polygon from the dataset 'ZIP Codes' (jdfw-hhbp) the point in column 'location' is located.  This enables the creation of region maps (choropleths) in the visualization canvas and data lens.",
+    "fieldName" : ":@computed_region_jdfw_hhbp",
+    "position" : 32,
+    "renderTypeName" : "number",
+    "tableColumnId" : 150529482,
+    "computationStrategy" : {
+      "source_columns" : [ "location" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_jdfw-hhbp",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 588064459,
+    "name" : "Council Districts (2011)",
+    "dataTypeName" : "number",
+    "description" : "This column was automatically created in order to record in what polygon from the dataset 'Council Districts (2011)' (h7a8-iwt4) the point in column 'location' is located.  This enables the creation of region maps (choropleths) in the visualization canvas and data lens.",
+    "fieldName" : ":@computed_region_h7a8_iwt4",
+    "position" : 33,
+    "renderTypeName" : "number",
+    "tableColumnId" : 150529483,
+    "computationStrategy" : {
+      "source_columns" : [ "location" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_h7a8-iwt4",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 588064460,
+    "name" : "Census Tracts 2020",
+    "dataTypeName" : "number",
+    "description" : "This column was automatically created in order to record in what polygon from the dataset 'Census Tracts 2020' (ff6v-jbaa) the point in column 'location' is located.  This enables the creation of region maps (choropleths) in the visualization canvas and data lens.",
+    "fieldName" : ":@computed_region_ff6v_jbaa",
+    "position" : 34,
+    "renderTypeName" : "number",
+    "tableColumnId" : 150529484,
+    "computationStrategy" : {
+      "source_columns" : [ "location" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_ff6v-jbaa",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 588064461,
+    "name" : "Police Districts A-E",
+    "dataTypeName" : "number",
+    "description" : "This column was automatically created in order to record in what polygon from the dataset 'Police Districts A-E' (vsen-jbmg) the point in column 'location' is located.  This enables the creation of region maps (choropleths) in the visualization canvas and data lens.",
+    "fieldName" : ":@computed_region_vsen_jbmg",
+    "position" : 35,
+    "renderTypeName" : "number",
+    "tableColumnId" : 150529485,
+    "computationStrategy" : {
+      "source_columns" : [ "location" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_vsen-jbmg",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 588064462,
+    "name" : "Neighborhoods",
+    "dataTypeName" : "number",
+    "description" : "This column was automatically created in order to record in what polygon from the dataset 'Neighborhoods' (nmyf-6jtp) the point in column 'location' is located.  This enables the creation of region maps (choropleths) in the visualization canvas and data lens.",
+    "fieldName" : ":@computed_region_nmyf_6jtp",
+    "position" : 36,
+    "renderTypeName" : "number",
+    "tableColumnId" : 150529486,
+    "computationStrategy" : {
+      "source_columns" : [ "location" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_nmyf-6jtp",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 588064463,
+    "name" : "Council Districts 2024",
+    "dataTypeName" : "number",
+    "description" : "This column was automatically created in order to record in what polygon from the dataset 'Council Districts 2024' (yg52-574g) the point in column 'location' is located.  This enables the creation of region maps (choropleths) in the visualization canvas and data lens.",
+    "fieldName" : ":@computed_region_yg52_574g",
+    "position" : 37,
+    "renderTypeName" : "number",
+    "tableColumnId" : 150530248,
+    "computationStrategy" : {
+      "source_columns" : [ "location" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_yg52-574g",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "license" : {
+    "name" : "Public Domain U.S. Government",
+    "termsLink" : "https://www.usa.gov/government-works"
+  },
+  "metadata" : {
+    "rdfSubject" : "0",
+    "custom_fields" : {
+      "Disclaimers" : {
+        "Limitations" : "Buffalo police are investigating reports of the crimes listed which were reported in the past. It is important to note that this is very preliminary information and further investigation as to the facts and circumstances of such reports may be necessary. Note: The data become unreliable before January 2009 and do not provide a complete picture of incidents responded to by the Buffalo Police Department.",
+        "Legal Disclaimer" : "The use of the Open Data Buffalo website (data.buffalony.gov) for City of Buffalo, the municipal corporation, located in the state of New York, Erie County (“City of Buffalo”) shall not constitute or imply any warranty whatsoever, expressed or implied, in law or in equity, including but not limited to, any warranties in regards to the accuracy, adequacy, completeness, fitness, legality, reliability or usefulness of any data, information, products or services contained herein.  The data, information, products or services contained on the Open Data Buffalo website (data.buffalony.gov) do not constitute and shall not be construed or implied, in any manner whatsoever, as containing the official records of the City of Buffalo.  The City of Buffalo hereby disclaims any and all liability to any and all parties for any direct, indirect, implied, punitive, special, incidental or other consequential damages arising directly or indirectly from any use of the Open Data Buffalo website (data.buffalony.gov), including but not limited to, any and all damages arising from or related to the download, use, transmission, alteration, dissemination of data, information, products or services contained on or downloaded from the Open Data Buffalo website (data.buffalony.gov)."
+      },
+      "Dataset Information" : {
+        "Department" : "Buffalo Police Department",
+        "Agency" : "City of Buffalo",
+        "Data Series Start Date" : "1/2009 (unreliable data before this date)",
+        "Automated" : "Yes",
+        "Source System" : "CHARMS",
+        "Update Frequency" : "Daily",
+        "Division" : "N/A"
+      }
+    },
+    "rowIdentifier" : 588064427,
+    "rowLabel" : "crime incident",
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "h8kc-nhfe",
+    "displayName" : "Open Data Buffalo",
+    "profileImageUrlLarge" : "/api/users/h8kc-nhfe/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/h8kc-nhfe/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/h8kc-nhfe/profile_images/TINY",
+    "screenName" : "Open Data Buffalo",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "query" : { },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "h8kc-nhfe",
+    "displayName" : "Open Data Buffalo",
+    "profileImageUrlLarge" : "/api/users/h8kc-nhfe/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/h8kc-nhfe/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/h8kc-nhfe/profile_images/TINY",
+    "screenName" : "Open Data Buffalo",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "tags" : [ "police", "crime", "bpd", "crime incident" ],
+  "flags" : [ "default", "federated", "internalToPublicFederatedView", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+}

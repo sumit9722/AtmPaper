@@ -1,0 +1,684 @@
+{
+  "id" : "ndex-ad5r",
+  "name" : "Bank-Owned ATM Locations in New York State",
+  "assetType" : "dataset",
+  "attribution" : "Department of Financial Services",
+  "attributionLink" : "http://www.dfs.ny.gov",
+  "averageRating" : 0,
+  "category" : "Government & Finance",
+  "createdAt" : 1402682724,
+  "description" : "A list of all bank owned or in-bank ATMs located in New York State.",
+  "diciBackend" : false,
+  "displayType" : "table",
+  "downloadCount" : 19930,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "locked" : false,
+  "newBackend" : true,
+  "numberOfComments" : 0,
+  "oid" : 37192386,
+  "provenance" : "official",
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1621280708,
+  "publicationGroup" : 1615611,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1789499184,
+  "rowsUpdatedBy" : "xzik-pf59",
+  "tableId" : 18307423,
+  "totalTimesRated" : 0,
+  "viewCount" : 56737,
+  "viewLastModified" : 1789499182,
+  "viewType" : "tabular",
+  "approvals" : [ {
+    "reviewedAt" : 1563919276,
+    "reviewedAutomatically" : true,
+    "state" : "approved",
+    "submissionId" : 3622806,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1563919276,
+    "targetAudience" : "public",
+    "workflowId" : 2254,
+    "submissionDetails" : {
+      "permissionType" : "READ"
+    },
+    "submissionOutcomeApplication" : {
+      "failureCount" : 0,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "xzik-pf59",
+      "displayName" : "NY Open Data"
+    }
+  } ],
+  "clientContext" : {
+    "clientContextVariables" : [ ],
+    "inheritedVariables" : { }
+  },
+  "columns" : [ {
+    "id" : 540722907,
+    "name" : "Name of Institution",
+    "dataTypeName" : "text",
+    "description" : "Name of the institution that owns the ATM",
+    "fieldName" : "name_of_institution",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 20251035,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : "4953",
+      "largest" : "Xceed Financial Credit Union",
+      "null" : "0",
+      "top" : [ {
+        "item" : "JPMorgan Chase Bank, National Association",
+        "count" : "590"
+      }, {
+        "item" : "Bank of America N.A. GA1-006-15-40",
+        "count" : "323"
+      }, {
+        "item" : "Citibank N. A.",
+        "count" : "287"
+      }, {
+        "item" : "Manufacturers and Traders Trust Company",
+        "count" : "282"
+      }, {
+        "item" : "TD Bank N.A.",
+        "count" : "275"
+      }, {
+        "item" : "Key Bank, National Association",
+        "count" : "234"
+      }, {
+        "item" : "Community Bank, N.A.",
+        "count" : "151"
+      }, {
+        "item" : "Citizens Bank",
+        "count" : "147"
+      }, {
+        "item" : "NBT Bank, National Association",
+        "count" : "141"
+      }, {
+        "item" : "Wells Fargo ATM",
+        "count" : "105"
+      }, {
+        "item" : "Flagstar Bank, N.A.",
+        "count" : "94"
+      }, {
+        "item" : "Trustco Bank N.A. CTF",
+        "count" : "81"
+      }, {
+        "item" : "Capital One, N.A.",
+        "count" : "80"
+      }, {
+        "item" : "Webster Bank",
+        "count" : "76"
+      }, {
+        "item" : "Apple Bank",
+        "count" : "76"
+      }, {
+        "item" : "Santander Bank",
+        "count" : "60"
+      }, {
+        "item" : "Dime Community Bank",
+        "count" : "58"
+      }, {
+        "item" : "Arrow Bank National Association",
+        "count" : "56"
+      }, {
+        "item" : "ESL Federal Credit Union",
+        "count" : "53"
+      }, {
+        "item" : "Five Star Bank",
+        "count" : "52"
+      } ],
+      "smallest" : "Abacus Federal Savings Bank",
+      "count" : "4953",
+      "cardinality" : "4953"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 540722908,
+    "name" : "Street Address",
+    "dataTypeName" : "text",
+    "description" : "Street address of the ATM location",
+    "fieldName" : "street_address",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 20251036,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : "4953",
+      "largest" : "West Genesee & Onondaga Blvd",
+      "null" : "0",
+      "top" : [ {
+        "item" : "25 Main Street",
+        "count" : "3"
+      }, {
+        "item" : "45 South Main Street",
+        "count" : "3"
+      }, {
+        "item" : "120 Main Street",
+        "count" : "3"
+      }, {
+        "item" : "100 Main Street",
+        "count" : "3"
+      }, {
+        "item" : "150 Main Street",
+        "count" : "2"
+      }, {
+        "item" : "414 Main Street",
+        "count" : "2"
+      }, {
+        "item" : "1633 Broadway",
+        "count" : "2"
+      }, {
+        "item" : "6840 Erie Road",
+        "count" : "2"
+      }, {
+        "item" : "39 North Main Street",
+        "count" : "2"
+      }, {
+        "item" : "625 8th Avenue",
+        "count" : "2"
+      }, {
+        "item" : "14 Main Street",
+        "count" : "2"
+      }, {
+        "item" : "3 South Main Street",
+        "count" : "2"
+      }, {
+        "item" : "131 Main Street",
+        "count" : "2"
+      }, {
+        "item" : "232 Madison Avenue",
+        "count" : "2"
+      }, {
+        "item" : "4240 Albany Post Road",
+        "count" : "2"
+      }, {
+        "item" : "1330 First Avenue",
+        "count" : "2"
+      }, {
+        "item" : "911 Central Avenue",
+        "count" : "2"
+      }, {
+        "item" : "2255 East Ridge Road",
+        "count" : "2"
+      }, {
+        "item" : "68 South Service Road",
+        "count" : "2"
+      }, {
+        "item" : "350 Canada Street",
+        "count" : "2"
+      } ],
+      "smallest" : "1000 CORPORATE DRIVE",
+      "count" : "4953",
+      "cardinality" : "4953"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 540722909,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "description" : "City in which the ATM is located",
+    "fieldName" : "city",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 20251037,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : "4953",
+      "largest" : "YORKVILLE",
+      "null" : "0",
+      "top" : [ {
+        "item" : "New York",
+        "count" : "347"
+      }, {
+        "item" : "Brooklyn",
+        "count" : "216"
+      }, {
+        "item" : "NEW YORK",
+        "count" : "179"
+      }, {
+        "item" : "BROOKLYN",
+        "count" : "112"
+      }, {
+        "item" : "Rochester",
+        "count" : "93"
+      }, {
+        "item" : "Bronx",
+        "count" : "83"
+      }, {
+        "item" : "Buffalo",
+        "count" : "62"
+      }, {
+        "item" : "Staten Island",
+        "count" : "60"
+      }, {
+        "item" : "Albany",
+        "count" : "52"
+      }, {
+        "item" : "Syracuse",
+        "count" : "50"
+      }, {
+        "item" : "BRONX",
+        "count" : "47"
+      }, {
+        "item" : "STATEN ISLAND",
+        "count" : "37"
+      }, {
+        "item" : "Flushing",
+        "count" : "36"
+      }, {
+        "item" : "ROCHESTER",
+        "count" : "33"
+      }, {
+        "item" : "FLUSHING",
+        "count" : "27"
+      }, {
+        "item" : "Poughkeepsie",
+        "count" : "26"
+      }, {
+        "item" : "Yonkers",
+        "count" : "25"
+      }, {
+        "item" : "Schenectady",
+        "count" : "24"
+      }, {
+        "item" : "Ithaca",
+        "count" : "22"
+      }, {
+        "item" : "Binghamton",
+        "count" : "21"
+      } ],
+      "smallest" : "Adams",
+      "count" : "4953",
+      "cardinality" : "4953"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 540722910,
+    "name" : "ZIP Code",
+    "dataTypeName" : "number",
+    "description" : "ZIP code in which the ATM is located",
+    "fieldName" : "zip_code",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 20251038,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : "4953",
+      "largest" : "18483",
+      "null" : "0",
+      "top" : [ {
+        "item" : "10022",
+        "count" : "41"
+      }, {
+        "item" : "11354",
+        "count" : "34"
+      }, {
+        "item" : "14850",
+        "count" : "31"
+      }, {
+        "item" : "10003",
+        "count" : "30"
+      }, {
+        "item" : "10013",
+        "count" : "30"
+      }, {
+        "item" : "14221",
+        "count" : "30"
+      }, {
+        "item" : "10016",
+        "count" : "29"
+      }, {
+        "item" : "10001",
+        "count" : "28"
+      }, {
+        "item" : "10019",
+        "count" : "27"
+      }, {
+        "item" : "12866",
+        "count" : "26"
+      }, {
+        "item" : "11209",
+        "count" : "26"
+      }, {
+        "item" : "11201",
+        "count" : "26"
+      }, {
+        "item" : "10017",
+        "count" : "24"
+      }, {
+        "item" : "12205",
+        "count" : "24"
+      }, {
+        "item" : "12065",
+        "count" : "23"
+      }, {
+        "item" : "12550",
+        "count" : "23"
+      }, {
+        "item" : "10314",
+        "count" : "23"
+      }, {
+        "item" : "12110",
+        "count" : "21"
+      }, {
+        "item" : "12401",
+        "count" : "21"
+      }, {
+        "item" : "11219",
+        "count" : "21"
+      } ],
+      "smallest" : "1460",
+      "count" : "4953",
+      "cardinality" : "4953"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "center"
+    }
+  }, {
+    "id" : 540722911,
+    "name" : "County",
+    "dataTypeName" : "text",
+    "description" : "County in which the ATM is located",
+    "fieldName" : "county",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 20251039,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : "4953",
+      "largest" : "Yates",
+      "null" : "0",
+      "top" : [ {
+        "item" : "New York",
+        "count" : "546"
+      }, {
+        "item" : "Nassau",
+        "count" : "416"
+      }, {
+        "item" : "Suffolk",
+        "count" : "397"
+      }, {
+        "item" : "Queens",
+        "count" : "345"
+      }, {
+        "item" : "Kings",
+        "count" : "326"
+      }, {
+        "item" : "Erie",
+        "count" : "261"
+      }, {
+        "item" : "Westchester",
+        "count" : "257"
+      }, {
+        "item" : "Monroe",
+        "count" : "220"
+      }, {
+        "item" : "Onondaga",
+        "count" : "180"
+      }, {
+        "item" : "Albany",
+        "count" : "145"
+      }, {
+        "item" : "Bronx",
+        "count" : "137"
+      }, {
+        "item" : "Orange",
+        "count" : "115"
+      }, {
+        "item" : "Dutchess",
+        "count" : "109"
+      }, {
+        "item" : "Richmond",
+        "count" : "96"
+      }, {
+        "item" : "Saratoga",
+        "count" : "84"
+      }, {
+        "item" : "Oneida",
+        "count" : "77"
+      }, {
+        "item" : "Rockland",
+        "count" : "75"
+      }, {
+        "item" : "Ulster",
+        "count" : "64"
+      }, {
+        "item" : "Broome",
+        "count" : "63"
+      }, {
+        "item" : "Schenectady",
+        "count" : "58"
+      } ],
+      "smallest" : "Albany",
+      "count" : "4953",
+      "cardinality" : "4953"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 540722914,
+    "name" : "Georeference",
+    "dataTypeName" : "point",
+    "description" : "Open Data/Socrata-generated geocoding information from supplied address components.",
+    "fieldName" : "georeference",
+    "position" : 6,
+    "renderTypeName" : "point",
+    "tableColumnId" : 137968615,
+    "cachedContents" : {
+      "non_null" : "4862",
+      "null" : "91",
+      "top" : [ {
+        "item" : {
+          "coordinates" : [ -77.56005, 43.20357 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -79.33406, 42.45331 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.63639, 40.73055 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.97318, 40.7581 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -75.95087, 42.09167 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.9772, 40.75372 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.44006, 43.13175 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.76512, 42.25688 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.86975, 42.95703 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -76.1801, 43.0059 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.4194, 40.7764 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.50341, 43.19188 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -79.04023, 42.65056 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -75.23277, 43.10062 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -74.74316, 41.79908 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.9834, 40.7558 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.82256, 43.03073 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.63522, 41.39994 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -76.16852, 42.60619 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      }, {
+        "item" : {
+          "coordinates" : [ -76.15443, 43.04915 ],
+          "type" : "Point"
+        },
+        "count" : "2"
+      } ],
+      "count" : "4953",
+      "cardinality" : "4953"
+    },
+    "format" : { }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rdfClass" : "",
+    "attachments" : [ {
+      "filename" : "DFS_BankOwnedATMLocations_Overview.pdf",
+      "assetId" : "0a98b1c4-7cc6-451d-91d5-b432a31c44f6",
+      "name" : "DFS_BankOwnedATMLocations_Overview.pdf"
+    }, {
+      "filename" : "DFS_BankOwnedATMLocations_DataDictionary.pdf",
+      "assetId" : "853b4093-6397-4a8c-a8d4-611490f8e48a",
+      "name" : "DFS_BankOwnedATMLocations_DataDictionary.pdf"
+    } ],
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Posting Frequency" : "Monthly",
+        "Organization" : "Department of Financial Services",
+        "Contact Information" : "opendata@dfs.ny.gov",
+        "Time Period" : "Current",
+        "Coverage" : "Statewide",
+        "Granularity" : "Individual ATM location",
+        "Dataset Owner" : "Department of Financial Services"
+      },
+      "Local Data" : {
+        "County_Column" : "county",
+        "County Filter" : "Yes",
+        "Municipality_Column" : "city",
+        "Municipality Filter" : "Yes"
+      },
+      "Additional Resources" : {
+        "See Also" : "https://www.dfs.ny.gov/consumers/banking_money"
+      },
+      "Disclaimers" : {
+        "Limitations" : "The ATM locations listed refer to bank owned/operated or in-bank ATM locations. Non-bank ATMs (such as those found in delis/bodegas) would not be included here as they are not regulated or monitored by the Department."
+      },
+      "Dataset Information" : {
+        "Agency" : "Financial Services, Department of"
+      }
+    },
+    "rowLabel" : "Row",
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "xzik-pf59",
+    "displayName" : "NY Open Data",
+    "profileImageUrlLarge" : "/api/users/xzik-pf59/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/xzik-pf59/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/xzik-pf59/profile_images/TINY",
+    "screenName" : "NY Open Data",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "query" : { },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xzik-pf59",
+    "displayName" : "NY Open Data",
+    "profileImageUrlLarge" : "/api/users/xzik-pf59/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/xzik-pf59/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/xzik-pf59/profile_images/TINY",
+    "screenName" : "NY Open Data",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "tags" : [ "financial", "banking", "atm" ],
+  "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+}

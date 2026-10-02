@@ -1,0 +1,307 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-30T14:04:30Z",
+    "timestamp_areas_base": "2026-09-29T07:52:35Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1892277713,
+      "lat": 42.9546365,
+      "lon": -78.8201665,
+      "tags": {
+        "amenity": "atm",
+        "fee": "yes",
+        "indoor": "yes",
+        "note": "in NFTA University station",
+        "operator": "generic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2665577554,
+      "lat": 42.8539235,
+      "lon": -78.808489,
+      "tags": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "2157",
+        "addr:postcode": "14210",
+        "addr:state": "NY",
+        "addr:street": "Seneca Street",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "KeyBank",
+        "brand:wikidata": "Q1740314",
+        "name": "KeyBank",
+        "nysgissam:nysaddresspointid": "ERIE240697"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4716756109,
+      "lat": 42.9019565,
+      "lon": -78.8688082,
+      "tags": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "1031",
+        "addr:postcode": "14203",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "KeyBank",
+        "brand:wikidata": "Q1740314",
+        "drive_through": "no",
+        "name": "KeyBank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7228983248,
+      "lat": 42.8809112,
+      "lon": -78.8770218,
+      "tags": {
+        "amenity": "atm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8454666308,
+      "lat": 42.9223179,
+      "lon": -78.8768243,
+      "tags": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "925",
+        "addr:postcode": "14222",
+        "addr:state": "NY",
+        "addr:street": "Elmwood Avenue",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "NBT Bank",
+        "brand:wikidata": "Q6952868",
+        "drive_through": "no",
+        "name": "NBT Bank",
+        "nysgissam:nysaddresspointid": "ERIE134693",
+        "nysgissam:review": "existing element's addr:housenumber has different addr:housenumber",
+        "website": "https://www.nbtbank.com/locations/elmwood-village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8454696860,
+      "lat": 42.9223748,
+      "lon": -78.8285691,
+      "tags": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "752",
+        "addr:postcode": "14215",
+        "addr:state": "NY",
+        "addr:street": "East Delavan Avenue",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "KeyBank",
+        "brand:wikidata": "Q1740314",
+        "drive_through": "yes",
+        "name": "KeyBank",
+        "nysgissam:nysaddresspointid": "ERIE134958",
+        "website": "https://www.key.com/locations/ny/buffalo/BRCH32900824/752-east-delavan-ave"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8457887648,
+      "lat": 42.8932184,
+      "lon": -78.8369679,
+      "tags": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "1017",
+        "addr:postcode": "14212",
+        "addr:state": "NY",
+        "addr:street": "Broadway Street",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "KeyBank",
+        "brand:wikidata": "Q1740314",
+        "name": "KeyBank",
+        "nysgissam:nysaddresspointid": "ERIE108984",
+        "nysgissam:review": "no matching street nearby",
+        "website": "https://www.key.com/locations/ny/buffalo/BRCH32900155/1017-broadway"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9077603419,
+      "lat": 42.9550524,
+      "lon": -78.87805,
+      "tags": {
+        "amenity": "atm",
+        "brand": "M&T Bank",
+        "brand:wikidata": "Q3272257",
+        "drive_through": "yes",
+        "name": "M&T Bank",
+        "operator": "M&T Bank",
+        "operator:wikidata": "Q3272257",
+        "operator:wikipedia": "en:M&T Bank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9080956536,
+      "lat": 42.9570143,
+      "lon": -78.8699198,
+      "tags": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "2670",
+        "addr:postcode": "14216",
+        "addr:state": "NY",
+        "addr:street": "Delaware Avenue",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "NBT Bank",
+        "brand:wikidata": "Q6952868",
+        "drive_through": "yes",
+        "name": "NBT Bank",
+        "website": "https://www.nbtbank.com/locations/north-buffalo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9288696851,
+      "lat": 42.9478582,
+      "lon": -78.8543112,
+      "tags": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "1452",
+        "addr:postcode": "14216",
+        "addr:state": "NY",
+        "addr:street": "Hertel Avenue",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Bank of America",
+        "brand:wikidata": "Q487907",
+        "drive_through": "no",
+        "name": "Bank of America",
+        "website": "https://locators.bankofamerica.com/ny/buffalo/financial-centers-buffalo-13476.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9412324686,
+      "lat": 42.9399122,
+      "lon": -78.81387,
+      "tags": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "3134",
+        "addr:postcode": "14215",
+        "addr:state": "NY",
+        "addr:street": "Bailey Avenue",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "KeyBank",
+        "brand:wikidata": "Q1740314",
+        "name": "KeyBank",
+        "phone": "+1-716-262-3676",
+        "website": "https://www.key.com/locations/ny/buffalo/BRCH32900702/3134-bailey-ave"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11226852117,
+      "lat": 42.9227068,
+      "lon": -78.8763047,
+      "tags": {
+        "amenity": "atm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11226867474,
+      "lat": 42.9223665,
+      "lon": -78.8768423,
+      "tags": {
+        "amenity": "atm",
+        "brand": "NBT Bank",
+        "brand:wikidata": "Q6952868",
+        "operator": "NBT Bank",
+        "operator:wikidata": "Q6952868"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11226867477,
+      "lat": 42.9227058,
+      "lon": -78.8762979,
+      "tags": {
+        "amenity": "atm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11226867660,
+      "lat": 42.9259352,
+      "lon": -78.8772952,
+      "tags": {
+        "amenity": "atm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11236853340,
+      "lat": 42.946847,
+      "lon": -78.8693222,
+      "tags": {
+        "amenity": "atm",
+        "brand": "KeyBank",
+        "brand:wikidata": "Q1740314",
+        "drive_through": "yes",
+        "operator": "KeyBank",
+        "operator:wikidata": "Q1740314"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11282324759,
+      "lat": 42.9345709,
+      "lon": -78.9027858,
+      "tags": {
+        "amenity": "atm",
+        "brand": "KeyBank",
+        "brand:wikidata": "Q1740314",
+        "drive_through": "yes",
+        "operator": "KeyBank",
+        "operator:wikidata": "Q1740314"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12650579738,
+      "lat": 42.9183927,
+      "lon": -78.8774013,
+      "tags": {
+        "amenity": "atm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13040429584,
+      "lat": 42.9344207,
+      "lon": -78.8440125,
+      "tags": {
+        "addr:city": "Buffalo",
+        "addr:housenumber": "2421",
+        "addr:postcode": "14214",
+        "addr:state": "NY",
+        "addr:street": "Main Street",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "KeyBank",
+        "brand:wikidata": "Q1740314",
+        "name": "KeyBank",
+        "website": "https://www.key.com/locations/ny/buffalo/BRCH32900342/2421-main-st"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dataset": "https://api.census.gov/data/2023/acs/acs5",
+  "acs_period": "2019-2023",
+  "available_at": "2024-12-12",
+  "release_source": "https://www.census.gov/programs-surveys/acs/news/data-releases/2023/release.html",
+  "rows": 8217,
+  "county_counts": {
+    "Bronx": 1182,
+    "Kings": 2156,
+    "New York": 1292,
+    "Queens": 1803,
+    "Richmond": 374,
+    "Erie": 813,
+    "Monroe": 597
+  },
+  "missing_or_sentinel_estimates": {
+    "population": 0,
+    "median_household_income": 1474,
+    "civilian_labor_force": 0,
+    "unemployed": 0
+  },
+  "network_requests_this_run": 10,
+  "request_policy": "Sequential; 2 seconds between requests; 10 maximum; no automatic retries; stop on any HTTP error; checksum cache",
+  "limitations": [
+    "County extracts include areas outside Buffalo and Rochester; spatial join is required.",
+    "Population density requires matching 2023 block-group land area; population is not density.",
+    "No ATM-site features have been assigned by this download.",
+    "ACS values are multiyear survey estimates; negative special values are null in processed data and unchanged in raw data.",
+    "Income is in 2023 inflation-adjusted dollars. MOEs are 90% Census MOEs.",
+    "Unemployment rate is unemployed / civilian labor force; component MOEs retained, ratio MOE not computed.",
+    "This release is suitable for the 2025 cutoff, not for predictions starting before 2024-12-12.",
+    "Live API retrieval does not independently establish whether values were revised after initial release."
+  ]
+}

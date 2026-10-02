@@ -1,0 +1,7 @@
+{
+  "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/4/query?where=STATE%3D%2736%27+AND+PLACE+IN+%28%2751000%27%2C%2711000%27%2C%2763000%27%29&outFields=%2A&returnGeometry=true&outSR=4326&f=geojson",
+  "retrieved_utc": "2026-10-01T06:09:46.424227+00:00",
+  "sha256": "78abf4118320a28975d55de403c1ff9d709e7b2f4a62c7364973ea910a5cc52d",
+  "http_status": 200,
+  "raw_modified": false
+}

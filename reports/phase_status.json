@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-01",
+  "phase_1": {
+    "computational_status": "complete",
+    "outputs": ["working study specification", "historical exposure addendum", "observed native crime codebook", "source register"],
+    "research_acceptance": "pending independent codebook review and researcher protocol ratification",
+    "externally_preregistered": false
+  },
+  "phase_2": {
+    "computational_status": "complete; validation passed",
+    "historical_snapshots": 14,
+    "historical_sites_with_supported_intervals": 2233,
+    "full_year_sites": 1192,
+    "outputs": ["raw official extracts", "municipal point assignment", "historical exposure intervals", "site-year panels", "event-site links", "lagged backgrounds", "manual audit queue", "data dictionary", "checksums", "offline map"],
+    "research_acceptance": "pending coordinate precision assessment, historical identity/facility adjudication and independent linkage review",
+    "actual_operating_dates_observed": false,
+    "confirmatory_modeling_ready": false
+  }
+}

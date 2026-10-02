@@ -1,0 +1,7 @@
+{
+  "url": "https://data.cityofnewyork.us/resource/qgea-i56i.json?%24where=cmplnt_fr_dt+%3E%3D+%272024-01-01T00%3A00%3A00%27+AND+cmplnt_fr_dt+%3C+%272026-01-01T00%3A00%3A00%27+AND+%28ofns_desc+IN+%28%27ROBBERY%27%2C%27BURGLARY%27%2C%27GRAND+LARCENY%27%2C%27PETIT+LARCENY%27%29%29&%24limit=20000&%24offset=40000&%24order=%3Aid&%24select=cmplnt_num%2Ccmplnt_fr_dt%2Ccmplnt_fr_tm%2Ccmplnt_to_dt%2Crpt_dt%2Cky_cd%2Cofns_desc%2Cpd_cd%2Cpd_desc%2Ccrm_atpt_cptd_cd%2Claw_cat_cd%2Cboro_nm%2Cloc_of_occur_desc%2Cprem_typ_desc%2Cjuris_desc%2Clatitude%2Clongitude",
+  "retrieved_utc": "2026-10-01T06:20:28.573847+00:00",
+  "sha256": "dc532f37ec7911d4272d1d3a4b929f7b4f95371f5da40b70e6ed66e5c2d27915",
+  "http_status": 200,
+  "raw_modified": false
+}

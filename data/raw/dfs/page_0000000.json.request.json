@@ -1,0 +1,7 @@
+{
+  "url": "https://data.ny.gov/resource/ndex-ad5r.json?%24where=1%3D1&%24limit=20000&%24offset=0&%24order=%3Aid",
+  "retrieved_utc": "2026-10-01T06:09:47.521718+00:00",
+  "sha256": "99e48587bb9a50467962dd50f27bff1afd8913dbd66570d0d6641f8f6905db3d",
+  "http_status": 200,
+  "raw_modified": false
+}

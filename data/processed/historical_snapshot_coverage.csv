@@ -1,0 +1,43 @@
+snapshot_date,city,distinct_exact_site_identities,new_identity_since_previous,absent_identity_since_previous,interpretation
+2024-12-15,New York City,1718,,,identity changes and true openings/closures are not distinguished
+2024-12-15,Buffalo,70,,,identity changes and true openings/closures are not distinguished
+2024-12-15,Rochester,46,,,identity changes and true openings/closures are not distinguished
+2025-01-15,New York City,1718,0,0,identity changes and true openings/closures are not distinguished
+2025-01-15,Buffalo,70,0,0,identity changes and true openings/closures are not distinguished
+2025-01-15,Rochester,46,0,0,identity changes and true openings/closures are not distinguished
+2025-02-19,New York City,1718,11,11,identity changes and true openings/closures are not distinguished
+2025-02-19,Buffalo,70,1,1,identity changes and true openings/closures are not distinguished
+2025-02-19,Rochester,46,0,0,identity changes and true openings/closures are not distinguished
+2025-03-15,New York City,1718,0,0,identity changes and true openings/closures are not distinguished
+2025-03-15,Buffalo,70,0,0,identity changes and true openings/closures are not distinguished
+2025-03-15,Rochester,46,0,0,identity changes and true openings/closures are not distinguished
+2025-04-15,New York City,1718,1,1,identity changes and true openings/closures are not distinguished
+2025-04-15,Buffalo,70,0,0,identity changes and true openings/closures are not distinguished
+2025-04-15,Rochester,46,0,0,identity changes and true openings/closures are not distinguished
+2025-05-21,New York City,1718,31,31,identity changes and true openings/closures are not distinguished
+2025-05-21,Buffalo,70,5,5,identity changes and true openings/closures are not distinguished
+2025-05-21,Rochester,46,1,1,identity changes and true openings/closures are not distinguished
+2025-06-25,New York City,1449,262,531,identity changes and true openings/closures are not distinguished
+2025-06-25,Buffalo,68,15,17,identity changes and true openings/closures are not distinguished
+2025-06-25,Rochester,40,8,14,identity changes and true openings/closures are not distinguished
+2025-07-15,New York City,1452,10,7,identity changes and true openings/closures are not distinguished
+2025-07-15,Buffalo,69,1,0,identity changes and true openings/closures are not distinguished
+2025-07-15,Rochester,39,0,1,identity changes and true openings/closures are not distinguished
+2025-08-18,New York City,1453,5,4,identity changes and true openings/closures are not distinguished
+2025-08-18,Buffalo,71,2,0,identity changes and true openings/closures are not distinguished
+2025-08-18,Rochester,39,0,0,identity changes and true openings/closures are not distinguished
+2025-09-25,New York City,1453,29,29,identity changes and true openings/closures are not distinguished
+2025-09-25,Buffalo,71,2,2,identity changes and true openings/closures are not distinguished
+2025-09-25,Rochester,39,2,2,identity changes and true openings/closures are not distinguished
+2025-10-16,New York City,1456,10,7,identity changes and true openings/closures are not distinguished
+2025-10-16,Buffalo,70,4,5,identity changes and true openings/closures are not distinguished
+2025-10-16,Rochester,39,1,1,identity changes and true openings/closures are not distinguished
+2025-11-19,New York City,1456,4,4,identity changes and true openings/closures are not distinguished
+2025-11-19,Buffalo,70,0,0,identity changes and true openings/closures are not distinguished
+2025-11-19,Rochester,39,0,0,identity changes and true openings/closures are not distinguished
+2025-12-15,New York City,1455,15,16,identity changes and true openings/closures are not distinguished
+2025-12-15,Buffalo,70,0,0,identity changes and true openings/closures are not distinguished
+2025-12-15,Rochester,39,3,3,identity changes and true openings/closures are not distinguished
+2026-01-15,New York City,1448,1,8,identity changes and true openings/closures are not distinguished
+2026-01-15,Buffalo,69,0,1,identity changes and true openings/closures are not distinguished
+2026-01-15,Rochester,40,1,0,identity changes and true openings/closures are not distinguished

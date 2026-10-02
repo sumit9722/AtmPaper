@@ -1,0 +1,146 @@
+{
+  "B01003_001E": {
+    "label": "Estimate!!Total",
+    "concept": "Total Population",
+    "predicateType": "int",
+    "group": "B01003",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Total population"
+  },
+  "B01003_001M": {
+    "label": "Margin of Error!!Total",
+    "concept": "Total Population",
+    "predicateType": "int",
+    "group": "B01003",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Total population"
+  },
+  "B01003_001EA": {
+    "label": "Annotation of Estimate!!Total",
+    "concept": "Total Population",
+    "predicateType": "string",
+    "group": "B01003",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Total population"
+  },
+  "B01003_001MA": {
+    "label": "Annotation of Margin of Error!!Total",
+    "concept": "Total Population",
+    "predicateType": "string",
+    "group": "B01003",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Total population"
+  },
+  "B19013_001E": {
+    "label": "Estimate!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars)",
+    "concept": "Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)",
+    "predicateType": "int",
+    "group": "B19013",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Households"
+  },
+  "B19013_001M": {
+    "label": "Margin of Error!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars)",
+    "concept": "Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)",
+    "predicateType": "int",
+    "group": "B19013",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Households"
+  },
+  "B19013_001EA": {
+    "label": "Annotation of Estimate!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars)",
+    "concept": "Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)",
+    "predicateType": "string",
+    "group": "B19013",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Households"
+  },
+  "B19013_001MA": {
+    "label": "Annotation of Margin of Error!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars)",
+    "concept": "Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars)",
+    "predicateType": "string",
+    "group": "B19013",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Households"
+  },
+  "B23025_003E": {
+    "label": "Estimate!!Total:!!In labor force:!!Civilian labor force:",
+    "concept": "Employment Status for the Population 16 Years and Over",
+    "predicateType": "int",
+    "group": "B23025",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Population 16 years and over"
+  },
+  "B23025_003M": {
+    "label": "Margin of Error!!Total:!!In labor force:!!Civilian labor force:",
+    "concept": "Employment Status for the Population 16 Years and Over",
+    "predicateType": "int",
+    "group": "B23025",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Population 16 years and over"
+  },
+  "B23025_003EA": {
+    "label": "Annotation of Estimate!!Total:!!In labor force:!!Civilian labor force:",
+    "concept": "Employment Status for the Population 16 Years and Over",
+    "predicateType": "string",
+    "group": "B23025",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Population 16 years and over"
+  },
+  "B23025_003MA": {
+    "label": "Annotation of Margin of Error!!Total:!!In labor force:!!Civilian labor force:",
+    "concept": "Employment Status for the Population 16 Years and Over",
+    "predicateType": "string",
+    "group": "B23025",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Population 16 years and over"
+  },
+  "B23025_005E": {
+    "label": "Estimate!!Total:!!In labor force:!!Civilian labor force:!!Unemployed",
+    "concept": "Employment Status for the Population 16 Years and Over",
+    "predicateType": "int",
+    "group": "B23025",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Population 16 years and over"
+  },
+  "B23025_005M": {
+    "label": "Margin of Error!!Total:!!In labor force:!!Civilian labor force:!!Unemployed",
+    "concept": "Employment Status for the Population 16 Years and Over",
+    "predicateType": "int",
+    "group": "B23025",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Population 16 years and over"
+  },
+  "B23025_005EA": {
+    "label": "Annotation of Estimate!!Total:!!In labor force:!!Civilian labor force:!!Unemployed",
+    "concept": "Employment Status for the Population 16 Years and Over",
+    "predicateType": "string",
+    "group": "B23025",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Population 16 years and over"
+  },
+  "B23025_005MA": {
+    "label": "Annotation of Margin of Error!!Total:!!In labor force:!!Civilian labor force:!!Unemployed",
+    "concept": "Employment Status for the Population 16 Years and Over",
+    "predicateType": "string",
+    "group": "B23025",
+    "limit": 0,
+    "predicateOnly": true,
+    "universe": "Population 16 years and over"
+  }
+}

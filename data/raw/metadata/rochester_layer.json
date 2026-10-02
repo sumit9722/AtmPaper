@@ -1,0 +1,1001 @@
+{
+ "currentVersion": 11.3,
+ "cimVersion": "3.3.0",
+ "id": 3,
+ "name": "RPD Part I Crime - 2011 to Present",
+ "type": "Feature Layer",
+ "description": "",
+ "geometryType": "esriGeometryPoint",
+ "sourceSpatialReference": {
+  "wkid": 102717,
+  "latestWkid": 2262,
+  "xyTolerance": 0.003280833333333333,
+  "zTolerance": 0.001,
+  "mTolerance": 0.001,
+  "falseX": -17299100,
+  "falseY": -47344700,
+  "xyUnits": 3048.0060960121928,
+  "falseZ": 0,
+  "zUnits": 1,
+  "falseM": 0,
+  "mUnits": 1
+ },
+ "copyrightText": "",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 0,
+ "maxScale": 0,
+ "referenceScale": 0.0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "uniqueValue",
+   "field1": "Statute_CrimeCategory",
+   "uniqueValueGroups": [
+    {
+     "heading": "Crime Category",
+     "classes": [
+      {
+       "label": "Murder",
+       "description": "Murder",
+       "symbol": {
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "color": [
+         213,
+         0,
+         0,
+         255
+        ],
+        "size": 10,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "outline": {
+         "color": [
+          104,
+          104,
+          104,
+          255
+         ],
+         "width": 0.5
+        }
+       },
+       "values": [
+        [
+         "1"
+        ]
+       ]
+      },
+      {
+       "label": "Robbery",
+       "description": "Robbery",
+       "symbol": {
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "color": [
+         66,
+         66,
+         66,
+         255
+        ],
+        "size": 10,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "outline": {
+         "color": [
+          104,
+          104,
+          104,
+          255
+         ],
+         "width": 1
+        }
+       },
+       "values": [
+        [
+         "3"
+        ]
+       ]
+      },
+      {
+       "label": "Aggravated Assault",
+       "description": "Aggravated Assault",
+       "symbol": {
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "color": [
+         0,
+         145,
+         234,
+         255
+        ],
+        "size": 10,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "outline": {
+         "color": [
+          104,
+          104,
+          104,
+          255
+         ],
+         "width": 1
+        }
+       },
+       "values": [
+        [
+         "4"
+        ]
+       ]
+      },
+      {
+       "label": "Burglary",
+       "description": "Burglary",
+       "symbol": {
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "color": [
+         100,
+         221,
+         23,
+         255
+        ],
+        "size": 10,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "outline": {
+         "color": [
+          104,
+          104,
+          104,
+          255
+         ],
+         "width": 1
+        }
+       },
+       "values": [
+        [
+         "5"
+        ]
+       ]
+      },
+      {
+       "label": "Larceny",
+       "description": "Larceny",
+       "symbol": {
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "color": [
+         103,
+         58,
+         183,
+         255
+        ],
+        "size": 10,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "outline": {
+         "color": [
+          104,
+          104,
+          104,
+          255
+         ],
+         "width": 1
+        }
+       },
+       "values": [
+        [
+         "6"
+        ]
+       ]
+      },
+      {
+       "label": "Motor Vehicle Theft",
+       "description": "Motor Vehicle Theft",
+       "symbol": {
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "color": [
+         255,
+         171,
+         0,
+         255
+        ],
+        "size": 10,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "outline": {
+         "color": [
+          104,
+          104,
+          104,
+          255
+         ],
+         "width": 1
+        }
+       },
+       "values": [
+        [
+         "7"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "uniqueValueInfos": [
+    {
+     "symbol": {
+      "type": "esriSMS",
+      "style": "esriSMSCircle",
+      "color": [
+       213,
+       0,
+       0,
+       255
+      ],
+      "size": 10,
+      "angle": 0,
+      "xoffset": 0,
+      "yoffset": 0,
+      "outline": {
+       "color": [
+        104,
+        104,
+        104,
+        255
+       ],
+       "width": 0.5
+      }
+     },
+     "value": "1",
+     "label": "Murder",
+     "description": "Murder"
+    },
+    {
+     "symbol": {
+      "type": "esriSMS",
+      "style": "esriSMSCircle",
+      "color": [
+       66,
+       66,
+       66,
+       255
+      ],
+      "size": 10,
+      "angle": 0,
+      "xoffset": 0,
+      "yoffset": 0,
+      "outline": {
+       "color": [
+        104,
+        104,
+        104,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "3",
+     "label": "Robbery",
+     "description": "Aggravated Assault"
+    },
+    {
+     "symbol": {
+      "type": "esriSMS",
+      "style": "esriSMSCircle",
+      "color": [
+       0,
+       145,
+       234,
+       255
+      ],
+      "size": 10,
+      "angle": 0,
+      "xoffset": 0,
+      "yoffset": 0,
+      "outline": {
+       "color": [
+        104,
+        104,
+        104,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "4",
+     "label": "Aggravated Assault"
+    },
+    {
+     "symbol": {
+      "type": "esriSMS",
+      "style": "esriSMSCircle",
+      "color": [
+       100,
+       221,
+       23,
+       255
+      ],
+      "size": 10,
+      "angle": 0,
+      "xoffset": 0,
+      "yoffset": 0,
+      "outline": {
+       "color": [
+        104,
+        104,
+        104,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "5",
+     "label": "Burglary"
+    },
+    {
+     "symbol": {
+      "type": "esriSMS",
+      "style": "esriSMSCircle",
+      "color": [
+       103,
+       58,
+       183,
+       255
+      ],
+      "size": 10,
+      "angle": 0,
+      "xoffset": 0,
+      "yoffset": 0,
+      "outline": {
+       "color": [
+        104,
+        104,
+        104,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "6",
+     "label": "Larceny"
+    },
+    {
+     "symbol": {
+      "type": "esriSMS",
+      "style": "esriSMSCircle",
+      "color": [
+       255,
+       171,
+       0,
+       255
+      ],
+      "size": 10,
+      "angle": 0,
+      "xoffset": 0,
+      "yoffset": 0,
+      "outline": {
+       "color": [
+        104,
+        104,
+        104,
+        255
+       ],
+       "width": 1
+      }
+     },
+     "value": "7",
+     "label": "Motor Vehicle Theft"
+    }
+   ],
+   "fieldDelimiter": ",",
+   "authoringInfo": {
+    "colorRamp": {
+     "type": "multipart",
+     "colorRamps": [
+      {
+       "type": "algorithmic",
+       "algorithm": "esriCIELabAlgorithm",
+       "fromColor": [
+        124,
+        176,
+        79,
+        255
+       ],
+       "toColor": [
+        124,
+        176,
+        79,
+        255
+       ]
+      },
+      {
+       "type": "algorithmic",
+       "algorithm": "esriCIELabAlgorithm",
+       "fromColor": [
+        77,
+        27,
+        130,
+        255
+       ],
+       "toColor": [
+        77,
+        27,
+        130,
+        255
+       ]
+      },
+      {
+       "type": "algorithmic",
+       "algorithm": "esriCIELabAlgorithm",
+       "fromColor": [
+        133,
+        28,
+        30,
+        255
+       ],
+       "toColor": [
+        133,
+        28,
+        30,
+        255
+       ]
+      },
+      {
+       "type": "algorithmic",
+       "algorithm": "esriCIELabAlgorithm",
+       "fromColor": [
+        55,
+        130,
+        153,
+        255
+       ],
+       "toColor": [
+        55,
+        130,
+        153,
+        255
+       ]
+      },
+      {
+       "type": "algorithmic",
+       "algorithm": "esriCIELabAlgorithm",
+       "fromColor": [
+        168,
+        50,
+        121,
+        255
+       ],
+       "toColor": [
+        168,
+        50,
+        121,
+        255
+       ]
+      },
+      {
+       "type": "algorithmic",
+       "algorithm": "esriCIELabAlgorithm",
+       "fromColor": [
+        150,
+        115,
+        50,
+        255
+       ],
+       "toColor": [
+        150,
+        115,
+        50,
+        255
+       ]
+      },
+      {
+       "type": "algorithmic",
+       "algorithm": "esriCIELabAlgorithm",
+       "fromColor": [
+        36,
+        171,
+        133,
+        255
+       ],
+       "toColor": [
+        36,
+        171,
+        133,
+        255
+       ]
+      },
+      {
+       "type": "algorithmic",
+       "algorithm": "esriCIELabAlgorithm",
+       "fromColor": [
+        47,
+        85,
+        156,
+        255
+       ],
+       "toColor": [
+        47,
+        85,
+        156,
+        255
+       ]
+      },
+      {
+       "type": "algorithmic",
+       "algorithm": "esriCIELabAlgorithm",
+       "fromColor": [
+        143,
+        64,
+        75,
+        255
+       ],
+       "toColor": [
+        143,
+        64,
+        75,
+        255
+       ]
+      },
+      {
+       "type": "algorithmic",
+       "algorithm": "esriCIELabAlgorithm",
+       "fromColor": [
+        173,
+        52,
+        169,
+        255
+       ],
+       "toColor": [
+        173,
+        52,
+        169,
+        255
+       ]
+      },
+      {
+       "type": "algorithmic",
+       "algorithm": "esriCIELabAlgorithm",
+       "fromColor": [
+        166,
+        168,
+        52,
+        255
+       ],
+       "toColor": [
+        166,
+        168,
+        52,
+        255
+       ]
+      },
+      {
+       "type": "algorithmic",
+       "algorithm": "esriCIELabAlgorithm",
+       "fromColor": [
+        123,
+        66,
+        138,
+        255
+       ],
+       "toColor": [
+        123,
+        66,
+        138,
+        255
+       ]
+      },
+      {
+       "type": "algorithmic",
+       "algorithm": "esriCIELabAlgorithm",
+       "fromColor": [
+        40,
+        176,
+        72,
+        255
+       ],
+       "toColor": [
+        40,
+        176,
+        72,
+        255
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "scaleSymbols": true,
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": true,
+ "extent": {
+  "xmin": 1379003.4239021614,
+  "ymin": 1133083.8283591568,
+  "xmax": 1427964.0100359134,
+  "ymax": 1191698.3223504052,
+  "spatialReference": {
+   "wkid": 102717,
+   "latestWkid": 2262,
+   "xyTolerance": 0.003280833333333333,
+   "zTolerance": 2,
+   "mTolerance": 0.001,
+   "falseX": -17299100,
+   "falseY": -47344700,
+   "xyUnits": 1.3725005035703713E8,
+   "falseZ": 0,
+   "zUnits": 1,
+   "falseM": -100000,
+   "mUnits": 10000
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "Geocode_Address",
+ "typeIdField": null,
+ "subtypeFieldName": null,
+ "subtypeField": null,
+ "defaultSubtypeCode": null,
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "Geocode_Address",
+   "type": "esriFieldTypeString",
+   "alias": "Geocode Address",
+   "length": 120,
+   "domain": null
+  },
+  {
+   "name": "Geocode_Street",
+   "type": "esriFieldTypeString",
+   "alias": "Geocode Street",
+   "length": 100,
+   "domain": null
+  },
+  {
+   "name": "Case_Number",
+   "type": "esriFieldTypeString",
+   "alias": "Case Number",
+   "length": 13,
+   "domain": null
+  },
+  {
+   "name": "OccurredFrom_Date_Year",
+   "type": "esriFieldTypeInteger",
+   "alias": "Occurred From Date Year",
+   "domain": null
+  },
+  {
+   "name": "OccurredFrom_Date_Month",
+   "type": "esriFieldTypeInteger",
+   "alias": "Occurred From Date Month",
+   "domain": null
+  },
+  {
+   "name": "OccurredFrom_Time",
+   "type": "esriFieldTypeString",
+   "alias": "Occurred From Time",
+   "length": 4,
+   "domain": null
+  },
+  {
+   "name": "OccurredFrom_Timestamp",
+   "type": "esriFieldTypeDate",
+   "alias": "Occurred From Timestamp",
+   "length": 8,
+   "domain": null
+  },
+  {
+   "name": "OccurredThrough_Date_Year",
+   "type": "esriFieldTypeInteger",
+   "alias": "Occurred Through Date Year",
+   "domain": null
+  },
+  {
+   "name": "OccurredThrough_Date_Month",
+   "type": "esriFieldTypeInteger",
+   "alias": "Occurred Through Date Month",
+   "domain": null
+  },
+  {
+   "name": "OccurredThrough_Time",
+   "type": "esriFieldTypeString",
+   "alias": "Occurred Through Time",
+   "length": 4,
+   "domain": null
+  },
+  {
+   "name": "OccurredThrough_Timestamp",
+   "type": "esriFieldTypeDate",
+   "alias": "Occurred Through Timestamp",
+   "length": 8,
+   "domain": null
+  },
+  {
+   "name": "Reported_Date_Year",
+   "type": "esriFieldTypeInteger",
+   "alias": "Reported Date Year",
+   "domain": null
+  },
+  {
+   "name": "Reported_Date_Month",
+   "type": "esriFieldTypeInteger",
+   "alias": "Reported Date Month",
+   "domain": null
+  },
+  {
+   "name": "Reported_Time",
+   "type": "esriFieldTypeString",
+   "alias": "Reported Time",
+   "length": 4,
+   "domain": null
+  },
+  {
+   "name": "Reported_Timestamp",
+   "type": "esriFieldTypeDate",
+   "alias": "Reported Timestamp",
+   "length": 8,
+   "domain": null
+  },
+  {
+   "name": "Address_StreetFull",
+   "type": "esriFieldTypeString",
+   "alias": "Address StreetFull",
+   "length": 255,
+   "domain": null
+  },
+  {
+   "name": "Address_City",
+   "type": "esriFieldTypeString",
+   "alias": "Address City",
+   "length": 32,
+   "domain": null
+  },
+  {
+   "name": "Address_State",
+   "type": "esriFieldTypeString",
+   "alias": "Address State",
+   "length": 32,
+   "domain": null
+  },
+  {
+   "name": "Patrol_Beat",
+   "type": "esriFieldTypeString",
+   "alias": "Patrol Beat",
+   "length": 32,
+   "domain": null
+  },
+  {
+   "name": "Patrol_Section",
+   "type": "esriFieldTypeString",
+   "alias": "Patrol Section",
+   "length": 7,
+   "domain": null
+  },
+  {
+   "name": "Case_Status",
+   "type": "esriFieldTypeString",
+   "alias": "Case Status",
+   "length": 32,
+   "domain": null
+  },
+  {
+   "name": "Statute_Title",
+   "type": "esriFieldTypeString",
+   "alias": "Statute Title",
+   "length": 32,
+   "domain": null
+  },
+  {
+   "name": "Statute_Section",
+   "type": "esriFieldTypeString",
+   "alias": "Statute Section",
+   "length": 32,
+   "domain": null
+  },
+  {
+   "name": "Statute_Subsection",
+   "type": "esriFieldTypeString",
+   "alias": "Statute Subsection",
+   "length": 32,
+   "domain": null
+  },
+  {
+   "name": "Statute_Degree",
+   "type": "esriFieldTypeString",
+   "alias": "Statute Degree",
+   "length": 32,
+   "domain": null
+  },
+  {
+   "name": "Statute_Class",
+   "type": "esriFieldTypeString",
+   "alias": "Statute Class",
+   "length": 32,
+   "domain": null
+  },
+  {
+   "name": "Statute_Category",
+   "type": "esriFieldTypeString",
+   "alias": "Statute Category",
+   "length": 32,
+   "domain": null
+  },
+  {
+   "name": "Statute_Text",
+   "type": "esriFieldTypeString",
+   "alias": "Statute Text",
+   "length": 255,
+   "domain": null
+  },
+  {
+   "name": "Statute_Description",
+   "type": "esriFieldTypeString",
+   "alias": "Statute Description",
+   "length": 128,
+   "domain": null
+  },
+  {
+   "name": "Statute_CrimeCategory",
+   "type": "esriFieldTypeInteger",
+   "alias": "Statute Crime Category",
+   "domain": null
+  },
+  {
+   "name": "Statute_Attempted",
+   "type": "esriFieldTypeString",
+   "alias": "Statute Attempted",
+   "length": 128,
+   "domain": null
+  },
+  {
+   "name": "Weapon_Description",
+   "type": "esriFieldTypeString",
+   "alias": "Weapon Description",
+   "length": 128,
+   "domain": null
+  },
+  {
+   "name": "Larceny_Type",
+   "type": "esriFieldTypeString",
+   "alias": "Larceny Type",
+   "length": 128,
+   "domain": null
+  },
+  {
+   "name": "Location_Type",
+   "type": "esriFieldTypeString",
+   "alias": "Location Type",
+   "length": 128,
+   "domain": null
+  },
+  {
+   "name": "Geo_Beat",
+   "type": "esriFieldTypeString",
+   "alias": "Geo Beat",
+   "length": 6,
+   "domain": null
+  },
+  {
+   "name": "Geo_Section",
+   "type": "esriFieldTypeString",
+   "alias": "Geo Section",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "Geo_Section_Num",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "Geo Section Num",
+   "domain": null
+  },
+  {
+   "name": "Shape",
+   "type": "esriFieldTypeGeometry",
+   "alias": "Shape",
+   "domain": null
+  }
+ ],
+ "geometryField": {
+  "name": "Shape",
+  "type": "esriFieldTypeGeometry",
+  "alias": "Shape"
+ },
+ "indexes": [
+  {
+   "name": "R49_pk",
+   "fields": "OBJECTID",
+   "isAscending": true,
+   "isUnique": true,
+   "description": ""
+  },
+  {
+   "name": "S36_idx",
+   "fields": "Shape",
+   "isAscending": true,
+   "isUnique": true,
+   "description": ""
+  }
+ ],
+ "subtypes": [],
+ "relationships": [],
+ "canModifyLayer": true,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 100000,
+ "supportsStatistics": true,
+ "supportsExceedsLimitStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, geoJSON, PBF",
+ "isDataVersioned": false,
+ "ownershipBasedAccessControlForFeatures": {"allowOthersToQuery": true},
+ "useStandardizedQueries": true,
+ "supportedSpatialRelationships": [
+  "esriSpatialRelIntersects",
+  "esriSpatialRelContains",
+  "esriSpatialRelCrosses",
+  "esriSpatialRelEnvelopeIntersects",
+  "esriSpatialRelIndexIntersects",
+  "esriSpatialRelOverlaps",
+  "esriSpatialRelTouches",
+  "esriSpatialRelWithin",
+  "esriSpatialRelRelation"
+ ],
+ "advancedQueryCapabilities": {
+  "useStandardizedQueries": true,
+  "supportsStatistics": true,
+  "supportsPercentileStatistics": true,
+  "supportsHavingClause": true,
+  "supportsOrderBy": true,
+  "supportsDistinct": true,
+  "supportsCountDistinct": true,
+  "supportsAdvancedQueryRelated": true,
+  "supportsQueryRelatedPagination": true,
+  "supportsPagination": true,
+  "supportsLod": false,
+  "supportsQueryWithLodSR": false,
+  "supportsTrueCurve": true,
+  "supportsQueryWithDatumTransformation": true,
+  "supportsReturningQueryExtent": true,
+  "supportsQueryWithDistance": true,
+  "supportsSqlExpression": true,
+  "supportsTimeRelation": true,
+  "supportsSqlFormat": false,
+  "supportsQueryAnalytic": true,
+  "supportsCurrentUserQueries": true
+ },
+ "supportsDatumTransformation": true,
+ "advancedQueryAnalyticCapabilities": {
+  "supportsLinearRegression": true,
+  "supportsAsync": false,
+  "supportsPercentileAnalytic": true
+ },
+ "dateFieldsTimeReference": {
+  "timeZone": "Eastern Standard Time",
+  "respectsDaylightSaving": true
+ },
+ "preferredTimeReference": null,
+ "datesInUnknownTimezone": false,
+ "hasMetadata": true,
+ "isDataArchived": false,
+ "archivingInfo": {
+  "supportsQueryWithHistoricMoment": false,
+  "startArchivingMoment": -1
+ },
+ "supportsCoordinatesQuantization": true,
+ "supportsDynamicLegends": true
+}

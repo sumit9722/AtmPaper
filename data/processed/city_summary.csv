@@ -1,0 +1,4 @@
+city,dfs_source_records,dfs_sites,site_clusters,crime_raw_rows,crime_excluded_outside_city_polygon,crime_unique_valid,primary_2024,broad_2024,primary_2025,broad_2025,primary_events_multiple_sites_50m,sites_positive_50m,primary_site_event_links_50m,crime_excluded_missing_coordinates,duplicate_case_rows
+New York City,1437,1426,1387,363194,21,363173,29595,177744,27709,167220,399,810,2657,,
+Buffalo,70,69,67,26448,113,24483,1761,7821,1630,7221,3,19,28,1852,
+Rochester,38,37,37,15635,8,15573,1366,5255,970,4664,,11,16,21,33

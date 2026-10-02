@@ -1,0 +1,9 @@
+{
+  "endpoint": "https://api.census.gov/data/2023/acs/acs5/groups/B19013.json",
+  "params": {},
+  "authenticated": false,
+  "retrieved_utc": "2026-10-01T06:37:18.706834+00:00",
+  "sha256": "44dd3590b59a19c32cb09ae70a24a1cfbb2c65af5d164ed81065e1ff7689e648",
+  "http_status": 200,
+  "raw_modified": false
+}

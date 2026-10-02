@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "checks": [
+    "One historical panel row per interval-supported site",
+    "Historical site-year identifiers are unique",
+    "Full-year cohort has exactly 365 supported days",
+    "Independent-review gate is preserved",
+    "Linked distances sampled against independent WGS84 ellipsoid calculations",
+    "Every outcome link is inside its supported exposure interval; backgrounds are 2024 and >200\u2013500 m",
+    "Panel primary counts reconcile exactly to links at all three radii",
+    "Background counts reconcile exactly to annulus links",
+    "nyc: downloaded record total matches API count (363194)",
+    "buffalo: downloaded record total matches API count (26448)",
+    "rochester: downloaded record total matches API count (15635)",
+    "All raw-input SHA-256 hashes match the manifest",
+    "No independent human review has been fabricated"
+  ],
+  "historical_sites": 2233,
+  "full_year_sites": 1192,
+  "link_rows": 1220543
+}
