@@ -1,0 +1,16 @@
+{
+  "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2023/MapServer/10/query",
+  "params": {
+    "where": "STATE='36' AND COUNTY='005'",
+    "outFields": "OBJECTID,GEOID,STATE,COUNTY,AREALAND,AREAWATER",
+    "returnGeometry": "true",
+    "outSR": 4326,
+    "f": "geojson",
+    "orderByFields": "OBJECTID",
+    "resultRecordCount": 5000
+  },
+  "resolved_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2023/MapServer/10/query?where=STATE%3D%2736%27+AND+COUNTY%3D%27005%27&outFields=OBJECTID%2CGEOID%2CSTATE%2CCOUNTY%2CAREALAND%2CAREAWATER&returnGeometry=true&outSR=4326&f=geojson&orderByFields=OBJECTID&resultRecordCount=5000",
+  "retrieved_utc": "2026-10-02T00:44:43.089316+00:00",
+  "sha256": "09a7271f88076fd2d1887ff7739a16042814576b6f1dd3c8a16e57c3770c503c",
+  "bytes": 1161069
+}

@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "prediction_cutoff": "2025-01-01",
+  "primary_predictors": [
+    "log1p_background_primary",
+    "log1p_population_density",
+    "log1p_median_household_income",
+    "unemployment_rate",
+    "log1p_employment_density",
+    "log1p_retail_employment_density",
+    "employment_mix",
+    "log1p_road_network_density",
+    "log1p_auto_road_density",
+    "log1p_intersection_density",
+    "log1p_transit_service_density",
+    "log1p_auto_job_accessibility",
+    "log1p_atm_density_500m",
+    "log1p_nearest_other_atm"
+  ],
+  "sensitivity_predictors": [
+    "log1p_transit_centroid_distance",
+    "log1p_transit_job_accessibility",
+    "log1p_background_report_date_cutoff"
+  ],
+  "feature_spec_sha256": "91148667d180ca0ef46f2b8def3e63cb70b9c5ac1daea2e177cf7dce6c2582cc",
+  "no_labels_in_predictors": true,
+  "imputation_performed": false,
+  "scaling_performed": false,
+  "model_fitted": false,
+  "confirmatory_modeling_ready": false
+}

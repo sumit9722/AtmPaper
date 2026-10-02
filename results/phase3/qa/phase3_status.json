@@ -1,0 +1,53 @@
+{
+  "phase": 3,
+  "build_status": "complete",
+  "validation_status": "PASS",
+  "research_acceptance": "pending phase 2 review and feature-schema ratification",
+  "confirmatory_modeling_ready": false,
+  "historical_rows": 2233,
+  "full_year_rows": 1192,
+  "primary_predictors": 14,
+  "sensitivity_predictors": 3,
+  "baseline_statewide_sites": 5468,
+  "acs_polygons": 8217,
+  "sld_polygons": 7673,
+  "range_violations": 0,
+  "unmatched_or_ambiguous_joins": 80,
+  "model_fitted": false,
+  "census_api_key_used": false,
+  "city_summary": [
+    {
+      "city": "New York City",
+      "historical_sites": 2079,
+      "full_year_sites": 1117,
+      "acs_unique_join": 2079,
+      "sld_unique_join": 2000,
+      "present_in_dec2024_snapshot": 1718,
+      "near_city_edge_500m": 14,
+      "acs_near_boundary_10m": 1336,
+      "sld_near_boundary_10m": 1221
+    },
+    {
+      "city": "Buffalo",
+      "historical_sites": 96,
+      "full_year_sites": 46,
+      "acs_unique_join": 96,
+      "sld_unique_join": 96,
+      "present_in_dec2024_snapshot": 70,
+      "near_city_edge_500m": 9,
+      "acs_near_boundary_10m": 25,
+      "sld_near_boundary_10m": 19
+    },
+    {
+      "city": "Rochester",
+      "historical_sites": 58,
+      "full_year_sites": 29,
+      "acs_unique_join": 58,
+      "sld_unique_join": 57,
+      "present_in_dec2024_snapshot": 46,
+      "near_city_edge_500m": 5,
+      "acs_near_boundary_10m": 13,
+      "sld_near_boundary_10m": 13
+    }
+  ]
+}

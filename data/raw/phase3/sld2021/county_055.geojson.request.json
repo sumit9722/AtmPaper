@@ -1,0 +1,16 @@
+{
+  "url": "https://geodata.epa.gov/arcgis/rest/services/OA/SmartLocationDatabase/MapServer/1/query",
+  "params": {
+    "where": "STATEFP='36' AND COUNTYFP='055'",
+    "outFields": "OBJECTID,GEOID20,GEOID10,STATEFP,COUNTYFP,D1C,D1C5_RET,D2B_E5MIXA,D3A,D3AAO,D3B,D4A,D4C,D4D,D5AR,D5BR",
+    "returnGeometry": "true",
+    "outSR": 4326,
+    "f": "geojson",
+    "orderByFields": "OBJECTID",
+    "resultRecordCount": 5000
+  },
+  "resolved_url": "https://geodata.epa.gov/arcgis/rest/services/OA/SmartLocationDatabase/MapServer/1/query?where=STATEFP%3D%2736%27+AND+COUNTYFP%3D%27055%27&outFields=OBJECTID%2CGEOID20%2CGEOID10%2CSTATEFP%2CCOUNTYFP%2CD1C%2CD1C5_RET%2CD2B_E5MIXA%2CD3A%2CD3AAO%2CD3B%2CD4A%2CD4C%2CD4D%2CD5AR%2CD5BR&returnGeometry=true&outSR=4326&f=geojson&orderByFields=OBJECTID&resultRecordCount=5000",
+  "retrieved_utc": "2026-10-02T00:47:07.382583+00:00",
+  "sha256": "30074bc26ab934d568513fad0cf75f86b79b87c95c01d16506d410ae5eff0bdf",
+  "bytes": 816294
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2023/MapServer/10/query",
+  "params": {
+    "where": "STATE='36' AND COUNTY='005'",
+    "returnCountOnly": "true",
+    "f": "json"
+  },
+  "resolved_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2023/MapServer/10/query?where=STATE%3D%2736%27+AND+COUNTY%3D%27005%27&returnCountOnly=true&f=json",
+  "retrieved_utc": "2026-10-02T00:44:34.991818+00:00",
+  "sha256": "b89e50830dcb48b4ac94c42ed1940ecafe0d87f8d59acdf14b089ee7b541b2c1",
+  "bytes": 14
+}

@@ -1,0 +1,4 @@
+city,historical_sites,full_year_sites,acs_unique_join,sld_unique_join,present_in_dec2024_snapshot,near_city_edge_500m,acs_near_boundary_10m,sld_near_boundary_10m
+New York City,2079,1117,2079,2000,1718,14,1336,1221
+Buffalo,96,46,96,96,70,9,25,19
+Rochester,58,29,58,57,46,5,13,13

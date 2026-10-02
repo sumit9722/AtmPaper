@@ -1,0 +1,10 @@
+{
+  "url": "https://geodata.epa.gov/arcgis/rest/services/OA/SmartLocationDatabase/MapServer/1",
+  "params": {
+    "f": "json"
+  },
+  "resolved_url": "https://geodata.epa.gov/arcgis/rest/services/OA/SmartLocationDatabase/MapServer/1?f=json",
+  "retrieved_utc": "2026-10-02T00:43:15.369936+00:00",
+  "sha256": "ee7673d86296ff24442384dbbd0a8d67d5297370be5112e31c8a45059f5f23dc",
+  "bytes": 33765
+}

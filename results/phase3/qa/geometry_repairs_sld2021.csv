@@ -1,0 +1,2 @@
+layer,geoid,issue,repair,relative_area_change
+sld2021,360810929002,Self-intersection[-73.850449235109 40.7800424029041],GEOS make_valid; raw geometry preserved,2.3005822454706372e-07

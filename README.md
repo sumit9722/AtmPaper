@@ -1,5 +1,7 @@
 # Three-city ATM study — phases 1 and 2
 
+Phase 3 environmental-feature results are available separately in [results/phase3](results/phase3/README.md), including the work completed, methods, results, quality checks and reproduction instructions. Computational validation is complete; the phase 2 research review gates still apply.
+
 Start with [the execution report](reports/phase_1_2_report.md) and [the location map](reports/atm_locations_map.html).
 
 The main dataset is [the 2025 full-year historical panel](data/processed/atm_panel_2025_full_year.csv). It contains each ATM's latitude/longitude, snapshot-supported exposure, nearby robbery/burglary counts at 25/50/100 metres, and 2024 background crime at >200–500 metres.

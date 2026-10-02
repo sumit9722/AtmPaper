@@ -1,0 +1,3 @@
+layer,geoid,issue,repair,relative_area_change
+acs2023,360050504000,Ring Self-intersection[-73.773231000049 40.8607469998888],GEOS make_valid; raw geometry preserved,9.315436930058295e-16
+acs2023,360050516020,Ring Self-intersection[-73.7710040001029 40.8601089997504],GEOS make_valid; raw geometry preserved,0.0
