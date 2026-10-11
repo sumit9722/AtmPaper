@@ -1,0 +1,3 @@
+# Boundary source correction, before model fitting
+
+The archived TIGERweb ACS2022 service returned block-group identifiers inconsistent with the 2022 ACS API. For example, Bronx returned 1,154 polygons versus 1,182 ACS rows, with 116 ACS identifiers absent. The official 2022 TIGER/Line archive instead contains all 1,182 identifiers exactly. Use the official same-year archive `https://www2.census.gov/geo/tiger/TIGER2022/BG/tl_2022_36_bg.zip` for point joins and land area. Preserve the incompatible service download for audit; it is not a model input. This corrects the acquisition source without changing the prespecified feature vintage, cohort rule, experiments, or models. Freeze this addendum before fitting.

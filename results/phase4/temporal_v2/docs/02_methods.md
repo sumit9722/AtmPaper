@@ -1,0 +1,9 @@
+# Methods
+
+Predict nearby police-recorded robbery/burglary within 50 m over the full target year. Retain supported full-year exposure (366 days in 2024, 365 in 2025). For 2024 labels, retain only events with a report/creation date before 2025-01-01. The 2025 labels remain identical to the earlier phase 2 release.
+
+Freeze ACS 2018–2022 estimates, released 2023-12-07, across both years. Use matching 2022 TIGER/Line polygons, EPA Smart Location Database 2021, previous-December statewide ATM competition, and previous-year robbery/burglary in the >200–500-m annulus reported before the prediction cutoff. Thus 2024 uses 2023 crime and December 2023 competition; 2025 uses 2024 crime and December 2024 competition. This changes the ACS vintage relative to phase 4 v1, so the v1/v2 difference is not an isolated time-split experiment.
+
+Reuse frozen 2025 spatial folds. For each held-out fold, exclude 2024 locations within 1,500 m of every test site. Within the remaining 2024 training set, use spatial groups and the same purge for hyperparameter selection. M0 is unpenalized logistic regression on log1p prior crime; M1 is ridge logistic regression on all 14 predictors (C in 0.1, 1, 10); M2 is 150-tree XGBoost (depth 2/3, lambda 1/10, learning rate .05). Median imputation and logistic scaling fit only on each training subset. Sigmoid calibration uses inner out-of-fold 2024 predictions, never 2025 labels.
+
+AP is non-interpolated average precision. Also report ROC-AUC, Brier, 10-bin expected calibration error, calibration mean error and top-decile precision/recall/lift. Compare M1/M2 against M0 on paired test rows. Resample 2-km blocks within city 2,000 times; omit replicates with no positive outcome and report the valid count. The numerical criterion is AP gain >= .01 with a positive 95% lower bound. Meeting a numerical criterion would not remove the independent review requirements.

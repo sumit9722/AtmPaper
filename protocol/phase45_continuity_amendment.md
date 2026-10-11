@@ -1,0 +1,5 @@
+# Continuity amendment before model fitting
+
+The exact address-and-coordinate rule yields zero 366-day 2024 sites. September–October 2024 retains only 36 exact identities out of 1,836 October city sites, consistent with a broad coordinate revision. No temporal model was fitted before this amendment.
+
+For retrospective computational analysis, retain only a city + normalized address present uniquely in every one of the 14 bracketing snapshots, with all reported coordinates within 50 metres geodesically of its December 2023 coordinates. Fix the model location to that December baseline; do not use outcomes to choose links or coordinates. Exclude ambiguous addresses and larger movements. Save every linkage and displacement. Presence at snapshots supports inferred continuity, not verified continuous operation. These amended links require independent facility/coordinate review and remain ineligible for confirmatory claims. The exact-identity inventory remains available and its zero full-year count is reported explicitly. All other frozen experiment rules remain unchanged.

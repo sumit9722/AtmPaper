@@ -1,0 +1,15 @@
+date,city_sites,source_file
+2023-12-15,1615,data/raw/temporal_extension/atm_history/dfs_2023-12-15_v258.csv
+2024-01-15,1609,data/raw/temporal_extension/atm_history/dfs_2024-01-15_v259.csv
+2024-02-15,1605,data/raw/temporal_extension/atm_history/dfs_2024-02-15_v260.csv
+2024-03-15,1605,data/raw/temporal_extension/atm_history/dfs_2024-03-15_v261.csv
+2024-04-15,1603,data/raw/temporal_extension/atm_history/dfs_2024-04-15_v262.csv
+2024-05-15,1603,data/raw/temporal_extension/atm_history/dfs_2024-05-15_v263.csv
+2024-06-15,1602,data/raw/temporal_extension/atm_history/dfs_2024-06-15_v264.csv
+2024-07-15,1583,data/raw/temporal_extension/atm_history/dfs_2024-07-15_v265.csv
+2024-08-15,1854,data/raw/temporal_extension/atm_history/dfs_2024-08-15_v266.csv
+2024-09-15,1854,data/raw/temporal_extension/atm_history/dfs_2024-09-15_v267.csv
+2024-10-15,1836,data/raw/temporal_extension/atm_history/dfs_2024-10-15_v268.csv
+2024-11-19,1562,data/raw/temporal_extension/atm_history/dfs_2024-11-19_v269.csv
+2024-12-15,1834,data/raw/atm_history/dfs_2024-12-15_v270.csv
+2025-01-15,1834,data/raw/atm_history/dfs_2025-01-15_v271.csv

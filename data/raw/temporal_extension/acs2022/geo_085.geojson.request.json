@@ -1,0 +1,14 @@
+{
+  "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2022/MapServer/8/query",
+  "params": {
+    "where": "STATE='36' AND COUNTY='085'",
+    "outFields": "GEOID,STATE,COUNTY,AREALAND,AREAWATER",
+    "returnGeometry": "true",
+    "outSR": 4326,
+    "f": "geojson",
+    "resultRecordCount": 5000
+  },
+  "method": "GET",
+  "sha256": "6446ed8d929f2188dc7d1021ef8fd17ff8e02a50da18754eac982ebef04348d9",
+  "retrieved_utc": "2026-10-03T01:04:01.261025+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://data.ny.gov/api/archival",
+  "params": {
+    "id": "ndex-ad5r",
+    "version": 262,
+    "method": "createArchive"
+  },
+  "method": "PUT",
+  "sha256": "f3ec7211f9035cbc8faa82b2927e6600e79e20a3359463ab62eec4cb054a679c",
+  "retrieved_utc": "2026-10-03T01:04:02.636522+00:00"
+}

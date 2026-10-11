@@ -1,0 +1,4 @@
+variant,scheme,fold,model,stage,warning
+temporal_50m,forward_spatial,fold_0,ALL,inner_0,Skipped inner fold: insufficient training rows or missing outcome class
+temporal_50m,forward_spatial,fold_1,ALL,inner_1,Skipped inner fold: insufficient training rows or missing outcome class
+temporal_50m,forward_spatial,fold_3,ALL,inner_3,Skipped inner fold: insufficient training rows or missing outcome class

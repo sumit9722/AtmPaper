@@ -1,0 +1,5 @@
+city,event_id,event_date,report_datetime,category,longitude,latitude,source_file,source_row
+Rochester,rochester:2023-00100858,2023-05-09,2023-05-09T15:29:00-04:00,robbery,-77.59562850048832,43.16966100007685,data/raw/temporal_extension/crime2023/rochester/page_0004000.json,345
+Rochester,rochester:2023-00222096,2023-09-19,2023-09-19T07:52:00-04:00,burglary,-77.59198799951066,43.1582400001219,data/raw/temporal_extension/crime2023/rochester/page_0011000.json,173
+Rochester,rochester:2023-00222096,2023-09-19,2023-09-19T07:52:00-04:00,burglary,-77.59198799951066,43.1582400001219,data/raw/temporal_extension/crime2023/rochester/page_0011000.json,174
+Rochester,rochester:2023-00222096,2023-09-19,2023-09-19T07:52:00-04:00,burglary,-77.59198799951066,43.1582400001219,data/raw/temporal_extension/crime2023/rochester/page_0011000.json,175

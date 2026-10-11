@@ -1,0 +1,9 @@
+{
+  "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2022/MapServer/8",
+  "params": {
+    "f": "json"
+  },
+  "method": "GET",
+  "sha256": "9df4a248ca83776507ac54802da295ef177c6646e76737b32e1b2b00e6bee095",
+  "retrieved_utc": "2026-10-03T01:02:59.084049+00:00"
+}

@@ -1,8 +1,10 @@
-# Three-city ATM study — phases 1 and 2
+# Three-city ATM study — phases 1–5
 
 Phase 3 environmental-feature results are available separately in [results/phase3](results/phase3/README.md), including the work completed, methods, results, quality checks and reproduction instructions. Computational validation is complete; the phase 2 research review gates still apply.
 
-Phase 4 exploratory model comparisons are in [results/phase4](results/phase4/README.md), with spatial/city holdouts, paired uncertainty, sensitivity analyses, model artifacts and figures. The supported computational workflow is validated; full phase 4 remains incomplete because forward temporal validation and the earlier research-review gates are pending.
+Phase 4 now includes a [2024-to-2025 temporal supplement](results/phase4/temporal_v2/README.md), alongside the preserved [original same-year release](results/phase4/README.md). Phase 5 [city-transfer experiments](results/phase5/README.md) compare individual and pooled sources, earlier-target adaptation, and exactly matched target-only controls across 20 seeds. The computational workflows are complete and validated; the phase 4 numerical improvement gate did not pass, and independent scientific review remains pending. The original phase 4 release describes its historical status; the temporal supplement records the extension.
+
+New shared inputs and audited cohorts are documented in [results/temporal_data](results/temporal_data/README.md). Each phase has separate Markdown work, methods, results and reproduction files.
 
 Start with [the execution report](reports/phase_1_2_report.md) and [the location map](reports/atm_locations_map.html).
 
@@ -20,4 +22,4 @@ Raw downloads are under `data/raw/`; convenient source-field CSV exports are und
 
 Historical exposure assumes continuous activity between adjacent monthly snapshots listing the same site. Actual opening/closing dates remain unknown. Buffalo coordinate precision, facility identity and independent crime/linkage review remain research gates. **The data are prepared for review, not yet certified for confirmatory modeling.**
 
-Rebuild with the scripts listed in the execution report. Raw files are cached and checksummed. No model training or future outcome fabrication is included.
+Rebuild with the scripts listed in the execution report. Raw files are cached and checksummed. Model training is documented in the phase 4/5 result folders; no outcomes are fabricated.

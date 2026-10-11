@@ -1,0 +1,14 @@
+{
+  "temporal_computation": "complete",
+  "training_year": 2024,
+  "test_year": 2025,
+  "train_cohort_rows": 1201,
+  "test_cohort_rows": 1192,
+  "models": 15,
+  "validation": "passed",
+  "independent_human_review_completed": false,
+  "confirmatory_complete": false,
+  "prior_2025_results_already_inspected": true,
+  "started_utc": "2026-10-03T07:24:38.351278+00:00",
+  "finished_utc": "2026-10-03T07:24:47.786373+00:00"
+}

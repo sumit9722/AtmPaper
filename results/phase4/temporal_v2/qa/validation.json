@@ -1,0 +1,102 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "unique year-site identities",
+      "passed": true
+    },
+    {
+      "check": "both years and all cities present",
+      "passed": true
+    },
+    {
+      "check": "full-year leap-year exposure",
+      "passed": true
+    },
+    {
+      "check": "14 unique continuity snapshots and <=50m drift",
+      "passed": true
+    },
+    {
+      "check": "2025 labels unchanged",
+      "passed": true
+    },
+    {
+      "check": "2024 labels reconcile to eligible reported crimes",
+      "passed": true
+    },
+    {
+      "check": "input hashes unchanged",
+      "passed": true
+    },
+    {
+      "check": "pre-fit amendments and experiment implementation unchanged",
+      "passed": true
+    },
+    {
+      "check": "phase4 temporal nesting and 1500m separation",
+      "passed": true
+    },
+    {
+      "check": "all 15 temporal models reproduce predictions and training medians",
+      "passed": true
+    },
+    {
+      "check": "calibration uses only outer training rows",
+      "passed": true
+    },
+    {
+      "check": "phase4 metrics recomputed",
+      "passed": true
+    },
+    {
+      "check": "bootstrap intervals and numerical gates reconcile",
+      "passed": true
+    },
+    {
+      "check": "20 deterministic seeds, exact fractions and nested subsets",
+      "passed": true
+    },
+    {
+      "check": "every transfer fit uses exact source/control members and spatial separation",
+      "passed": true
+    },
+    {
+      "check": "transfer preprocessing and constant fallback audit",
+      "passed": true
+    },
+    {
+      "check": "transfer probabilities finite and bounded",
+      "passed": true
+    },
+    {
+      "check": "all 1476 prediction vectors cover the identical full target cohorts",
+      "passed": true
+    },
+    {
+      "check": "single-class probabilities equal training prevalence",
+      "passed": true
+    },
+    {
+      "check": "18 representative transfer models independently refitted",
+      "passed": true
+    },
+    {
+      "check": "all transfer metrics independently recomputed",
+      "passed": true
+    },
+    {
+      "check": "matched transfer benefits and 20-seed distributions reconcile",
+      "passed": true
+    },
+    {
+      "check": "frozen splits and honest research status",
+      "passed": true
+    },
+    {
+      "check": "new artifacts below 100 MB",
+      "passed": true
+    }
+  ],
+  "independent_human_review": false
+}

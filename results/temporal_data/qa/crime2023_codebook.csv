@@ -1,0 +1,22 @@
+city,native_offense,primary,source_rows,independent_review
+New York City,ROBBERY,True,16921,PENDING
+New York City,BURGLARY,True,13747,PENDING
+Buffalo,ASSAULT,False,2187,PENDING
+Buffalo,UUV,False,4041,PENDING
+Buffalo,LARCENY/THEFT,False,5759,PENDING
+Buffalo,ROBBERY,True,497,PENDING
+Buffalo,BURGLARY,True,1399,PENDING
+Buffalo,RAPE,False,111,PENDING
+Buffalo,SEXUAL ABUSE,False,142,PENDING
+Buffalo,THEFT OF SERVICES,False,138,PENDING
+Buffalo,MANSLAUGHTER,False,2,PENDING
+Buffalo,MURDER,False,40,PENDING
+Buffalo,CRIM NEGLIGENT HOMICIDE,False,2,PENDING
+Buffalo,AGGR ASSAULT,False,1,PENDING
+Rochester,Motor Vehicle Theft,False,3942,PENDING
+Rochester,Larceny,False,5406,PENDING
+Rochester,Burglary,True,1048,PENDING
+Rochester,Robbery,True,445,PENDING
+Rochester,Aggravated Assault,False,905,PENDING
+Rochester,Murder,False,51,PENDING
+Rochester,Non-Negligent Manslaughter,False,4,PENDING
