@@ -1,0 +1,13 @@
+{
+  "url": "https://data.cityofnewyork.us/resource/5uac-w243.json",
+  "params": {
+    "$select": "count(*)",
+    "$where": "cmplnt_fr_dt >= '2023-01-01T00:00:00' AND cmplnt_fr_dt < '2024-01-01T00:00:00' AND ofns_desc IN ('ROBBERY','BURGLARY')"
+  },
+  "resolved_url": "https://data.cityofnewyork.us/resource/5uac-w243.json?%24select=count%28%2A%29&%24where=cmplnt_fr_dt+%3E%3D+%272023-01-01T00%3A00%3A00%27+AND+cmplnt_fr_dt+%3C+%272024-01-01T00%3A00%3A00%27+AND+ofns_desc+IN+%28%27ROBBERY%27%2C%27BURGLARY%27%29",
+  "method": "GET",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-19T08:53:06.113666+00:00",
+  "sha256": "bf3b360d2a6513f72f93bcfbdd45a413220aa4cdd9fb375ffa425ddba9e40d55",
+  "raw_modified": false
+}

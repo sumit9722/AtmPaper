@@ -1,0 +1,13 @@
+{
+  "computation": "complete",
+  "validation": "PASS",
+  "phase": 4,
+  "plans": 8,
+  "model_evaluations": 24,
+  "unique_models": 24,
+  "nested_selections": 8,
+  "prediction_rows": 7446,
+  "single_class_models": 0,
+  "warnings": 0,
+  "confirmatory_complete": false
+}

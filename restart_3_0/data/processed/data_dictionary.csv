@@ -1,0 +1,39 @@
+column,description,example
+site_id,site id,dfs_000425c9d341d09d
+city,city,New York City
+longitude,longitude,-73.981333484
+latitude,latitude,40.77831761
+address_raw,address raw,170 West 72nd Street
+year,year,2024
+supported_days,supported days,366
+row_id,row id,dfs_000425c9d341d09d:2024
+outcome_year,outcome year,2024
+background_year,background year,2023
+exposure_rule,exposure rule,unique_address_all_14_snapshots_max_50m_drift
+confirmatory_eligible,confirmatory eligible,False
+actual_active_days,Unknown actual operation; intentionally blank,
+actual_opening_date,Unknown actual operation; intentionally blank,
+actual_closing_date,Unknown actual operation; intentionally blank,
+coordinate_precision_flag,coordinate precision flag,public_geocode_unverified
+primary_count_25m,"Unique outcome-year robbery/burglary cases within radius, latest archive",0
+robbery_count_25m,robbery count 25m,0
+burglary_count_25m,burglary count 25m,0
+primary_reported_count_25m,primary reported count 25m,0
+primary_nearest_count_25m,primary nearest count 25m,0
+primary_any_25m,Outcome-year binary nearby-crime indicator,0
+primary_count_50m,"Unique outcome-year robbery/burglary cases within radius, latest archive",2
+robbery_count_50m,robbery count 50m,2
+burglary_count_50m,burglary count 50m,0
+primary_reported_count_50m,primary reported count 50m,2
+primary_nearest_count_50m,primary nearest count 50m,2
+primary_any_50m,Outcome-year binary nearby-crime indicator,1
+primary_count_100m,"Unique outcome-year robbery/burglary cases within radius, latest archive",8
+robbery_count_100m,robbery count 100m,7
+burglary_count_100m,burglary count 100m,1
+primary_reported_count_100m,primary reported count 100m,8
+primary_nearest_count_100m,primary nearest count 100m,2
+primary_any_100m,Outcome-year binary nearby-crime indicator,1
+background_unfiltered_200_500m,background unfiltered 200 500m,66
+background_primary_200_500m,Report-date-filtered prior-year cases in >200–500 m annulus,61
+background_missing_report,background missing report,0
+background_late_report,background late report,5

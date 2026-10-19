@@ -1,0 +1,4 @@
+requested_version,returned_version,interpretation
+1,248,Request resolves to oldest exposed version; cannot label it as an earlier snapshot
+200,248,Request resolves to oldest exposed version; cannot label it as an earlier snapshot
+247,248,Request resolves to oldest exposed version; cannot label it as an earlier snapshot

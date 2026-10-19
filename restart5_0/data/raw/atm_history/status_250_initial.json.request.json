@@ -1,0 +1,14 @@
+{
+  "url": "https://data.ny.gov/api/archival",
+  "params": {
+    "id": "ndex-ad5r",
+    "version": 250,
+    "method": "status"
+  },
+  "resolved_url": "https://data.ny.gov/api/archival?id=ndex-ad5r&version=250&method=status",
+  "method": "GET",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-19T07:51:01.122314+00:00",
+  "sha256": "d9e68ada2763d33dc80160e085b905d19c6c43a78bf305ba4a87187b38fdbbc2",
+  "raw_modified": false
+}

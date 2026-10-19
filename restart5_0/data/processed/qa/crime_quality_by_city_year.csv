@@ -1,0 +1,13 @@
+city,year,source_rows,unique_valid_cases,primary_cases,excluded_source_rows,duplicate_source_rows,missing_invalid_report_primary,report_before_occurrence_primary,reported_after_year_primary,primary_coordinates_on_3dp_grid,primary_coordinates_on_4dp_grid,primary_coordinates_on_5dp_grid
+New York City,2022,33256,33251,33251,5,0,0,0,199,0,7,249
+New York City,2023,30672,30670,30670,2,0,0,0,210,0,4,221
+New York City,2024,29604,29602,29602,2,0,0,0,191,0,1,244
+New York City,2025,27846,27843,27843,3,0,0,0,134,0,2,178
+Buffalo,2022,10822,9962,1713,860,0,1212,0,0,1713,1713,1713
+Buffalo,2023,14319,13276,1804,1043,0,1396,0,4,1804,1804,1804
+Buffalo,2024,14096,13057,1761,1039,0,0,0,7,1761,1761,1761
+Buffalo,2025,12352,11426,1630,926,0,0,0,11,1630,1630,1630
+Rochester,2022,9009,8997,1521,9,3,0,0,13,0,0,7
+Rochester,2023,11801,11771,1489,19,11,0,0,13,0,1,15
+Rochester,2024,8464,8421,1366,20,23,0,0,12,0,0,8
+Rochester,2025,7172,7153,970,9,10,0,0,9,0,0,5

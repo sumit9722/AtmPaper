@@ -1,0 +1,5 @@
+# User-directed scope replacement
+
+On 2026-10-19, before any Phase 2 build, the user wrote: “abort restart with max possible year since when you can create a atm continous atmsnap shot”. The ten-year design is superseded. The maximum recovered continuous monthly series is February 2023–January 2026. This supports two complete annual cohorts (2024, 2025) and partial 2023 exposure. Analyze 2022–2025 crime; retain earlier acquired raw partitions without using them in the active panels.
+
+The initial specification and its hash are preserved in superseded_ten_year_spec.md and reports/protocol_freeze_superseded.json. The current protocol hash was frozen before building. This change is user-directed and based on exposure availability, with no 5.0 model fitting or performance selection. Later 2026 snapshots cannot add another completed calendar year as of 19 October 2026; incomplete 2026 follow-up is outside this annual release. Two isolated Wayback CSV captures in 2021 and 2022 cannot support monthly continuity.

@@ -1,0 +1,6 @@
+{
+  "url": "https://data.cityofnewyork.us/resource/qgea-i56i.json?%24select=date_extract_y%28cmplnt_fr_dt%29+as+year%2C+count%28%2A%29+as+n&%24where=cmplnt_fr_dt+%3E%3D+%272015-01-01T00%3A00%3A00%27+AND+cmplnt_fr_dt+%3C+%272026-01-01T00%3A00%3A00%27+AND+ofns_desc+IN+%28%27ROBBERY%27%2C%27BURGLARY%27%29&%24group=year&%24order=year",
+  "status": 200,
+  "retrieved_utc": "2026-10-19T07:40:06.878598+00:00",
+  "sha256": "9111f73eb71c922fae0bf4163efbfe9af7e8b8dfc475d90f4f1bc963af5178a8"
+}

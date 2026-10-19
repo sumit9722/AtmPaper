@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Protocol and input hashes unchanged",
+    "Splits and samples match their before-fitting freeze",
+    "Unique complete phase 4 cohort and primary labels retained",
+    "Every local/source pool uses 2024 only, every test uses 2025 only, with correct 1500 m purging",
+    "All 20-seed target samples are exact deterministic nested 10%/25% subsets",
+    "All 7380 evaluations use exactly matched source/local/control memberships and held-out cohorts",
+    "Cached fits share only identical model/membership sets",
+    "All 1476 test vectors cover the identical full target cohorts with no duplicate/omitted predictions",
+    "Every unique saved model reproduces every held-out probability; preprocessing is training-only; constants equal training prevalence",
+    "Representative local and augmented models independently refitted for each city/model family",
+    "All AP, ROC-AUC, Brier, calibration and top-decile metrics reconcile to prediction vectors",
+    "All transfer gaps, exactly matched benefits and complete 20-seed distribution summaries reconcile",
+    "Every source-to-target range and missingness diagnostic independently reconciles",
+    "Counts and scientific-review status are accurate"
+  ],
+  "unique_models_verified": 7155,
+  "model_evaluations_verified": 7380,
+  "prediction_rows_verified": 610572,
+  "single_class_models_verified": 267,
+  "independent_human_review_completed": false
+}

@@ -1,0 +1,54 @@
+{
+  "training_year": 2024,
+  "test_year": 2025,
+  "seeds": [
+    20261001,
+    20261002,
+    20261003,
+    20261004,
+    20261005,
+    20261006,
+    20261007,
+    20261008,
+    20261009,
+    20261010,
+    20261011,
+    20261012,
+    20261013,
+    20261014,
+    20261015,
+    20261016,
+    20261017,
+    20261018,
+    20261019,
+    20261020
+  ],
+  "parameters": {
+    "M0": {},
+    "M1": {
+      "C": 1
+    },
+    "M2": {
+      "max_depth": 2,
+      "reg_lambda": 10
+    }
+  },
+  "purge_m": 1500,
+  "fractions": [
+    0.1,
+    0.25
+  ],
+  "primary_predictors": [
+    "log1p_background_primary",
+    "housing_vacancy_share",
+    "renter_occupied_share",
+    "multifamily_housing_share",
+    "crowded_household_share",
+    "no_vehicle_household_share",
+    "log1p_median_gross_rent",
+    "log1p_housing_age",
+    "recent_move_share"
+  ],
+  "planned_evaluations": 7380,
+  "phase4_primary_gate_passed": false
+}

@@ -1,0 +1,7 @@
+{
+  "endpoint": "https://api.census.gov/data/2022/acs/acs5/groups/B25064.json",
+  "params": {},
+  "authenticated": false,
+  "retrieved_utc": "2026-10-18T20:51:33.919652+00:00",
+  "sha256": "798feb4a4659b6b82ab10a0602f65c5dfe76f8ccfdd40a39a3fb41bc5259b336"
+}

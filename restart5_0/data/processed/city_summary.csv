@@ -1,0 +1,22 @@
+cohort,city,outcome_year,site_years,status,supported_site_days,positive_50m,prevalence_50m,incident_site_links_50m,boundary_clear_sites,strict_exact_full_year_sites
+address_continuity_full_year,New York City,2023,,UNAVAILABLE_full_year_exposure,,,,,,
+address_continuity_full_year,Buffalo,2023,,UNAVAILABLE_full_year_exposure,,,,,,
+address_continuity_full_year,Rochester,2023,,UNAVAILABLE_full_year_exposure,,,,,,
+address_continuity_full_year,New York City,2024,1129,observed_supported,413214,662,0.5863596102745793,2098,1123,0
+address_continuity_full_year,Buffalo,2024,48,observed_supported,17568,16,0.3333333333333333,33,45,0
+address_continuity_full_year,Rochester,2024,24,observed_supported,8784,6,0.25,19,23,0
+address_continuity_full_year,New York City,2025,1160,observed_supported,423400,655,0.5646551724137931,2102,1153,1115
+address_continuity_full_year,Buffalo,2025,50,observed_supported,18250,14,0.28,23,47,46
+address_continuity_full_year,Rochester,2025,31,observed_supported,11315,8,0.25806451612903225,11,27,29
+address_continuity_partial_2023,New York City,2023,1192,observed_supported,373096,696,0.5838926174496645,2113,1186,0
+address_continuity_partial_2023,Buffalo,2023,57,observed_supported,17841,17,0.2982456140350877,27,54,0
+address_continuity_partial_2023,Rochester,2023,22,observed_supported,6886,5,0.22727272727272727,10,22,0
+exact_identity_supported,New York City,2023,3418,observed_supported,407833,1085,0.31743709771796375,2146,3398,0
+exact_identity_supported,Buffalo,2023,163,observed_supported,18829,18,0.11042944785276074,25,151,0
+exact_identity_supported,Rochester,2023,89,observed_supported,10524,13,0.14606741573033707,17,77,0
+exact_identity_supported,New York City,2024,3829,observed_supported,482898,1148,0.29981718464351004,2464,3807,0
+exact_identity_supported,Buffalo,2024,166,observed_supported,21638,26,0.1566265060240964,38,151,0
+exact_identity_supported,Rochester,2024,105,observed_supported,13027,14,0.13333333333333333,26,93,0
+exact_identity_supported,New York City,2025,2079,observed_supported,554490,975,0.468975468975469,2753,2065,1117
+exact_identity_supported,Buffalo,2025,96,observed_supported,24527,18,0.1875,27,87,46
+exact_identity_supported,Rochester,2025,58,observed_supported,14759,9,0.15517241379310345,12,53,29

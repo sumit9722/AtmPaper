@@ -1,0 +1,13 @@
+{
+  "url": "https://data.cityofnewyork.us/resource/qgea-i56i.json",
+  "params": {
+    "$select": "count(*)",
+    "$where": "cmplnt_fr_dt >= '2017-01-01T00:00:00' AND cmplnt_fr_dt < '2018-01-01T00:00:00' AND ofns_desc IN ('ROBBERY','BURGLARY')"
+  },
+  "resolved_url": "https://data.cityofnewyork.us/resource/qgea-i56i.json?%24select=count%28%2A%29&%24where=cmplnt_fr_dt+%3E%3D+%272017-01-01T00%3A00%3A00%27+AND+cmplnt_fr_dt+%3C+%272018-01-01T00%3A00%3A00%27+AND+ofns_desc+IN+%28%27ROBBERY%27%2C%27BURGLARY%27%29",
+  "method": "GET",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-19T07:46:16.685639+00:00",
+  "sha256": "16f39ba8d27b65750d7ef47078329ef53c7b4980a8c4cf670a1bf01ce0b58f09",
+  "raw_modified": false
+}

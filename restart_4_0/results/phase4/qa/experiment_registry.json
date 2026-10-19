@@ -1,0 +1,78 @@
+{
+  "phase": 4,
+  "models": [
+    "M0",
+    "M1",
+    "M2"
+  ],
+  "parameters": {
+    "M0": {},
+    "M1": {
+      "C": 1.0
+    },
+    "M2": {
+      "max_depth": 2,
+      "reg_lambda": 10
+    }
+  },
+  "features": [
+    "log1p_background_primary",
+    "housing_vacancy_share",
+    "renter_occupied_share",
+    "multifamily_housing_share",
+    "crowded_household_share",
+    "no_vehicle_household_share",
+    "log1p_median_gross_rent",
+    "log1p_housing_age",
+    "recent_move_share",
+    "log1p_population_density",
+    "log1p_median_household_income",
+    "unemployment_rate",
+    "log1p_employment_density",
+    "log1p_retail_employment_density",
+    "employment_mix",
+    "log1p_road_network_density",
+    "log1p_auto_road_density",
+    "log1p_intersection_density",
+    "log1p_transit_service_density",
+    "log1p_auto_job_accessibility",
+    "log1p_atm_density_500m",
+    "log1p_nearest_other_atm",
+    "log1p_prior_crime_25m",
+    "log1p_prior_crime_50m",
+    "log1p_prior_crime_100m",
+    "log1p_prior_robbery_50m",
+    "log1p_prior_burglary_50m",
+    "log1p_prior_recent_crime_50m"
+  ],
+  "planned_model_evaluations": 24,
+  "training_year": 2024,
+  "test_year": 2025,
+  "seeds": [
+    20261001,
+    20261002,
+    20261003,
+    20261004,
+    20261005,
+    20261006,
+    20261007,
+    20261008,
+    20261009,
+    20261010,
+    20261011,
+    20261012,
+    20261013,
+    20261014,
+    20261015,
+    20261016,
+    20261017,
+    20261018,
+    20261019,
+    20261020
+  ],
+  "candidate_rule": "background or background plus one variable",
+  "selection": "training-only spatial CV",
+  "inner_groups": "saved 2024 spatial fold modulo 3",
+  "purge_m": 1500,
+  "primary_family": "M1"
+}

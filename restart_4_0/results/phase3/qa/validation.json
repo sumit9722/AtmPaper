@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "site_years": 2442,
+  "features": 28,
+  "new_lag_features": 6,
+  "event_links": 12849,
+  "direct_distance_reconstructions": 2442,
+  "future_event_predictors": 0,
+  "joins": "exact row ID",
+  "inherited_validations": "PASS"
+}

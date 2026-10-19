@@ -1,5 +1,11 @@
 # Three-city ATM study — phases 1–5
 
+The latest [Restart 5.0](restart5_0/README.md) completes phases 1–2 for the longest recovered continuous ATM snapshot period: February 2023–January 2026. It provides 2,442 full-year site-years for 2024–2025 and 1,271 separately labeled partial-2023 site-periods, with fresh crime extracts, exposure/precision/reporting audits and independent automated validation. The [execution report](restart5_0/reports/phase_1_2_report.md) records the user-directed replacement of the ten-year plan, lessons from previous attempts, and pending scientific review. No models were fitted in this restart.
+
+The preserved [Restart 4.0](restart_4_0/README.md) is computationally complete and validated through Phase 5. Training-only selection identifies prior-year nearby crime as the strongest additional predictor; primary 2025 average precision improves from 0.7195 to 0.8254, with a paired spatial 95% interval of +0.0652 to +0.1336 for the gain. Corrected Phase 5 inference is complete: 9 of 54 transfer comparisons meet the declared support rule after Holm adjustment. The [Phase 5 report](restart_4_0/results/phase5/docs/03_results.md) includes every comparison. These findings remain exploratory; independent scientific review is pending.
+
+The preserved [2024–2025 housing-context restart](restart_3_0/README.md) is computationally complete through Phase 5. Its [bullet-point professor report](restart_3_0/Research_Update_for_Professor.md) presents the earlier results and remaining research-review gates. The earlier releases below remain preserved.
+
 Phase 3 environmental-feature results are available separately in [results/phase3](results/phase3/README.md), including the work completed, methods, results, quality checks and reproduction instructions. Computational validation is complete; the phase 2 research review gates still apply.
 
 Phase 4 now includes a [2024-to-2025 temporal supplement](results/phase4/temporal_v2/README.md), alongside the preserved [original same-year release](results/phase4/README.md). Phase 5 [city-transfer experiments](results/phase5/README.md) compare individual and pooled sources, earlier-target adaptation, and exactly matched target-only controls across 20 seeds. The computational workflows are complete and validated; the phase 4 numerical improvement gate did not pass, and independent scientific review remains pending. The original phase 4 release describes its historical status; the temporal supplement records the extension.
@@ -23,3 +29,5 @@ Raw downloads are under `data/raw/`; convenient source-field CSV exports are und
 Historical exposure assumes continuous activity between adjacent monthly snapshots listing the same site. Actual opening/closing dates remain unknown. Buffalo coordinate precision, facility identity and independent crime/linkage review remain research gates. **The data are prepared for review, not yet certified for confirmatory modeling.**
 
 Rebuild with the scripts listed in the execution report. Raw files are cached and checksummed. Model training is documented in the phase 4/5 result folders; no outcomes are fabricated.
+
+Three generated CSVs exceeding GitHub's 100 MB file limit are stored as ordered, checksum-verified parts. Run `python3 scripts/large_artifacts.py restore` from the repository root to reconstruct all three exact CSVs before direct inspection; the release rebuild commands also regenerate their outputs. The original CSVs are ignored by Git. See [large_artifacts.json](large_artifacts.json) for sizes and SHA-256 hashes.

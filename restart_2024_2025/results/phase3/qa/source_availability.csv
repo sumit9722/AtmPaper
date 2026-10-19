@@ -1,0 +1,9 @@
+outcome_year,prediction_cutoff,source,available_by,qualification
+2024,2024-01-01,acs2022,2023-12-07,2018–2022 five-year release
+2024,2024-01-01,sld2021,2021-12-31,"Conservative end-of-release-year bound, not exact publication day"
+2024,2024-01-01,prior_december_dfs,2023-12-15,Snapshot membership; not machine opening date
+2024,2024-01-01,prior_year_police,,"Occurrence year 2023; report before 2024-01-01; latest extract, exact as-of unavailable"
+2025,2025-01-01,acs2022,2023-12-07,2018–2022 five-year release
+2025,2025-01-01,sld2021,2021-12-31,"Conservative end-of-release-year bound, not exact publication day"
+2025,2025-01-01,prior_december_dfs,2024-12-15,Snapshot membership; not machine opening date
+2025,2025-01-01,prior_year_police,,"Occurrence year 2024; report before 2025-01-01; latest extract, exact as-of unavailable"

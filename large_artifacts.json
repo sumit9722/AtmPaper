@@ -1,0 +1,74 @@
+{
+  "format": "byte_concat_v1",
+  "part_bytes": 64000000,
+  "files": {
+    "restart_3_0/data/processed/crime_events_2023_2025.csv": {
+      "bytes": 154772398,
+      "sha256": "d1e0f90e145cba90307e98155ae2a725785131447c22b6109288673783cf21e6",
+      "parts": [
+        {
+          "file": "restart_3_0/data/processed/crime_events_2023_2025.csv.part001",
+          "bytes": 64000000,
+          "sha256": "1f54bc430adb6d3c2962c073af2c7602cc756b05da2fbcb21c548ea9571e7856"
+        },
+        {
+          "file": "restart_3_0/data/processed/crime_events_2023_2025.csv.part002",
+          "bytes": 64000000,
+          "sha256": "b91e2f670608a3f0c9a7e879c6be750016c7029974586a83a798c0bc8cfa5a85"
+        },
+        {
+          "file": "restart_3_0/data/processed/crime_events_2023_2025.csv.part003",
+          "bytes": 26772398,
+          "sha256": "67e4db5acc3fc025c45f2fab7920badebe1611cb5db9dbb749d53eb333a9cbcb"
+        }
+      ]
+    },
+    "restart_2024_2025/data/processed/crime_events_2023_2025.csv": {
+      "bytes": 154772398,
+      "sha256": "d1e0f90e145cba90307e98155ae2a725785131447c22b6109288673783cf21e6",
+      "parts": [
+        {
+          "file": "restart_2024_2025/data/processed/crime_events_2023_2025.csv.part001",
+          "bytes": 64000000,
+          "sha256": "1f54bc430adb6d3c2962c073af2c7602cc756b05da2fbcb21c548ea9571e7856"
+        },
+        {
+          "file": "restart_2024_2025/data/processed/crime_events_2023_2025.csv.part002",
+          "bytes": 64000000,
+          "sha256": "b91e2f670608a3f0c9a7e879c6be750016c7029974586a83a798c0bc8cfa5a85"
+        },
+        {
+          "file": "restart_2024_2025/data/processed/crime_events_2023_2025.csv.part003",
+          "bytes": 26772398,
+          "sha256": "67e4db5acc3fc025c45f2fab7920badebe1611cb5db9dbb749d53eb333a9cbcb"
+        }
+      ]
+    },
+    "restart5_0/data/processed/event_atm_links.csv": {
+      "bytes": 249937195,
+      "sha256": "cb3e945826422e91bb43d4ed27e00026c9caf725089b5c59eaf9afbe762b41a7",
+      "parts": [
+        {
+          "file": "restart5_0/data/processed/event_atm_links.csv.part001",
+          "bytes": 64000000,
+          "sha256": "77a48232a3963d2ceac59a87b2090e81bfae3b776b2c0a52bf2d1e5f6c72d016"
+        },
+        {
+          "file": "restart5_0/data/processed/event_atm_links.csv.part002",
+          "bytes": 64000000,
+          "sha256": "3b4cddd176cba6fcb604312fb68f829215b5bda4d9b48ca2b45efa43804c0168"
+        },
+        {
+          "file": "restart5_0/data/processed/event_atm_links.csv.part003",
+          "bytes": 64000000,
+          "sha256": "dc1c4ce086fcc96a13c512c1a32fa25a715f5eb6b1ee4c00c0e950aa8533bda1"
+        },
+        {
+          "file": "restart5_0/data/processed/event_atm_links.csv.part004",
+          "bytes": 57937195,
+          "sha256": "368bcead027481c8a3459f7f43dca8f39899e74c86f364ce2c1ead5412eb3037"
+        }
+      ]
+    }
+  }
+}

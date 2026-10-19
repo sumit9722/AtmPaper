@@ -1,0 +1,16 @@
+{
+  "computational_status": "complete",
+  "validation_status": "PASS",
+  "forward_temporal_validation_completed": true,
+  "training_year": 2024,
+  "test_year": 2025,
+  "train_cohort_rows": 1201,
+  "test_cohort_rows": 1241,
+  "outer_evaluations": 47,
+  "fitted_outer_models": 141,
+  "prediction_rows": 44376,
+  "confirmatory_modeling_ready": false,
+  "full_blueprint_phase4_complete": false,
+  "research_acceptance": "PENDING independent review; retrospective previously inspected outcomes",
+  "phase5_performed": false
+}

@@ -1,0 +1,253 @@
+city,source,feature,source_observed,target_observed,target_missing,source_min,source_max,target_outside_source_range
+New York City,Buffalo,log1p_background_primary,48,1160,0,0.0,2.639057329615259,918
+New York City,Buffalo,housing_vacancy_share,48,1136,24,0.0,0.32054176072234764,94
+New York City,Buffalo,renter_occupied_share,48,1136,24,0.0,1.0,0
+New York City,Buffalo,multifamily_housing_share,48,1136,24,0.0,0.9853723404255319,410
+New York City,Buffalo,crowded_household_share,48,1136,24,0.0,0.25824175824175827,79
+New York City,Buffalo,no_vehicle_household_share,48,1136,24,0.0,0.8287461773700305,229
+New York City,Buffalo,log1p_median_gross_rent,47,1019,141,5.765191102784844,7.373374309910049,809
+New York City,Buffalo,log1p_housing_age,47,1119,41,3.8712010109078907,4.442651256490317,177
+New York City,Buffalo,recent_move_share,48,1136,24,0.0,0.2357142857142857,20
+New York City,Buffalo,log1p_population_density,48,1160,0,5.686612003830929,8.940739248952887,934
+New York City,Buffalo,log1p_median_household_income,45,993,167,9.617736946934095,11.64850475921205,388
+New York City,Buffalo,unemployment_rate,48,1137,23,0.0,0.22142857142857142,41
+New York City,Buffalo,log1p_employment_density,48,1112,48,0.6886701156897551,4.477311414258113,342
+New York City,Buffalo,log1p_retail_employment_density,48,1112,48,0.01588790488855451,1.3523105052475055,732
+New York City,Buffalo,employment_mix,48,1112,48,0.04274274622553446,0.9253586290106376,47
+New York City,Buffalo,log1p_road_network_density,48,1112,48,1.9640298463456012,3.7833239429392065,116
+New York City,Buffalo,log1p_auto_road_density,48,1112,48,0.0,2.551225390424568,57
+New York City,Buffalo,log1p_intersection_density,48,1112,48,3.162631997514009,6.461816091046987,190
+New York City,Buffalo,log1p_transit_service_density,48,1111,49,2.586839719991996,5.56849933173646,1056
+New York City,Buffalo,log1p_auto_job_accessibility,48,1112,48,11.062065422371672,11.490086633066195,1112
+New York City,Buffalo,log1p_atm_density_500m,48,1160,0,0.0,3.22650867441372,204
+New York City,Buffalo,log1p_nearest_other_atm,48,1160,0,0.0,7.769656180328871,2
+New York City,Buffalo,log1p_prior_crime_25m,48,1160,0,0.0,0.6931471805599453,211
+New York City,Buffalo,log1p_prior_crime_50m,48,1160,0,0.0,1.0986122886681096,275
+New York City,Buffalo,log1p_prior_crime_100m,48,1160,0,0.0,1.3862943611198906,568
+New York City,Buffalo,log1p_prior_robbery_50m,48,1160,0,0.0,0.6931471805599453,317
+New York City,Buffalo,log1p_prior_burglary_50m,48,1160,0,0.0,1.0986122886681096,44
+New York City,Buffalo,log1p_prior_recent_crime_50m,48,1160,0,0.0,1.0986122886681096,142
+New York City,Rochester,log1p_background_primary,24,1160,0,0.6931471805599453,3.8712010109078907,576
+New York City,Rochester,housing_vacancy_share,24,1136,24,0.0,0.3392857142857143,85
+New York City,Rochester,renter_occupied_share,24,1136,24,0.15204678362573099,1.0,80
+New York City,Rochester,multifamily_housing_share,24,1136,24,0.03984819734345351,0.9827784156142365,444
+New York City,Rochester,crowded_household_share,24,1136,24,0.0,0.07486033519553073,438
+New York City,Rochester,no_vehicle_household_share,24,1136,24,0.0,0.481981981981982,716
+New York City,Rochester,log1p_median_gross_rent,24,1019,141,6.647688373563329,7.656337166430183,437
+New York City,Rochester,log1p_housing_age,24,1119,41,3.4965075614664802,4.442651256490317,105
+New York City,Rochester,recent_move_share,24,1136,24,0.0,0.18478260869565216,52
+New York City,Rochester,log1p_population_density,24,1160,0,6.7820538188212405,8.686401817880439,1026
+New York City,Rochester,log1p_median_household_income,24,993,167,10.216142686053809,11.823017057935095,309
+New York City,Rochester,unemployment_rate,24,1137,23,0.0,0.22817460317460317,37
+New York City,Rochester,log1p_employment_density,24,1112,48,0.9001479736025066,5.168959631606533,259
+New York City,Rochester,log1p_retail_employment_density,24,1112,48,0.0,0.4763653457048475,979
+New York City,Rochester,employment_mix,24,1112,48,0.011922441798066181,0.9187452632253265,63
+New York City,Rochester,log1p_road_network_density,24,1112,48,2.448010455218559,3.716253117079313,155
+New York City,Rochester,log1p_auto_road_density,24,1112,48,0.0,2.6503210902261154,45
+New York City,Rochester,log1p_intersection_density,24,1112,48,3.4791182962621368,5.549115053700267,271
+New York City,Rochester,log1p_transit_service_density,24,1111,49,2.211416832995226,5.989221982694032,1026
+New York City,Rochester,log1p_auto_job_accessibility,24,1112,48,11.305741381151263,11.642856634562259,1112
+New York City,Rochester,log1p_atm_density_500m,24,1160,0,0.0,2.293814424193674,503
+New York City,Rochester,log1p_nearest_other_atm,24,1160,0,3.8080903964099937,7.722392203246933,352
+New York City,Rochester,log1p_prior_crime_25m,24,1160,0,0.0,1.9459101490553132,24
+New York City,Rochester,log1p_prior_crime_50m,24,1160,0,0.0,1.9459101490553132,79
+New York City,Rochester,log1p_prior_crime_100m,24,1160,0,0.0,2.0794415416798357,274
+New York City,Rochester,log1p_prior_robbery_50m,24,1160,0,0.0,1.3862943611198906,137
+New York City,Rochester,log1p_prior_burglary_50m,24,1160,0,0.0,1.3862943611198906,25
+New York City,Rochester,log1p_prior_recent_crime_50m,24,1160,0,0.0,0.6931471805599453,246
+New York City,pooled,log1p_background_primary,72,1160,0,0.0,3.8712010109078907,567
+New York City,pooled,housing_vacancy_share,72,1136,24,0.0,0.3392857142857143,85
+New York City,pooled,renter_occupied_share,72,1136,24,0.0,1.0,0
+New York City,pooled,multifamily_housing_share,72,1136,24,0.0,0.9853723404255319,410
+New York City,pooled,crowded_household_share,72,1136,24,0.0,0.25824175824175827,79
+New York City,pooled,no_vehicle_household_share,72,1136,24,0.0,0.8287461773700305,229
+New York City,pooled,log1p_median_gross_rent,71,1019,141,5.765191102784844,7.656337166430183,427
+New York City,pooled,log1p_housing_age,71,1119,41,3.4965075614664802,4.442651256490317,105
+New York City,pooled,recent_move_share,72,1136,24,0.0,0.2357142857142857,20
+New York City,pooled,log1p_population_density,72,1160,0,5.686612003830929,8.940739248952887,934
+New York City,pooled,log1p_median_household_income,69,993,167,9.617736946934095,11.823017057935095,296
+New York City,pooled,unemployment_rate,72,1137,23,0.0,0.22817460317460317,37
+New York City,pooled,log1p_employment_density,72,1112,48,0.6886701156897551,5.168959631606533,253
+New York City,pooled,log1p_retail_employment_density,72,1112,48,0.0,1.3523105052475055,699
+New York City,pooled,employment_mix,72,1112,48,0.011922441798066181,0.9253586290106376,45
+New York City,pooled,log1p_road_network_density,72,1112,48,1.9640298463456012,3.7833239429392065,116
+New York City,pooled,log1p_auto_road_density,72,1112,48,0.0,2.6503210902261154,45
+New York City,pooled,log1p_intersection_density,72,1112,48,3.162631997514009,6.461816091046987,190
+New York City,pooled,log1p_transit_service_density,72,1111,49,2.211416832995226,5.989221982694032,1026
+New York City,pooled,log1p_auto_job_accessibility,72,1112,48,11.062065422371672,11.642856634562259,1112
+New York City,pooled,log1p_atm_density_500m,72,1160,0,0.0,3.22650867441372,204
+New York City,pooled,log1p_nearest_other_atm,72,1160,0,0.0,7.769656180328871,2
+New York City,pooled,log1p_prior_crime_25m,72,1160,0,0.0,1.9459101490553132,24
+New York City,pooled,log1p_prior_crime_50m,72,1160,0,0.0,1.9459101490553132,79
+New York City,pooled,log1p_prior_crime_100m,72,1160,0,0.0,2.0794415416798357,274
+New York City,pooled,log1p_prior_robbery_50m,72,1160,0,0.0,1.3862943611198906,137
+New York City,pooled,log1p_prior_burglary_50m,72,1160,0,0.0,1.3862943611198906,25
+New York City,pooled,log1p_prior_recent_crime_50m,72,1160,0,0.0,1.0986122886681096,142
+Buffalo,New York City,log1p_background_primary,1129,50,0,0.0,6.150602768446279,0
+Buffalo,New York City,housing_vacancy_share,1118,50,0,0.0,0.9166666666666666,0
+Buffalo,New York City,renter_occupied_share,1118,50,0,0.0,1.0,0
+Buffalo,New York City,multifamily_housing_share,1118,50,0,0.0,1.0,0
+Buffalo,New York City,crowded_household_share,1118,50,0,0.0,0.676923076923077,0
+Buffalo,New York City,no_vehicle_household_share,1118,50,0,0.0,1.0,0
+Buffalo,New York City,log1p_median_gross_rent,1005,48,2,5.857933154483459,8.161089512845797,1
+Buffalo,New York City,log1p_housing_age,1102,49,1,2.1972245773362196,4.442651256490317,0
+Buffalo,New York City,recent_move_share,1118,50,0,0.0,0.36246786632390743,0
+Buffalo,New York City,log1p_population_density,1129,50,0,0.0,12.060591510495508,0
+Buffalo,New York City,log1p_median_household_income,976,48,2,7.824046010856292,12.429224196812383,0
+Buffalo,New York City,unemployment_rate,1119,50,0,0.0,0.6216216216216216,0
+Buffalo,New York City,log1p_employment_density,1129,50,0,0.30458564367601376,7.789873534417853,1
+Buffalo,New York City,log1p_retail_employment_density,1129,50,0,0.0,5.3143429531040365,0
+Buffalo,New York City,employment_mix,1129,50,0,0.008093487009896172,0.9852181395875879,0
+Buffalo,New York City,log1p_road_network_density,1129,50,0,0.08832389679110077,4.7263237387110975,0
+Buffalo,New York City,log1p_auto_road_density,1129,50,0,0.0,4.375963154357996,0
+Buffalo,New York City,log1p_intersection_density,1129,50,0,0.0,6.740402776830939,0
+Buffalo,New York City,log1p_transit_service_density,1129,50,0,2.642390420014247,11.015312644218088,4
+Buffalo,New York City,log1p_auto_job_accessibility,1129,50,0,12.28758350570943,13.96702490858467,50
+Buffalo,New York City,log1p_atm_density_500m,1129,50,0,0.0,4.065529698164491,0
+Buffalo,New York City,log1p_nearest_other_atm,1129,50,0,0.0,8.194791242902062,0
+Buffalo,New York City,log1p_prior_crime_25m,1129,50,0,0.0,3.9512437185814275,0
+Buffalo,New York City,log1p_prior_crime_50m,1129,50,0,0.0,3.9889840465642745,0
+Buffalo,New York City,log1p_prior_crime_100m,1129,50,0,0.0,4.143134726391533,0
+Buffalo,New York City,log1p_prior_robbery_50m,1129,50,0,0.0,3.367295829986474,0
+Buffalo,New York City,log1p_prior_burglary_50m,1129,50,0,0.0,3.58351893845611,0
+Buffalo,New York City,log1p_prior_recent_crime_50m,1129,50,0,0.0,3.044522437723423,0
+Buffalo,Rochester,log1p_background_primary,24,50,0,0.6931471805599453,3.8712010109078907,0
+Buffalo,Rochester,housing_vacancy_share,24,50,0,0.0,0.3392857142857143,1
+Buffalo,Rochester,renter_occupied_share,24,50,0,0.15204678362573099,1.0,2
+Buffalo,Rochester,multifamily_housing_share,24,50,0,0.03984819734345351,0.9827784156142365,8
+Buffalo,Rochester,crowded_household_share,24,50,0,0.0,0.07486033519553073,5
+Buffalo,Rochester,no_vehicle_household_share,24,50,0,0.0,0.481981981981982,3
+Buffalo,Rochester,log1p_median_gross_rent,24,48,2,6.647688373563329,7.656337166430183,9
+Buffalo,Rochester,log1p_housing_age,24,49,1,3.4965075614664802,4.442651256490317,0
+Buffalo,Rochester,recent_move_share,24,50,0,0.0,0.18478260869565216,1
+Buffalo,Rochester,log1p_population_density,24,50,0,6.7820538188212405,8.686401817880439,8
+Buffalo,Rochester,log1p_median_household_income,24,48,2,10.216142686053809,11.823017057935095,2
+Buffalo,Rochester,unemployment_rate,24,50,0,0.0,0.22817460317460317,0
+Buffalo,Rochester,log1p_employment_density,24,50,0,0.9001479736025066,5.168959631606533,2
+Buffalo,Rochester,log1p_retail_employment_density,24,50,0,0.0,0.4763653457048475,16
+Buffalo,Rochester,employment_mix,24,50,0,0.011922441798066181,0.9187452632253265,4
+Buffalo,Rochester,log1p_road_network_density,24,50,0,2.448010455218559,3.716253117079313,2
+Buffalo,Rochester,log1p_auto_road_density,24,50,0,0.0,2.6503210902261154,0
+Buffalo,Rochester,log1p_intersection_density,24,50,0,3.4791182962621368,5.549115053700267,3
+Buffalo,Rochester,log1p_transit_service_density,24,50,0,2.211416832995226,5.989221982694032,0
+Buffalo,Rochester,log1p_auto_job_accessibility,24,50,0,11.305741381151263,11.642856634562259,29
+Buffalo,Rochester,log1p_atm_density_500m,24,50,0,0.0,2.293814424193674,13
+Buffalo,Rochester,log1p_nearest_other_atm,24,50,0,3.8080903964099937,7.722392203246933,2
+Buffalo,Rochester,log1p_prior_crime_25m,24,50,0,0.0,1.9459101490553132,0
+Buffalo,Rochester,log1p_prior_crime_50m,24,50,0,0.0,1.9459101490553132,0
+Buffalo,Rochester,log1p_prior_crime_100m,24,50,0,0.0,2.0794415416798357,2
+Buffalo,Rochester,log1p_prior_robbery_50m,24,50,0,0.0,1.3862943611198906,1
+Buffalo,Rochester,log1p_prior_burglary_50m,24,50,0,0.0,1.3862943611198906,1
+Buffalo,Rochester,log1p_prior_recent_crime_50m,24,50,0,0.0,0.6931471805599453,4
+Buffalo,pooled,log1p_background_primary,1153,50,0,0.0,6.150602768446279,0
+Buffalo,pooled,housing_vacancy_share,1142,50,0,0.0,0.9166666666666666,0
+Buffalo,pooled,renter_occupied_share,1142,50,0,0.0,1.0,0
+Buffalo,pooled,multifamily_housing_share,1142,50,0,0.0,1.0,0
+Buffalo,pooled,crowded_household_share,1142,50,0,0.0,0.676923076923077,0
+Buffalo,pooled,no_vehicle_household_share,1142,50,0,0.0,1.0,0
+Buffalo,pooled,log1p_median_gross_rent,1029,48,2,5.857933154483459,8.161089512845797,1
+Buffalo,pooled,log1p_housing_age,1126,49,1,2.1972245773362196,4.442651256490317,0
+Buffalo,pooled,recent_move_share,1142,50,0,0.0,0.36246786632390743,0
+Buffalo,pooled,log1p_population_density,1153,50,0,0.0,12.060591510495508,0
+Buffalo,pooled,log1p_median_household_income,1000,48,2,7.824046010856292,12.429224196812383,0
+Buffalo,pooled,unemployment_rate,1143,50,0,0.0,0.6216216216216216,0
+Buffalo,pooled,log1p_employment_density,1153,50,0,0.30458564367601376,7.789873534417853,1
+Buffalo,pooled,log1p_retail_employment_density,1153,50,0,0.0,5.3143429531040365,0
+Buffalo,pooled,employment_mix,1153,50,0,0.008093487009896172,0.9852181395875879,0
+Buffalo,pooled,log1p_road_network_density,1153,50,0,0.08832389679110077,4.7263237387110975,0
+Buffalo,pooled,log1p_auto_road_density,1153,50,0,0.0,4.375963154357996,0
+Buffalo,pooled,log1p_intersection_density,1153,50,0,0.0,6.740402776830939,0
+Buffalo,pooled,log1p_transit_service_density,1153,50,0,2.211416832995226,11.015312644218088,0
+Buffalo,pooled,log1p_auto_job_accessibility,1153,50,0,11.305741381151263,13.96702490858467,29
+Buffalo,pooled,log1p_atm_density_500m,1153,50,0,0.0,4.065529698164491,0
+Buffalo,pooled,log1p_nearest_other_atm,1153,50,0,0.0,8.194791242902062,0
+Buffalo,pooled,log1p_prior_crime_25m,1153,50,0,0.0,3.9512437185814275,0
+Buffalo,pooled,log1p_prior_crime_50m,1153,50,0,0.0,3.9889840465642745,0
+Buffalo,pooled,log1p_prior_crime_100m,1153,50,0,0.0,4.143134726391533,0
+Buffalo,pooled,log1p_prior_robbery_50m,1153,50,0,0.0,3.367295829986474,0
+Buffalo,pooled,log1p_prior_burglary_50m,1153,50,0,0.0,3.58351893845611,0
+Buffalo,pooled,log1p_prior_recent_crime_50m,1153,50,0,0.0,3.044522437723423,0
+Rochester,New York City,log1p_background_primary,1129,31,0,0.0,6.150602768446279,0
+Rochester,New York City,housing_vacancy_share,1118,31,0,0.0,0.9166666666666666,0
+Rochester,New York City,renter_occupied_share,1118,31,0,0.0,1.0,0
+Rochester,New York City,multifamily_housing_share,1118,31,0,0.0,1.0,0
+Rochester,New York City,crowded_household_share,1118,31,0,0.0,0.676923076923077,0
+Rochester,New York City,no_vehicle_household_share,1118,31,0,0.0,1.0,0
+Rochester,New York City,log1p_median_gross_rent,1005,31,0,5.857933154483459,8.161089512845797,0
+Rochester,New York City,log1p_housing_age,1102,31,0,2.1972245773362196,4.442651256490317,0
+Rochester,New York City,recent_move_share,1118,31,0,0.0,0.36246786632390743,0
+Rochester,New York City,log1p_population_density,1129,31,0,0.0,12.060591510495508,0
+Rochester,New York City,log1p_median_household_income,976,29,2,7.824046010856292,12.429224196812383,0
+Rochester,New York City,unemployment_rate,1119,31,0,0.0,0.6216216216216216,0
+Rochester,New York City,log1p_employment_density,1129,30,1,0.30458564367601376,7.789873534417853,0
+Rochester,New York City,log1p_retail_employment_density,1129,30,1,0.0,5.3143429531040365,0
+Rochester,New York City,employment_mix,1129,30,1,0.008093487009896172,0.9852181395875879,0
+Rochester,New York City,log1p_road_network_density,1129,30,1,0.08832389679110077,4.7263237387110975,0
+Rochester,New York City,log1p_auto_road_density,1129,30,1,0.0,4.375963154357996,0
+Rochester,New York City,log1p_intersection_density,1129,30,1,0.0,6.740402776830939,0
+Rochester,New York City,log1p_transit_service_density,1129,30,1,2.642390420014247,11.015312644218088,1
+Rochester,New York City,log1p_auto_job_accessibility,1129,30,1,12.28758350570943,13.96702490858467,30
+Rochester,New York City,log1p_atm_density_500m,1129,31,0,0.0,4.065529698164491,0
+Rochester,New York City,log1p_nearest_other_atm,1129,31,0,0.0,8.194791242902062,0
+Rochester,New York City,log1p_prior_crime_25m,1129,31,0,0.0,3.9512437185814275,0
+Rochester,New York City,log1p_prior_crime_50m,1129,31,0,0.0,3.9889840465642745,0
+Rochester,New York City,log1p_prior_crime_100m,1129,31,0,0.0,4.143134726391533,0
+Rochester,New York City,log1p_prior_robbery_50m,1129,31,0,0.0,3.367295829986474,0
+Rochester,New York City,log1p_prior_burglary_50m,1129,31,0,0.0,3.58351893845611,0
+Rochester,New York City,log1p_prior_recent_crime_50m,1129,31,0,0.0,3.044522437723423,0
+Rochester,Buffalo,log1p_background_primary,48,31,0,0.0,2.639057329615259,10
+Rochester,Buffalo,housing_vacancy_share,48,31,0,0.0,0.32054176072234764,1
+Rochester,Buffalo,renter_occupied_share,48,31,0,0.0,1.0,0
+Rochester,Buffalo,multifamily_housing_share,48,31,0,0.0,0.9853723404255319,0
+Rochester,Buffalo,crowded_household_share,48,31,0,0.0,0.25824175824175827,2
+Rochester,Buffalo,no_vehicle_household_share,48,31,0,0.0,0.8287461773700305,0
+Rochester,Buffalo,log1p_median_gross_rent,47,31,0,5.765191102784844,7.373374309910049,4
+Rochester,Buffalo,log1p_housing_age,47,31,0,3.8712010109078907,4.442651256490317,2
+Rochester,Buffalo,recent_move_share,48,31,0,0.0,0.2357142857142857,0
+Rochester,Buffalo,log1p_population_density,48,31,0,5.686612003830929,8.940739248952887,0
+Rochester,Buffalo,log1p_median_household_income,45,29,2,9.617736946934095,11.64850475921205,2
+Rochester,Buffalo,unemployment_rate,48,31,0,0.0,0.22142857142857142,1
+Rochester,Buffalo,log1p_employment_density,48,30,1,0.6886701156897551,4.477311414258113,11
+Rochester,Buffalo,log1p_retail_employment_density,48,30,1,0.01588790488855451,1.3523105052475055,1
+Rochester,Buffalo,employment_mix,48,30,1,0.04274274622553446,0.9253586290106376,1
+Rochester,Buffalo,log1p_road_network_density,48,30,1,1.9640298463456012,3.7833239429392065,0
+Rochester,Buffalo,log1p_auto_road_density,48,30,1,0.0,2.551225390424568,1
+Rochester,Buffalo,log1p_intersection_density,48,30,1,3.162631997514009,6.461816091046987,0
+Rochester,Buffalo,log1p_transit_service_density,48,30,1,2.586839719991996,5.56849933173646,10
+Rochester,Buffalo,log1p_auto_job_accessibility,48,30,1,11.062065422371672,11.490086633066195,18
+Rochester,Buffalo,log1p_atm_density_500m,48,31,0,0.0,3.22650867441372,0
+Rochester,Buffalo,log1p_nearest_other_atm,48,31,0,0.0,7.769656180328871,0
+Rochester,Buffalo,log1p_prior_crime_25m,48,31,0,0.0,0.6931471805599453,1
+Rochester,Buffalo,log1p_prior_crime_50m,48,31,0,0.0,1.0986122886681096,1
+Rochester,Buffalo,log1p_prior_crime_100m,48,31,0,0.0,1.3862943611198906,2
+Rochester,Buffalo,log1p_prior_robbery_50m,48,31,0,0.0,0.6931471805599453,1
+Rochester,Buffalo,log1p_prior_burglary_50m,48,31,0,0.0,1.0986122886681096,1
+Rochester,Buffalo,log1p_prior_recent_crime_50m,48,31,0,0.0,1.0986122886681096,1
+Rochester,pooled,log1p_background_primary,1177,31,0,0.0,6.150602768446279,0
+Rochester,pooled,housing_vacancy_share,1166,31,0,0.0,0.9166666666666666,0
+Rochester,pooled,renter_occupied_share,1166,31,0,0.0,1.0,0
+Rochester,pooled,multifamily_housing_share,1166,31,0,0.0,1.0,0
+Rochester,pooled,crowded_household_share,1166,31,0,0.0,0.676923076923077,0
+Rochester,pooled,no_vehicle_household_share,1166,31,0,0.0,1.0,0
+Rochester,pooled,log1p_median_gross_rent,1052,31,0,5.765191102784844,8.161089512845797,0
+Rochester,pooled,log1p_housing_age,1149,31,0,2.1972245773362196,4.442651256490317,0
+Rochester,pooled,recent_move_share,1166,31,0,0.0,0.36246786632390743,0
+Rochester,pooled,log1p_population_density,1177,31,0,0.0,12.060591510495508,0
+Rochester,pooled,log1p_median_household_income,1021,29,2,7.824046010856292,12.429224196812383,0
+Rochester,pooled,unemployment_rate,1167,31,0,0.0,0.6216216216216216,0
+Rochester,pooled,log1p_employment_density,1177,30,1,0.30458564367601376,7.789873534417853,0
+Rochester,pooled,log1p_retail_employment_density,1177,30,1,0.0,5.3143429531040365,0
+Rochester,pooled,employment_mix,1177,30,1,0.008093487009896172,0.9852181395875879,0
+Rochester,pooled,log1p_road_network_density,1177,30,1,0.08832389679110077,4.7263237387110975,0
+Rochester,pooled,log1p_auto_road_density,1177,30,1,0.0,4.375963154357996,0
+Rochester,pooled,log1p_intersection_density,1177,30,1,0.0,6.740402776830939,0
+Rochester,pooled,log1p_transit_service_density,1177,30,1,2.586839719991996,11.015312644218088,1
+Rochester,pooled,log1p_auto_job_accessibility,1177,30,1,11.062065422371672,13.96702490858467,0
+Rochester,pooled,log1p_atm_density_500m,1177,31,0,0.0,4.065529698164491,0
+Rochester,pooled,log1p_nearest_other_atm,1177,31,0,0.0,8.194791242902062,0
+Rochester,pooled,log1p_prior_crime_25m,1177,31,0,0.0,3.9512437185814275,0
+Rochester,pooled,log1p_prior_crime_50m,1177,31,0,0.0,3.9889840465642745,0
+Rochester,pooled,log1p_prior_crime_100m,1177,31,0,0.0,4.143134726391533,0
+Rochester,pooled,log1p_prior_robbery_50m,1177,31,0,0.0,3.367295829986474,0
+Rochester,pooled,log1p_prior_burglary_50m,1177,31,0,0.0,3.58351893845611,0
+Rochester,pooled,log1p_prior_recent_crime_50m,1177,31,0,0.0,3.044522437723423,0

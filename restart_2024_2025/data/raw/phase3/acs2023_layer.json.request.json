@@ -1,0 +1,10 @@
+{
+  "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2023/MapServer/10",
+  "params": {
+    "f": "json"
+  },
+  "resolved_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2023/MapServer/10?f=json",
+  "retrieved_utc": "2026-10-02T00:43:09.883207+00:00",
+  "sha256": "276fd2b78165074f9c33f020463cc78e9206b2347cdca46270a29878c8ae675a",
+  "bytes": 6092
+}

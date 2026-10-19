@@ -1,0 +1,433 @@
+year,city,feature_a,feature_b,pairwise_n,spearman_rho,abs_rho_ge_0_90
+2024,New York City,log1p_background_primary,housing_vacancy_share,1118,0.25422265602795163,False
+2024,New York City,log1p_background_primary,renter_occupied_share,1118,0.43962884827091203,False
+2024,New York City,log1p_background_primary,multifamily_housing_share,1118,0.5863729441504384,False
+2024,New York City,log1p_background_primary,crowded_household_share,1118,-0.02522944716112974,False
+2024,New York City,log1p_background_primary,no_vehicle_household_share,1118,0.7461803340709365,False
+2024,New York City,log1p_background_primary,log1p_median_gross_rent,1005,0.29127674676320814,False
+2024,New York City,log1p_background_primary,log1p_housing_age,1102,0.03058149466971053,False
+2024,New York City,log1p_background_primary,recent_move_share,1118,0.29675504444703277,False
+2024,New York City,housing_vacancy_share,renter_occupied_share,1118,0.030231015446420473,False
+2024,New York City,housing_vacancy_share,multifamily_housing_share,1118,0.24170537467308628,False
+2024,New York City,housing_vacancy_share,crowded_household_share,1118,-0.12507299013713039,False
+2024,New York City,housing_vacancy_share,no_vehicle_household_share,1118,0.2971899301385954,False
+2024,New York City,housing_vacancy_share,log1p_median_gross_rent,1005,0.3503814057413458,False
+2024,New York City,housing_vacancy_share,log1p_housing_age,1102,-0.051501616151663134,False
+2024,New York City,housing_vacancy_share,recent_move_share,1118,0.21298009028959278,False
+2024,New York City,renter_occupied_share,multifamily_housing_share,1118,0.5076363464545725,False
+2024,New York City,renter_occupied_share,crowded_household_share,1118,0.20811808335735488,False
+2024,New York City,renter_occupied_share,no_vehicle_household_share,1118,0.5889094533707658,False
+2024,New York City,renter_occupied_share,log1p_median_gross_rent,1005,-0.12533228574266156,False
+2024,New York City,renter_occupied_share,log1p_housing_age,1102,0.0404405300017178,False
+2024,New York City,renter_occupied_share,recent_move_share,1118,0.1868436903548099,False
+2024,New York City,multifamily_housing_share,crowded_household_share,1118,-0.011873439806478264,False
+2024,New York City,multifamily_housing_share,no_vehicle_household_share,1118,0.6952263901357238,False
+2024,New York City,multifamily_housing_share,log1p_median_gross_rent,1005,0.216011971175309,False
+2024,New York City,multifamily_housing_share,log1p_housing_age,1102,-0.06306585137301275,False
+2024,New York City,multifamily_housing_share,recent_move_share,1118,0.2927873580275456,False
+2024,New York City,crowded_household_share,no_vehicle_household_share,1118,-0.062238232410465416,False
+2024,New York City,crowded_household_share,log1p_median_gross_rent,1005,-0.2691064729493493,False
+2024,New York City,crowded_household_share,log1p_housing_age,1102,0.10838362367607932,False
+2024,New York City,crowded_household_share,recent_move_share,1118,-0.009687744228659463,False
+2024,New York City,no_vehicle_household_share,log1p_median_gross_rent,1005,0.2449919104097714,False
+2024,New York City,no_vehicle_household_share,log1p_housing_age,1102,0.024807846799911805,False
+2024,New York City,no_vehicle_household_share,recent_move_share,1118,0.3150756486200604,False
+2024,New York City,log1p_median_gross_rent,log1p_housing_age,1003,-0.131653510080942,False
+2024,New York City,log1p_median_gross_rent,recent_move_share,1005,0.3876457538395958,False
+2024,New York City,log1p_housing_age,recent_move_share,1102,-0.029872781408546527,False
+2024,Buffalo,log1p_background_primary,housing_vacancy_share,48,0.18392846006414665,False
+2024,Buffalo,log1p_background_primary,renter_occupied_share,48,0.1070195416425176,False
+2024,Buffalo,log1p_background_primary,multifamily_housing_share,48,0.07814607232137409,False
+2024,Buffalo,log1p_background_primary,crowded_household_share,48,0.18053580838972091,False
+2024,Buffalo,log1p_background_primary,no_vehicle_household_share,48,0.24661816932509173,False
+2024,Buffalo,log1p_background_primary,log1p_median_gross_rent,47,0.11812167377024164,False
+2024,Buffalo,log1p_background_primary,log1p_housing_age,47,-0.07414497654600424,False
+2024,Buffalo,log1p_background_primary,recent_move_share,48,0.10435158249951021,False
+2024,Buffalo,housing_vacancy_share,renter_occupied_share,48,-0.23186983901996544,False
+2024,Buffalo,housing_vacancy_share,multifamily_housing_share,48,-0.3491129099489607,False
+2024,Buffalo,housing_vacancy_share,crowded_household_share,48,0.12031412625645799,False
+2024,Buffalo,housing_vacancy_share,no_vehicle_household_share,48,0.3966259675133545,False
+2024,Buffalo,housing_vacancy_share,log1p_median_gross_rent,47,-0.4441024449735756,False
+2024,Buffalo,housing_vacancy_share,log1p_housing_age,47,-0.17489872191583344,False
+2024,Buffalo,housing_vacancy_share,recent_move_share,48,-0.17577185780864651,False
+2024,Buffalo,renter_occupied_share,multifamily_housing_share,48,0.8123943969041258,False
+2024,Buffalo,renter_occupied_share,crowded_household_share,48,0.2592773026598929,False
+2024,Buffalo,renter_occupied_share,no_vehicle_household_share,48,0.34933093518546277,False
+2024,Buffalo,renter_occupied_share,log1p_median_gross_rent,47,0.2328242058191532,False
+2024,Buffalo,renter_occupied_share,log1p_housing_age,47,0.08053578658445654,False
+2024,Buffalo,renter_occupied_share,recent_move_share,48,0.5276844952795813,False
+2024,Buffalo,multifamily_housing_share,crowded_household_share,48,0.08240550384722077,False
+2024,Buffalo,multifamily_housing_share,no_vehicle_household_share,48,0.13255934379326656,False
+2024,Buffalo,multifamily_housing_share,log1p_median_gross_rent,47,0.34909112027411576,False
+2024,Buffalo,multifamily_housing_share,log1p_housing_age,47,-0.021623307082949975,False
+2024,Buffalo,multifamily_housing_share,recent_move_share,48,0.5201829101541997,False
+2024,Buffalo,crowded_household_share,no_vehicle_household_share,48,0.17996616712632652,False
+2024,Buffalo,crowded_household_share,log1p_median_gross_rent,47,0.08667095849797314,False
+2024,Buffalo,crowded_household_share,log1p_housing_age,47,0.24983865347388196,False
+2024,Buffalo,crowded_household_share,recent_move_share,48,0.149007752441896,False
+2024,Buffalo,no_vehicle_household_share,log1p_median_gross_rent,47,-0.4897496951042452,False
+2024,Buffalo,no_vehicle_household_share,log1p_housing_age,47,-0.37995239588612095,False
+2024,Buffalo,no_vehicle_household_share,recent_move_share,48,-0.08342318547397913,False
+2024,Buffalo,log1p_median_gross_rent,log1p_housing_age,47,0.20270011673676913,False
+2024,Buffalo,log1p_median_gross_rent,recent_move_share,47,0.5702499113501184,False
+2024,Buffalo,log1p_housing_age,recent_move_share,47,0.21568090919310914,False
+2024,Rochester,log1p_background_primary,housing_vacancy_share,24,0.4622648629639898,False
+2024,Rochester,log1p_background_primary,renter_occupied_share,24,0.3772717410344013,False
+2024,Rochester,log1p_background_primary,multifamily_housing_share,24,0.38077513503123833,False
+2024,Rochester,log1p_background_primary,crowded_household_share,24,0.031617410368214534,False
+2024,Rochester,log1p_background_primary,no_vehicle_household_share,24,0.6511169513797634,False
+2024,Rochester,log1p_background_primary,log1p_median_gross_rent,24,-0.2984453761055652,False
+2024,Rochester,log1p_background_primary,log1p_housing_age,24,0.2383089931662117,False
+2024,Rochester,log1p_background_primary,recent_move_share,24,0.390370683179836,False
+2024,Rochester,housing_vacancy_share,renter_occupied_share,24,0.0758939842524505,False
+2024,Rochester,housing_vacancy_share,multifamily_housing_share,24,0.08071961330896471,False
+2024,Rochester,housing_vacancy_share,crowded_household_share,24,-0.29160959838794526,False
+2024,Rochester,housing_vacancy_share,no_vehicle_household_share,24,0.2689780360673239,False
+2024,Rochester,housing_vacancy_share,log1p_median_gross_rent,24,-0.0938804198267307,False
+2024,Rochester,housing_vacancy_share,log1p_housing_age,24,0.10381591306522833,False
+2024,Rochester,housing_vacancy_share,recent_move_share,24,0.22868540386330627,False
+2024,Rochester,renter_occupied_share,multifamily_housing_share,24,0.6891418563922942,False
+2024,Rochester,renter_occupied_share,crowded_household_share,24,0.24634380389794788,False
+2024,Rochester,renter_occupied_share,no_vehicle_household_share,24,0.7659295125585233,False
+2024,Rochester,renter_occupied_share,log1p_median_gross_rent,24,0.2933450087565674,False
+2024,Rochester,renter_occupied_share,log1p_housing_age,24,-0.11827312823177678,False
+2024,Rochester,renter_occupied_share,recent_move_share,24,0.4327218621806586,False
+2024,Rochester,multifamily_housing_share,crowded_household_share,24,0.04687072375049451,False
+2024,Rochester,multifamily_housing_share,no_vehicle_household_share,24,0.7602364973136628,False
+2024,Rochester,multifamily_housing_share,log1p_median_gross_rent,24,-0.21015761821366025,False
+2024,Rochester,multifamily_housing_share,log1p_housing_age,24,-0.18180827976124364,False
+2024,Rochester,multifamily_housing_share,recent_move_share,24,0.482854273043052,False
+2024,Rochester,crowded_household_share,no_vehicle_household_share,24,0.2900079709636229,False
+2024,Rochester,crowded_household_share,log1p_median_gross_rent,24,0.05232080790752876,False
+2024,Rochester,crowded_household_share,log1p_housing_age,24,0.1429676860193568,False
+2024,Rochester,crowded_household_share,recent_move_share,24,0.28684305149261485,False
+2024,Rochester,no_vehicle_household_share,log1p_median_gross_rent,24,-0.26187870126357743,False
+2024,Rochester,no_vehicle_household_share,log1p_housing_age,24,0.18820299973126461,False
+2024,Rochester,no_vehicle_household_share,recent_move_share,24,0.5150693746519299,False
+2024,Rochester,log1p_median_gross_rent,log1p_housing_age,24,-0.2531631422481833,False
+2024,Rochester,log1p_median_gross_rent,recent_move_share,24,0.11345756142541659,False
+2024,Rochester,log1p_housing_age,recent_move_share,24,0.2832411633045515,False
+2024,ALL,log1p_background_primary,housing_vacancy_share,1190,0.23216357084098987,False
+2024,ALL,log1p_background_primary,renter_occupied_share,1190,0.4070976850796768,False
+2024,ALL,log1p_background_primary,multifamily_housing_share,1190,0.6091646296124701,False
+2024,ALL,log1p_background_primary,crowded_household_share,1190,0.04411889397158779,False
+2024,ALL,log1p_background_primary,no_vehicle_household_share,1190,0.7698753975152729,False
+2024,ALL,log1p_background_primary,log1p_median_gross_rent,1076,0.37626301878436813,False
+2024,ALL,log1p_background_primary,log1p_housing_age,1173,-0.017922302765053036,False
+2024,ALL,log1p_background_primary,recent_move_share,1190,0.23953825201950957,False
+2024,ALL,housing_vacancy_share,renter_occupied_share,1190,0.024729516844296764,False
+2024,ALL,housing_vacancy_share,multifamily_housing_share,1190,0.21975928658844612,False
+2024,ALL,housing_vacancy_share,crowded_household_share,1190,-0.11583611541898241,False
+2024,ALL,housing_vacancy_share,no_vehicle_household_share,1190,0.2769280581131246,False
+2024,ALL,housing_vacancy_share,log1p_median_gross_rent,1076,0.29960594490880654,False
+2024,ALL,housing_vacancy_share,log1p_housing_age,1173,-0.042636093741121144,False
+2024,ALL,housing_vacancy_share,recent_move_share,1190,0.2024955640191631,False
+2024,ALL,renter_occupied_share,multifamily_housing_share,1190,0.5083290587204208,False
+2024,ALL,renter_occupied_share,crowded_household_share,1190,0.2008870380142008,False
+2024,ALL,renter_occupied_share,no_vehicle_household_share,1190,0.5589237106639589,False
+2024,ALL,renter_occupied_share,log1p_median_gross_rent,1076,-0.10708840883545151,False
+2024,ALL,renter_occupied_share,log1p_housing_age,1173,0.04344096784004979,False
+2024,ALL,renter_occupied_share,recent_move_share,1190,0.1992454573026877,False
+2024,ALL,multifamily_housing_share,crowded_household_share,1190,0.031087601902635705,False
+2024,ALL,multifamily_housing_share,no_vehicle_household_share,1190,0.7096451945602642,False
+2024,ALL,multifamily_housing_share,log1p_median_gross_rent,1076,0.27291965282920616,False
+2024,ALL,multifamily_housing_share,log1p_housing_age,1173,-0.09083643824171715,False
+2024,ALL,multifamily_housing_share,recent_move_share,1190,0.27670427302739525,False
+2024,ALL,crowded_household_share,no_vehicle_household_share,1190,0.008541148026199517,False
+2024,ALL,crowded_household_share,log1p_median_gross_rent,1076,-0.15942851280761422,False
+2024,ALL,crowded_household_share,log1p_housing_age,1173,0.07576941172350765,False
+2024,ALL,crowded_household_share,recent_move_share,1190,-0.018055433761380017,False
+2024,ALL,no_vehicle_household_share,log1p_median_gross_rent,1076,0.31749788474085944,False
+2024,ALL,no_vehicle_household_share,log1p_housing_age,1173,-0.015019198411523785,False
+2024,ALL,no_vehicle_household_share,recent_move_share,1190,0.2616009747570318,False
+2024,ALL,log1p_median_gross_rent,log1p_housing_age,1074,-0.1746103944734547,False
+2024,ALL,log1p_median_gross_rent,recent_move_share,1076,0.31435124858774144,False
+2024,ALL,log1p_housing_age,recent_move_share,1173,-0.0002050364572423963,False
+2025,New York City,log1p_background_primary,housing_vacancy_share,1136,0.22827719228521332,False
+2025,New York City,log1p_background_primary,renter_occupied_share,1136,0.40952989211065965,False
+2025,New York City,log1p_background_primary,multifamily_housing_share,1136,0.5954921891142451,False
+2025,New York City,log1p_background_primary,crowded_household_share,1136,-0.011456249295825047,False
+2025,New York City,log1p_background_primary,no_vehicle_household_share,1136,0.737217639620496,False
+2025,New York City,log1p_background_primary,log1p_median_gross_rent,1019,0.26931208853201694,False
+2025,New York City,log1p_background_primary,log1p_housing_age,1119,-0.03266722941220468,False
+2025,New York City,log1p_background_primary,recent_move_share,1136,0.3165765202584867,False
+2025,New York City,housing_vacancy_share,renter_occupied_share,1136,-0.025995633314870224,False
+2025,New York City,housing_vacancy_share,multifamily_housing_share,1136,0.18752914289246536,False
+2025,New York City,housing_vacancy_share,crowded_household_share,1136,-0.13587809618991092,False
+2025,New York City,housing_vacancy_share,no_vehicle_household_share,1136,0.2556882700025421,False
+2025,New York City,housing_vacancy_share,log1p_median_gross_rent,1019,0.324331563066707,False
+2025,New York City,housing_vacancy_share,log1p_housing_age,1119,-0.03739812900155616,False
+2025,New York City,housing_vacancy_share,recent_move_share,1136,0.14627106147830804,False
+2025,New York City,renter_occupied_share,multifamily_housing_share,1136,0.48300706548962047,False
+2025,New York City,renter_occupied_share,crowded_household_share,1136,0.2558073759007054,False
+2025,New York City,renter_occupied_share,no_vehicle_household_share,1136,0.5674702762423499,False
+2025,New York City,renter_occupied_share,log1p_median_gross_rent,1019,-0.16712208876046988,False
+2025,New York City,renter_occupied_share,log1p_housing_age,1119,0.026185061399339012,False
+2025,New York City,renter_occupied_share,recent_move_share,1136,0.18701629767142997,False
+2025,New York City,multifamily_housing_share,crowded_household_share,1136,-0.0017741250348595526,False
+2025,New York City,multifamily_housing_share,no_vehicle_household_share,1136,0.6983848357584364,False
+2025,New York City,multifamily_housing_share,log1p_median_gross_rent,1019,0.18748635114801254,False
+2025,New York City,multifamily_housing_share,log1p_housing_age,1119,-0.1049145175119543,False
+2025,New York City,multifamily_housing_share,recent_move_share,1136,0.27217126140786674,False
+2025,New York City,crowded_household_share,no_vehicle_household_share,1136,-0.04919283505126496,False
+2025,New York City,crowded_household_share,log1p_median_gross_rent,1019,-0.29528437166971633,False
+2025,New York City,crowded_household_share,log1p_housing_age,1119,0.11212164365359963,False
+2025,New York City,crowded_household_share,recent_move_share,1136,-0.0031482640892736787,False
+2025,New York City,no_vehicle_household_share,log1p_median_gross_rent,1019,0.22612050624618057,False
+2025,New York City,no_vehicle_household_share,log1p_housing_age,1119,-0.005366466953421288,False
+2025,New York City,no_vehicle_household_share,recent_move_share,1136,0.33489636270453876,False
+2025,New York City,log1p_median_gross_rent,log1p_housing_age,1017,-0.14751617771469736,False
+2025,New York City,log1p_median_gross_rent,recent_move_share,1019,0.3612086810362358,False
+2025,New York City,log1p_housing_age,recent_move_share,1119,-0.015055538548775225,False
+2025,Buffalo,log1p_background_primary,housing_vacancy_share,50,0.19309037780832763,False
+2025,Buffalo,log1p_background_primary,renter_occupied_share,50,0.19303750172443243,False
+2025,Buffalo,log1p_background_primary,multifamily_housing_share,50,0.3184504009339363,False
+2025,Buffalo,log1p_background_primary,crowded_household_share,50,-0.0650850964118011,False
+2025,Buffalo,log1p_background_primary,no_vehicle_household_share,50,0.2840025241025993,False
+2025,Buffalo,log1p_background_primary,log1p_median_gross_rent,48,0.1030863630654389,False
+2025,Buffalo,log1p_background_primary,log1p_housing_age,49,0.062976191385424,False
+2025,Buffalo,log1p_background_primary,recent_move_share,50,0.213945223062081,False
+2025,Buffalo,housing_vacancy_share,renter_occupied_share,50,-0.26058631929409487,False
+2025,Buffalo,housing_vacancy_share,multifamily_housing_share,50,-0.30232838710694526,False
+2025,Buffalo,housing_vacancy_share,crowded_household_share,50,-0.02638860431537528,False
+2025,Buffalo,housing_vacancy_share,no_vehicle_household_share,50,0.5215607745140152,False
+2025,Buffalo,housing_vacancy_share,log1p_median_gross_rent,48,-0.49306844230979147,False
+2025,Buffalo,housing_vacancy_share,log1p_housing_age,49,0.011555184962759405,False
+2025,Buffalo,housing_vacancy_share,recent_move_share,50,-0.329464927845757,False
+2025,Buffalo,renter_occupied_share,multifamily_housing_share,50,0.8776238961540316,False
+2025,Buffalo,renter_occupied_share,crowded_household_share,50,0.3889403698330688,False
+2025,Buffalo,renter_occupied_share,no_vehicle_household_share,50,0.18179624620177856,False
+2025,Buffalo,renter_occupied_share,log1p_median_gross_rent,48,0.3745224320489029,False
+2025,Buffalo,renter_occupied_share,log1p_housing_age,49,0.09281026220088671,False
+2025,Buffalo,renter_occupied_share,recent_move_share,50,0.6956388771316993,False
+2025,Buffalo,multifamily_housing_share,crowded_household_share,50,0.08002379586588909,False
+2025,Buffalo,multifamily_housing_share,no_vehicle_household_share,50,0.13517687433267367,False
+2025,Buffalo,multifamily_housing_share,log1p_median_gross_rent,48,0.45136993777971834,False
+2025,Buffalo,multifamily_housing_share,log1p_housing_age,49,-0.010448837466324995,False
+2025,Buffalo,multifamily_housing_share,recent_move_share,50,0.6951537394811436,False
+2025,Buffalo,crowded_household_share,no_vehicle_household_share,50,0.133242537610972,False
+2025,Buffalo,crowded_household_share,log1p_median_gross_rent,48,0.1194395572591709,False
+2025,Buffalo,crowded_household_share,log1p_housing_age,49,0.31845409634140986,False
+2025,Buffalo,crowded_household_share,recent_move_share,50,0.2592942032124297,False
+2025,Buffalo,no_vehicle_household_share,log1p_median_gross_rent,48,-0.436087763344613,False
+2025,Buffalo,no_vehicle_household_share,log1p_housing_age,49,-0.3006883748789969,False
+2025,Buffalo,no_vehicle_household_share,recent_move_share,50,-0.105915771659666,False
+2025,Buffalo,log1p_median_gross_rent,log1p_housing_age,48,0.1847021492088758,False
+2025,Buffalo,log1p_median_gross_rent,recent_move_share,48,0.568067900117697,False
+2025,Buffalo,log1p_housing_age,recent_move_share,49,0.116599427430573,False
+2025,Rochester,log1p_background_primary,housing_vacancy_share,31,0.29844676070509074,False
+2025,Rochester,log1p_background_primary,renter_occupied_share,31,0.2577671404027496,False
+2025,Rochester,log1p_background_primary,multifamily_housing_share,31,0.392792857903993,False
+2025,Rochester,log1p_background_primary,crowded_household_share,31,-0.01210449221183737,False
+2025,Rochester,log1p_background_primary,no_vehicle_household_share,31,0.35668693055391004,False
+2025,Rochester,log1p_background_primary,log1p_median_gross_rent,31,-0.05106611722039505,False
+2025,Rochester,log1p_background_primary,log1p_housing_age,31,0.4191033252597527,False
+2025,Rochester,log1p_background_primary,recent_move_share,31,0.2961369858708274,False
+2025,Rochester,housing_vacancy_share,renter_occupied_share,31,-0.04868114887392286,False
+2025,Rochester,housing_vacancy_share,multifamily_housing_share,31,0.11121300119314594,False
+2025,Rochester,housing_vacancy_share,crowded_household_share,31,-0.2907559791497724,False
+2025,Rochester,housing_vacancy_share,no_vehicle_household_share,31,0.14931762952474636,False
+2025,Rochester,housing_vacancy_share,log1p_median_gross_rent,31,-0.12404527056158585,False
+2025,Rochester,housing_vacancy_share,log1p_housing_age,31,-0.013995963518830154,False
+2025,Rochester,housing_vacancy_share,recent_move_share,31,0.14307591421218432,False
+2025,Rochester,renter_occupied_share,multifamily_housing_share,31,0.6910866910866911,False
+2025,Rochester,renter_occupied_share,crowded_household_share,31,0.25309323514824983,False
+2025,Rochester,renter_occupied_share,no_vehicle_household_share,31,0.7430548527329602,False
+2025,Rochester,renter_occupied_share,log1p_median_gross_rent,31,0.3194953194953195,False
+2025,Rochester,renter_occupied_share,log1p_housing_age,31,-0.05593256331414015,False
+2025,Rochester,renter_occupied_share,recent_move_share,31,0.4469829847747416,False
+2025,Rochester,multifamily_housing_share,crowded_household_share,31,0.09905583961387088,False
+2025,Rochester,multifamily_housing_share,no_vehicle_household_share,31,0.7009260237776814,False
+2025,Rochester,multifamily_housing_share,log1p_median_gross_rent,31,-0.034188034188034185,False
+2025,Rochester,multifamily_housing_share,log1p_housing_age,31,-0.1927051595432485,False
+2025,Rochester,multifamily_housing_share,recent_move_share,31,0.42944624358376177,False
+2025,Rochester,crowded_household_share,no_vehicle_household_share,31,0.3310360071462083,False
+2025,Rochester,crowded_household_share,log1p_median_gross_rent,31,-0.13378103282682335,False
+2025,Rochester,crowded_household_share,log1p_housing_age,31,0.06213743619824129,False
+2025,Rochester,crowded_household_share,recent_move_share,31,0.4124227153069741,False
+2025,Rochester,no_vehicle_household_share,log1p_median_gross_rent,31,-0.1613920838721549,False
+2025,Rochester,no_vehicle_household_share,log1p_housing_age,31,-0.03649097124841236,False
+2025,Rochester,no_vehicle_household_share,recent_move_share,31,0.5577659086177541,False
+2025,Rochester,log1p_median_gross_rent,log1p_housing_age,31,0.0076470301406051,False
+2025,Rochester,log1p_median_gross_rent,recent_move_share,31,-0.026916858572201594,False
+2025,Rochester,log1p_housing_age,recent_move_share,31,0.05933072319008095,False
+2025,ALL,log1p_background_primary,housing_vacancy_share,1217,0.21974914556406885,False
+2025,ALL,log1p_background_primary,renter_occupied_share,1217,0.38667188521833207,False
+2025,ALL,log1p_background_primary,multifamily_housing_share,1217,0.6209438242019498,False
+2025,ALL,log1p_background_primary,crowded_household_share,1217,0.03447823942822192,False
+2025,ALL,log1p_background_primary,no_vehicle_household_share,1217,0.7563626265100359,False
+2025,ALL,log1p_background_primary,log1p_median_gross_rent,1098,0.32775238158897924,False
+2025,ALL,log1p_background_primary,log1p_housing_age,1199,-0.05007771670691292,False
+2025,ALL,log1p_background_primary,recent_move_share,1217,0.2740772172683954,False
+2025,ALL,housing_vacancy_share,renter_occupied_share,1217,-0.03184426989806524,False
+2025,ALL,housing_vacancy_share,multifamily_housing_share,1217,0.1708795365179759,False
+2025,ALL,housing_vacancy_share,crowded_household_share,1217,-0.1286268743377883,False
+2025,ALL,housing_vacancy_share,no_vehicle_household_share,1217,0.24281743707835357,False
+2025,ALL,housing_vacancy_share,log1p_median_gross_rent,1098,0.2705306650563533,False
+2025,ALL,housing_vacancy_share,log1p_housing_age,1199,-0.027561561968505958,False
+2025,ALL,housing_vacancy_share,recent_move_share,1217,0.13395753403231306,False
+2025,ALL,renter_occupied_share,multifamily_housing_share,1217,0.4817744581747277,False
+2025,ALL,renter_occupied_share,crowded_household_share,1217,0.24737965562311992,False
+2025,ALL,renter_occupied_share,no_vehicle_household_share,1217,0.5265544024891662,False
+2025,ALL,renter_occupied_share,log1p_median_gross_rent,1098,-0.14770238183180767,False
+2025,ALL,renter_occupied_share,log1p_housing_age,1199,0.030347166951308013,False
+2025,ALL,renter_occupied_share,recent_move_share,1217,0.20812184341414386,False
+2025,ALL,multifamily_housing_share,crowded_household_share,1217,0.03816268398372274,False
+2025,ALL,multifamily_housing_share,no_vehicle_household_share,1217,0.7128485960132078,False
+2025,ALL,multifamily_housing_share,log1p_median_gross_rent,1098,0.24788867903726655,False
+2025,ALL,multifamily_housing_share,log1p_housing_age,1199,-0.12673859484947558,False
+2025,ALL,multifamily_housing_share,recent_move_share,1217,0.254099484434243,False
+2025,ALL,crowded_household_share,no_vehicle_household_share,1217,0.02522875520762416,False
+2025,ALL,crowded_household_share,log1p_median_gross_rent,1098,-0.1797358046392764,False
+2025,ALL,crowded_household_share,log1p_housing_age,1199,0.0786320197289987,False
+2025,ALL,crowded_household_share,recent_move_share,1217,-0.0112487273436874,False
+2025,ALL,no_vehicle_household_share,log1p_median_gross_rent,1098,0.3097560810131199,False
+2025,ALL,no_vehicle_household_share,log1p_housing_age,1199,-0.04265420394598116,False
+2025,ALL,no_vehicle_household_share,recent_move_share,1217,0.26696510507502336,False
+2025,ALL,log1p_median_gross_rent,log1p_housing_age,1096,-0.1829806559406493,False
+2025,ALL,log1p_median_gross_rent,recent_move_share,1098,0.27166086110178733,False
+2025,ALL,log1p_housing_age,recent_move_share,1199,0.011138812321036905,False
+ALL,New York City,log1p_background_primary,housing_vacancy_share,2254,0.2405414858228973,False
+ALL,New York City,log1p_background_primary,renter_occupied_share,2254,0.42406225687007315,False
+ALL,New York City,log1p_background_primary,multifamily_housing_share,2254,0.5906756746916322,False
+ALL,New York City,log1p_background_primary,crowded_household_share,2254,-0.017893429920780395,False
+ALL,New York City,log1p_background_primary,no_vehicle_household_share,2254,0.7418425489850341,False
+ALL,New York City,log1p_background_primary,log1p_median_gross_rent,2024,0.2799127816266314,False
+ALL,New York City,log1p_background_primary,log1p_housing_age,2221,-0.0009389642623082718,False
+ALL,New York City,log1p_background_primary,recent_move_share,2254,0.3059403626268568,False
+ALL,New York City,housing_vacancy_share,renter_occupied_share,2254,0.0017212436674392494,False
+ALL,New York City,housing_vacancy_share,multifamily_housing_share,2254,0.21444279668329544,False
+ALL,New York City,housing_vacancy_share,crowded_household_share,2254,-0.13038147359931876,False
+ALL,New York City,housing_vacancy_share,no_vehicle_household_share,2254,0.27607180480139953,False
+ALL,New York City,housing_vacancy_share,log1p_median_gross_rent,2024,0.3374750391581432,False
+ALL,New York City,housing_vacancy_share,log1p_housing_age,2221,-0.04469584162080299,False
+ALL,New York City,housing_vacancy_share,recent_move_share,2254,0.17928681866847446,False
+ALL,New York City,renter_occupied_share,multifamily_housing_share,2254,0.49525555275876426,False
+ALL,New York City,renter_occupied_share,crowded_household_share,2254,0.23195666734475925,False
+ALL,New York City,renter_occupied_share,no_vehicle_household_share,2254,0.5784342880228613,False
+ALL,New York City,renter_occupied_share,log1p_median_gross_rent,2024,-0.14623454934837507,False
+ALL,New York City,renter_occupied_share,log1p_housing_age,2221,0.03336002376936251,False
+ALL,New York City,renter_occupied_share,recent_move_share,2254,0.18698054173302034,False
+ALL,New York City,multifamily_housing_share,crowded_household_share,2254,-0.00677747551786772,False
+ALL,New York City,multifamily_housing_share,no_vehicle_household_share,2254,0.6968792513594956,False
+ALL,New York City,multifamily_housing_share,log1p_median_gross_rent,2024,0.20176388112634358,False
+ALL,New York City,multifamily_housing_share,log1p_housing_age,2221,-0.08379187306321198,False
+ALL,New York City,multifamily_housing_share,recent_move_share,2254,0.28241532959533133,False
+ALL,New York City,crowded_household_share,no_vehicle_household_share,2254,-0.055843754134323756,False
+ALL,New York City,crowded_household_share,log1p_median_gross_rent,2024,-0.28223323597100597,False
+ALL,New York City,crowded_household_share,log1p_housing_age,2221,0.11028727502641615,False
+ALL,New York City,crowded_household_share,recent_move_share,2254,-0.006262657478894855,False
+ALL,New York City,no_vehicle_household_share,log1p_median_gross_rent,2024,0.23568139950951097,False
+ALL,New York City,no_vehicle_household_share,log1p_housing_age,2221,0.010057474659322965,False
+ALL,New York City,no_vehicle_household_share,recent_move_share,2254,0.32541948100831297,False
+ALL,New York City,log1p_median_gross_rent,log1p_housing_age,2020,-0.13964629764272465,False
+ALL,New York City,log1p_median_gross_rent,recent_move_share,2024,0.37434508689442997,False
+ALL,New York City,log1p_housing_age,recent_move_share,2221,-0.022481972255534104,False
+ALL,Buffalo,log1p_background_primary,housing_vacancy_share,98,0.15149159327794107,False
+ALL,Buffalo,log1p_background_primary,renter_occupied_share,98,0.11494168226702647,False
+ALL,Buffalo,log1p_background_primary,multifamily_housing_share,98,0.19718758788383067,False
+ALL,Buffalo,log1p_background_primary,crowded_household_share,98,0.011808008611291162,False
+ALL,Buffalo,log1p_background_primary,no_vehicle_household_share,98,0.16726136261158342,False
+ALL,Buffalo,log1p_background_primary,log1p_median_gross_rent,95,0.09503599651966517,False
+ALL,Buffalo,log1p_background_primary,log1p_housing_age,96,0.019124774013750578,False
+ALL,Buffalo,log1p_background_primary,recent_move_share,98,0.14786629853273747,False
+ALL,Buffalo,housing_vacancy_share,renter_occupied_share,98,-0.24554548056235095,False
+ALL,Buffalo,housing_vacancy_share,multifamily_housing_share,98,-0.3222564228736434,False
+ALL,Buffalo,housing_vacancy_share,crowded_household_share,98,0.04392786110487799,False
+ALL,Buffalo,housing_vacancy_share,no_vehicle_household_share,98,0.46200907790993156,False
+ALL,Buffalo,housing_vacancy_share,log1p_median_gross_rent,95,-0.4688989492893515,False
+ALL,Buffalo,housing_vacancy_share,log1p_housing_age,96,-0.07960100809264876,False
+ALL,Buffalo,housing_vacancy_share,recent_move_share,98,-0.25269001978378336,False
+ALL,Buffalo,renter_occupied_share,multifamily_housing_share,98,0.8455832425853566,False
+ALL,Buffalo,renter_occupied_share,crowded_household_share,98,0.3241817980834463,False
+ALL,Buffalo,renter_occupied_share,no_vehicle_household_share,98,0.2645851087990847,False
+ALL,Buffalo,renter_occupied_share,log1p_median_gross_rent,95,0.30400585330162794,False
+ALL,Buffalo,renter_occupied_share,log1p_housing_age,96,0.08802914866408733,False
+ALL,Buffalo,renter_occupied_share,recent_move_share,98,0.6168134222420038,False
+ALL,Buffalo,multifamily_housing_share,crowded_household_share,98,0.08134005760666693,False
+ALL,Buffalo,multifamily_housing_share,no_vehicle_household_share,98,0.132465519339196,False
+ALL,Buffalo,multifamily_housing_share,log1p_median_gross_rent,95,0.4050315881301797,False
+ALL,Buffalo,multifamily_housing_share,log1p_housing_age,96,-0.018976493930156827,False
+ALL,Buffalo,multifamily_housing_share,recent_move_share,98,0.6157190280847704,False
+ALL,Buffalo,crowded_household_share,no_vehicle_household_share,98,0.15469404075497972,False
+ALL,Buffalo,crowded_household_share,log1p_median_gross_rent,95,0.10176798804294311,False
+ALL,Buffalo,crowded_household_share,log1p_housing_age,96,0.2857478649945552,False
+ALL,Buffalo,crowded_household_share,recent_move_share,98,0.20559234801803689,False
+ALL,Buffalo,no_vehicle_household_share,log1p_median_gross_rent,95,-0.46315656174811104,False
+ALL,Buffalo,no_vehicle_household_share,log1p_housing_age,96,-0.3355396804754768,False
+ALL,Buffalo,no_vehicle_household_share,recent_move_share,98,-0.09553324250947237,False
+ALL,Buffalo,log1p_median_gross_rent,log1p_housing_age,95,0.1916267615961058,False
+ALL,Buffalo,log1p_median_gross_rent,recent_move_share,95,0.5692768015828904,False
+ALL,Buffalo,log1p_housing_age,recent_move_share,96,0.162634580053064,False
+ALL,Rochester,log1p_background_primary,housing_vacancy_share,55,0.36396648206633964,False
+ALL,Rochester,log1p_background_primary,renter_occupied_share,55,0.3161612767248092,False
+ALL,Rochester,log1p_background_primary,multifamily_housing_share,55,0.3826890714942473,False
+ALL,Rochester,log1p_background_primary,crowded_household_share,55,-0.01259838190308651,False
+ALL,Rochester,log1p_background_primary,no_vehicle_household_share,55,0.4863806452593063,False
+ALL,Rochester,log1p_background_primary,log1p_median_gross_rent,55,-0.14180256091881868,False
+ALL,Rochester,log1p_background_primary,log1p_housing_age,55,0.35233648465854933,False
+ALL,Rochester,log1p_background_primary,recent_move_share,55,0.32294636300094803,False
+ALL,Rochester,housing_vacancy_share,renter_occupied_share,55,0.014139953859964338,False
+ALL,Rochester,housing_vacancy_share,multifamily_housing_share,55,0.10575810850932091,False
+ALL,Rochester,housing_vacancy_share,crowded_household_share,55,-0.29863992810987816,False
+ALL,Rochester,housing_vacancy_share,no_vehicle_household_share,55,0.2110367378002318,False
+ALL,Rochester,housing_vacancy_share,log1p_median_gross_rent,55,-0.10765315387199653,False
+ALL,Rochester,housing_vacancy_share,log1p_housing_age,55,0.043673593833947866,False
+ALL,Rochester,housing_vacancy_share,recent_move_share,55,0.18274877433030665,False
+ALL,Rochester,renter_occupied_share,multifamily_housing_share,55,0.6965351579560343,False
+ALL,Rochester,renter_occupied_share,crowded_household_share,55,0.25558200592089253,False
+ALL,Rochester,renter_occupied_share,no_vehicle_household_share,55,0.758444970182856,False
+ALL,Rochester,renter_occupied_share,log1p_median_gross_rent,55,0.302300189256078,False
+ALL,Rochester,renter_occupied_share,log1p_housing_age,55,-0.08528799000896634,False
+ALL,Rochester,renter_occupied_share,recent_move_share,55,0.43933608252753725,False
+ALL,Rochester,multifamily_housing_share,crowded_household_share,55,0.07763199365512453,False
+ALL,Rochester,multifamily_housing_share,no_vehicle_household_share,55,0.7405358261374554,False
+ALL,Rochester,multifamily_housing_share,log1p_median_gross_rent,55,-0.11864900276605037,False
+ALL,Rochester,multifamily_housing_share,log1p_housing_age,55,-0.19942864113311115,False
+ALL,Rochester,multifamily_housing_share,recent_move_share,55,0.4616022016985074,False
+ALL,Rochester,crowded_household_share,no_vehicle_household_share,55,0.32177214454320296,False
+ALL,Rochester,crowded_household_share,log1p_median_gross_rent,55,-0.05910854208593932,False
+ALL,Rochester,crowded_household_share,log1p_housing_age,55,0.0746903959133619,False
+ALL,Rochester,crowded_household_share,recent_move_share,55,0.38812617831358914,False
+ALL,Rochester,no_vehicle_household_share,log1p_median_gross_rent,55,-0.21847699707417456,False
+ALL,Rochester,no_vehicle_household_share,log1p_housing_age,55,0.06422338850450647,False
+ALL,Rochester,no_vehicle_household_share,recent_move_share,55,0.5390645748721024,False
+ALL,Rochester,log1p_median_gross_rent,log1p_housing_age,55,-0.09909916754415492,False
+ALL,Rochester,log1p_median_gross_rent,recent_move_share,55,0.028252420062837635,False
+ALL,Rochester,log1p_housing_age,recent_move_share,55,0.14818788581176898,False
+ALL,ALL,log1p_background_primary,housing_vacancy_share,2407,0.22530323175484154,False
+ALL,ALL,log1p_background_primary,renter_occupied_share,2407,0.39651247607748924,False
+ALL,ALL,log1p_background_primary,multifamily_housing_share,2407,0.615099207339698,False
+ALL,ALL,log1p_background_primary,crowded_household_share,2407,0.04048486334844586,False
+ALL,ALL,log1p_background_primary,no_vehicle_household_share,2407,0.7639495508299623,False
+ALL,ALL,log1p_background_primary,log1p_median_gross_rent,2174,0.3530080724884778,False
+ALL,ALL,log1p_background_primary,log1p_housing_age,2372,-0.03439610557934781,False
+ALL,ALL,log1p_background_primary,recent_move_share,2407,0.2554752539217734,False
+ALL,ALL,housing_vacancy_share,renter_occupied_share,2407,-0.0038679799286763343,False
+ALL,ALL,housing_vacancy_share,multifamily_housing_share,2407,0.1951581190212469,False
+ALL,ALL,housing_vacancy_share,crowded_household_share,2407,-0.12214107232092165,False
+ALL,ALL,housing_vacancy_share,no_vehicle_household_share,2407,0.2594799250920218,False
+ALL,ALL,housing_vacancy_share,log1p_median_gross_rent,2174,0.2850981432970483,False
+ALL,ALL,housing_vacancy_share,log1p_housing_age,2372,-0.035376655752165566,False
+ALL,ALL,housing_vacancy_share,recent_move_share,2407,0.16779958251261826,False
+ALL,ALL,renter_occupied_share,multifamily_housing_share,2407,0.4950064878050781,False
+ALL,ALL,renter_occupied_share,crowded_household_share,2407,0.22424355060014262,False
+ALL,ALL,renter_occupied_share,no_vehicle_household_share,2407,0.5430286148992491,False
+ALL,ALL,renter_occupied_share,log1p_median_gross_rent,2174,-0.1275215544533609,False
+ALL,ALL,renter_occupied_share,log1p_housing_age,2372,0.03696285208364676,False
+ALL,ALL,renter_occupied_share,recent_move_share,2407,0.20379258693604957,False
+ALL,ALL,multifamily_housing_share,crowded_household_share,2407,0.03472067172972506,False
+ALL,ALL,multifamily_housing_share,no_vehicle_household_share,2407,0.7113935988865517,False
+ALL,ALL,multifamily_housing_share,log1p_median_gross_rent,2174,0.2603860769086774,False
+ALL,ALL,multifamily_housing_share,log1p_housing_age,2372,-0.1086440602854726,False
+ALL,ALL,multifamily_housing_share,recent_move_share,2407,0.2652693227719822,False
+ALL,ALL,crowded_household_share,no_vehicle_household_share,2407,0.016785993398038452,False
+ALL,ALL,crowded_household_share,log1p_median_gross_rent,2174,-0.16969624772849018,False
+ALL,ALL,crowded_household_share,log1p_housing_age,2372,0.07723545997511529,False
+ALL,ALL,crowded_household_share,recent_move_share,2407,-0.014552018658371735,False
+ALL,ALL,no_vehicle_household_share,log1p_median_gross_rent,2174,0.31371726135965017,False
+ALL,ALL,no_vehicle_household_share,log1p_housing_age,2372,-0.028550841504845288,False
+ALL,ALL,no_vehicle_household_share,recent_move_share,2407,0.26462372566037695,False
+ALL,ALL,log1p_median_gross_rent,log1p_housing_age,2170,-0.17893317048983692,False
+ALL,ALL,log1p_median_gross_rent,recent_move_share,2174,0.2926806466137253,False
+ALL,ALL,log1p_housing_age,recent_move_share,2372,0.005455008933672389,False

@@ -1,0 +1,117 @@
+{
+  "version": "restart_3_0",
+  "frozen_before_fitting": true,
+  "features": [
+    {
+      "name": "housing_vacancy_share",
+      "components": [
+        "B25002_003",
+        "B25002_001"
+      ],
+      "numerator": [
+        "B25002_003"
+      ],
+      "denominator": "B25002_001",
+      "transform": "identity"
+    },
+    {
+      "name": "renter_occupied_share",
+      "components": [
+        "B25003_003",
+        "B25003_001"
+      ],
+      "numerator": [
+        "B25003_003"
+      ],
+      "denominator": "B25003_001",
+      "transform": "identity"
+    },
+    {
+      "name": "multifamily_housing_share",
+      "components": [
+        "B25024_004",
+        "B25024_005",
+        "B25024_006",
+        "B25024_007",
+        "B25024_008",
+        "B25024_009",
+        "B25024_001"
+      ],
+      "numerator": [
+        "B25024_004",
+        "B25024_005",
+        "B25024_006",
+        "B25024_007",
+        "B25024_008",
+        "B25024_009"
+      ],
+      "denominator": "B25024_001",
+      "transform": "identity"
+    },
+    {
+      "name": "crowded_household_share",
+      "components": [
+        "B25014_005",
+        "B25014_006",
+        "B25014_007",
+        "B25014_011",
+        "B25014_012",
+        "B25014_013",
+        "B25014_001"
+      ],
+      "numerator": [
+        "B25014_005",
+        "B25014_006",
+        "B25014_007",
+        "B25014_011",
+        "B25014_012",
+        "B25014_013"
+      ],
+      "denominator": "B25014_001",
+      "transform": "identity"
+    },
+    {
+      "name": "no_vehicle_household_share",
+      "components": [
+        "B25044_003",
+        "B25044_010",
+        "B25044_001"
+      ],
+      "numerator": [
+        "B25044_003",
+        "B25044_010"
+      ],
+      "denominator": "B25044_001",
+      "transform": "identity"
+    },
+    {
+      "name": "median_gross_rent",
+      "components": [
+        "B25064_001"
+      ],
+      "transform": "log1p"
+    },
+    {
+      "name": "housing_age",
+      "components": [
+        "B25035_001"
+      ],
+      "transform": "log1p",
+      "subtract_from": 2022
+    },
+    {
+      "name": "recent_move_share",
+      "components": [
+        "B25038_003",
+        "B25038_010",
+        "B25038_001"
+      ],
+      "numerator": [
+        "B25038_003",
+        "B25038_010"
+      ],
+      "denominator": "B25038_001",
+      "transform": "identity"
+    }
+  ]
+}

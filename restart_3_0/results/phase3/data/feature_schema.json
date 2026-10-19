@@ -1,0 +1,23 @@
+{
+  "version": "restart_3_0",
+  "feature_spec_sha256": "0f3c775523c7fa600c553bded2b0bf32bb8aead30a6088fa2b52eb2d33d70db8",
+  "primary_predictors": [
+    "log1p_background_primary",
+    "housing_vacancy_share",
+    "renter_occupied_share",
+    "multifamily_housing_share",
+    "crowded_household_share",
+    "no_vehicle_household_share",
+    "log1p_median_gross_rent",
+    "log1p_housing_age",
+    "recent_move_share"
+  ],
+  "sensitivity_predictors": [
+    "log1p_background_unfiltered"
+  ],
+  "key": "row_id",
+  "imputation_performed": false,
+  "scaling_performed": false,
+  "model_fitted": false,
+  "confirmatory_modeling_ready": false
+}

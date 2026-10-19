@@ -1,0 +1,12 @@
+{
+  "url": "https://data.buffalony.gov/resource/d6g9-xbgu.json",
+  "params": {
+    "$where": "incident_datetime >= '2023-01-01T00:00:00' AND incident_datetime < '2024-01-01T00:00:00'",
+    "$limit": 20000,
+    "$offset": 0,
+    "$order": ":id"
+  },
+  "method": "GET",
+  "sha256": "683ae549c49195460a3826986d1a9111f7607a85fe3463295a15c8585f10bced",
+  "retrieved_utc": "2026-10-03T01:03:32.666679+00:00"
+}

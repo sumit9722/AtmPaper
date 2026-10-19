@@ -1,0 +1,22 @@
+variant,scheme,fold,model,stage,warning
+primary_50m,forward_spatial,fold_0,ALL,inner_0,Skipped inner fold: insufficient training rows or missing outcome class
+primary_50m,forward_spatial,fold_1,ALL,inner_1,Skipped inner fold: insufficient training rows or missing outcome class
+primary_50m,forward_spatial,fold_3,ALL,inner_3,Skipped inner fold: insufficient training rows or missing outcome class
+radius_25m,forward_spatial,fold_0,ALL,inner_0,Skipped inner fold: insufficient training rows or missing outcome class
+radius_25m,forward_spatial,fold_1,ALL,inner_1,Skipped inner fold: insufficient training rows or missing outcome class
+radius_25m,forward_spatial,fold_2,ALL,inner_2,Skipped inner fold: insufficient training rows or missing outcome class
+radius_25m,forward_spatial,fold_3,ALL,inner_3,Skipped inner fold: insufficient training rows or missing outcome class
+radius_25m,forward_leave_city_out,new_york_city,ALL,inner_1,Skipped inner fold: insufficient training rows or missing outcome class
+radius_100m,forward_spatial,fold_0,ALL,inner_0,Skipped inner fold: insufficient training rows or missing outcome class
+radius_100m,forward_spatial,fold_1,ALL,inner_1,Skipped inner fold: insufficient training rows or missing outcome class
+radius_100m,forward_spatial,fold_4,ALL,inner_4,Skipped inner fold: insufficient training rows or missing outcome class
+nearest_only_50m,forward_spatial,fold_0,ALL,inner_0,Skipped inner fold: insufficient training rows or missing outcome class
+nearest_only_50m,forward_spatial,fold_1,ALL,inner_1,Skipped inner fold: insufficient training rows or missing outcome class
+nearest_only_50m,forward_spatial,fold_3,ALL,inner_3,Skipped inner fold: insufficient training rows or missing outcome class
+unfiltered_background,forward_spatial,fold_0,ALL,inner_0,Skipped inner fold: insufficient training rows or missing outcome class
+unfiltered_background,forward_spatial,fold_1,ALL,inner_1,Skipped inner fold: insufficient training rows or missing outcome class
+unfiltered_background,forward_spatial,fold_3,ALL,inner_3,Skipped inner fold: insufficient training rows or missing outcome class
+exclude_buffalo,forward_spatial,fold_0,ALL,inner_0,Skipped inner fold: insufficient training rows or missing outcome class
+exclude_buffalo,forward_spatial,fold_2,ALL,inner_2,Skipped inner fold: insufficient training rows or missing outcome class
+exclude_buffalo,forward_spatial,fold_3,ALL,inner_3,Skipped inner fold: insufficient training rows or missing outcome class
+exclude_buffalo,forward_leave_city_out,new_york_city,ALL,inner_1,Skipped inner fold: insufficient training rows or missing outcome class

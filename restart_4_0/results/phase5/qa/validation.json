@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "phase": 5,
+  "plans": 2460,
+  "model_evaluations": 7380,
+  "models_replayed": 7155,
+  "prediction_rows": 610572,
+  "max_replay_probability_error": 0.0,
+  "selection_score_sklearn_refits": 924,
+  "all_inner_memberships_checked": true,
+  "matched_memberships_and_metrics": "PASS",
+  "inherited_raw_checksums_verified": 342,
+  "conditional_inference_tables": "PASS",
+  "confirmatory_complete": false
+}

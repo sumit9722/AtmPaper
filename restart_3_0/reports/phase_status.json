@@ -1,0 +1,24 @@
+{
+  "coverage_start": "2024-01-01",
+  "coverage_end": "2025-12-31",
+  "background_years": [
+    2023,
+    2024
+  ],
+  "phase_1": "working_documentation_complete",
+  "phase_2": "computationally_complete",
+  "automated_validation": "PASS",
+  "independent_scientific_review": "PENDING",
+  "site_year_rows": 2442,
+  "phase_4": "computationally_complete",
+  "phase_4_validation": "PASS",
+  "phase_4_models": 141,
+  "phase_4_forward_temporal_validation": true,
+  "phase_4_primary_pooled_numerical_gate": false,
+  "phase_5": "computationally_complete",
+  "phase_5_validation": "PASS",
+  "phase_5_model_evaluations": 7380,
+  "phase_5_unique_fits": 7155,
+  "phase_5_prediction_rows": 610572,
+  "phase_5_confirmatory_complete": false
+}

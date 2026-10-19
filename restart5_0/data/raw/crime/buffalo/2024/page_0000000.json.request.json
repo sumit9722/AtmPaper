@@ -1,0 +1,16 @@
+{
+  "url": "https://data.buffalony.gov/resource/d6g9-xbgu.json",
+  "params": {
+    "$where": "incident_datetime >= '2024-01-01T00:00:00' AND incident_datetime < '2025-01-01T00:00:00'",
+    "$limit": 10000,
+    "$offset": 0,
+    "$order": ":id",
+    "$select": ":id as source_row_id,case_number,incident_datetime,incident_id,incident_type_primary,incident_description,parent_incident_type,hour_of_day,day_of_week,address_1,city,state,location,latitude,longitude,created_at,updated_at,zip_code,neighborhood,council_district,council_district_2011,census_tract,census_block_group,census_block,census_tract_2010,census_block_group_2010,census_block_2010,police_district,tractce20,geoid20_tract,geoid20_blockgroup,geoid20_block"
+  },
+  "resolved_url": "https://data.buffalony.gov/resource/d6g9-xbgu.json?%24where=incident_datetime+%3E%3D+%272024-01-01T00%3A00%3A00%27+AND+incident_datetime+%3C+%272025-01-01T00%3A00%3A00%27&%24limit=10000&%24offset=0&%24order=%3Aid&%24select=%3Aid+as+source_row_id%2Ccase_number%2Cincident_datetime%2Cincident_id%2Cincident_type_primary%2Cincident_description%2Cparent_incident_type%2Chour_of_day%2Cday_of_week%2Caddress_1%2Ccity%2Cstate%2Clocation%2Clatitude%2Clongitude%2Ccreated_at%2Cupdated_at%2Czip_code%2Cneighborhood%2Ccouncil_district%2Ccouncil_district_2011%2Ccensus_tract%2Ccensus_block_group%2Ccensus_block%2Ccensus_tract_2010%2Ccensus_block_group_2010%2Ccensus_block_2010%2Cpolice_district%2Ctractce20%2Cgeoid20_tract%2Cgeoid20_blockgroup%2Cgeoid20_block",
+  "method": "GET",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-19T07:54:36.439102+00:00",
+  "sha256": "db214dce0f2ebccedbd0b2d6885f055f083f1b1b483ab7f9dabd66cc34a5ba0c",
+  "raw_modified": false
+}

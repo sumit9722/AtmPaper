@@ -1,0 +1,7 @@
+{
+  "url": "https://data.cityofnewyork.us/resource/qgea-i56i.json?%24select=count%28%2A%29&%24where=cmplnt_fr_dt+%3E%3D+%272024-09-01T00%3A00%3A00%27+AND+cmplnt_fr_dt+%3C+%272024-10-01T00%3A00%3A00%27+AND+ofns_desc+IN+%28%27ROBBERY%27%2C%27BURGLARY%27%2C%27GRAND+LARCENY%27%2C%27PETIT+LARCENY%27%29",
+  "retrieved_utc": "2026-10-01T06:39:01.932971+00:00",
+  "sha256": "8d0a58520ba90c914a4130681cf917c5701a76f5a58fd6206ed6254cc02b51ac",
+  "http_status": 200,
+  "raw_modified": false
+}

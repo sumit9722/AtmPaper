@@ -1,0 +1,6 @@
+{
+  "url": "https://data.ny.gov/api/publishing/v1/revision/ndex-ad5r?limit=1000&offset=0",
+  "status": 200,
+  "retrieved_utc": "2026-10-19T07:46:41.815343+00:00",
+  "sha256": "7527ebfc8df96523a7a1eeb659b9fcb32ac5b3d8b5970364b5359bc72842e3a2"
+}

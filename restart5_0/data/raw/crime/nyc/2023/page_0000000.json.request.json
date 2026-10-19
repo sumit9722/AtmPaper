@@ -1,0 +1,16 @@
+{
+  "url": "https://data.cityofnewyork.us/resource/qgea-i56i.json",
+  "params": {
+    "$where": "cmplnt_fr_dt >= '2023-01-01T00:00:00' AND cmplnt_fr_dt < '2024-01-01T00:00:00' AND ofns_desc IN ('ROBBERY','BURGLARY')",
+    "$limit": 10000,
+    "$offset": 0,
+    "$order": ":id",
+    "$select": ":id as source_row_id,cmplnt_num,cmplnt_fr_dt,cmplnt_fr_tm,cmplnt_to_dt,rpt_dt,ky_cd,ofns_desc,pd_cd,pd_desc,crm_atpt_cptd_cd,law_cat_cd,boro_nm,loc_of_occur_desc,prem_typ_desc,juris_desc,latitude,longitude"
+  },
+  "resolved_url": "https://data.cityofnewyork.us/resource/qgea-i56i.json?%24where=cmplnt_fr_dt+%3E%3D+%272023-01-01T00%3A00%3A00%27+AND+cmplnt_fr_dt+%3C+%272024-01-01T00%3A00%3A00%27+AND+ofns_desc+IN+%28%27ROBBERY%27%2C%27BURGLARY%27%29&%24limit=10000&%24offset=0&%24order=%3Aid&%24select=%3Aid+as+source_row_id%2Ccmplnt_num%2Ccmplnt_fr_dt%2Ccmplnt_fr_tm%2Ccmplnt_to_dt%2Crpt_dt%2Cky_cd%2Cofns_desc%2Cpd_cd%2Cpd_desc%2Ccrm_atpt_cptd_cd%2Claw_cat_cd%2Cboro_nm%2Cloc_of_occur_desc%2Cprem_typ_desc%2Cjuris_desc%2Clatitude%2Clongitude",
+  "method": "GET",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-19T07:47:48.922621+00:00",
+  "sha256": "31e960a45f39803d47c0bf9d59966fee739ed7b46385b2fa1c8fd9a93b8db9c6",
+  "raw_modified": false
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://gis.cityofrochester.gov/arcgis/rest/services/RPD/RPD_Part_I_Crime/MapServer/3",
+  "params": {
+    "f": "json"
+  },
+  "resolved_url": "https://gis.cityofrochester.gov/arcgis/rest/services/RPD/RPD_Part_I_Crime/MapServer/3?f=json",
+  "method": "GET",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-19T07:45:35.592167+00:00",
+  "sha256": "eb8ec81e613da97940b97979f2a220d2065f89fee106e0128471b1a45875d6f7",
+  "raw_modified": false
+}

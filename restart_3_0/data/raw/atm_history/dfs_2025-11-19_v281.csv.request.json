@@ -1,0 +1,8 @@
+{
+  "url": "https://data.ny.gov/api/archival.csv?id=ndex-ad5r&version=281&method=export",
+  "retrieved_utc": "2026-10-01T06:37:17.411817+00:00",
+  "sha256": "85aa169b784154edab98471111af97d82908479abd82326c950248276d8b9ead",
+  "snapshot_date": "2025-11-19",
+  "version": 281,
+  "raw_modified": false
+}

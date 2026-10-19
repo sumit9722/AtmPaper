@@ -1,0 +1,368 @@
+{
+  "retrieved_utc": "2026-10-19T08:53:16.679191+00:00",
+  "status": "PASS",
+  "partitions": [
+    {
+      "city_slug": "buffalo",
+      "year": 2015,
+      "api_rows": 17269,
+      "downloaded_rows": 17269,
+      "unique_source_rows": 17269,
+      "count_after": 17269,
+      "status": "PASS",
+      "scope": "all_published_categories"
+    },
+    {
+      "city_slug": "buffalo",
+      "year": 2016,
+      "api_rows": 16453,
+      "downloaded_rows": 16453,
+      "unique_source_rows": 16453,
+      "count_after": 16453,
+      "status": "PASS",
+      "scope": "all_published_categories"
+    },
+    {
+      "city_slug": "buffalo",
+      "year": 2017,
+      "api_rows": 15405,
+      "downloaded_rows": 15405,
+      "unique_source_rows": 15405,
+      "count_after": 15405,
+      "status": "PASS",
+      "scope": "all_published_categories"
+    },
+    {
+      "city_slug": "buffalo",
+      "year": 2018,
+      "api_rows": 15469,
+      "downloaded_rows": 15469,
+      "unique_source_rows": 15469,
+      "count_after": 15469,
+      "status": "PASS",
+      "scope": "all_published_categories"
+    },
+    {
+      "city_slug": "buffalo",
+      "year": 2019,
+      "api_rows": 13672,
+      "downloaded_rows": 13672,
+      "unique_source_rows": 13672,
+      "count_after": 13672,
+      "status": "PASS",
+      "scope": "all_published_categories"
+    },
+    {
+      "city_slug": "buffalo",
+      "year": 2020,
+      "api_rows": 12126,
+      "downloaded_rows": 12126,
+      "unique_source_rows": 12126,
+      "count_after": 12126,
+      "status": "PASS",
+      "scope": "all_published_categories"
+    },
+    {
+      "city_slug": "buffalo",
+      "year": 2021,
+      "api_rows": 11770,
+      "downloaded_rows": 11770,
+      "unique_source_rows": 11770,
+      "count_after": 11770,
+      "status": "PASS",
+      "scope": "all_published_categories"
+    },
+    {
+      "city_slug": "buffalo",
+      "year": 2022,
+      "api_rows": 10822,
+      "downloaded_rows": 10822,
+      "unique_source_rows": 10822,
+      "count_after": 10822,
+      "status": "PASS",
+      "scope": "all_published_categories"
+    },
+    {
+      "city_slug": "buffalo",
+      "year": 2023,
+      "api_rows": 14319,
+      "downloaded_rows": 14319,
+      "unique_source_rows": 14319,
+      "count_after": 14319,
+      "status": "PASS",
+      "scope": "all_published_categories"
+    },
+    {
+      "city_slug": "buffalo",
+      "year": 2024,
+      "api_rows": 14096,
+      "downloaded_rows": 14096,
+      "unique_source_rows": 14096,
+      "count_after": 14096,
+      "status": "PASS",
+      "scope": "all_published_categories"
+    },
+    {
+      "city_slug": "buffalo",
+      "year": 2025,
+      "api_rows": 12352,
+      "downloaded_rows": 12352,
+      "unique_source_rows": 12352,
+      "count_after": 12352,
+      "status": "PASS",
+      "scope": "all_published_categories"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2015,
+      "api_rows": 32112,
+      "downloaded_rows": 32112,
+      "unique_source_rows": 32112,
+      "count_after": 32112,
+      "status": "PASS",
+      "scope": "robbery_burglary"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2016,
+      "api_rows": 28548,
+      "downloaded_rows": 28548,
+      "unique_source_rows": 28548,
+      "count_after": 28548,
+      "status": "PASS",
+      "scope": "robbery_burglary"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2017,
+      "api_rows": 26135,
+      "downloaded_rows": 26135,
+      "unique_source_rows": 26135,
+      "count_after": 26135,
+      "status": "PASS",
+      "scope": "robbery_burglary"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2018,
+      "api_rows": 24722,
+      "downloaded_rows": 24722,
+      "unique_source_rows": 24722,
+      "count_after": 24722,
+      "status": "PASS",
+      "scope": "robbery_burglary"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2019,
+      "api_rows": 24320,
+      "downloaded_rows": 24320,
+      "unique_source_rows": 24320,
+      "count_after": 24320,
+      "status": "PASS",
+      "scope": "robbery_burglary"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2020,
+      "api_rows": 28843,
+      "downloaded_rows": 28843,
+      "unique_source_rows": 28843,
+      "count_after": 28843,
+      "status": "PASS",
+      "scope": "robbery_burglary"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2021,
+      "api_rows": 26767,
+      "downloaded_rows": 26767,
+      "unique_source_rows": 26767,
+      "count_after": 26767,
+      "status": "PASS",
+      "scope": "robbery_burglary"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2022,
+      "api_rows": 33255,
+      "downloaded_rows": 33255,
+      "unique_source_rows": 33255,
+      "count_after": 33255,
+      "status": "PASS",
+      "scope": "robbery_burglary"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2023,
+      "api_rows": 30668,
+      "downloaded_rows": 30668,
+      "unique_source_rows": 30668,
+      "count_after": 30668,
+      "status": "PASS",
+      "scope": "robbery_burglary"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2024,
+      "api_rows": 29597,
+      "downloaded_rows": 29597,
+      "unique_source_rows": 29597,
+      "count_after": 29597,
+      "status": "PASS",
+      "scope": "robbery_burglary"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2025,
+      "api_rows": 27712,
+      "downloaded_rows": 27712,
+      "unique_source_rows": 27712,
+      "count_after": 27712,
+      "status": "PASS",
+      "scope": "robbery_burglary"
+    },
+    {
+      "city_slug": "rochester",
+      "year": 2015,
+      "api_rows": 9111,
+      "downloaded_rows": 9111,
+      "unique_source_rows": 9111,
+      "count_after": 9111,
+      "status": "PASS",
+      "scope": "all_published_Part_I_categories"
+    },
+    {
+      "city_slug": "rochester",
+      "year": 2016,
+      "api_rows": 8656,
+      "downloaded_rows": 8656,
+      "unique_source_rows": 8656,
+      "count_after": 8656,
+      "status": "PASS",
+      "scope": "all_published_Part_I_categories"
+    },
+    {
+      "city_slug": "rochester",
+      "year": 2017,
+      "api_rows": 8889,
+      "downloaded_rows": 8889,
+      "unique_source_rows": 8889,
+      "count_after": 8889,
+      "status": "PASS",
+      "scope": "all_published_Part_I_categories"
+    },
+    {
+      "city_slug": "rochester",
+      "year": 2018,
+      "api_rows": 7827,
+      "downloaded_rows": 7827,
+      "unique_source_rows": 7827,
+      "count_after": 7827,
+      "status": "PASS",
+      "scope": "all_published_Part_I_categories"
+    },
+    {
+      "city_slug": "rochester",
+      "year": 2019,
+      "api_rows": 8118,
+      "downloaded_rows": 8118,
+      "unique_source_rows": 8118,
+      "count_after": 8118,
+      "status": "PASS",
+      "scope": "all_published_Part_I_categories"
+    },
+    {
+      "city_slug": "rochester",
+      "year": 2020,
+      "api_rows": 8530,
+      "downloaded_rows": 8530,
+      "unique_source_rows": 8530,
+      "count_after": 8530,
+      "status": "PASS",
+      "scope": "all_published_Part_I_categories"
+    },
+    {
+      "city_slug": "rochester",
+      "year": 2021,
+      "api_rows": 7622,
+      "downloaded_rows": 7622,
+      "unique_source_rows": 7622,
+      "count_after": 7622,
+      "status": "PASS",
+      "scope": "all_published_Part_I_categories"
+    },
+    {
+      "city_slug": "rochester",
+      "year": 2022,
+      "api_rows": 9009,
+      "downloaded_rows": 9009,
+      "unique_source_rows": 9009,
+      "count_after": 9009,
+      "status": "PASS",
+      "scope": "all_published_Part_I_categories"
+    },
+    {
+      "city_slug": "rochester",
+      "year": 2023,
+      "api_rows": 11801,
+      "downloaded_rows": 11801,
+      "unique_source_rows": 11801,
+      "count_after": 11801,
+      "status": "PASS",
+      "scope": "all_published_Part_I_categories"
+    },
+    {
+      "city_slug": "rochester",
+      "year": 2024,
+      "api_rows": 8464,
+      "downloaded_rows": 8464,
+      "unique_source_rows": 8464,
+      "count_after": 8464,
+      "status": "PASS",
+      "scope": "all_published_Part_I_categories"
+    },
+    {
+      "city_slug": "rochester",
+      "year": 2025,
+      "api_rows": 7172,
+      "downloaded_rows": 7172,
+      "unique_source_rows": 7172,
+      "count_after": 7172,
+      "status": "PASS",
+      "scope": "all_published_Part_I_categories"
+    }
+  ],
+  "late_report_supplements": [
+    {
+      "city_slug": "nyc",
+      "year": 2022,
+      "source": "current_year_late_report_supplement",
+      "downloaded_rows": 1,
+      "status": "PASS"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2023,
+      "source": "current_year_late_report_supplement",
+      "downloaded_rows": 4,
+      "status": "PASS"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2024,
+      "source": "current_year_late_report_supplement",
+      "downloaded_rows": 7,
+      "status": "PASS"
+    },
+    {
+      "city_slug": "nyc",
+      "year": 2025,
+      "source": "current_year_late_report_supplement",
+      "downloaded_rows": 134,
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "limitation": "Counts and IDs checked before/after acquisition; live source revisions within a partition remain possible. Not an as-of historical database."
+}

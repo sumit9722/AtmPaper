@@ -1,0 +1,12 @@
+{
+  "url": "https://geodata.epa.gov/arcgis/rest/services/OA/SmartLocationDatabase/MapServer/1/query",
+  "params": {
+    "where": "STATEFP='36' AND COUNTYFP='081'",
+    "returnCountOnly": "true",
+    "f": "json"
+  },
+  "resolved_url": "https://geodata.epa.gov/arcgis/rest/services/OA/SmartLocationDatabase/MapServer/1/query?where=STATEFP%3D%2736%27+AND+COUNTYFP%3D%27081%27&returnCountOnly=true&f=json",
+  "retrieved_utc": "2026-10-02T00:45:54.855767+00:00",
+  "sha256": "0d8c050b813a561ed3cb07a50bb5b6e5ab13ee5630b1307319bb5d6a0857554b",
+  "bytes": 14
+}

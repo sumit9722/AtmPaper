@@ -1,0 +1,13 @@
+{
+  "url": "https://data.buffalony.gov/resource/d6g9-xbgu.json",
+  "params": {
+    "$select": "count(*)",
+    "$where": "incident_datetime >= '2022-01-01T00:00:00' AND incident_datetime < '2023-01-01T00:00:00'"
+  },
+  "resolved_url": "https://data.buffalony.gov/resource/d6g9-xbgu.json?%24select=count%28%2A%29&%24where=incident_datetime+%3E%3D+%272022-01-01T00%3A00%3A00%27+AND+incident_datetime+%3C+%272023-01-01T00%3A00%3A00%27",
+  "method": "GET",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-19T07:54:14.660053+00:00",
+  "sha256": "f9d11ca744fbaf5048b1a62350452b877b651fcfcac1c9c70285406ed390d3ff",
+  "raw_modified": false
+}

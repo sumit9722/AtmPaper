@@ -1,0 +1,12 @@
+{
+  "python": "3.14.7 (main, Aug 10 2026, 07:46:56) [GCC 16.1.1 20260728]",
+  "platform": "Linux-6.18.54-1-lts-x86_64-with-glibc2.44",
+  "packages": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "shapely": "2.1.2",
+    "pyproj": "3.8.0",
+    "requests": "2.34.2",
+    "matplotlib": "3.11.2"
+  }
+}

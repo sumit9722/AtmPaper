@@ -1,0 +1,10 @@
+{
+  "url": "https://data.cityofnewyork.us/api/views/qgea-i56i.json",
+  "params": {},
+  "resolved_url": "https://data.cityofnewyork.us/api/views/qgea-i56i.json",
+  "method": "GET",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-19T07:45:35.596414+00:00",
+  "sha256": "5e8fcaf2e5de76add5dbbb8ec0f2078835459dda4d8bf044739547a5cc625cfa",
+  "raw_modified": false
+}

@@ -1,0 +1,16 @@
+Replayed models 1 / 24
+{
+  "status": "PASS",
+  "phase": 4,
+  "plans": 8,
+  "model_evaluations": 24,
+  "models_replayed": 24,
+  "prediction_rows": 7446,
+  "max_replay_probability_error": 0.0,
+  "selection_score_sklearn_refits": 672,
+  "all_inner_memberships_checked": true,
+  "matched_memberships_and_metrics": "PASS",
+  "inherited_raw_checksums_verified": 342,
+  "conditional_inference_tables": "PASS",
+  "confirmatory_complete": false
+}

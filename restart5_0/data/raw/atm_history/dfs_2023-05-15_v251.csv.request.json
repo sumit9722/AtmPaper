@@ -1,0 +1,20 @@
+{
+  "url": "https://data.ny.gov/api/archival.csv?id=ndex-ad5r&version=251&method=export",
+  "method": "GET",
+  "retrieved_utc": "2026-10-19T07:51:17.509973+00:00",
+  "sha256": "9f45a9e13564db1444159ae9d54bb9a202f6fb938e0a64a57195289192a220f7",
+  "snapshot_date": "2023-05-15",
+  "requested_version": 251,
+  "verified_status": {
+    "type": "done",
+    "value": {
+      "datasetName": "alpha.49592",
+      "version": 251,
+      "rowLocation": "compressed/materializations/v3/alpha.49592/251/rows",
+      "columnLocation": "compressed/materializations/v3/alpha.49592/251/columns",
+      "refSize": 287564,
+      "gzipped": true
+    }
+  },
+  "raw_modified": false
+}

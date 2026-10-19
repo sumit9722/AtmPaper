@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "rows": 2442,
+  "primary_predictors": 9,
+  "independent_formula_checks": "all rows and components",
+  "brute_force_join_checks": 30,
+  "scientific_acceptance": "exploratory; pending independent review"
+}

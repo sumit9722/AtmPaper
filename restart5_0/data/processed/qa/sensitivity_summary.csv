@@ -1,0 +1,55 @@
+cohort,city,year,radius_m,sites,positive_sites,positive_reported_by_year_end,positive_nearest_only,event_site_links,multiply_matched_links,boundary_clear_sites,boundary_clear_positive,drift_le_25m_sites,drift_le_25m_positive,rounding_scenario_definitely_positive,rounding_scenario_possibly_positive,sites_with_unknown_background_availability,background_missing_invalid_links,background_total_links
+address_continuity_partial_2023,New York City,2023,25,1192,428,428,391,1083,264,1186,427,1014,378,,,0,0,93640
+address_continuity_partial_2023,New York City,2023,50,1192,696,696,601,2113,760,1186,695,1014,605,,,0,0,93640
+address_continuity_partial_2023,New York City,2023,100,1192,1001,1001,853,5797,3439,1186,999,1014,859,,,0,0,93640
+address_continuity_partial_2023,Buffalo,2023,25,57,2,0,2,2,0,54,2,32,2,0,32,56,635,912
+address_continuity_partial_2023,Buffalo,2023,50,57,17,8,17,27,0,54,17,32,12,0,38,56,635,912
+address_continuity_partial_2023,Buffalo,2023,100,57,33,19,31,100,26,54,33,32,21,5,44,56,635,912
+address_continuity_partial_2023,Rochester,2023,25,22,4,4,4,6,0,22,4,12,4,,,0,0,395
+address_continuity_partial_2023,Rochester,2023,50,22,5,5,5,10,0,22,5,12,4,,,0,0,395
+address_continuity_partial_2023,Rochester,2023,100,22,18,18,15,35,8,22,18,12,9,,,0,0,395
+address_continuity_full_year,New York City,2024,25,1129,284,284,269,722,99,1123,284,1022,262,,,0,0,75332
+address_continuity_full_year,New York City,2024,50,1129,662,662,598,2098,538,1123,659,1022,600,,,0,0,75332
+address_continuity_full_year,New York City,2024,100,1129,948,948,853,6205,3465,1123,943,1022,856,,,0,0,75332
+address_continuity_full_year,Buffalo,2024,25,48,4,4,4,8,0,45,4,29,4,0,28,48,596,770
+address_continuity_full_year,Buffalo,2024,50,48,16,16,16,33,0,45,16,29,13,0,33,48,596,770
+address_continuity_full_year,Buffalo,2024,100,48,29,29,28,86,6,45,28,29,22,4,38,48,596,770
+address_continuity_full_year,Rochester,2024,25,24,4,4,4,15,0,23,4,17,2,,,0,0,326
+address_continuity_full_year,Rochester,2024,50,24,6,6,6,19,2,23,6,17,3,,,0,0,326
+address_continuity_full_year,Rochester,2024,100,24,16,16,15,47,7,23,15,17,10,,,0,0,326
+address_continuity_full_year,New York City,2025,25,1160,421,419,390,1030,122,1153,419,1150,418,,,0,0,73042
+address_continuity_full_year,New York City,2025,50,1160,655,652,583,2102,575,1153,653,1150,649,,,0,0,73042
+address_continuity_full_year,New York City,2025,100,1160,971,969,846,5999,3345,1153,966,1150,962,,,0,0,73042
+address_continuity_full_year,Buffalo,2025,25,50,3,3,3,4,0,47,3,50,3,0,32,0,0,844
+address_continuity_full_year,Buffalo,2025,50,50,14,14,13,23,4,47,14,50,14,0,37,0,0,844
+address_continuity_full_year,Buffalo,2025,100,50,34,34,30,76,14,47,33,50,34,5,43,0,0,844
+address_continuity_full_year,Rochester,2025,25,31,4,4,4,5,0,27,2,31,4,,,0,0,338
+address_continuity_full_year,Rochester,2025,50,31,8,8,8,11,0,27,6,31,8,,,0,0,338
+address_continuity_full_year,Rochester,2025,100,31,16,16,14,29,4,27,13,31,16,,,0,0,338
+exact_identity_supported,New York City,2023,25,3418,500,500,455,885,195,3398,500,,,,,0,0,271365
+exact_identity_supported,New York City,2023,50,3418,1085,1085,916,2146,739,3398,1081,,,,,0,0,271365
+exact_identity_supported,New York City,2023,100,3418,1993,1991,1531,6103,3834,3398,1989,,,,,0,0,271365
+exact_identity_supported,Buffalo,2023,25,163,5,1,5,6,0,151,5,,,0,49,159,1829,2643
+exact_identity_supported,Buffalo,2023,50,163,18,5,18,25,0,151,18,,,0,62,159,1829,2643
+exact_identity_supported,Buffalo,2023,100,163,56,21,47,100,34,151,54,,,7,78,159,1829,2643
+exact_identity_supported,Rochester,2023,25,89,9,9,9,13,0,77,7,,,,,0,0,1335
+exact_identity_supported,Rochester,2023,50,89,13,13,13,17,0,77,10,,,,,0,0,1335
+exact_identity_supported,Rochester,2023,100,89,32,32,26,55,17,77,29,,,,,0,0,1335
+exact_identity_supported,New York City,2024,25,3829,503,502,463,928,184,3807,503,,,,,0,0,260672
+exact_identity_supported,New York City,2024,50,3829,1148,1142,978,2464,853,3807,1144,,,,,0,0,260672
+exact_identity_supported,New York City,2024,100,3829,2041,2032,1593,7200,4549,3807,2035,,,,,0,0,260672
+exact_identity_supported,Buffalo,2024,25,166,7,7,7,9,0,151,6,,,0,52,166,1962,2554
+exact_identity_supported,Buffalo,2024,50,166,26,26,23,38,6,151,23,,,0,62,166,1962,2554
+exact_identity_supported,Buffalo,2024,100,166,55,55,48,100,15,151,49,,,10,83,166,1962,2554
+exact_identity_supported,Rochester,2024,25,105,8,8,8,17,0,93,6,,,,,0,0,1286
+exact_identity_supported,Rochester,2024,50,105,14,14,14,26,2,93,12,,,,,0,0,1286
+exact_identity_supported,Rochester,2024,100,105,29,29,26,63,18,93,26,,,,,0,0,1286
+exact_identity_supported,New York City,2025,25,2079,590,588,536,1309,232,2065,588,,,,,0,0,135139
+exact_identity_supported,New York City,2025,50,2079,975,971,831,2753,1000,2065,972,,,,,0,0,135139
+exact_identity_supported,New York City,2025,100,2079,1557,1554,1254,8011,5334,2065,1551,,,,,0,0,135139
+exact_identity_supported,Buffalo,2025,25,96,5,5,5,6,0,87,5,,,0,41,0,0,1585
+exact_identity_supported,Buffalo,2025,50,96,18,18,16,27,6,87,18,,,0,54,0,0,1585
+exact_identity_supported,Buffalo,2025,100,96,46,46,41,95,30,87,45,,,7,67,0,0,1585
+exact_identity_supported,Rochester,2025,25,58,5,5,5,6,0,53,3,,,,,0,0,713
+exact_identity_supported,Rochester,2025,50,58,9,9,9,12,0,53,7,,,,,0,0,713
+exact_identity_supported,Rochester,2025,100,58,18,18,16,33,6,53,15,,,,,0,0,713

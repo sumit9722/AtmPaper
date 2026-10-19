@@ -1,0 +1,10 @@
+{
+  "url": "https://data.buffalony.gov/api/views/d6g9-xbgu.json",
+  "params": {},
+  "resolved_url": "https://data.buffalony.gov/api/views/d6g9-xbgu.json",
+  "method": "GET",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-19T07:45:36.714812+00:00",
+  "sha256": "2ca9163754c90b6635d63a912eaca7a85bae95e73bb5f919a52bc6631cb46bba",
+  "raw_modified": false
+}

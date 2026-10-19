@@ -1,0 +1,7 @@
+city,year,previous_sites,new_sites,matched_locations,added_locations,removed_locations,changed_50m_counts,changed_background_counts,interpretation
+New York City,2024,1129,1129,1129,0,0,1,0,Fresh source vintage plus documented report chronology/source completeness changes; not model improvement
+Buffalo,2024,48,48,48,0,0,0,0,Fresh source vintage plus documented report chronology/source completeness changes; not model improvement
+Rochester,2024,24,24,24,0,0,0,0,Fresh source vintage plus documented report chronology/source completeness changes; not model improvement
+New York City,2025,1160,1160,1160,0,0,7,0,Fresh source vintage plus documented report chronology/source completeness changes; not model improvement
+Buffalo,2025,50,50,50,0,0,0,0,Fresh source vintage plus documented report chronology/source completeness changes; not model improvement
+Rochester,2025,31,31,31,0,0,0,0,Fresh source vintage plus documented report chronology/source completeness changes; not model improvement

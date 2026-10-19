@@ -1,0 +1,18 @@
+raw_feature,predictor,transformation,unit,source,formula,role,missing_policy
+background_primary,log1p_background_primary,log1p,count,prior_year_police,background_primary_200_500m (phase 2 report cutoff applied),primary,retain null; future training-fold imputation only
+population_density,log1p_population_density,log1p,residents/km2 land,acs2022,B01003_001E / ALAND * 1000000,primary,retain null; future training-fold imputation only
+median_household_income,log1p_median_household_income,log1p,2022 USD,acs2022,B19013_001E,primary,retain null; future training-fold imputation only
+unemployment_rate,unemployment_rate,identity,fraction,acs2022,B23025_005E / B23025_003E,primary,retain null; future training-fold imputation only
+employment_density,log1p_employment_density,log1p,jobs/unprotected acre,sld2021,D1C,primary,retain null; future training-fold imputation only
+retail_employment_density,log1p_retail_employment_density,log1p,retail jobs/unprotected acre,sld2021,D1C5_RET,primary,retain null; future training-fold imputation only
+employment_mix,employment_mix,identity,entropy 0-1,sld2021,D2B_E5MIXA,primary,retain null; future training-fold imputation only
+road_network_density,log1p_road_network_density,log1p,facility miles/mi2 land,sld2021,D3A,primary,retain null; future training-fold imputation only
+auto_road_density,log1p_auto_road_density,log1p,auto-oriented facility miles/mi2 land,sld2021,D3AAO,primary,retain null; future training-fold imputation only
+intersection_density,log1p_intersection_density,log1p,weighted intersections/mi2,sld2021,D3B,primary,retain null; future training-fold imputation only
+transit_service_density,log1p_transit_service_density,log1p,departures/hour/mi2,sld2021,D4D,primary,retain null; future training-fold imputation only
+auto_job_accessibility,log1p_auto_job_accessibility,log1p,time-weighted jobs,sld2021,D5AR,primary,retain null; future training-fold imputation only
+atm_density_500m,log1p_atm_density_500m,log1p,other sites/km2 circle,prior_december_dfs,other_site_count_500m / (pi * 0.5**2),primary,retain null; future training-fold imputation only
+nearest_other_atm,log1p_nearest_other_atm,log1p,metres WGS84,prior_december_dfs,minimum WGS84 distance to other prior-December DFS identity,primary,retain null; future training-fold imputation only
+transit_centroid_distance,log1p_transit_centroid_distance,log1p,metres from CBG centroid,sld2021,D4A,sensitivity,retain null; future training-fold imputation only
+transit_job_accessibility,log1p_transit_job_accessibility,log1p,time-weighted jobs,sld2021,D5BR,sensitivity,retain null; future training-fold imputation only
+background_unfiltered,log1p_background_unfiltered,log1p,count,prior_year_police,background_unfiltered_200_500m,sensitivity,retain null; future training-fold imputation only

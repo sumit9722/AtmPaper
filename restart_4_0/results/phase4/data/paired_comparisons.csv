@@ -1,0 +1,17 @@
+scheme,city,comparison,ap_difference,ci_low,ci_high,spatial_blocks,valid_bootstraps,bootstrap_replicates,uncertainty_scope,primary,numerical_gate,confirmatory
+forward_spatial,ALL,M1-M0,0.10593442366413619,0.0651918661890561,0.13358531342560542,202,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,True,True,False
+forward_spatial,ALL,M2-M0,0.09293969571363114,0.04734249359531945,0.12231867892006879,202,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_spatial,New York City,M1-M0,0.10643035346779217,0.06691171011431842,0.13439883339496705,170,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_spatial,New York City,M2-M0,0.09418259806341289,0.04965573406287796,0.1257126309629278,170,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_spatial,Buffalo,M1-M0,0.39709327207023054,0.25039644547946255,0.5896401136690291,19,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_spatial,Buffalo,M2-M0,0.4192763915691197,0.24696429839862588,0.5785292770311897,19,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_spatial,Rochester,M1-M0,0.20875305250305248,0.045799669080919085,0.4753161572622778,13,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_spatial,Rochester,M2-M0,0.1235691391941392,0.016677436241294932,0.34096892749756674,13,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_leave_city_out,ALL,M1-M0,0.2237173631782039,0.18752572729662603,0.2580736170646211,202,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_leave_city_out,ALL,M2-M0,0.13171729510165242,0.11485915883048324,0.14599213212616924,202,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_leave_city_out,New York City,M1-M0,0.21867921099509224,0.1806558844406017,0.25106613342775275,170,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_leave_city_out,New York City,M2-M0,0.13167398820293985,0.10955532576847496,0.1458155230181817,170,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_leave_city_out,Buffalo,M1-M0,0.40732967864076886,0.2567240526018099,0.5911759811028053,19,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_leave_city_out,Buffalo,M2-M0,0.3609255491606145,0.19840707079590014,0.5598068001904319,19,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_leave_city_out,Rochester,M1-M0,0.20983530358530358,0.03575448361162642,0.4735147081246597,13,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False
+forward_leave_city_out,Rochester,M2-M0,0.15119329595136047,0.027477944713238826,0.33904822781385274,13,2000,2000,conditional fitted predictions; spatial blocks resampled jointly across seeds,False,True,False

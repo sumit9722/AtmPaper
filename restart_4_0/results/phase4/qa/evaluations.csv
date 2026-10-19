@@ -1,0 +1,25 @@
+scheme,fold,plan_id,model,fit_id,train_n,test_n,min_distance_m
+forward_spatial,0,0,M0,fit_00000,1098,94,1779.0781519324964
+forward_spatial,0,0,M1,fit_00001,1098,94,1779.0781519324964
+forward_spatial,0,0,M2,fit_00002,1098,94,1779.0781519324964
+forward_spatial,1,1,M0,fit_00003,653,513,1560.3879585217355
+forward_spatial,1,1,M1,fit_00004,653,513,1560.3879585217355
+forward_spatial,1,1,M2,fit_00005,653,513,1560.3879585217355
+forward_spatial,2,2,M0,fit_00006,936,240,1561.0812246465543
+forward_spatial,2,2,M1,fit_00007,936,240,1561.0812246465543
+forward_spatial,2,2,M2,fit_00008,936,240,1561.0812246465543
+forward_spatial,3,3,M0,fit_00009,1030,151,1560.348409212738
+forward_spatial,3,3,M1,fit_00010,1030,151,1560.348409212738
+forward_spatial,3,3,M2,fit_00011,1030,151,1560.348409212738
+forward_spatial,4,4,M0,fit_00012,960,243,1587.118088255367
+forward_spatial,4,4,M1,fit_00013,960,243,1587.118088255367
+forward_spatial,4,4,M2,fit_00014,960,243,1587.118088255367
+forward_leave_city_out,New York City,5,M0,fit_00015,72,1160,391270.4497151459
+forward_leave_city_out,New York City,5,M1,fit_00016,72,1160,391270.4497151459
+forward_leave_city_out,New York City,5,M2,fit_00017,72,1160,391270.4497151459
+forward_leave_city_out,Buffalo,6,M0,fit_00018,1153,50,96709.54944520138
+forward_leave_city_out,Buffalo,6,M1,fit_00019,1153,50,96709.54944520138
+forward_leave_city_out,Buffalo,6,M2,fit_00020,1153,50,96709.54944520138
+forward_leave_city_out,Rochester,7,M0,fit_00021,1177,31,96759.20304060799
+forward_leave_city_out,Rochester,7,M1,fit_00022,1177,31,96759.20304060799
+forward_leave_city_out,Rochester,7,M2,fit_00023,1177,31,96759.20304060799

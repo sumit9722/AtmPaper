@@ -1,0 +1,10 @@
+{
+  "url": "https://data.cityofnewyork.us/api/views/5uac-w243.json",
+  "params": {},
+  "resolved_url": "https://data.cityofnewyork.us/api/views/5uac-w243.json",
+  "method": "GET",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-19T08:52:47.750811+00:00",
+  "sha256": "28b03f94e786161e12d8ea48c83b4573b37fc2bc901d488bebee9f48951811f9",
+  "raw_modified": false
+}

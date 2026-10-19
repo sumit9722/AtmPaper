@@ -1,0 +1,13 @@
+{
+  "url": "https://data.cityofnewyork.us/resource/qgea-i56i.json",
+  "params": {
+    "$where": "cmplnt_fr_dt >= '2023-01-01T00:00:00' AND cmplnt_fr_dt < '2024-01-01T00:00:00' AND ofns_desc IN ('ROBBERY','BURGLARY')",
+    "$limit": 20000,
+    "$offset": 0,
+    "$order": ":id",
+    "$select": "cmplnt_num,cmplnt_fr_dt,cmplnt_fr_tm,rpt_dt,ofns_desc,pd_cd,pd_desc,crm_atpt_cptd_cd,latitude,longitude"
+  },
+  "method": "GET",
+  "sha256": "49adc485912a74a667b2fed50ff12b25d119de51757067395655119ae7c70c26",
+  "retrieved_utc": "2026-10-03T01:03:10.708490+00:00"
+}

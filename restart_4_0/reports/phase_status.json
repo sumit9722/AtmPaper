@@ -1,0 +1,15 @@
+{
+  "phase_1": "complete: documented retrospective protocol",
+  "phase_2": "complete: inherited validated cohorts and archived sources",
+  "phase_3": "complete: feature reconstruction and independent validation",
+  "phase_4": "complete: validated PASS",
+  "phase_5": "complete: validated PASS",
+  "confirmatory_complete": false,
+  "primary_numerical_gate": true,
+  "phase5_model_evaluations": 7380,
+  "phase5_unique_models": 7155,
+  "independent_scientific_review": "PENDING",
+  "automated_validation": "PASS",
+  "phase5_supported_comparisons": 9,
+  "phase5_corrected_inference": "PASS"
+}

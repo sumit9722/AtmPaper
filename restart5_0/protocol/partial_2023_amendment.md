@@ -1,0 +1,5 @@
+# Preserve the maximum supported 2023 span
+
+The user requested the longest continuous snapshot-based period. Apply the same outcome-independent unique-address and <=50 m displacement rule to the twelve recovered February 2023–January 2024 snapshots. Unlike the full-year rule, eligibility supports only [2023-02-22, 2024-01-01), or 313 days. Save this cohort separately as address_continuity_partial_2023 and retain its actual supported interval on every panel row. Never count January/early-February outcomes or label it a full year. Combine it with the separately selected 2024/2025 full-year cohorts only in a clearly duration-annotated convenience file. Raw binary prevalence across 313-, 365- and 366-day exposures is not directly comparable annual risk.
+
+This extension is determined by snapshot availability before building this partial address cohort; no model fitting is performed. It complements the exact-identity partial/full sensitivity, which fragments locations when coordinates change. The two continuity cohorts and exact-identity sensitivity must never be stacked as independent site observations. Actual operating days remain unknown.

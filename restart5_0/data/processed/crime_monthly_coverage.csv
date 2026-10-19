@@ -1,0 +1,145 @@
+city,month,unique_valid_cases,primary_cases,source_scope,zero_is_observed_after_acquisition
+New York City,2022-01,2458,2458,primary_only,True
+New York City,2022-02,2529,2529,primary_only,True
+New York City,2022-03,2593,2593,primary_only,True
+New York City,2022-04,2546,2546,primary_only,True
+New York City,2022-05,2791,2791,primary_only,True
+New York City,2022-06,2871,2871,primary_only,True
+New York City,2022-07,3144,3144,primary_only,True
+New York City,2022-08,3039,3039,primary_only,True
+New York City,2022-09,2989,2989,primary_only,True
+New York City,2022-10,2920,2920,primary_only,True
+New York City,2022-11,2786,2786,primary_only,True
+New York City,2022-12,2585,2585,primary_only,True
+New York City,2023-01,2642,2642,primary_only,True
+New York City,2023-02,2267,2267,primary_only,True
+New York City,2023-03,2479,2479,primary_only,True
+New York City,2023-04,2366,2366,primary_only,True
+New York City,2023-05,2543,2543,primary_only,True
+New York City,2023-06,2492,2492,primary_only,True
+New York City,2023-07,2712,2712,primary_only,True
+New York City,2023-08,2744,2744,primary_only,True
+New York City,2023-09,2550,2550,primary_only,True
+New York City,2023-10,2716,2716,primary_only,True
+New York City,2023-11,2476,2476,primary_only,True
+New York City,2023-12,2683,2683,primary_only,True
+New York City,2024-01,2512,2512,primary_only,True
+New York City,2024-02,2268,2268,primary_only,True
+New York City,2024-03,2358,2358,primary_only,True
+New York City,2024-04,2376,2376,primary_only,True
+New York City,2024-05,2598,2598,primary_only,True
+New York City,2024-06,2449,2449,primary_only,True
+New York City,2024-07,2620,2620,primary_only,True
+New York City,2024-08,2685,2685,primary_only,True
+New York City,2024-09,2478,2478,primary_only,True
+New York City,2024-10,2612,2612,primary_only,True
+New York City,2024-11,2409,2409,primary_only,True
+New York City,2024-12,2237,2237,primary_only,True
+New York City,2025-01,2276,2276,primary_only,True
+New York City,2025-02,1931,1931,primary_only,True
+New York City,2025-03,2214,2214,primary_only,True
+New York City,2025-04,2260,2260,primary_only,True
+New York City,2025-05,2514,2514,primary_only,True
+New York City,2025-06,2361,2361,primary_only,True
+New York City,2025-07,2542,2542,primary_only,True
+New York City,2025-08,2483,2483,primary_only,True
+New York City,2025-09,2456,2456,primary_only,True
+New York City,2025-10,2518,2518,primary_only,True
+New York City,2025-11,2192,2192,primary_only,True
+New York City,2025-12,2096,2096,primary_only,True
+Buffalo,2022-01,670,111,all_published_categories,True
+Buffalo,2022-02,551,108,all_published_categories,True
+Buffalo,2022-03,704,130,all_published_categories,True
+Buffalo,2022-04,712,103,all_published_categories,True
+Buffalo,2022-05,736,119,all_published_categories,True
+Buffalo,2022-06,802,127,all_published_categories,True
+Buffalo,2022-07,924,159,all_published_categories,True
+Buffalo,2022-08,920,149,all_published_categories,True
+Buffalo,2022-09,1041,171,all_published_categories,True
+Buffalo,2022-10,1066,159,all_published_categories,True
+Buffalo,2022-11,789,128,all_published_categories,True
+Buffalo,2022-12,1047,249,all_published_categories,True
+Buffalo,2023-01,1132,154,all_published_categories,True
+Buffalo,2023-02,832,107,all_published_categories,True
+Buffalo,2023-03,953,123,all_published_categories,True
+Buffalo,2023-04,1089,146,all_published_categories,True
+Buffalo,2023-05,1295,169,all_published_categories,True
+Buffalo,2023-06,1426,202,all_published_categories,True
+Buffalo,2023-07,1285,180,all_published_categories,True
+Buffalo,2023-08,1182,178,all_published_categories,True
+Buffalo,2023-09,840,138,all_published_categories,True
+Buffalo,2023-10,1056,145,all_published_categories,True
+Buffalo,2023-11,1038,125,all_published_categories,True
+Buffalo,2023-12,1148,137,all_published_categories,True
+Buffalo,2024-01,960,146,all_published_categories,True
+Buffalo,2024-02,1010,128,all_published_categories,True
+Buffalo,2024-03,1106,132,all_published_categories,True
+Buffalo,2024-04,988,108,all_published_categories,True
+Buffalo,2024-05,1111,150,all_published_categories,True
+Buffalo,2024-06,1270,153,all_published_categories,True
+Buffalo,2024-07,1301,182,all_published_categories,True
+Buffalo,2024-08,1245,168,all_published_categories,True
+Buffalo,2024-09,1168,161,all_published_categories,True
+Buffalo,2024-10,1133,168,all_published_categories,True
+Buffalo,2024-11,896,147,all_published_categories,True
+Buffalo,2024-12,869,118,all_published_categories,True
+Buffalo,2025-01,862,163,all_published_categories,True
+Buffalo,2025-02,744,109,all_published_categories,True
+Buffalo,2025-03,850,119,all_published_categories,True
+Buffalo,2025-04,929,119,all_published_categories,True
+Buffalo,2025-05,1031,147,all_published_categories,True
+Buffalo,2025-06,1016,141,all_published_categories,True
+Buffalo,2025-07,1223,170,all_published_categories,True
+Buffalo,2025-08,1032,138,all_published_categories,True
+Buffalo,2025-09,1130,171,all_published_categories,True
+Buffalo,2025-10,1024,129,all_published_categories,True
+Buffalo,2025-11,880,116,all_published_categories,True
+Buffalo,2025-12,705,108,all_published_categories,True
+Rochester,2022-01,639,132,all_published_categories,True
+Rochester,2022-02,572,102,all_published_categories,True
+Rochester,2022-03,709,133,all_published_categories,True
+Rochester,2022-04,604,94,all_published_categories,True
+Rochester,2022-05,725,141,all_published_categories,True
+Rochester,2022-06,801,147,all_published_categories,True
+Rochester,2022-07,824,141,all_published_categories,True
+Rochester,2022-08,942,162,all_published_categories,True
+Rochester,2022-09,833,132,all_published_categories,True
+Rochester,2022-10,783,109,all_published_categories,True
+Rochester,2022-11,783,123,all_published_categories,True
+Rochester,2022-12,782,105,all_published_categories,True
+Rochester,2023-01,997,125,all_published_categories,True
+Rochester,2023-02,951,92,all_published_categories,True
+Rochester,2023-03,860,102,all_published_categories,True
+Rochester,2023-04,1103,118,all_published_categories,True
+Rochester,2023-05,1179,114,all_published_categories,True
+Rochester,2023-06,1191,102,all_published_categories,True
+Rochester,2023-07,1117,140,all_published_categories,True
+Rochester,2023-08,1038,154,all_published_categories,True
+Rochester,2023-09,810,131,all_published_categories,True
+Rochester,2023-10,876,145,all_published_categories,True
+Rochester,2023-11,777,132,all_published_categories,True
+Rochester,2023-12,872,134,all_published_categories,True
+Rochester,2024-01,651,119,all_published_categories,True
+Rochester,2024-02,557,112,all_published_categories,True
+Rochester,2024-03,623,107,all_published_categories,True
+Rochester,2024-04,644,110,all_published_categories,True
+Rochester,2024-05,603,128,all_published_categories,True
+Rochester,2024-06,643,124,all_published_categories,True
+Rochester,2024-07,801,127,all_published_categories,True
+Rochester,2024-08,916,122,all_published_categories,True
+Rochester,2024-09,849,135,all_published_categories,True
+Rochester,2024-10,785,128,all_published_categories,True
+Rochester,2024-11,710,91,all_published_categories,True
+Rochester,2024-12,639,63,all_published_categories,True
+Rochester,2025-01,579,55,all_published_categories,True
+Rochester,2025-02,414,58,all_published_categories,True
+Rochester,2025-03,582,67,all_published_categories,True
+Rochester,2025-04,560,81,all_published_categories,True
+Rochester,2025-05,612,85,all_published_categories,True
+Rochester,2025-06,612,113,all_published_categories,True
+Rochester,2025-07,659,99,all_published_categories,True
+Rochester,2025-08,687,90,all_published_categories,True
+Rochester,2025-09,690,99,all_published_categories,True
+Rochester,2025-10,678,100,all_published_categories,True
+Rochester,2025-11,590,68,all_published_categories,True
+Rochester,2025-12,490,55,all_published_categories,True

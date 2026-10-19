@@ -1,0 +1,11 @@
+{
+  "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2022/MapServer/8/query",
+  "params": {
+    "where": "STATE='36' AND COUNTY='085'",
+    "returnCountOnly": "true",
+    "f": "json"
+  },
+  "method": "GET",
+  "sha256": "8b963cecfbc24896e046abd771ad6726b15654452c394442007f1a14a1c1428b",
+  "retrieved_utc": "2026-10-03T01:03:55.261687+00:00"
+}

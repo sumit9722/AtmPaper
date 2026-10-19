@@ -1,0 +1,35 @@
+{
+  "release": "restart5_0",
+  "scope": "maximum_recovered_continuous_monthly_ATM_snapshots",
+  "user_superseded_ten_year_request": true,
+  "snapshot_start": "2023-02-22",
+  "snapshot_end": "2026-01-15",
+  "full_years": [
+    2024,
+    2025
+  ],
+  "partial_2023_supported_days": 313,
+  "phase_1": {
+    "computational_status": "COMPLETE",
+    "scientific_approval": "PENDING"
+  },
+  "phase_2": {
+    "computational_status": "COMPLETE",
+    "validation": "PASS",
+    "full_year_site_years": 2442,
+    "partial_2023_site_periods": 1271,
+    "exact_identity_sensitivity_rows": 10003,
+    "scientific_approval": "PENDING"
+  },
+  "phases_3_to_5": "NOT_STARTED_NOT_REQUESTED",
+  "confirmatory_eligible": false,
+  "review_gates": [
+    "Construct and offense mapping",
+    "Facility identity and continuity",
+    "Incident-site linkage",
+    "Buffalo coordinates",
+    "Temporal availability and reporting",
+    "Historical boundaries and selection",
+    "Scientific approval and later modeling"
+  ]
+}

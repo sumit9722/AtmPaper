@@ -1,0 +1,17 @@
+scheme,city,comparison,n,spatial_blocks,ap_difference,ci_low,ci_high,bootstrap_replicates,valid_replicates,exploratory_numerical_gate,confirmatory_go,uncertainty_scope
+forward_spatial,ALL,M1-M0,1241,202,0.021877349239630695,-0.01758122692760953,0.04988406937289782,2000,2000,False,False,conditional on fitted OOF predictions; no model refits
+forward_spatial,ALL,M2-M0,1241,202,-0.030886635639797322,-0.08376736873139994,0.013062579098560505,2000,2000,False,False,conditional on fitted OOF predictions; no model refits
+forward_spatial,New York City,M1-M0,1160,170,0.02532336071354102,-0.01574385335845012,0.05384471877244813,2000,2000,False,False,conditional on fitted OOF predictions; no model refits
+forward_spatial,New York City,M2-M0,1160,170,-0.03299975381110287,-0.08625637218973337,0.010470458395736204,2000,2000,False,False,conditional on fitted OOF predictions; no model refits
+forward_spatial,Buffalo,M1-M0,50,19,0.04805948919347314,-0.020591167584649704,0.20261191687315666,2000,2000,False,False,conditional on fitted OOF predictions; no model refits
+forward_spatial,Buffalo,M2-M0,50,19,0.04246407519796891,-0.050655947728468195,0.2523125650189976,2000,2000,False,False,conditional on fitted OOF predictions; no model refits
+forward_spatial,Rochester,M1-M0,31,13,0.11459961334961327,-0.11079782861125403,0.3172712170741343,2000,2000,False,False,conditional on fitted OOF predictions; no model refits
+forward_spatial,Rochester,M2-M0,31,13,0.08457977207977202,-0.10883896635807433,0.306007837694595,2000,2000,False,False,conditional on fitted OOF predictions; no model refits
+forward_leave_city_out,ALL,M1-M0,1241,202,0.08517110970417546,0.060015946169814156,0.11187215163085104,2000,2000,True,False,conditional on fitted OOF predictions; no model refits
+forward_leave_city_out,ALL,M2-M0,1241,202,0.10178152874143842,0.07699085062328535,0.12489343266981828,2000,2000,True,False,conditional on fitted OOF predictions; no model refits
+forward_leave_city_out,New York City,M1-M0,1160,170,0.10306806699929683,0.07528292678042907,0.13344355522300186,2000,2000,True,False,conditional on fitted OOF predictions; no model refits
+forward_leave_city_out,New York City,M2-M0,1160,170,0.10622639093950192,0.08171005148363072,0.1298275282852728,2000,2000,True,False,conditional on fitted OOF predictions; no model refits
+forward_leave_city_out,Buffalo,M1-M0,50,19,0.01969148547830457,-0.023435070817103686,0.09656697523544355,2000,2000,False,False,conditional on fitted OOF predictions; no model refits
+forward_leave_city_out,Buffalo,M2-M0,50,19,0.045816780560277326,-0.044011135658756875,0.2655858066713078,2000,2000,False,False,conditional on fitted OOF predictions; no model refits
+forward_leave_city_out,Rochester,M1-M0,31,13,0.021652158505606783,-0.10690166975881264,0.1371635313099513,2000,2000,False,False,conditional on fitted OOF predictions; no model refits
+forward_leave_city_out,Rochester,M2-M0,31,13,0.08572725519353311,-0.10781859060708168,0.22985250787224476,2000,2000,False,False,conditional on fitted OOF predictions; no model refits

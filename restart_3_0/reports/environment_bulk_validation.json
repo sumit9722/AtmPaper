@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "official_bulk_tables": [
+    "B25002",
+    "B25003",
+    "B25014",
+    "B25024",
+    "B25035",
+    "B25038",
+    "B25044",
+    "B25064"
+  ],
+  "block_groups_per_table": {
+    "B25002": 8217,
+    "B25003": 8217,
+    "B25014": 8217,
+    "B25024": 8217,
+    "B25035": 8217,
+    "B25038": 8217,
+    "B25044": 8217,
+    "B25064": 8217
+  },
+  "county_rows": {
+    "005": 1182,
+    "029": 813,
+    "047": 2156,
+    "055": 597,
+    "061": 1292,
+    "081": 1803,
+    "085": 374
+  },
+  "components": 26,
+  "check": "All selected estimates, margins and numeric-jam annotations reconcile to source files",
+  "limitation": "The public summary file omits other API-only annotation qualifiers."
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://data.buffalony.gov/resource/d6g9-xbgu.json?%24select=count%28%2A%29&%24where=incident_datetime+%3E%3D+%272024-01-01T00%3A00%3A00%27+AND+incident_datetime+%3C+%272026-01-01T00%3A00%3A00%27",
+  "retrieved_utc": "2026-10-01T06:09:45.268989+00:00",
+  "sha256": "43e1e61c6023ecdb1bb36e6569c79dcd2ab763636099ef1b0b678b66cd27e1b6",
+  "http_status": 200,
+  "raw_modified": false
+}

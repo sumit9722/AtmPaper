@@ -1,0 +1,4 @@
+city,geoid,latitude,longitude,internal_point_latitude,internal_point_longitude,analysis_crs,coordinate_use
+Rochester,3663000,+43.1688606,-077.6159307,+43.1699272,-077.6168907,EPSG:32617,Census city reference only; matching uses individual points
+New York City,3651000,+40.6624941,-073.9389041,+40.6627117,-073.9386769,EPSG:32618,Census city reference only; matching uses individual points
+Buffalo,3611000,+42.8922399,-078.8594380,+42.8924919,-078.8596862,EPSG:32617,Census city reference only; matching uses individual points

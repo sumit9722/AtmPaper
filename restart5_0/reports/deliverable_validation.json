@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "required_files": 13,
+  "local_markdown_links_checked": 28,
+  "sensitivity_rows": 54,
+  "continuity_rows": 3713,
+  "alternative_exact_rows": 10003,
+  "supported_site_months": 100340,
+  "monthly_annual_reconciliation": "PASS",
+  "amendments": [
+    {
+      "file": "protocol/partial_2023_amendment.md",
+      "sha256": "2d63c7a250790e3c8dafbd4747b6acd464bb00de20bc00702136d548db818fbd"
+    },
+    {
+      "file": "protocol/scope_amendment.md",
+      "sha256": "86d2f73ebb3e913a8aaf61eb791c3e7f13fa127e685bf577fe8556f90a6432e6"
+    },
+    {
+      "file": "protocol/source_completeness_amendment.md",
+      "sha256": "9a98071409041d7884893ccbea09cad75475dede7f9d008d1edf3f5c0028f90e"
+    }
+  ],
+  "human_approvals": "PENDING_not_inferred",
+  "offline_map": true
+}

@@ -1,0 +1,6 @@
+{
+  "url": "https://web.archive.org/cdx/search/cdx?url=data.ny.gov%2Fapi%2Fviews%2Fndex-ad5r%2Frows.csv%2A&output=json&filter=statuscode%3A200&collapse=timestamp%3A6&from=2015&to=2023",
+  "status": 200,
+  "retrieved_utc": "2026-10-19T07:46:42.978613+00:00",
+  "sha256": "8703b5128322f1ea382e92e930913432431061ff7a2c1c5f0b901e88271aa854"
+}

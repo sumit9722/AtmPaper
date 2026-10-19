@@ -1,0 +1,7 @@
+year,city,rows,acs_unique,sld_unique,near_city_edge_500m,acs_boundary_10m,sld_boundary_10m
+2024,New York City,1129,1129,1129,6,65,64
+2024,Buffalo,48,48,48,2,6,5
+2024,Rochester,24,24,24,1,0,0
+2025,New York City,1160,1160,1112,7,744,677
+2025,Buffalo,50,50,50,3,13,11
+2025,Rochester,31,31,30,4,8,7

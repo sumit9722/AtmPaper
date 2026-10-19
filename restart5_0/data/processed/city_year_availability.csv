@@ -1,0 +1,10 @@
+city,outcome_year,required_snapshots,available_snapshots,complete_monthly_window,inventory_identities,any_exact_supported_identities,exact_full_year_sites,full_year_sites,drift_10m_full_year_sites,drift_25m_full_year_sites,baseline_address_candidates,missing_ambiguous_candidates,drift_excluded_candidates,status,crime_available,confirmatory_eligible
+New York City,2023,14,12,False,3477,3418,0,,,,1496,0,0,MISSING_full_year_exposure,True,False
+Buffalo,2023,14,12,False,165,163,0,,,,68,0,0,MISSING_full_year_exposure,True,False
+Rochester,2023,14,12,False,92,89,0,,,,38,0,0,MISSING_full_year_exposure,True,False
+New York City,2024,14,14,True,4127,3829,0,1129,93,1022,1502,305,68,supported_exploratory_cohort,True,False
+Buffalo,2024,14,14,True,177,166,0,48,1,29,71,15,8,supported_exploratory_cohort,True,False
+Rochester,2024,14,14,True,115,105,0,24,1,17,40,9,7,supported_exploratory_cohort,True,False
+New York City,2025,14,14,True,2092,2079,1117,1160,1139,1150,1717,541,16,supported_exploratory_cohort,True,False
+Buffalo,2025,14,14,True,98,96,46,50,47,50,70,19,1,supported_exploratory_cohort,True,False
+Rochester,2025,14,14,True,60,58,29,31,30,31,46,14,1,supported_exploratory_cohort,True,False

@@ -4,6 +4,9 @@
 /data/processed/crime_events_2024_2025.csv
 /data/processed/event_atm_links.csv
 /data/processed/event_atm_links_historical.csv
+/restart_3_0/data/processed/crime_events_2023_2025.csv
+/restart_2024_2025/data/processed/crime_events_2023_2025.csv
+/restart5_0/data/processed/event_atm_links.csv
 
 # Python build caches are not research artifacts.
 __pycache__/

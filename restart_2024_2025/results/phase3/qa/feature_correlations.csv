@@ -1,0 +1,1093 @@
+year,city,feature_a,feature_b,pairwise_n,spearman_rho,abs_rho_ge_0_90
+2024,New York City,log1p_background_primary,log1p_population_density,1129,0.40981858053645653,False
+2024,New York City,log1p_background_primary,log1p_median_household_income,976,0.19401080961217926,False
+2024,New York City,log1p_background_primary,unemployment_rate,1119,0.06383003447976177,False
+2024,New York City,log1p_background_primary,log1p_employment_density,1129,0.6705409023002331,False
+2024,New York City,log1p_background_primary,log1p_retail_employment_density,1129,0.59088924029665,False
+2024,New York City,log1p_background_primary,employment_mix,1129,0.006972144291072102,False
+2024,New York City,log1p_background_primary,log1p_road_network_density,1129,0.18528113751932138,False
+2024,New York City,log1p_background_primary,log1p_auto_road_density,1129,0.24000299139363115,False
+2024,New York City,log1p_background_primary,log1p_intersection_density,1129,-0.24122857800271638,False
+2024,New York City,log1p_background_primary,log1p_transit_service_density,1129,0.7921148715052576,False
+2024,New York City,log1p_background_primary,log1p_auto_job_accessibility,1129,0.5576531225340989,False
+2024,New York City,log1p_background_primary,log1p_atm_density_500m,1129,0.5505297155691322,False
+2024,New York City,log1p_background_primary,log1p_nearest_other_atm,1129,-0.22200109447703395,False
+2024,New York City,log1p_population_density,log1p_median_household_income,976,0.08007585658020572,False
+2024,New York City,log1p_population_density,unemployment_rate,1119,0.02435168415630699,False
+2024,New York City,log1p_population_density,log1p_employment_density,1129,0.21101366531525445,False
+2024,New York City,log1p_population_density,log1p_retail_employment_density,1129,0.17286495788170378,False
+2024,New York City,log1p_population_density,employment_mix,1129,-0.042260704304865504,False
+2024,New York City,log1p_population_density,log1p_road_network_density,1129,0.07289804618533229,False
+2024,New York City,log1p_population_density,log1p_auto_road_density,1129,-0.048156531763891175,False
+2024,New York City,log1p_population_density,log1p_intersection_density,1129,-0.23677029359148088,False
+2024,New York City,log1p_population_density,log1p_transit_service_density,1129,0.5514402346090663,False
+2024,New York City,log1p_population_density,log1p_auto_job_accessibility,1129,0.12985647832299868,False
+2024,New York City,log1p_population_density,log1p_atm_density_500m,1129,0.19226698411859622,False
+2024,New York City,log1p_population_density,log1p_nearest_other_atm,1129,-0.10713640592398284,False
+2024,New York City,log1p_median_household_income,unemployment_rate,976,-0.29109949738579527,False
+2024,New York City,log1p_median_household_income,log1p_employment_density,976,0.37883991270753214,False
+2024,New York City,log1p_median_household_income,log1p_retail_employment_density,976,0.24938800622012292,False
+2024,New York City,log1p_median_household_income,employment_mix,976,0.022095583988587738,False
+2024,New York City,log1p_median_household_income,log1p_road_network_density,976,0.1713781896311361,False
+2024,New York City,log1p_median_household_income,log1p_auto_road_density,976,0.2887735968717836,False
+2024,New York City,log1p_median_household_income,log1p_intersection_density,976,-0.1568714407715592,False
+2024,New York City,log1p_median_household_income,log1p_transit_service_density,976,0.33344293419815246,False
+2024,New York City,log1p_median_household_income,log1p_auto_job_accessibility,976,0.36032442231918066,False
+2024,New York City,log1p_median_household_income,log1p_atm_density_500m,976,0.36654841637383495,False
+2024,New York City,log1p_median_household_income,log1p_nearest_other_atm,976,-0.05816343859694683,False
+2024,New York City,unemployment_rate,log1p_employment_density,1119,-0.03944167956163618,False
+2024,New York City,unemployment_rate,log1p_retail_employment_density,1119,-0.01819509709790471,False
+2024,New York City,unemployment_rate,employment_mix,1119,-0.0943524042608084,False
+2024,New York City,unemployment_rate,log1p_road_network_density,1119,0.00772487502876756,False
+2024,New York City,unemployment_rate,log1p_auto_road_density,1119,-0.06288989254559549,False
+2024,New York City,unemployment_rate,log1p_intersection_density,1119,0.0691413583713343,False
+2024,New York City,unemployment_rate,log1p_transit_service_density,1119,-0.012677838013486336,False
+2024,New York City,unemployment_rate,log1p_auto_job_accessibility,1119,-0.051788895462453334,False
+2024,New York City,unemployment_rate,log1p_atm_density_500m,1119,-0.0733829222795272,False
+2024,New York City,unemployment_rate,log1p_nearest_other_atm,1119,0.03657389612409305,False
+2024,New York City,log1p_employment_density,log1p_retail_employment_density,1129,0.7658738786423438,False
+2024,New York City,log1p_employment_density,employment_mix,1129,-0.1403229408431343,False
+2024,New York City,log1p_employment_density,log1p_road_network_density,1129,0.19929259860628346,False
+2024,New York City,log1p_employment_density,log1p_auto_road_density,1129,0.33873588250236003,False
+2024,New York City,log1p_employment_density,log1p_intersection_density,1129,-0.2647619994261952,False
+2024,New York City,log1p_employment_density,log1p_transit_service_density,1129,0.7250923115632298,False
+2024,New York City,log1p_employment_density,log1p_auto_job_accessibility,1129,0.5598325299343163,False
+2024,New York City,log1p_employment_density,log1p_atm_density_500m,1129,0.7290843347787973,False
+2024,New York City,log1p_employment_density,log1p_nearest_other_atm,1129,-0.3055306524440611,False
+2024,New York City,log1p_retail_employment_density,employment_mix,1129,0.1334043085772499,False
+2024,New York City,log1p_retail_employment_density,log1p_road_network_density,1129,0.11224117848875174,False
+2024,New York City,log1p_retail_employment_density,log1p_auto_road_density,1129,0.23118978457746336,False
+2024,New York City,log1p_retail_employment_density,log1p_intersection_density,1129,-0.21523447466302398,False
+2024,New York City,log1p_retail_employment_density,log1p_transit_service_density,1129,0.6136755778182906,False
+2024,New York City,log1p_retail_employment_density,log1p_auto_job_accessibility,1129,0.41502271177505257,False
+2024,New York City,log1p_retail_employment_density,log1p_atm_density_500m,1129,0.641753317324797,False
+2024,New York City,log1p_retail_employment_density,log1p_nearest_other_atm,1129,-0.3149102903812054,False
+2024,New York City,employment_mix,log1p_road_network_density,1129,-0.03808395653060587,False
+2024,New York City,employment_mix,log1p_auto_road_density,1129,0.01463261844379176,False
+2024,New York City,employment_mix,log1p_intersection_density,1129,-0.033155327480468844,False
+2024,New York City,employment_mix,log1p_transit_service_density,1129,-0.029099596575412178,False
+2024,New York City,employment_mix,log1p_auto_job_accessibility,1129,0.042052086894618854,False
+2024,New York City,employment_mix,log1p_atm_density_500m,1129,0.1173779938919627,False
+2024,New York City,employment_mix,log1p_nearest_other_atm,1129,-0.08343871278412344,False
+2024,New York City,log1p_road_network_density,log1p_auto_road_density,1129,0.19004257783998948,False
+2024,New York City,log1p_road_network_density,log1p_intersection_density,1129,0.39038451045675865,False
+2024,New York City,log1p_road_network_density,log1p_transit_service_density,1129,0.20796510514026392,False
+2024,New York City,log1p_road_network_density,log1p_auto_job_accessibility,1129,0.2013206905871021,False
+2024,New York City,log1p_road_network_density,log1p_atm_density_500m,1129,0.13243229050263539,False
+2024,New York City,log1p_road_network_density,log1p_nearest_other_atm,1129,-0.016633587312800818,False
+2024,New York City,log1p_auto_road_density,log1p_intersection_density,1129,-0.2939470822268787,False
+2024,New York City,log1p_auto_road_density,log1p_transit_service_density,1129,0.24064168511746004,False
+2024,New York City,log1p_auto_road_density,log1p_auto_job_accessibility,1129,0.3278313045933521,False
+2024,New York City,log1p_auto_road_density,log1p_atm_density_500m,1129,0.2746099593852087,False
+2024,New York City,log1p_auto_road_density,log1p_nearest_other_atm,1129,0.01592717521619488,False
+2024,New York City,log1p_intersection_density,log1p_transit_service_density,1129,-0.3240369735541696,False
+2024,New York City,log1p_intersection_density,log1p_auto_job_accessibility,1129,-0.1174279492378139,False
+2024,New York City,log1p_intersection_density,log1p_atm_density_500m,1129,-0.27303397219372016,False
+2024,New York City,log1p_intersection_density,log1p_nearest_other_atm,1129,0.08015102703168996,False
+2024,New York City,log1p_transit_service_density,log1p_auto_job_accessibility,1129,0.5162618651348675,False
+2024,New York City,log1p_transit_service_density,log1p_atm_density_500m,1129,0.6565697066413316,False
+2024,New York City,log1p_transit_service_density,log1p_nearest_other_atm,1129,-0.24989249990057177,False
+2024,New York City,log1p_auto_job_accessibility,log1p_atm_density_500m,1129,0.4845543388753786,False
+2024,New York City,log1p_auto_job_accessibility,log1p_nearest_other_atm,1129,-0.14086196708924542,False
+2024,New York City,log1p_atm_density_500m,log1p_nearest_other_atm,1129,-0.4954158569928077,False
+2024,Buffalo,log1p_background_primary,log1p_population_density,48,0.13373992242919727,False
+2024,Buffalo,log1p_background_primary,log1p_median_household_income,45,-0.4177244691024997,False
+2024,Buffalo,log1p_background_primary,unemployment_rate,48,-0.1460068411110447,False
+2024,Buffalo,log1p_background_primary,log1p_employment_density,48,0.009729819256203616,False
+2024,Buffalo,log1p_background_primary,log1p_retail_employment_density,48,0.28565751406033696,False
+2024,Buffalo,log1p_background_primary,employment_mix,48,0.1054756759824922,False
+2024,Buffalo,log1p_background_primary,log1p_road_network_density,48,0.10802594199836324,False
+2024,Buffalo,log1p_background_primary,log1p_auto_road_density,48,-0.033912943931828476,False
+2024,Buffalo,log1p_background_primary,log1p_intersection_density,48,-0.09854560528719049,False
+2024,Buffalo,log1p_background_primary,log1p_transit_service_density,48,0.17144994900176458,False
+2024,Buffalo,log1p_background_primary,log1p_auto_job_accessibility,48,0.029854744555359816,False
+2024,Buffalo,log1p_background_primary,log1p_atm_density_500m,48,0.18820241007491864,False
+2024,Buffalo,log1p_background_primary,log1p_nearest_other_atm,48,-0.2200573340933286,False
+2024,Buffalo,log1p_population_density,log1p_median_household_income,45,-0.1294444812288949,False
+2024,Buffalo,log1p_population_density,unemployment_rate,48,0.018373792065343626,False
+2024,Buffalo,log1p_population_density,log1p_employment_density,48,-0.3097454986148844,False
+2024,Buffalo,log1p_population_density,log1p_retail_employment_density,48,-0.022277154609693928,False
+2024,Buffalo,log1p_population_density,employment_mix,48,-0.17345528982339078,False
+2024,Buffalo,log1p_population_density,log1p_road_network_density,48,-0.08982017374571927,False
+2024,Buffalo,log1p_population_density,log1p_auto_road_density,48,-0.3686010555043065,False
+2024,Buffalo,log1p_population_density,log1p_intersection_density,48,-0.2555578252399532,False
+2024,Buffalo,log1p_population_density,log1p_transit_service_density,48,0.40093404795087967,False
+2024,Buffalo,log1p_population_density,log1p_auto_job_accessibility,48,0.16020941410951875,False
+2024,Buffalo,log1p_population_density,log1p_atm_density_500m,48,-0.34277469250252607,False
+2024,Buffalo,log1p_population_density,log1p_nearest_other_atm,48,0.18167754982196485,False
+2024,Buffalo,log1p_median_household_income,unemployment_rate,45,0.10036543979931549,False
+2024,Buffalo,log1p_median_household_income,log1p_employment_density,45,0.131706773910512,False
+2024,Buffalo,log1p_median_household_income,log1p_retail_employment_density,45,-0.009383858070430616,False
+2024,Buffalo,log1p_median_household_income,employment_mix,45,0.23339851243262533,False
+2024,Buffalo,log1p_median_household_income,log1p_road_network_density,45,0.1376964705512124,False
+2024,Buffalo,log1p_median_household_income,log1p_auto_road_density,45,0.0074179077903865935,False
+2024,Buffalo,log1p_median_household_income,log1p_intersection_density,45,0.2672070223601342,False
+2024,Buffalo,log1p_median_household_income,log1p_transit_service_density,45,-0.11906185878014451,False
+2024,Buffalo,log1p_median_household_income,log1p_auto_job_accessibility,45,-0.39551963484091596,False
+2024,Buffalo,log1p_median_household_income,log1p_atm_density_500m,45,0.5049193772896368,False
+2024,Buffalo,log1p_median_household_income,log1p_nearest_other_atm,45,-0.42654361596269325,False
+2024,Buffalo,unemployment_rate,log1p_employment_density,48,-0.25421919761706185,False
+2024,Buffalo,unemployment_rate,log1p_retail_employment_density,48,0.1797487090387421,False
+2024,Buffalo,unemployment_rate,employment_mix,48,0.2507838030546692,False
+2024,Buffalo,unemployment_rate,log1p_road_network_density,48,0.034076897675347224,False
+2024,Buffalo,unemployment_rate,log1p_auto_road_density,48,-0.0004027622929149275,False
+2024,Buffalo,unemployment_rate,log1p_intersection_density,48,-0.03468640316222335,False
+2024,Buffalo,unemployment_rate,log1p_transit_service_density,48,-0.09414089292750395,False
+2024,Buffalo,unemployment_rate,log1p_auto_job_accessibility,48,-0.26546734432941227,False
+2024,Buffalo,unemployment_rate,log1p_atm_density_500m,48,-0.14062972201790452,False
+2024,Buffalo,unemployment_rate,log1p_nearest_other_atm,48,0.010216058119427794,False
+2024,Buffalo,log1p_employment_density,log1p_retail_employment_density,48,0.013576650360028584,False
+2024,Buffalo,log1p_employment_density,employment_mix,48,-0.02709833452426758,False
+2024,Buffalo,log1p_employment_density,log1p_road_network_density,48,0.4365964931567087,False
+2024,Buffalo,log1p_employment_density,log1p_auto_road_density,48,0.5576339870911609,False
+2024,Buffalo,log1p_employment_density,log1p_intersection_density,48,0.377782663661848,False
+2024,Buffalo,log1p_employment_density,log1p_transit_service_density,48,0.37393502995657674,False
+2024,Buffalo,log1p_employment_density,log1p_auto_job_accessibility,48,0.21508272412466334,False
+2024,Buffalo,log1p_employment_density,log1p_atm_density_500m,48,0.48857738057188826,False
+2024,Buffalo,log1p_employment_density,log1p_nearest_other_atm,48,-0.35300717751072175,False
+2024,Buffalo,log1p_retail_employment_density,employment_mix,48,0.6129280492497116,False
+2024,Buffalo,log1p_retail_employment_density,log1p_road_network_density,48,-0.1415379541581927,False
+2024,Buffalo,log1p_retail_employment_density,log1p_auto_road_density,48,-0.212800800629365,False
+2024,Buffalo,log1p_retail_employment_density,log1p_intersection_density,48,-0.13318309239817513,False
+2024,Buffalo,log1p_retail_employment_density,log1p_transit_service_density,48,0.15055241026768537,False
+2024,Buffalo,log1p_retail_employment_density,log1p_auto_job_accessibility,48,-0.35359753751442863,False
+2024,Buffalo,log1p_retail_employment_density,log1p_atm_density_500m,48,0.2941562608296842,False
+2024,Buffalo,log1p_retail_employment_density,log1p_nearest_other_atm,48,-0.4473026798528259,False
+2024,Buffalo,employment_mix,log1p_road_network_density,48,-0.03171549497059308,False
+2024,Buffalo,employment_mix,log1p_auto_road_density,48,0.049911684029764404,False
+2024,Buffalo,employment_mix,log1p_intersection_density,48,0.007640301214752927,False
+2024,Buffalo,employment_mix,log1p_transit_service_density,48,-0.23487055460891554,False
+2024,Buffalo,employment_mix,log1p_auto_job_accessibility,48,-0.6430495245424065,False
+2024,Buffalo,employment_mix,log1p_atm_density_500m,48,0.36370989164495776,False
+2024,Buffalo,employment_mix,log1p_nearest_other_atm,48,-0.4580106279751043,False
+2024,Buffalo,log1p_road_network_density,log1p_auto_road_density,48,0.6488518923869372,False
+2024,Buffalo,log1p_road_network_density,log1p_intersection_density,48,0.7937668333974606,False
+2024,Buffalo,log1p_road_network_density,log1p_transit_service_density,48,0.496509646567361,False
+2024,Buffalo,log1p_road_network_density,log1p_auto_job_accessibility,48,0.1551695707140109,False
+2024,Buffalo,log1p_road_network_density,log1p_atm_density_500m,48,0.3502076370494968,False
+2024,Buffalo,log1p_road_network_density,log1p_nearest_other_atm,48,-0.15851587488158464,False
+2024,Buffalo,log1p_auto_road_density,log1p_intersection_density,48,0.43457586956950034,False
+2024,Buffalo,log1p_auto_road_density,log1p_transit_service_density,48,0.15016532522748083,False
+2024,Buffalo,log1p_auto_road_density,log1p_auto_job_accessibility,48,0.03097966594950894,False
+2024,Buffalo,log1p_auto_road_density,log1p_atm_density_500m,48,0.384492882455567,False
+2024,Buffalo,log1p_auto_road_density,log1p_nearest_other_atm,48,-0.1875900513940399,False
+2024,Buffalo,log1p_intersection_density,log1p_transit_service_density,48,0.4026273841587424,False
+2024,Buffalo,log1p_intersection_density,log1p_auto_job_accessibility,48,0.19419556972461938,False
+2024,Buffalo,log1p_intersection_density,log1p_atm_density_500m,48,0.21586587704087726,False
+2024,Buffalo,log1p_intersection_density,log1p_nearest_other_atm,48,-0.04127476942031267,False
+2024,Buffalo,log1p_transit_service_density,log1p_auto_job_accessibility,48,0.528390040125323,False
+2024,Buffalo,log1p_transit_service_density,log1p_atm_density_500m,48,0.05525712594949131,False
+2024,Buffalo,log1p_transit_service_density,log1p_nearest_other_atm,48,-0.04810381796768405,False
+2024,Buffalo,log1p_auto_job_accessibility,log1p_atm_density_500m,48,-0.29358893920802626,False
+2024,Buffalo,log1p_auto_job_accessibility,log1p_nearest_other_atm,48,0.363988287574895,False
+2024,Buffalo,log1p_atm_density_500m,log1p_nearest_other_atm,48,-0.8696664192661245,False
+2024,Rochester,log1p_background_primary,log1p_population_density,24,-0.019049704857802035,False
+2024,Rochester,log1p_background_primary,log1p_median_household_income,24,-0.08605211504731264,False
+2024,Rochester,log1p_background_primary,unemployment_rate,24,0.4610162067455103,False
+2024,Rochester,log1p_background_primary,log1p_employment_density,24,0.2133138384103938,False
+2024,Rochester,log1p_background_primary,log1p_retail_employment_density,24,-0.21375320779949858,False
+2024,Rochester,log1p_background_primary,employment_mix,24,0.023066892928003447,False
+2024,Rochester,log1p_background_primary,log1p_road_network_density,24,0.2313279833636917,False
+2024,Rochester,log1p_background_primary,log1p_auto_road_density,24,0.3758146609336838,False
+2024,Rochester,log1p_background_primary,log1p_intersection_density,24,0.15839266477229033,False
+2024,Rochester,log1p_background_primary,log1p_transit_service_density,24,0.5678849354179897,False
+2024,Rochester,log1p_background_primary,log1p_auto_job_accessibility,24,0.4756173637059758,False
+2024,Rochester,log1p_background_primary,log1p_atm_density_500m,24,0.1950067236184583,False
+2024,Rochester,log1p_background_primary,log1p_nearest_other_atm,24,-0.012014021177270335,False
+2024,Rochester,log1p_population_density,log1p_median_household_income,24,-0.4509632224168125,False
+2024,Rochester,log1p_population_density,unemployment_rate,24,-0.03503393996837156,False
+2024,Rochester,log1p_population_density,log1p_employment_density,24,-0.13573541706418307,False
+2024,Rochester,log1p_population_density,log1p_retail_employment_density,24,0.4862754261813937,False
+2024,Rochester,log1p_population_density,employment_mix,24,-0.16648454067095594,False
+2024,Rochester,log1p_population_density,log1p_road_network_density,24,-0.32023015870482024,False
+2024,Rochester,log1p_population_density,log1p_auto_road_density,24,-0.7050478874453612,False
+2024,Rochester,log1p_population_density,log1p_intersection_density,24,-0.04436659263262942,False
+2024,Rochester,log1p_population_density,log1p_transit_service_density,24,-0.28157411759916295,False
+2024,Rochester,log1p_population_density,log1p_auto_job_accessibility,24,-0.1594561695608364,False
+2024,Rochester,log1p_population_density,log1p_atm_density_500m,24,-0.18038727935941953,False
+2024,Rochester,log1p_population_density,log1p_nearest_other_atm,24,0.07294190079616887,False
+2024,Rochester,log1p_median_household_income,unemployment_rate,24,-0.23866871603453124,False
+2024,Rochester,log1p_median_household_income,log1p_employment_density,24,0.05315205652027881,False
+2024,Rochester,log1p_median_household_income,log1p_retail_employment_density,24,-0.36064329258800737,False
+2024,Rochester,log1p_median_household_income,employment_mix,24,0.12694995317653368,False
+2024,Rochester,log1p_median_household_income,log1p_road_network_density,24,0.23061842705079644,False
+2024,Rochester,log1p_median_household_income,log1p_auto_road_density,24,0.3166119411397048,False
+2024,Rochester,log1p_median_household_income,log1p_intersection_density,24,-0.04875932457645411,False
+2024,Rochester,log1p_median_household_income,log1p_transit_service_density,24,0.20514058177661326,False
+2024,Rochester,log1p_median_household_income,log1p_auto_job_accessibility,24,0.2789384784328681,False
+2024,Rochester,log1p_median_household_income,log1p_atm_density_500m,24,0.13346836578866142,False
+2024,Rochester,log1p_median_household_income,log1p_nearest_other_atm,24,-0.2917676031846755,False
+2024,Rochester,unemployment_rate,log1p_employment_density,24,0.3132703744317421,False
+2024,Rochester,unemployment_rate,log1p_retail_employment_density,24,0.14147694329175448,False
+2024,Rochester,unemployment_rate,employment_mix,24,0.061072345085571036,False
+2024,Rochester,unemployment_rate,log1p_road_network_density,24,0.2513192905679614,False
+2024,Rochester,unemployment_rate,log1p_auto_road_density,24,0.34307138098237455,False
+2024,Rochester,unemployment_rate,log1p_intersection_density,24,0.4152040727040621,False
+2024,Rochester,unemployment_rate,log1p_transit_service_density,24,0.3594041602877489,False
+2024,Rochester,unemployment_rate,log1p_auto_job_accessibility,24,0.43146074010094065,False
+2024,Rochester,unemployment_rate,log1p_atm_density_500m,24,0.14466036156275822,False
+2024,Rochester,unemployment_rate,log1p_nearest_other_atm,24,-0.05570137091279884,False
+2024,Rochester,log1p_employment_density,log1p_retail_employment_density,24,-0.18025561921551345,False
+2024,Rochester,log1p_employment_density,employment_mix,24,-0.740855002203614,False
+2024,Rochester,log1p_employment_density,log1p_road_network_density,24,0.621859850154253,False
+2024,Rochester,log1p_employment_density,log1p_auto_road_density,24,0.2931462010129795,False
+2024,Rochester,log1p_employment_density,log1p_intersection_density,24,0.7831643895989424,False
+2024,Rochester,log1p_employment_density,log1p_transit_service_density,24,0.6703393565447334,False
+2024,Rochester,log1p_employment_density,log1p_auto_job_accessibility,24,0.20052886734244163,False
+2024,Rochester,log1p_employment_density,log1p_atm_density_500m,24,0.7513518111325224,False
+2024,Rochester,log1p_employment_density,log1p_nearest_other_atm,24,-0.5201661969105194,False
+2024,Rochester,log1p_retail_employment_density,employment_mix,24,-0.06478624944909653,False
+2024,Rochester,log1p_retail_employment_density,log1p_road_network_density,24,-0.08770383428823272,False
+2024,Rochester,log1p_retail_employment_density,log1p_auto_road_density,24,-0.2887343016666303,False
+2024,Rochester,log1p_retail_employment_density,log1p_intersection_density,24,0.06566769501983254,False
+2024,Rochester,log1p_retail_employment_density,log1p_transit_service_density,24,-0.14852357866901722,False
+2024,Rochester,log1p_retail_employment_density,log1p_auto_job_accessibility,24,-0.4755398854120758,False
+2024,Rochester,log1p_retail_employment_density,log1p_atm_density_500m,24,-0.13162367494292362,False
+2024,Rochester,log1p_retail_employment_density,log1p_nearest_other_atm,24,0.08194699142566733,False
+2024,Rochester,employment_mix,log1p_road_network_density,24,-0.365359189070075,False
+2024,Rochester,employment_mix,log1p_auto_road_density,24,0.1357884576598584,False
+2024,Rochester,employment_mix,log1p_intersection_density,24,-0.610401057734685,False
+2024,Rochester,employment_mix,log1p_transit_service_density,24,-0.2763331864257383,False
+2024,Rochester,employment_mix,log1p_auto_job_accessibility,24,0.19259585720581757,False
+2024,Rochester,employment_mix,log1p_atm_density_500m,24,-0.5182682200877617,False
+2024,Rochester,employment_mix,log1p_nearest_other_atm,24,0.31990002000394197,False
+2024,Rochester,log1p_road_network_density,log1p_auto_road_density,24,0.6147246422579871,False
+2024,Rochester,log1p_road_network_density,log1p_intersection_density,24,0.8034376377258705,False
+2024,Rochester,log1p_road_network_density,log1p_transit_service_density,24,0.6632877919788456,False
+2024,Rochester,log1p_road_network_density,log1p_auto_job_accessibility,24,0.22697223446452186,False
+2024,Rochester,log1p_road_network_density,log1p_atm_density_500m,24,0.7225591322387578,False
+2024,Rochester,log1p_road_network_density,log1p_nearest_other_atm,24,-0.5486504452670348,False
+2024,Rochester,log1p_auto_road_density,log1p_intersection_density,24,0.21177116862476109,False
+2024,Rochester,log1p_auto_road_density,log1p_transit_service_density,24,0.5652133273711796,False
+2024,Rochester,log1p_auto_road_density,log1p_auto_job_accessibility,24,0.4960935709450422,False
+2024,Rochester,log1p_auto_road_density,log1p_atm_density_500m,24,0.37439656700665275,False
+2024,Rochester,log1p_auto_road_density,log1p_nearest_other_atm,24,-0.14769017935451398,False
+2024,Rochester,log1p_intersection_density,log1p_transit_service_density,24,0.6447774349933892,False
+2024,Rochester,log1p_intersection_density,log1p_auto_job_accessibility,24,0.0841780520052887,False
+2024,Rochester,log1p_intersection_density,log1p_atm_density_500m,24,0.7211880522914356,False
+2024,Rochester,log1p_intersection_density,log1p_nearest_other_atm,24,-0.5745053783906411,False
+2024,Rochester,log1p_transit_service_density,log1p_auto_job_accessibility,24,0.3521375055090349,False
+2024,Rochester,log1p_transit_service_density,log1p_atm_density_500m,24,0.6759424140298057,False
+2024,Rochester,log1p_transit_service_density,log1p_nearest_other_atm,24,-0.46056838496457947,False
+2024,Rochester,log1p_auto_job_accessibility,log1p_atm_density_500m,24,0.10831531583844757,False
+2024,Rochester,log1p_auto_job_accessibility,log1p_nearest_other_atm,24,-0.07887945698727336,False
+2024,Rochester,log1p_atm_density_500m,log1p_nearest_other_atm,24,-0.8461495037185116,False
+2024,ALL,log1p_background_primary,log1p_population_density,1201,0.4799185823146845,False
+2024,ALL,log1p_background_primary,log1p_median_household_income,1045,0.24466290543174948,False
+2024,ALL,log1p_background_primary,unemployment_rate,1191,0.0824661541040413,False
+2024,ALL,log1p_background_primary,log1p_employment_density,1201,0.6575957256154421,False
+2024,ALL,log1p_background_primary,log1p_retail_employment_density,1201,0.62808767152495,False
+2024,ALL,log1p_background_primary,employment_mix,1201,0.050009097237487095,False
+2024,ALL,log1p_background_primary,log1p_road_network_density,1201,0.22417763645482436,False
+2024,ALL,log1p_background_primary,log1p_auto_road_density,1201,0.19839793736133446,False
+2024,ALL,log1p_background_primary,log1p_intersection_density,1201,-0.24100676876503663,False
+2024,ALL,log1p_background_primary,log1p_transit_service_density,1201,0.8177119440195073,False
+2024,ALL,log1p_background_primary,log1p_auto_job_accessibility,1201,0.617916326775905,False
+2024,ALL,log1p_background_primary,log1p_atm_density_500m,1201,0.5620116410499949,False
+2024,ALL,log1p_background_primary,log1p_nearest_other_atm,1201,-0.26339947434688205,False
+2024,ALL,log1p_population_density,log1p_median_household_income,1045,0.16336795159344306,False
+2024,ALL,log1p_population_density,unemployment_rate,1191,0.042218477737319966,False
+2024,ALL,log1p_population_density,log1p_employment_density,1201,0.234928825828652,False
+2024,ALL,log1p_population_density,log1p_retail_employment_density,1201,0.2667421384138608,False
+2024,ALL,log1p_population_density,employment_mix,1201,0.011460490326220095,False
+2024,ALL,log1p_population_density,log1p_road_network_density,1201,0.11931411698624858,False
+2024,ALL,log1p_population_density,log1p_auto_road_density,1201,-0.06996488957609924,False
+2024,ALL,log1p_population_density,log1p_intersection_density,1201,-0.23284013862224523,False
+2024,ALL,log1p_population_density,log1p_transit_service_density,1201,0.6104883374160637,False
+2024,ALL,log1p_population_density,log1p_auto_job_accessibility,1201,0.25555566059814383,False
+2024,ALL,log1p_population_density,log1p_atm_density_500m,1201,0.2400502698041505,False
+2024,ALL,log1p_population_density,log1p_nearest_other_atm,1201,-0.1575802360026195,False
+2024,ALL,log1p_median_household_income,unemployment_rate,1045,-0.2580134146856838,False
+2024,ALL,log1p_median_household_income,log1p_employment_density,1045,0.37478655388297927,False
+2024,ALL,log1p_median_household_income,log1p_retail_employment_density,1045,0.29086046103368923,False
+2024,ALL,log1p_median_household_income,employment_mix,1045,0.05934496560082228,False
+2024,ALL,log1p_median_household_income,log1p_road_network_density,1045,0.19890198876859538,False
+2024,ALL,log1p_median_household_income,log1p_auto_road_density,1045,0.24659845276888565,False
+2024,ALL,log1p_median_household_income,log1p_intersection_density,1045,-0.15387639700137712,False
+2024,ALL,log1p_median_household_income,log1p_transit_service_density,1045,0.38415539072389454,False
+2024,ALL,log1p_median_household_income,log1p_auto_job_accessibility,1045,0.41779427736761804,False
+2024,ALL,log1p_median_household_income,log1p_atm_density_500m,1045,0.3789219381282579,False
+2024,ALL,log1p_median_household_income,log1p_nearest_other_atm,1045,-0.10319354270477031,False
+2024,ALL,unemployment_rate,log1p_employment_density,1191,-0.030131969165132288,False
+2024,ALL,unemployment_rate,log1p_retail_employment_density,1191,-0.000425706615387359,False
+2024,ALL,unemployment_rate,employment_mix,1191,-0.07742834928196615,False
+2024,ALL,unemployment_rate,log1p_road_network_density,1191,0.025086579687906216,False
+2024,ALL,unemployment_rate,log1p_auto_road_density,1191,-0.05529373249866787,False
+2024,ALL,unemployment_rate,log1p_intersection_density,1191,0.06836237768418992,False
+2024,ALL,unemployment_rate,log1p_transit_service_density,1191,0.009813604201761793,False
+2024,ALL,unemployment_rate,log1p_auto_job_accessibility,1191,-0.02598552501240032,False
+2024,ALL,unemployment_rate,log1p_atm_density_500m,1191,-0.0634015060040975,False
+2024,ALL,unemployment_rate,log1p_nearest_other_atm,1191,0.023919252621945955,False
+2024,ALL,log1p_employment_density,log1p_retail_employment_density,1201,0.7336144560809461,False
+2024,ALL,log1p_employment_density,employment_mix,1201,-0.12677132166579202,False
+2024,ALL,log1p_employment_density,log1p_road_network_density,1201,0.24172204612029458,False
+2024,ALL,log1p_employment_density,log1p_auto_road_density,1201,0.3334739603606602,False
+2024,ALL,log1p_employment_density,log1p_intersection_density,1201,-0.22659431148584477,False
+2024,ALL,log1p_employment_density,log1p_transit_service_density,1201,0.7005917116437856,False
+2024,ALL,log1p_employment_density,log1p_auto_job_accessibility,1201,0.550667608325578,False
+2024,ALL,log1p_employment_density,log1p_atm_density_500m,1201,0.7312640003020884,False
+2024,ALL,log1p_employment_density,log1p_nearest_other_atm,1201,-0.32875651041232123,False
+2024,ALL,log1p_retail_employment_density,employment_mix,1201,0.18635187240685647,False
+2024,ALL,log1p_retail_employment_density,log1p_road_network_density,1201,0.14512436016354807,False
+2024,ALL,log1p_retail_employment_density,log1p_auto_road_density,1201,0.18484467940348753,False
+2024,ALL,log1p_retail_employment_density,log1p_intersection_density,1201,-0.22491956150652373,False
+2024,ALL,log1p_retail_employment_density,log1p_transit_service_density,1201,0.6563010600811452,False
+2024,ALL,log1p_retail_employment_density,log1p_auto_job_accessibility,1201,0.48664559270414565,False
+2024,ALL,log1p_retail_employment_density,log1p_atm_density_500m,1201,0.6410846629006836,False
+2024,ALL,log1p_retail_employment_density,log1p_nearest_other_atm,1201,-0.3525116722690696,False
+2024,ALL,employment_mix,log1p_road_network_density,1201,-0.019949183053053997,False
+2024,ALL,employment_mix,log1p_auto_road_density,1201,0.009009100482545824,False
+2024,ALL,employment_mix,log1p_intersection_density,1201,-0.056266592447510526,False
+2024,ALL,employment_mix,log1p_transit_service_density,1201,0.030054131503759626,False
+2024,ALL,employment_mix,log1p_auto_job_accessibility,1201,0.09448869784951251,False
+2024,ALL,employment_mix,log1p_atm_density_500m,1201,0.14224550648413073,False
+2024,ALL,employment_mix,log1p_nearest_other_atm,1201,-0.11737964179320166,False
+2024,ALL,log1p_road_network_density,log1p_auto_road_density,1201,0.21002626687574405,False
+2024,ALL,log1p_road_network_density,log1p_intersection_density,1201,0.3928809168118034,False
+2024,ALL,log1p_road_network_density,log1p_transit_service_density,1201,0.2497183860612685,False
+2024,ALL,log1p_road_network_density,log1p_auto_job_accessibility,1201,0.2398187644409957,False
+2024,ALL,log1p_road_network_density,log1p_atm_density_500m,1201,0.18442182368943122,False
+2024,ALL,log1p_road_network_density,log1p_nearest_other_atm,1201,-0.061856276067270746,False
+2024,ALL,log1p_auto_road_density,log1p_intersection_density,1201,-0.2559808318610783,False
+2024,ALL,log1p_auto_road_density,log1p_transit_service_density,1201,0.19325676042333198,False
+2024,ALL,log1p_auto_road_density,log1p_auto_job_accessibility,1201,0.2683475088845866,False
+2024,ALL,log1p_auto_road_density,log1p_atm_density_500m,1201,0.26824912117899563,False
+2024,ALL,log1p_auto_road_density,log1p_nearest_other_atm,1201,0.014712381108858707,False
+2024,ALL,log1p_intersection_density,log1p_transit_service_density,1201,-0.31082167928702725,False
+2024,ALL,log1p_intersection_density,log1p_auto_job_accessibility,1201,-0.13293661691161793,False
+2024,ALL,log1p_intersection_density,log1p_atm_density_500m,1201,-0.24452215038298541,False
+2024,ALL,log1p_intersection_density,log1p_nearest_other_atm,1201,0.07815208514330853,False
+2024,ALL,log1p_transit_service_density,log1p_auto_job_accessibility,1201,0.5957613614391175,False
+2024,ALL,log1p_transit_service_density,log1p_atm_density_500m,1201,0.6586272511422457,False
+2024,ALL,log1p_transit_service_density,log1p_nearest_other_atm,1201,-0.2958856603983894,False
+2024,ALL,log1p_auto_job_accessibility,log1p_atm_density_500m,1201,0.5057250587493792,False
+2024,ALL,log1p_auto_job_accessibility,log1p_nearest_other_atm,1201,-0.1987662937370546,False
+2024,ALL,log1p_atm_density_500m,log1p_nearest_other_atm,1201,-0.5322185338969607,False
+2025,New York City,log1p_background_primary,log1p_population_density,1160,0.35808034741846456,False
+2025,New York City,log1p_background_primary,log1p_median_household_income,993,0.18793725504884623,False
+2025,New York City,log1p_background_primary,unemployment_rate,1137,0.05533584359963961,False
+2025,New York City,log1p_background_primary,log1p_employment_density,1112,0.6770586372016166,False
+2025,New York City,log1p_background_primary,log1p_retail_employment_density,1112,0.5910578246266217,False
+2025,New York City,log1p_background_primary,employment_mix,1112,0.020812901002038517,False
+2025,New York City,log1p_background_primary,log1p_road_network_density,1112,0.23253052838907,False
+2025,New York City,log1p_background_primary,log1p_auto_road_density,1112,0.23099609055472897,False
+2025,New York City,log1p_background_primary,log1p_intersection_density,1112,-0.18584031111866964,False
+2025,New York City,log1p_background_primary,log1p_transit_service_density,1111,0.7779792083267287,False
+2025,New York City,log1p_background_primary,log1p_auto_job_accessibility,1112,0.5680529020541915,False
+2025,New York City,log1p_background_primary,log1p_atm_density_500m,1160,0.5458766386562885,False
+2025,New York City,log1p_background_primary,log1p_nearest_other_atm,1160,-0.20935223356146754,False
+2025,New York City,log1p_population_density,log1p_median_household_income,993,0.04147961791866713,False
+2025,New York City,log1p_population_density,unemployment_rate,1137,0.07358081300399437,False
+2025,New York City,log1p_population_density,log1p_employment_density,1112,0.20620484837412206,False
+2025,New York City,log1p_population_density,log1p_retail_employment_density,1112,0.15436138800102445,False
+2025,New York City,log1p_population_density,employment_mix,1112,-0.023499470119229763,False
+2025,New York City,log1p_population_density,log1p_road_network_density,1112,0.11188684015583107,False
+2025,New York City,log1p_population_density,log1p_auto_road_density,1112,-0.04863412140868426,False
+2025,New York City,log1p_population_density,log1p_intersection_density,1112,-0.23210958470279205,False
+2025,New York City,log1p_population_density,log1p_transit_service_density,1111,0.5210774142293962,False
+2025,New York City,log1p_population_density,log1p_auto_job_accessibility,1112,0.11871062652693058,False
+2025,New York City,log1p_population_density,log1p_atm_density_500m,1160,0.18383000953215592,False
+2025,New York City,log1p_population_density,log1p_nearest_other_atm,1160,-0.1537839406695255,False
+2025,New York City,log1p_median_household_income,unemployment_rate,993,-0.3187132127167523,False
+2025,New York City,log1p_median_household_income,log1p_employment_density,956,0.357997109122403,False
+2025,New York City,log1p_median_household_income,log1p_retail_employment_density,956,0.21898984266766652,False
+2025,New York City,log1p_median_household_income,employment_mix,956,-0.02287331510215411,False
+2025,New York City,log1p_median_household_income,log1p_road_network_density,956,0.209803845663558,False
+2025,New York City,log1p_median_household_income,log1p_auto_road_density,956,0.2929224392504378,False
+2025,New York City,log1p_median_household_income,log1p_intersection_density,956,-0.1369522069376816,False
+2025,New York City,log1p_median_household_income,log1p_transit_service_density,955,0.334621132608076,False
+2025,New York City,log1p_median_household_income,log1p_auto_job_accessibility,956,0.3354462161779514,False
+2025,New York City,log1p_median_household_income,log1p_atm_density_500m,993,0.38572688815455736,False
+2025,New York City,log1p_median_household_income,log1p_nearest_other_atm,993,-0.09391252996548187,False
+2025,New York City,unemployment_rate,log1p_employment_density,1090,-0.05777526978864509,False
+2025,New York City,unemployment_rate,log1p_retail_employment_density,1090,-0.02377684638087154,False
+2025,New York City,unemployment_rate,employment_mix,1090,-0.06211918982281368,False
+2025,New York City,unemployment_rate,log1p_road_network_density,1090,-0.017011629604686752,False
+2025,New York City,unemployment_rate,log1p_auto_road_density,1090,-0.11032283599516621,False
+2025,New York City,unemployment_rate,log1p_intersection_density,1090,0.05257931941448667,False
+2025,New York City,unemployment_rate,log1p_transit_service_density,1089,-0.025479755105415117,False
+2025,New York City,unemployment_rate,log1p_auto_job_accessibility,1090,-0.05934905141509796,False
+2025,New York City,unemployment_rate,log1p_atm_density_500m,1137,-0.08797855985966407,False
+2025,New York City,unemployment_rate,log1p_nearest_other_atm,1137,0.09504396592092851,False
+2025,New York City,log1p_employment_density,log1p_retail_employment_density,1112,0.7621144224424041,False
+2025,New York City,log1p_employment_density,employment_mix,1112,-0.10724759075660567,False
+2025,New York City,log1p_employment_density,log1p_road_network_density,1112,0.25065452654674236,False
+2025,New York City,log1p_employment_density,log1p_auto_road_density,1112,0.3425324603120525,False
+2025,New York City,log1p_employment_density,log1p_intersection_density,1112,-0.2402665406986085,False
+2025,New York City,log1p_employment_density,log1p_transit_service_density,1111,0.717686149862198,False
+2025,New York City,log1p_employment_density,log1p_auto_job_accessibility,1112,0.5562625531465533,False
+2025,New York City,log1p_employment_density,log1p_atm_density_500m,1112,0.7384771660245738,False
+2025,New York City,log1p_employment_density,log1p_nearest_other_atm,1112,-0.3196253580832134,False
+2025,New York City,log1p_retail_employment_density,employment_mix,1112,0.15729311934954116,False
+2025,New York City,log1p_retail_employment_density,log1p_road_network_density,1112,0.1453445026370698,False
+2025,New York City,log1p_retail_employment_density,log1p_auto_road_density,1112,0.1975896340906424,False
+2025,New York City,log1p_retail_employment_density,log1p_intersection_density,1112,-0.17311906281677542,False
+2025,New York City,log1p_retail_employment_density,log1p_transit_service_density,1111,0.5870550081191618,False
+2025,New York City,log1p_retail_employment_density,log1p_auto_job_accessibility,1112,0.39555064766123843,False
+2025,New York City,log1p_retail_employment_density,log1p_atm_density_500m,1112,0.6324830913759992,False
+2025,New York City,log1p_retail_employment_density,log1p_nearest_other_atm,1112,-0.29950294281542267,False
+2025,New York City,employment_mix,log1p_road_network_density,1112,-0.03987490994539626,False
+2025,New York City,employment_mix,log1p_auto_road_density,1112,0.02391628334792397,False
+2025,New York City,employment_mix,log1p_intersection_density,1112,-0.07176171521861716,False
+2025,New York City,employment_mix,log1p_transit_service_density,1111,-0.003773363323577134,False
+2025,New York City,employment_mix,log1p_auto_job_accessibility,1112,0.0423890547308142,False
+2025,New York City,employment_mix,log1p_atm_density_500m,1112,0.11969152610400526,False
+2025,New York City,employment_mix,log1p_nearest_other_atm,1112,-0.06496001476565018,False
+2025,New York City,log1p_road_network_density,log1p_auto_road_density,1112,0.22623767390473273,False
+2025,New York City,log1p_road_network_density,log1p_intersection_density,1112,0.33541571201725084,False
+2025,New York City,log1p_road_network_density,log1p_transit_service_density,1111,0.27668575827363356,False
+2025,New York City,log1p_road_network_density,log1p_auto_job_accessibility,1112,0.2267917869751941,False
+2025,New York City,log1p_road_network_density,log1p_atm_density_500m,1112,0.1665739391972888,False
+2025,New York City,log1p_road_network_density,log1p_nearest_other_atm,1112,-0.06085099768146811,False
+2025,New York City,log1p_auto_road_density,log1p_intersection_density,1112,-0.3091811498465284,False
+2025,New York City,log1p_auto_road_density,log1p_transit_service_density,1111,0.24431770912994322,False
+2025,New York City,log1p_auto_road_density,log1p_auto_job_accessibility,1112,0.3357969388261445,False
+2025,New York City,log1p_auto_road_density,log1p_atm_density_500m,1112,0.2622316964837819,False
+2025,New York City,log1p_auto_road_density,log1p_nearest_other_atm,1112,-0.0015031402647032938,False
+2025,New York City,log1p_intersection_density,log1p_transit_service_density,1111,-0.30775250920761366,False
+2025,New York City,log1p_intersection_density,log1p_auto_job_accessibility,1112,-0.12099468756921188,False
+2025,New York City,log1p_intersection_density,log1p_atm_density_500m,1112,-0.2766853849671709,False
+2025,New York City,log1p_intersection_density,log1p_nearest_other_atm,1112,0.09680904899712435,False
+2025,New York City,log1p_transit_service_density,log1p_auto_job_accessibility,1111,0.5066171364164171,False
+2025,New York City,log1p_transit_service_density,log1p_atm_density_500m,1111,0.6644846399880037,False
+2025,New York City,log1p_transit_service_density,log1p_nearest_other_atm,1111,-0.2632601492193419,False
+2025,New York City,log1p_auto_job_accessibility,log1p_atm_density_500m,1112,0.47681696364480547,False
+2025,New York City,log1p_auto_job_accessibility,log1p_nearest_other_atm,1112,-0.15096014019135998,False
+2025,New York City,log1p_atm_density_500m,log1p_nearest_other_atm,1160,-0.4753188896100033,False
+2025,Buffalo,log1p_background_primary,log1p_population_density,50,0.13030694352698352,False
+2025,Buffalo,log1p_background_primary,log1p_median_household_income,48,-0.004852650978839048,False
+2025,Buffalo,log1p_background_primary,unemployment_rate,50,-0.14496911025253306,False
+2025,Buffalo,log1p_background_primary,log1p_employment_density,50,0.21397959339975633,False
+2025,Buffalo,log1p_background_primary,log1p_retail_employment_density,50,0.43565245334229624,False
+2025,Buffalo,log1p_background_primary,employment_mix,50,0.07040430990730329,False
+2025,Buffalo,log1p_background_primary,log1p_road_network_density,50,0.1643252610763015,False
+2025,Buffalo,log1p_background_primary,log1p_auto_road_density,50,0.033888991736653815,False
+2025,Buffalo,log1p_background_primary,log1p_intersection_density,50,0.15350129616121794,False
+2025,Buffalo,log1p_background_primary,log1p_transit_service_density,50,0.5094786893774622,False
+2025,Buffalo,log1p_background_primary,log1p_auto_job_accessibility,50,0.07613178910003807,False
+2025,Buffalo,log1p_background_primary,log1p_atm_density_500m,50,0.39614839375102384,False
+2025,Buffalo,log1p_background_primary,log1p_nearest_other_atm,50,-0.32784119587698624,False
+2025,Buffalo,log1p_population_density,log1p_median_household_income,48,-0.10675690426809299,False
+2025,Buffalo,log1p_population_density,unemployment_rate,50,0.14883477452266292,False
+2025,Buffalo,log1p_population_density,log1p_employment_density,50,-0.36655895284844026,False
+2025,Buffalo,log1p_population_density,log1p_retail_employment_density,50,0.07140758821722862,False
+2025,Buffalo,log1p_population_density,employment_mix,50,-0.12474468472234222,False
+2025,Buffalo,log1p_population_density,log1p_road_network_density,50,-0.0929755944542691,False
+2025,Buffalo,log1p_population_density,log1p_auto_road_density,50,-0.44859161741362713,False
+2025,Buffalo,log1p_population_density,log1p_intersection_density,50,-0.31215317134959936,False
+2025,Buffalo,log1p_population_density,log1p_transit_service_density,50,0.4456416423842553,False
+2025,Buffalo,log1p_population_density,log1p_auto_job_accessibility,50,0.17215543717133214,False
+2025,Buffalo,log1p_population_density,log1p_atm_density_500m,50,-0.4217028874875382,False
+2025,Buffalo,log1p_population_density,log1p_nearest_other_atm,50,0.3255262257058661,False
+2025,Buffalo,log1p_median_household_income,unemployment_rate,48,0.061136001749629985,False
+2025,Buffalo,log1p_median_household_income,log1p_employment_density,48,0.14929897360116243,False
+2025,Buffalo,log1p_median_household_income,log1p_retail_employment_density,48,0.11982411177787587,False
+2025,Buffalo,log1p_median_household_income,employment_mix,48,0.27610686793791406,False
+2025,Buffalo,log1p_median_household_income,log1p_road_network_density,48,0.154138130019911,False
+2025,Buffalo,log1p_median_household_income,log1p_auto_road_density,48,-0.07681067630882878,False
+2025,Buffalo,log1p_median_household_income,log1p_intersection_density,48,0.11839436101779106,False
+2025,Buffalo,log1p_median_household_income,log1p_transit_service_density,48,-0.04206766659480268,False
+2025,Buffalo,log1p_median_household_income,log1p_auto_job_accessibility,48,-0.2920540879542445,False
+2025,Buffalo,log1p_median_household_income,log1p_atm_density_500m,48,0.42417278495629723,False
+2025,Buffalo,log1p_median_household_income,log1p_nearest_other_atm,48,-0.4643980577926828,False
+2025,Buffalo,unemployment_rate,log1p_employment_density,50,-0.41680544236694494,False
+2025,Buffalo,unemployment_rate,log1p_retail_employment_density,50,0.22493478644429735,False
+2025,Buffalo,unemployment_rate,employment_mix,50,0.18303710463402786,False
+2025,Buffalo,unemployment_rate,log1p_road_network_density,50,-0.03498875901470093,False
+2025,Buffalo,unemployment_rate,log1p_auto_road_density,50,-0.14977405591690016,False
+2025,Buffalo,unemployment_rate,log1p_intersection_density,50,-0.15411832778971932,False
+2025,Buffalo,unemployment_rate,log1p_transit_service_density,50,-0.059416736041889864,False
+2025,Buffalo,unemployment_rate,log1p_auto_job_accessibility,50,-0.23835783644711636,False
+2025,Buffalo,unemployment_rate,log1p_atm_density_500m,50,-0.21497432435316266,False
+2025,Buffalo,unemployment_rate,log1p_nearest_other_atm,50,0.09354740923431665,False
+2025,Buffalo,log1p_employment_density,log1p_retail_employment_density,50,0.04596577017114914,False
+2025,Buffalo,log1p_employment_density,employment_mix,50,-0.05545232273838631,False
+2025,Buffalo,log1p_employment_density,log1p_road_network_density,50,0.40704156479217607,False
+2025,Buffalo,log1p_employment_density,log1p_auto_road_density,50,0.6019056734506756,False
+2025,Buffalo,log1p_employment_density,log1p_intersection_density,50,0.35198044009779955,False
+2025,Buffalo,log1p_employment_density,log1p_transit_service_density,50,0.28987775061124693,False
+2025,Buffalo,log1p_employment_density,log1p_auto_job_accessibility,50,0.15579462102689484,False
+2025,Buffalo,log1p_employment_density,log1p_atm_density_500m,50,0.6010602900241537,False
+2025,Buffalo,log1p_employment_density,log1p_nearest_other_atm,50,-0.4047801338455737,False
+2025,Buffalo,log1p_retail_employment_density,employment_mix,50,0.5790709046454767,False
+2025,Buffalo,log1p_retail_employment_density,log1p_road_network_density,50,-0.09134474327628361,False
+2025,Buffalo,log1p_retail_employment_density,log1p_auto_road_density,50,-0.2522743888813476,False
+2025,Buffalo,log1p_retail_employment_density,log1p_intersection_density,50,-0.10268948655256724,False
+2025,Buffalo,log1p_retail_employment_density,log1p_transit_service_density,50,0.2108557457212714,False
+2025,Buffalo,log1p_retail_employment_density,log1p_auto_job_accessibility,50,-0.3587286063569682,False
+2025,Buffalo,log1p_retail_employment_density,log1p_atm_density_500m,50,0.2373742647684975,False
+2025,Buffalo,log1p_retail_employment_density,log1p_nearest_other_atm,50,-0.3571361331786039,False
+2025,Buffalo,employment_mix,log1p_road_network_density,50,-0.00039119804400977997,False
+2025,Buffalo,employment_mix,log1p_auto_road_density,50,-0.064068839299323,False
+2025,Buffalo,employment_mix,log1p_intersection_density,50,-0.0011735941320293397,False
+2025,Buffalo,employment_mix,log1p_transit_service_density,50,-0.23207823960880195,False
+2025,Buffalo,employment_mix,log1p_auto_job_accessibility,50,-0.6600488997555012,False
+2025,Buffalo,employment_mix,log1p_atm_density_500m,50,0.2882883116749989,False
+2025,Buffalo,employment_mix,log1p_nearest_other_atm,50,-0.4017751205786845,False
+2025,Buffalo,log1p_road_network_density,log1p_auto_road_density,50,0.6398881993300413,False
+2025,Buffalo,log1p_road_network_density,log1p_intersection_density,50,0.8473349633251834,False
+2025,Buffalo,log1p_road_network_density,log1p_transit_service_density,50,0.48899755501222486,False
+2025,Buffalo,log1p_road_network_density,log1p_auto_job_accessibility,50,0.07100244498777507,False
+2025,Buffalo,log1p_road_network_density,log1p_atm_density_500m,50,0.37998351183896273,False
+2025,Buffalo,log1p_road_network_density,log1p_nearest_other_atm,50,-0.12681640665831811,False
+2025,Buffalo,log1p_auto_road_density,log1p_intersection_density,50,0.5020415042847034,False
+2025,Buffalo,log1p_auto_road_density,log1p_transit_service_density,50,0.12403001779427641,False
+2025,Buffalo,log1p_auto_road_density,log1p_auto_job_accessibility,50,0.04134333926475881,False
+2025,Buffalo,log1p_auto_road_density,log1p_atm_density_500m,50,0.43446606156183787,False
+2025,Buffalo,log1p_auto_road_density,log1p_nearest_other_atm,50,-0.2035958836436922,False
+2025,Buffalo,log1p_intersection_density,log1p_transit_service_density,50,0.3798533007334964,False
+2025,Buffalo,log1p_intersection_density,log1p_auto_job_accessibility,50,0.1480684596577017,False
+2025,Buffalo,log1p_intersection_density,log1p_atm_density_500m,50,0.33505935280381444,False
+2025,Buffalo,log1p_intersection_density,log1p_nearest_other_atm,50,-0.11246989170671781,False
+2025,Buffalo,log1p_transit_service_density,log1p_auto_job_accessibility,50,0.4903667481662592,False
+2025,Buffalo,log1p_transit_service_density,log1p_atm_density_500m,50,0.08607968028457028,False
+2025,Buffalo,log1p_transit_service_density,log1p_nearest_other_atm,50,0.06046377500716676,False
+2025,Buffalo,log1p_auto_job_accessibility,log1p_atm_density_500m,50,-0.2375240119652813,False
+2025,Buffalo,log1p_auto_job_accessibility,log1p_nearest_other_atm,50,0.36275841606504183,False
+2025,Buffalo,log1p_atm_density_500m,log1p_nearest_other_atm,50,-0.8450323389447014,False
+2025,Rochester,log1p_background_primary,log1p_population_density,31,-0.21086347011284398,False
+2025,Rochester,log1p_background_primary,log1p_median_household_income,29,0.2714425071537757,False
+2025,Rochester,log1p_background_primary,unemployment_rate,31,0.2553565699809518,False
+2025,Rochester,log1p_background_primary,log1p_employment_density,30,0.33588161912407594,False
+2025,Rochester,log1p_background_primary,log1p_retail_employment_density,30,-0.5411613248274564,False
+2025,Rochester,log1p_background_primary,employment_mix,30,0.1317248877407359,False
+2025,Rochester,log1p_background_primary,log1p_road_network_density,30,0.5216215716587539,False
+2025,Rochester,log1p_background_primary,log1p_auto_road_density,30,0.6570696150391023,False
+2025,Rochester,log1p_background_primary,log1p_intersection_density,30,0.25120935539303174,False
+2025,Rochester,log1p_background_primary,log1p_transit_service_density,30,0.635940357438864,False
+2025,Rochester,log1p_background_primary,log1p_auto_job_accessibility,30,0.5705832520125141,False
+2025,Rochester,log1p_background_primary,log1p_atm_density_500m,31,0.29877833766728573,False
+2025,Rochester,log1p_background_primary,log1p_nearest_other_atm,31,-0.015874647121316927,False
+2025,Rochester,log1p_population_density,log1p_median_household_income,29,-0.44009962640099626,False
+2025,Rochester,log1p_population_density,unemployment_rate,31,-0.32990739969326993,False
+2025,Rochester,log1p_population_density,log1p_employment_density,30,-0.2138920082030038,False
+2025,Rochester,log1p_population_density,log1p_retail_employment_density,30,0.3044021000952223,False
+2025,Rochester,log1p_population_density,employment_mix,30,-0.03467302027711851,False
+2025,Rochester,log1p_population_density,log1p_road_network_density,30,-0.4093217588558536,False
+2025,Rochester,log1p_population_density,log1p_auto_road_density,30,-0.7064966235429063,False
+2025,Rochester,log1p_population_density,log1p_intersection_density,30,-0.14499626661340467,False
+2025,Rochester,log1p_population_density,log1p_transit_service_density,30,-0.33952541933697866,False
+2025,Rochester,log1p_population_density,log1p_auto_job_accessibility,30,-0.23685725539953684,False
+2025,Rochester,log1p_population_density,log1p_atm_density_500m,31,-0.1423632144416958,False
+2025,Rochester,log1p_population_density,log1p_nearest_other_atm,31,-0.019862343965275198,False
+2025,Rochester,log1p_median_household_income,unemployment_rate,29,-0.2107360833383276,False
+2025,Rochester,log1p_median_household_income,log1p_employment_density,28,0.13383341528230341,False
+2025,Rochester,log1p_median_household_income,log1p_retail_employment_density,28,-0.40594284884383314,False
+2025,Rochester,log1p_median_household_income,employment_mix,28,0.1671529377592254,False
+2025,Rochester,log1p_median_household_income,log1p_road_network_density,28,0.2660008544407607,False
+2025,Rochester,log1p_median_household_income,log1p_auto_road_density,28,0.33286622428349677,False
+2025,Rochester,log1p_median_household_income,log1p_intersection_density,28,0.06053046583307499,False
+2025,Rochester,log1p_median_household_income,log1p_transit_service_density,28,0.3948363413515258,False
+2025,Rochester,log1p_median_household_income,log1p_auto_job_accessibility,28,0.34485705763614277,False
+2025,Rochester,log1p_median_household_income,log1p_atm_density_500m,29,0.33473466725495493,False
+2025,Rochester,log1p_median_household_income,log1p_nearest_other_atm,29,-0.22109565476491638,False
+2025,Rochester,unemployment_rate,log1p_employment_density,30,0.3496964488173834,False
+2025,Rochester,unemployment_rate,log1p_retail_employment_density,30,0.2393608017339849,False
+2025,Rochester,unemployment_rate,employment_mix,30,-0.02994824706549388,False
+2025,Rochester,unemployment_rate,log1p_road_network_density,30,0.33528526225955174,False
+2025,Rochester,unemployment_rate,log1p_auto_road_density,30,0.3880041818469548,False
+2025,Rochester,unemployment_rate,log1p_intersection_density,30,0.4107188168982018,False
+2025,Rochester,unemployment_rate,log1p_transit_service_density,30,0.38572441521196255,False
+2025,Rochester,unemployment_rate,log1p_auto_job_accessibility,30,0.35735239167623145,False
+2025,Rochester,unemployment_rate,log1p_atm_density_500m,31,0.11745634658274474,False
+2025,Rochester,unemployment_rate,log1p_nearest_other_atm,31,-0.12394958532834699,False
+2025,Rochester,log1p_employment_density,log1p_retail_employment_density,30,-0.30987821380243563,False
+2025,Rochester,log1p_employment_density,employment_mix,30,-0.6662156066756877,False
+2025,Rochester,log1p_employment_density,log1p_road_network_density,30,0.7194406856111861,False
+2025,Rochester,log1p_employment_density,log1p_auto_road_density,30,0.46273005538504014,False
+2025,Rochester,log1p_employment_density,log1p_intersection_density,30,0.8493459630130805,False
+2025,Rochester,log1p_employment_density,log1p_transit_service_density,30,0.5949481281010373,False
+2025,Rochester,log1p_employment_density,log1p_auto_job_accessibility,30,0.11862877762742442,False
+2025,Rochester,log1p_employment_density,log1p_atm_density_500m,30,0.6907322831967703,False
+2025,Rochester,log1p_employment_density,log1p_nearest_other_atm,30,-0.596671650818024,False
+2025,Rochester,log1p_retail_employment_density,employment_mix,30,-0.019395579612088404,False
+2025,Rochester,log1p_retail_employment_density,log1p_road_network_density,30,-0.29318899413622007,False
+2025,Rochester,log1p_retail_employment_density,log1p_auto_road_density,30,-0.3765847824636442,False
+2025,Rochester,log1p_retail_employment_density,log1p_intersection_density,30,-0.16012629679747403,False
+2025,Rochester,log1p_retail_employment_density,log1p_transit_service_density,30,-0.27920613441587727,False
+2025,Rochester,log1p_retail_employment_density,log1p_auto_job_accessibility,30,-0.34145241317095165,False
+2025,Rochester,log1p_retail_employment_density,log1p_atm_density_500m,30,-0.27192990240359255,False
+2025,Rochester,log1p_retail_employment_density,log1p_nearest_other_atm,30,0.013000359033600823,False
+2025,Rochester,employment_mix,log1p_road_network_density,30,-0.42895805142083887,False
+2025,Rochester,employment_mix,log1p_auto_road_density,30,-0.06713556185773593,False
+2025,Rochester,employment_mix,log1p_intersection_density,30,-0.5922417681551645,False
+2025,Rochester,employment_mix,log1p_transit_service_density,30,-0.026161479476770406,False
+2025,Rochester,employment_mix,log1p_auto_job_accessibility,30,0.33288227334235443,False
+2025,Rochester,employment_mix,log1p_atm_density_500m,30,-0.33819167184385013,False
+2025,Rochester,employment_mix,log1p_nearest_other_atm,30,0.4399949100510072,False
+2025,Rochester,log1p_road_network_density,log1p_auto_road_density,30,0.7741043100227115,False
+2025,Rochester,log1p_road_network_density,log1p_intersection_density,30,0.8141632837167341,False
+2025,Rochester,log1p_road_network_density,log1p_transit_service_density,30,0.5899864682002706,False
+2025,Rochester,log1p_road_network_density,log1p_auto_job_accessibility,30,0.23951285520974286,False
+2025,Rochester,log1p_road_network_density,log1p_atm_density_500m,30,0.6865325935843595,False
+2025,Rochester,log1p_road_network_density,log1p_nearest_other_atm,30,-0.5462392235325035,False
+2025,Rochester,log1p_auto_road_density,log1p_intersection_density,30,0.3847661770986371,False
+2025,Rochester,log1p_auto_road_density,log1p_transit_service_density,30,0.5387688996396801,False
+2025,Rochester,log1p_auto_road_density,log1p_auto_job_accessibility,30,0.42037930668625334,False
+2025,Rochester,log1p_auto_road_density,log1p_atm_density_500m,30,0.38112197736307407,False
+2025,Rochester,log1p_auto_road_density,log1p_nearest_other_atm,30,-0.0815503530025989,False
+2025,Rochester,log1p_intersection_density,log1p_transit_service_density,30,0.5917907081641857,False
+2025,Rochester,log1p_intersection_density,log1p_auto_job_accessibility,30,0.07081641858367162,False
+2025,Rochester,log1p_intersection_density,log1p_atm_density_500m,30,0.7446282998893742,False
+2025,Rochester,log1p_intersection_density,log1p_nearest_other_atm,30,-0.7446067708555506,False
+2025,Rochester,log1p_transit_service_density,log1p_auto_job_accessibility,30,0.532701849345963,False
+2025,Rochester,log1p_transit_service_density,log1p_atm_density_500m,30,0.6319366286230205,False
+2025,Rochester,log1p_transit_service_density,log1p_nearest_other_atm,30,-0.3792518531871137,False
+2025,Rochester,log1p_auto_job_accessibility,log1p_atm_density_500m,30,0.18583626534917327,False
+2025,Rochester,log1p_auto_job_accessibility,log1p_nearest_other_atm,30,0.09638197214566127,False
+2025,Rochester,log1p_atm_density_500m,log1p_nearest_other_atm,31,-0.7869509807680141,False
+2025,ALL,log1p_background_primary,log1p_population_density,1241,0.409133643916293,False
+2025,ALL,log1p_background_primary,log1p_median_household_income,1070,0.22051310515153422,False
+2025,ALL,log1p_background_primary,unemployment_rate,1218,0.05200759571013489,False
+2025,ALL,log1p_background_primary,log1p_employment_density,1192,0.6604221209621502,False
+2025,ALL,log1p_background_primary,log1p_retail_employment_density,1192,0.6139397705110663,False
+2025,ALL,log1p_background_primary,employment_mix,1192,0.058535299902646554,False
+2025,ALL,log1p_background_primary,log1p_road_network_density,1192,0.2616209858084904,False
+2025,ALL,log1p_background_primary,log1p_auto_road_density,1192,0.19518105134532382,False
+2025,ALL,log1p_background_primary,log1p_intersection_density,1192,-0.19022221962161875,False
+2025,ALL,log1p_background_primary,log1p_transit_service_density,1191,0.7877164077110974,False
+2025,ALL,log1p_background_primary,log1p_auto_job_accessibility,1192,0.5998652029929123,False
+2025,ALL,log1p_background_primary,log1p_atm_density_500m,1241,0.565030845882567,False
+2025,ALL,log1p_background_primary,log1p_nearest_other_atm,1241,-0.25494141371248596,False
+2025,ALL,log1p_population_density,log1p_median_household_income,1070,0.14044472649411527,False
+2025,ALL,log1p_population_density,unemployment_rate,1218,0.0742344054020861,False
+2025,ALL,log1p_population_density,log1p_employment_density,1192,0.22064284495588182,False
+2025,ALL,log1p_population_density,log1p_retail_employment_density,1192,0.2585841452366337,False
+2025,ALL,log1p_population_density,employment_mix,1192,0.03547039054138786,False
+2025,ALL,log1p_population_density,log1p_road_network_density,1192,0.1529174659936469,False
+2025,ALL,log1p_population_density,log1p_auto_road_density,1192,-0.08423619125621486,False
+2025,ALL,log1p_population_density,log1p_intersection_density,1192,-0.23151233219877598,False
+2025,ALL,log1p_population_density,log1p_transit_service_density,1191,0.5889371044660955,False
+2025,ALL,log1p_population_density,log1p_auto_job_accessibility,1192,0.25762814651773985,False
+2025,ALL,log1p_population_density,log1p_atm_density_500m,1241,0.2402244402253034,False
+2025,ALL,log1p_population_density,log1p_nearest_other_atm,1241,-0.21399378374505104,False
+2025,ALL,log1p_median_household_income,unemployment_rate,1070,-0.2880260809723363,False
+2025,ALL,log1p_median_household_income,log1p_employment_density,1032,0.3502403228274741,False
+2025,ALL,log1p_median_household_income,log1p_retail_employment_density,1032,0.2709958389560463,False
+2025,ALL,log1p_median_household_income,employment_mix,1032,0.024478421415971053,False
+2025,ALL,log1p_median_household_income,log1p_road_network_density,1032,0.23264182821264934,False
+2025,ALL,log1p_median_household_income,log1p_auto_road_density,1032,0.23190123427626758,False
+2025,ALL,log1p_median_household_income,log1p_intersection_density,1032,-0.14054660400511865,False
+2025,ALL,log1p_median_household_income,log1p_transit_service_density,1031,0.3922700023417555,False
+2025,ALL,log1p_median_household_income,log1p_auto_job_accessibility,1032,0.40516913841327323,False
+2025,ALL,log1p_median_household_income,log1p_atm_density_500m,1070,0.4027664296866098,False
+2025,ALL,log1p_median_household_income,log1p_nearest_other_atm,1070,-0.14985116935596565,False
+2025,ALL,unemployment_rate,log1p_employment_density,1170,-0.054873828425797605,False
+2025,ALL,unemployment_rate,log1p_retail_employment_density,1170,-0.011712056126776456,False
+2025,ALL,unemployment_rate,employment_mix,1170,-0.05721784897018904,False
+2025,ALL,unemployment_rate,log1p_road_network_density,1170,-0.001807307647884443,False
+2025,ALL,unemployment_rate,log1p_auto_road_density,1170,-0.10025359846669578,False
+2025,ALL,unemployment_rate,log1p_intersection_density,1170,0.05389508983506744,False
+2025,ALL,unemployment_rate,log1p_transit_service_density,1169,-0.010183841435921518,False
+2025,ALL,unemployment_rate,log1p_auto_job_accessibility,1170,-0.041239186320869044,False
+2025,ALL,unemployment_rate,log1p_atm_density_500m,1218,-0.08825828078113451,False
+2025,ALL,unemployment_rate,log1p_nearest_other_atm,1218,0.08560094213836504,False
+2025,ALL,log1p_employment_density,log1p_retail_employment_density,1192,0.7188257239696382,False
+2025,ALL,log1p_employment_density,employment_mix,1192,-0.10262558221720117,False
+2025,ALL,log1p_employment_density,log1p_road_network_density,1192,0.2918809679820902,False
+2025,ALL,log1p_employment_density,log1p_auto_road_density,1192,0.3395576451515424,False
+2025,ALL,log1p_employment_density,log1p_intersection_density,1192,-0.1979450457154365,False
+2025,ALL,log1p_employment_density,log1p_transit_service_density,1191,0.6823856708707108,False
+2025,ALL,log1p_employment_density,log1p_auto_job_accessibility,1192,0.5368997939379778,False
+2025,ALL,log1p_employment_density,log1p_atm_density_500m,1192,0.7366049645267296,False
+2025,ALL,log1p_employment_density,log1p_nearest_other_atm,1192,-0.345168670671958,False
+2025,ALL,log1p_retail_employment_density,employment_mix,1192,0.2132883999315701,False
+2025,ALL,log1p_retail_employment_density,log1p_road_network_density,1192,0.17289978976248652,False
+2025,ALL,log1p_retail_employment_density,log1p_auto_road_density,1192,0.1369076363317514,False
+2025,ALL,log1p_retail_employment_density,log1p_intersection_density,1192,-0.19091535174425145,False
+2025,ALL,log1p_retail_employment_density,log1p_transit_service_density,1191,0.6372209044337741,False
+2025,ALL,log1p_retail_employment_density,log1p_auto_job_accessibility,1192,0.4762838658177989,False
+2025,ALL,log1p_retail_employment_density,log1p_atm_density_500m,1192,0.6381450349934659,False
+2025,ALL,log1p_retail_employment_density,log1p_nearest_other_atm,1192,-0.3524617312814009,False
+2025,ALL,employment_mix,log1p_road_network_density,1192,-0.02463217787615385,False
+2025,ALL,employment_mix,log1p_auto_road_density,1192,0.001301087355419318,False
+2025,ALL,employment_mix,log1p_intersection_density,1192,-0.09809334199106504,False
+2025,ALL,employment_mix,log1p_transit_service_density,1191,0.05812209580572583,False
+2025,ALL,employment_mix,log1p_auto_job_accessibility,1192,0.10047945910607764,False
+2025,ALL,employment_mix,log1p_atm_density_500m,1192,0.14734738767520386,False
+2025,ALL,employment_mix,log1p_nearest_other_atm,1192,-0.10157613663191721,False
+2025,ALL,log1p_road_network_density,log1p_auto_road_density,1192,0.24508588503206702,False
+2025,ALL,log1p_road_network_density,log1p_intersection_density,1192,0.3454274173555297,False
+2025,ALL,log1p_road_network_density,log1p_transit_service_density,1191,0.30867197185347833,False
+2025,ALL,log1p_road_network_density,log1p_auto_job_accessibility,1192,0.2599369471599205,False
+2025,ALL,log1p_road_network_density,log1p_atm_density_500m,1192,0.2195227926358109,False
+2025,ALL,log1p_road_network_density,log1p_nearest_other_atm,1192,-0.1033943959952295,False
+2025,ALL,log1p_auto_road_density,log1p_intersection_density,1192,-0.25876289668910774,False
+2025,ALL,log1p_auto_road_density,log1p_transit_service_density,1191,0.17757969397709214,False
+2025,ALL,log1p_auto_road_density,log1p_auto_job_accessibility,1192,0.25437673299997093,False
+2025,ALL,log1p_auto_road_density,log1p_atm_density_500m,1192,0.24448829323793592,False
+2025,ALL,log1p_auto_road_density,log1p_nearest_other_atm,1192,0.015018653927450496,False
+2025,ALL,log1p_intersection_density,log1p_transit_service_density,1191,-0.29814656868116146,False
+2025,ALL,log1p_intersection_density,log1p_auto_job_accessibility,1192,-0.1410666166762739,False
+2025,ALL,log1p_intersection_density,log1p_atm_density_500m,1192,-0.2496559272344985,False
+2025,ALL,log1p_intersection_density,log1p_nearest_other_atm,1192,0.09731499999572757,False
+2025,ALL,log1p_transit_service_density,log1p_auto_job_accessibility,1191,0.5963667716401199,False
+2025,ALL,log1p_transit_service_density,log1p_atm_density_500m,1191,0.6729816424040143,False
+2025,ALL,log1p_transit_service_density,log1p_nearest_other_atm,1191,-0.3270674074540159,False
+2025,ALL,log1p_auto_job_accessibility,log1p_atm_density_500m,1192,0.508977965707954,False
+2025,ALL,log1p_auto_job_accessibility,log1p_nearest_other_atm,1192,-0.22982439957795256,False
+2025,ALL,log1p_atm_density_500m,log1p_nearest_other_atm,1241,-0.5150214172835665,False
+ALL,New York City,log1p_background_primary,log1p_population_density,2289,0.3848913879712605,False
+ALL,New York City,log1p_background_primary,log1p_median_household_income,1969,0.19112494819339804,False
+ALL,New York City,log1p_background_primary,unemployment_rate,2256,0.05993636973731905,False
+ALL,New York City,log1p_background_primary,log1p_employment_density,2241,0.673878476635297,False
+ALL,New York City,log1p_background_primary,log1p_retail_employment_density,2241,0.5904232532942532,False
+ALL,New York City,log1p_background_primary,employment_mix,2241,0.01366722401876645,False
+ALL,New York City,log1p_background_primary,log1p_road_network_density,2241,0.20859401843077155,False
+ALL,New York City,log1p_background_primary,log1p_auto_road_density,2241,0.23571654384655513,False
+ALL,New York City,log1p_background_primary,log1p_intersection_density,2241,-0.21407625543050074,False
+ALL,New York City,log1p_background_primary,log1p_transit_service_density,2240,0.7851015505501482,False
+ALL,New York City,log1p_background_primary,log1p_auto_job_accessibility,2241,0.5628163465715345,False
+ALL,New York City,log1p_background_primary,log1p_atm_density_500m,2289,0.5452710296492653,False
+ALL,New York City,log1p_background_primary,log1p_nearest_other_atm,2289,-0.21168390379953936,False
+ALL,New York City,log1p_population_density,log1p_median_household_income,1969,0.06100866413684544,False
+ALL,New York City,log1p_population_density,unemployment_rate,2256,0.04914915634381091,False
+ALL,New York City,log1p_population_density,log1p_employment_density,2241,0.20884228303218652,False
+ALL,New York City,log1p_population_density,log1p_retail_employment_density,2241,0.16378992457225752,False
+ALL,New York City,log1p_population_density,employment_mix,2241,-0.03380752135825059,False
+ALL,New York City,log1p_population_density,log1p_road_network_density,2241,0.09221139796421811,False
+ALL,New York City,log1p_population_density,log1p_auto_road_density,2241,-0.048204435202471356,False
+ALL,New York City,log1p_population_density,log1p_intersection_density,2241,-0.23463204185651593,False
+ALL,New York City,log1p_population_density,log1p_transit_service_density,2240,0.5365933502682514,False
+ALL,New York City,log1p_population_density,log1p_auto_job_accessibility,2241,0.12464316414788586,False
+ALL,New York City,log1p_population_density,log1p_atm_density_500m,2289,0.18667504270149182,False
+ALL,New York City,log1p_population_density,log1p_nearest_other_atm,2289,-0.12889593898600615,False
+ALL,New York City,log1p_median_household_income,unemployment_rate,1969,-0.3045750008078349,False
+ALL,New York City,log1p_median_household_income,log1p_employment_density,1932,0.36879156755696735,False
+ALL,New York City,log1p_median_household_income,log1p_retail_employment_density,1932,0.23455385230810305,False
+ALL,New York City,log1p_median_household_income,employment_mix,1932,-5.004302915944761e-06,False
+ALL,New York City,log1p_median_household_income,log1p_road_network_density,1932,0.1901311165873328,False
+ALL,New York City,log1p_median_household_income,log1p_auto_road_density,1932,0.2909393332273057,False
+ALL,New York City,log1p_median_household_income,log1p_intersection_density,1932,-0.1473983816920966,False
+ALL,New York City,log1p_median_household_income,log1p_transit_service_density,1931,0.3341727641763714,False
+ALL,New York City,log1p_median_household_income,log1p_auto_job_accessibility,1932,0.34837069074216226,False
+ALL,New York City,log1p_median_household_income,log1p_atm_density_500m,1969,0.37524606889787016,False
+ALL,New York City,log1p_median_household_income,log1p_nearest_other_atm,1969,-0.07581165522206748,False
+ALL,New York City,unemployment_rate,log1p_employment_density,2209,-0.04818921953503913,False
+ALL,New York City,unemployment_rate,log1p_retail_employment_density,2209,-0.021319232848583516,False
+ALL,New York City,unemployment_rate,employment_mix,2209,-0.07874239171044355,False
+ALL,New York City,unemployment_rate,log1p_road_network_density,2209,-0.004564825890442697,False
+ALL,New York City,unemployment_rate,log1p_auto_road_density,2209,-0.08614401308498848,False
+ALL,New York City,unemployment_rate,log1p_intersection_density,2209,0.060887934017222256,False
+ALL,New York City,unemployment_rate,log1p_transit_service_density,2208,-0.019025117364706627,False
+ALL,New York City,unemployment_rate,log1p_auto_job_accessibility,2209,-0.0556345571835824,False
+ALL,New York City,unemployment_rate,log1p_atm_density_500m,2256,-0.08083731628861855,False
+ALL,New York City,unemployment_rate,log1p_nearest_other_atm,2256,0.06810358692799207,False
+ALL,New York City,log1p_employment_density,log1p_retail_employment_density,2241,0.7640923081418947,False
+ALL,New York City,log1p_employment_density,employment_mix,2241,-0.12439599652538269,False
+ALL,New York City,log1p_employment_density,log1p_road_network_density,2241,0.22467389383682415,False
+ALL,New York City,log1p_employment_density,log1p_auto_road_density,2241,0.3404887727897718,False
+ALL,New York City,log1p_employment_density,log1p_intersection_density,2241,-0.25187265936315845,False
+ALL,New York City,log1p_employment_density,log1p_transit_service_density,2240,0.7215337629539793,False
+ALL,New York City,log1p_employment_density,log1p_auto_job_accessibility,2241,0.5580788840915291,False
+ALL,New York City,log1p_employment_density,log1p_atm_density_500m,2241,0.7314137709542997,False
+ALL,New York City,log1p_employment_density,log1p_nearest_other_atm,2241,-0.30989940037504077,False
+ALL,New York City,log1p_retail_employment_density,employment_mix,2241,0.14489477303205478,False
+ALL,New York City,log1p_retail_employment_density,log1p_road_network_density,2241,0.12879603281696858,False
+ALL,New York City,log1p_retail_employment_density,log1p_auto_road_density,2241,0.21438806852156175,False
+ALL,New York City,log1p_retail_employment_density,log1p_intersection_density,2241,-0.1938730237091814,False
+ALL,New York City,log1p_retail_employment_density,log1p_transit_service_density,2240,0.6005569705180656,False
+ALL,New York City,log1p_retail_employment_density,log1p_auto_job_accessibility,2241,0.40535838578789674,False
+ALL,New York City,log1p_retail_employment_density,log1p_atm_density_500m,2241,0.6356544537627906,False
+ALL,New York City,log1p_retail_employment_density,log1p_nearest_other_atm,2241,-0.3053560139199201,False
+ALL,New York City,employment_mix,log1p_road_network_density,2241,-0.03889456283366789,False
+ALL,New York City,employment_mix,log1p_auto_road_density,2241,0.01915037594068124,False
+ALL,New York City,employment_mix,log1p_intersection_density,2241,-0.05245568146309323,False
+ALL,New York City,employment_mix,log1p_transit_service_density,2240,-0.01711509164532852,False
+ALL,New York City,employment_mix,log1p_auto_job_accessibility,2241,0.04216041928794589,False
+ALL,New York City,employment_mix,log1p_atm_density_500m,2241,0.11899748873765059,False
+ALL,New York City,employment_mix,log1p_nearest_other_atm,2241,-0.07571571349198908,False
+ALL,New York City,log1p_road_network_density,log1p_auto_road_density,2241,0.2079856189516391,False
+ALL,New York City,log1p_road_network_density,log1p_intersection_density,2241,0.362958466869512,False
+ALL,New York City,log1p_road_network_density,log1p_transit_service_density,2240,0.241876861358419,False
+ALL,New York City,log1p_road_network_density,log1p_auto_job_accessibility,2241,0.21382347087312478,False
+ALL,New York City,log1p_road_network_density,log1p_atm_density_500m,2241,0.14973253987404236,False
+ALL,New York City,log1p_road_network_density,log1p_nearest_other_atm,2241,-0.04106929380907399,False
+ALL,New York City,log1p_auto_road_density,log1p_intersection_density,2241,-0.30159805493994,False
+ALL,New York City,log1p_auto_road_density,log1p_transit_service_density,2240,0.2425440561664273,False
+ALL,New York City,log1p_auto_road_density,log1p_auto_job_accessibility,2241,0.3317821461618009,False
+ALL,New York City,log1p_auto_road_density,log1p_atm_density_500m,2241,0.2677898264195131,False
+ALL,New York City,log1p_auto_road_density,log1p_nearest_other_atm,2241,0.0071946736299507985,False
+ALL,New York City,log1p_intersection_density,log1p_transit_service_density,2240,-0.3157746246407753,False
+ALL,New York City,log1p_intersection_density,log1p_auto_job_accessibility,2241,-0.11893675730681498,False
+ALL,New York City,log1p_intersection_density,log1p_atm_density_500m,2241,-0.2744530359590246,False
+ALL,New York City,log1p_intersection_density,log1p_nearest_other_atm,2241,0.08875468922478084,False
+ALL,New York City,log1p_transit_service_density,log1p_auto_job_accessibility,2240,0.5115704163097395,False
+ALL,New York City,log1p_transit_service_density,log1p_atm_density_500m,2240,0.6588398419662821,False
+ALL,New York City,log1p_transit_service_density,log1p_nearest_other_atm,2240,-0.2547728009151729,False
+ALL,New York City,log1p_auto_job_accessibility,log1p_atm_density_500m,2241,0.47969410269805046,False
+ALL,New York City,log1p_auto_job_accessibility,log1p_nearest_other_atm,2241,-0.14504680493307975,False
+ALL,New York City,log1p_atm_density_500m,log1p_nearest_other_atm,2289,-0.4876609370801664,False
+ALL,Buffalo,log1p_background_primary,log1p_population_density,98,0.11427494486082587,False
+ALL,Buffalo,log1p_background_primary,log1p_median_household_income,93,-0.10515734594784663,False
+ALL,Buffalo,log1p_background_primary,unemployment_rate,98,-0.06985750971197789,False
+ALL,Buffalo,log1p_background_primary,log1p_employment_density,98,0.08563425141807175,False
+ALL,Buffalo,log1p_background_primary,log1p_retail_employment_density,98,0.27582730825394874,False
+ALL,Buffalo,log1p_background_primary,employment_mix,98,0.10055603020192153,False
+ALL,Buffalo,log1p_background_primary,log1p_road_network_density,98,0.10284425113853779,False
+ALL,Buffalo,log1p_background_primary,log1p_auto_road_density,98,0.022186343964967124,False
+ALL,Buffalo,log1p_background_primary,log1p_intersection_density,98,0.024000537063354047,False
+ALL,Buffalo,log1p_background_primary,log1p_transit_service_density,98,0.25858508006958664,False
+ALL,Buffalo,log1p_background_primary,log1p_auto_job_accessibility,98,0.03851623720211417,False
+ALL,Buffalo,log1p_background_primary,log1p_atm_density_500m,98,0.20943936020252193,False
+ALL,Buffalo,log1p_background_primary,log1p_nearest_other_atm,98,-0.18914412568086936,False
+ALL,Buffalo,log1p_population_density,log1p_median_household_income,93,-0.12003120616321723,False
+ALL,Buffalo,log1p_population_density,unemployment_rate,98,0.08569690097904437,False
+ALL,Buffalo,log1p_population_density,log1p_employment_density,98,-0.34074581658790376,False
+ALL,Buffalo,log1p_population_density,log1p_retail_employment_density,98,0.025877798609828515,False
+ALL,Buffalo,log1p_population_density,employment_mix,98,-0.14949613273552498,False
+ALL,Buffalo,log1p_population_density,log1p_road_network_density,98,-0.08890421403934116,False
+ALL,Buffalo,log1p_population_density,log1p_auto_road_density,98,-0.41044513202935407,False
+ALL,Buffalo,log1p_population_density,log1p_intersection_density,98,-0.2832002390421552,False
+ALL,Buffalo,log1p_population_density,log1p_transit_service_density,98,0.42367971720979564,False
+ALL,Buffalo,log1p_population_density,log1p_auto_job_accessibility,98,0.16774197730039414,False
+ALL,Buffalo,log1p_population_density,log1p_atm_density_500m,98,-0.38426417696099197,False
+ALL,Buffalo,log1p_population_density,log1p_nearest_other_atm,98,0.2552620377002918,False
+ALL,Buffalo,log1p_median_household_income,unemployment_rate,93,0.07923469291110366,False
+ALL,Buffalo,log1p_median_household_income,log1p_employment_density,93,0.1409279626306709,False
+ALL,Buffalo,log1p_median_household_income,log1p_retail_employment_density,93,0.05719253508088508,False
+ALL,Buffalo,log1p_median_household_income,employment_mix,93,0.2544750745830986,False
+ALL,Buffalo,log1p_median_household_income,log1p_road_network_density,93,0.14990392939560918,False
+ALL,Buffalo,log1p_median_household_income,log1p_auto_road_density,93,-0.034668772386360444,False
+ALL,Buffalo,log1p_median_household_income,log1p_intersection_density,93,0.19275303566793014,False
+ALL,Buffalo,log1p_median_household_income,log1p_transit_service_density,93,-0.08211235534250093,False
+ALL,Buffalo,log1p_median_household_income,log1p_auto_job_accessibility,93,-0.34323825138893904,False
+ALL,Buffalo,log1p_median_household_income,log1p_atm_density_500m,93,0.46682388924276125,False
+ALL,Buffalo,log1p_median_household_income,log1p_nearest_other_atm,93,-0.45527891447354274,False
+ALL,Buffalo,unemployment_rate,log1p_employment_density,98,-0.3398585133093157,False
+ALL,Buffalo,unemployment_rate,log1p_retail_employment_density,98,0.20328809890943497,False
+ALL,Buffalo,unemployment_rate,employment_mix,98,0.21519474001182534,False
+ALL,Buffalo,unemployment_rate,log1p_road_network_density,98,-0.004101684373176712,False
+ALL,Buffalo,unemployment_rate,log1p_auto_road_density,98,-0.07873812178820085,False
+ALL,Buffalo,unemployment_rate,log1p_intersection_density,98,-0.09475021528929072,False
+ALL,Buffalo,unemployment_rate,log1p_transit_service_density,98,-0.07740296418235225,False
+ALL,Buffalo,unemployment_rate,log1p_auto_job_accessibility,98,-0.2508362871844771,False
+ALL,Buffalo,unemployment_rate,log1p_atm_density_500m,98,-0.17925568129617844,False
+ALL,Buffalo,unemployment_rate,log1p_nearest_other_atm,98,0.05794801857904365,False
+ALL,Buffalo,log1p_employment_density,log1p_retail_employment_density,98,0.032266837616799736,False
+ALL,Buffalo,log1p_employment_density,employment_mix,98,-0.037796815406233204,False
+ALL,Buffalo,log1p_employment_density,log1p_road_network_density,98,0.42022003354248827,False
+ALL,Buffalo,log1p_employment_density,log1p_auto_road_density,98,0.5805168263682637,False
+ALL,Buffalo,log1p_employment_density,log1p_intersection_density,98,0.36142354838083035,False
+ALL,Buffalo,log1p_employment_density,log1p_transit_service_density,98,0.3300697398838316,False
+ALL,Buffalo,log1p_employment_density,log1p_auto_job_accessibility,98,0.18437360374536202,False
+ALL,Buffalo,log1p_employment_density,log1p_atm_density_500m,98,0.546219214596499,False
+ALL,Buffalo,log1p_employment_density,log1p_nearest_other_atm,98,-0.3783986665667684,False
+ALL,Buffalo,log1p_retail_employment_density,employment_mix,98,0.5982153842168996,False
+ALL,Buffalo,log1p_retail_employment_density,log1p_road_network_density,98,-0.11353290466292391,False
+ALL,Buffalo,log1p_retail_employment_density,log1p_auto_road_density,98,-0.23263263535369122,False
+ALL,Buffalo,log1p_retail_employment_density,log1p_intersection_density,98,-0.11797501796919013,False
+ALL,Buffalo,log1p_retail_employment_density,log1p_transit_service_density,98,0.1817964009816682,False
+ALL,Buffalo,log1p_retail_employment_density,log1p_auto_job_accessibility,98,-0.35797864418413405,False
+ALL,Buffalo,log1p_retail_employment_density,log1p_atm_density_500m,98,0.269775762758231,False
+ALL,Buffalo,log1p_retail_employment_density,log1p_nearest_other_atm,98,-0.4093059257524594,False
+ALL,Buffalo,employment_mix,log1p_road_network_density,98,-0.012931341505267726,False
+ALL,Buffalo,employment_mix,log1p_auto_road_density,98,-0.005888348329896221,False
+ALL,Buffalo,employment_mix,log1p_intersection_density,98,0.0009259798874578291,False
+ALL,Buffalo,employment_mix,log1p_transit_service_density,98,-0.23172161029845043,False
+ALL,Buffalo,employment_mix,log1p_auto_job_accessibility,98,-0.6489953441990276,False
+ALL,Buffalo,employment_mix,log1p_atm_density_500m,98,0.3312858586340307,False
+ALL,Buffalo,employment_mix,log1p_nearest_other_atm,98,-0.4349763000657308,False
+ALL,Buffalo,log1p_road_network_density,log1p_auto_road_density,98,0.6440309525286007,False
+ALL,Buffalo,log1p_road_network_density,log1p_intersection_density,98,0.8201785910859867,False
+ALL,Buffalo,log1p_road_network_density,log1p_transit_service_density,98,0.4921485971080936,False
+ALL,Buffalo,log1p_road_network_density,log1p_auto_job_accessibility,98,0.1110334065051706,False
+ALL,Buffalo,log1p_road_network_density,log1p_atm_density_500m,98,0.36533490436445887,False
+ALL,Buffalo,log1p_road_network_density,log1p_nearest_other_atm,98,-0.1395196088771119,False
+ALL,Buffalo,log1p_auto_road_density,log1p_intersection_density,98,0.4666658972518723,False
+ALL,Buffalo,log1p_auto_road_density,log1p_transit_service_density,98,0.13601798799908332,False
+ALL,Buffalo,log1p_auto_road_density,log1p_auto_job_accessibility,98,0.03644487437193049,False
+ALL,Buffalo,log1p_auto_road_density,log1p_atm_density_500m,98,0.4107882467789152,False
+ALL,Buffalo,log1p_auto_road_density,log1p_nearest_other_atm,98,-0.18708559966465974,False
+ALL,Buffalo,log1p_intersection_density,log1p_transit_service_density,98,0.3908088401940025,False
+ALL,Buffalo,log1p_intersection_density,log1p_auto_job_accessibility,98,0.17247184826880613,False
+ALL,Buffalo,log1p_intersection_density,log1p_atm_density_500m,98,0.27560002901639086,False
+ALL,Buffalo,log1p_intersection_density,log1p_nearest_other_atm,98,-0.07615651473364023,False
+ALL,Buffalo,log1p_transit_service_density,log1p_auto_job_accessibility,98,0.5098004934242477,False
+ALL,Buffalo,log1p_transit_service_density,log1p_atm_density_500m,98,0.0713522425058942,False
+ALL,Buffalo,log1p_transit_service_density,log1p_nearest_other_atm,98,0.0017413445403996373,False
+ALL,Buffalo,log1p_auto_job_accessibility,log1p_atm_density_500m,98,-0.2651867456722693,False
+ALL,Buffalo,log1p_auto_job_accessibility,log1p_nearest_other_atm,98,0.35953945540044757,False
+ALL,Buffalo,log1p_atm_density_500m,log1p_nearest_other_atm,98,-0.8572623337156577,False
+ALL,Rochester,log1p_background_primary,log1p_population_density,55,-0.10688726437315613,False
+ALL,Rochester,log1p_background_primary,log1p_median_household_income,53,0.11561624022449091,False
+ALL,Rochester,log1p_background_primary,unemployment_rate,55,0.33642628705599303,False
+ALL,Rochester,log1p_background_primary,log1p_employment_density,54,0.2825515977454126,False
+ALL,Rochester,log1p_background_primary,log1p_retail_employment_density,54,-0.40278550210002995,False
+ALL,Rochester,log1p_background_primary,employment_mix,54,0.0900696901025555,False
+ALL,Rochester,log1p_background_primary,log1p_road_network_density,54,0.3935958944438887,False
+ALL,Rochester,log1p_background_primary,log1p_auto_road_density,54,0.5185831191767598,False
+ALL,Rochester,log1p_background_primary,log1p_intersection_density,54,0.21695548619153443,False
+ALL,Rochester,log1p_background_primary,log1p_transit_service_density,54,0.5949598078129744,False
+ALL,Rochester,log1p_background_primary,log1p_auto_job_accessibility,54,0.5280563880569674,False
+ALL,Rochester,log1p_background_primary,log1p_atm_density_500m,55,0.25639662664853374,False
+ALL,Rochester,log1p_background_primary,log1p_nearest_other_atm,55,-0.036376488191192595,False
+ALL,Rochester,log1p_population_density,log1p_median_household_income,53,-0.44391515003460774,False
+ALL,Rochester,log1p_population_density,unemployment_rate,55,-0.21272568658805002,False
+ALL,Rochester,log1p_population_density,log1p_employment_density,54,-0.17820417145719833,False
+ALL,Rochester,log1p_population_density,log1p_retail_employment_density,54,0.36994430140422063,False
+ALL,Rochester,log1p_population_density,employment_mix,54,-0.09398042974273801,False
+ALL,Rochester,log1p_population_density,log1p_road_network_density,54,-0.36986717343561765,False
+ALL,Rochester,log1p_population_density,log1p_auto_road_density,54,-0.7077827287624328,False
+ALL,Rochester,log1p_population_density,log1p_intersection_density,54,-0.1005363070739918,False
+ALL,Rochester,log1p_population_density,log1p_transit_service_density,54,-0.31981112181228,False
+ALL,Rochester,log1p_population_density,log1p_auto_job_accessibility,54,-0.21206334967390905,False
+ALL,Rochester,log1p_population_density,log1p_atm_density_500m,55,-0.15150793231642953,False
+ALL,Rochester,log1p_population_density,log1p_nearest_other_atm,55,0.022488195371649627,False
+ALL,Rochester,log1p_median_household_income,unemployment_rate,53,-0.22922181352258855,False
+ALL,Rochester,log1p_median_household_income,log1p_employment_density,52,0.0929380804712676,False
+ALL,Rochester,log1p_median_household_income,log1p_retail_employment_density,52,-0.3842507421997267,False
+ALL,Rochester,log1p_median_household_income,employment_mix,52,0.14656452057567518,False
+ALL,Rochester,log1p_median_household_income,log1p_road_network_density,52,0.24733033141702163,False
+ALL,Rochester,log1p_median_household_income,log1p_auto_road_density,52,0.32057685704195615,False
+ALL,Rochester,log1p_median_household_income,log1p_intersection_density,52,0.007395259078914268,False
+ALL,Rochester,log1p_median_household_income,log1p_transit_service_density,52,0.3132389561905032,False
+ALL,Rochester,log1p_median_household_income,log1p_auto_job_accessibility,52,0.31427688728929815,False
+ALL,Rochester,log1p_median_household_income,log1p_atm_density_500m,53,0.23817467922213495,False
+ALL,Rochester,log1p_median_household_income,log1p_nearest_other_atm,53,-0.24644678008865292,False
+ALL,Rochester,unemployment_rate,log1p_employment_density,54,0.33497976081923364,False
+ALL,Rochester,unemployment_rate,log1p_retail_employment_density,54,0.20947323903388118,False
+ALL,Rochester,unemployment_rate,employment_mix,54,0.00034712928582304004,False
+ALL,Rochester,unemployment_rate,log1p_road_network_density,54,0.3054352016036283,False
+ALL,Rochester,unemployment_rate,log1p_auto_road_density,54,0.3738407809063923,False
+ALL,Rochester,unemployment_rate,log1p_intersection_density,54,0.4129681403674767,False
+ALL,Rochester,unemployment_rate,log1p_transit_service_density,54,0.3692298503537736,False
+ALL,Rochester,unemployment_rate,log1p_auto_job_accessibility,54,0.38581491623198555,False
+ALL,Rochester,unemployment_rate,log1p_atm_density_500m,55,0.12707569425131265,False
+ALL,Rochester,unemployment_rate,log1p_nearest_other_atm,55,-0.10038698797435422,False
+ALL,Rochester,log1p_employment_density,log1p_retail_employment_density,54,-0.24626029144602063,False
+ALL,Rochester,log1p_employment_density,employment_mix,54,-0.7013644621390746,False
+ALL,Rochester,log1p_employment_density,log1p_road_network_density,54,0.6806462834834369,False
+ALL,Rochester,log1p_employment_density,log1p_auto_road_density,54,0.39175676601527964,False
+ALL,Rochester,log1p_employment_density,log1p_intersection_density,54,0.8231997216961076,False
+ALL,Rochester,log1p_employment_density,log1p_transit_service_density,54,0.6202698001623438,False
+ALL,Rochester,log1p_employment_density,log1p_auto_job_accessibility,54,0.15233272776467857,False
+ALL,Rochester,log1p_employment_density,log1p_atm_density_500m,54,0.7132482978038233,False
+ALL,Rochester,log1p_employment_density,log1p_nearest_other_atm,54,-0.5654991137833938,False
+ALL,Rochester,log1p_retail_employment_density,employment_mix,54,-0.04340767654903173,False
+ALL,Rochester,log1p_retail_employment_density,log1p_road_network_density,54,-0.20010822929148464,False
+ALL,Rochester,log1p_retail_employment_density,log1p_auto_road_density,54,-0.32777080594471164,False
+ALL,Rochester,log1p_retail_employment_density,log1p_intersection_density,54,-0.05786401762591318,False
+ALL,Rochester,log1p_retail_employment_density,log1p_transit_service_density,54,-0.22198600749874375,False
+ALL,Rochester,log1p_retail_employment_density,log1p_auto_job_accessibility,54,-0.4037339105562212,False
+ALL,Rochester,log1p_retail_employment_density,log1p_atm_density_500m,54,-0.19953684726724308,False
+ALL,Rochester,log1p_retail_employment_density,log1p_nearest_other_atm,54,0.04919970904059332,False
+ALL,Rochester,employment_mix,log1p_road_network_density,54,-0.4072127092110857,False
+ALL,Rochester,employment_mix,log1p_auto_road_density,54,0.013459694090859977,False
+ALL,Rochester,employment_mix,log1p_intersection_density,54,-0.6049630860809401,False
+ALL,Rochester,employment_mix,log1p_transit_service_density,54,-0.12682153762900542,False
+ALL,Rochester,employment_mix,log1p_auto_job_accessibility,54,0.2698388156623246,False
+ALL,Rochester,employment_mix,log1p_atm_density_500m,54,-0.4187395857314981,False
+ALL,Rochester,employment_mix,log1p_nearest_other_atm,54,0.3808706309303207,False
+ALL,Rochester,log1p_road_network_density,log1p_auto_road_density,54,0.7116865663681194,False
+ALL,Rochester,log1p_road_network_density,log1p_intersection_density,54,0.8090526071663251,False
+ALL,Rochester,log1p_road_network_density,log1p_transit_service_density,54,0.6118433767538942,False
+ALL,Rochester,log1p_road_network_density,log1p_auto_job_accessibility,54,0.23605581539175136,False
+ALL,Rochester,log1p_road_network_density,log1p_atm_density_500m,54,0.6951412882260867,False
+ALL,Rochester,log1p_road_network_density,log1p_nearest_other_atm,54,-0.5495663168642786,False
+ALL,Rochester,log1p_auto_road_density,log1p_intersection_density,54,0.31083087942537385,False
+ALL,Rochester,log1p_auto_road_density,log1p_transit_service_density,54,0.5434613554879631,False
+ALL,Rochester,log1p_auto_road_density,log1p_auto_job_accessibility,54,0.45297531234753996,False
+ALL,Rochester,log1p_auto_road_density,log1p_atm_density_500m,54,0.36520181055020373,False
+ALL,Rochester,log1p_auto_road_density,log1p_nearest_other_atm,54,-0.1148633712593869,False
+ALL,Rochester,log1p_intersection_density,log1p_transit_service_density,54,0.608596498009354,False
+ALL,Rochester,log1p_intersection_density,log1p_auto_job_accessibility,54,0.0766495303621816,False
+ALL,Rochester,log1p_intersection_density,log1p_atm_density_500m,54,0.7336336728251162,False
+ALL,Rochester,log1p_intersection_density,log1p_nearest_other_atm,54,-0.6649735157530992,False
+ALL,Rochester,log1p_transit_service_density,log1p_auto_job_accessibility,54,0.46016775540180116,False
+ALL,Rochester,log1p_transit_service_density,log1p_atm_density_500m,54,0.6402206896393094,False
+ALL,Rochester,log1p_transit_service_density,log1p_nearest_other_atm,54,-0.4234092790902719,False
+ALL,Rochester,log1p_auto_job_accessibility,log1p_atm_density_500m,54,0.14557556044617373,False
+ALL,Rochester,log1p_auto_job_accessibility,log1p_nearest_other_atm,54,-0.004434308540139312,False
+ALL,Rochester,log1p_atm_density_500m,log1p_nearest_other_atm,55,-0.8262281061050717,False
+ALL,ALL,log1p_background_primary,log1p_population_density,2442,0.446378958392663,False
+ALL,ALL,log1p_background_primary,log1p_median_household_income,2115,0.23294723202263912,False
+ALL,ALL,log1p_background_primary,unemployment_rate,2409,0.06772762063266391,False
+ALL,ALL,log1p_background_primary,log1p_employment_density,2393,0.6588962749000331,False
+ALL,ALL,log1p_background_primary,log1p_retail_employment_density,2393,0.6210560471899532,False
+ALL,ALL,log1p_background_primary,employment_mix,2393,0.05435734361071424,False
+ALL,ALL,log1p_background_primary,log1p_road_network_density,2393,0.24266204968568633,False
+ALL,ALL,log1p_background_primary,log1p_auto_road_density,2393,0.19641074728841307,False
+ALL,ALL,log1p_background_primary,log1p_intersection_density,2393,-0.21645108441893174,False
+ALL,ALL,log1p_background_primary,log1p_transit_service_density,2392,0.8036730954960687,False
+ALL,ALL,log1p_background_primary,log1p_auto_job_accessibility,2393,0.6097452564197438,False
+ALL,ALL,log1p_background_primary,log1p_atm_density_500m,2442,0.5616971324270297,False
+ALL,ALL,log1p_background_primary,log1p_nearest_other_atm,2442,-0.2571220550168644,False
+ALL,ALL,log1p_population_density,log1p_median_household_income,2115,0.15202718751589547,False
+ALL,ALL,log1p_population_density,unemployment_rate,2409,0.05852081630088185,False
+ALL,ALL,log1p_population_density,log1p_employment_density,2393,0.22805671463086974,False
+ALL,ALL,log1p_population_density,log1p_retail_employment_density,2393,0.26278273092143073,False
+ALL,ALL,log1p_population_density,employment_mix,2393,0.022572127600394513,False
+ALL,ALL,log1p_population_density,log1p_road_network_density,2393,0.13597682349460907,False
+ALL,ALL,log1p_population_density,log1p_auto_road_density,2393,-0.07706050953714531,False
+ALL,ALL,log1p_population_density,log1p_intersection_density,2393,-0.23230638107178714,False
+ALL,ALL,log1p_population_density,log1p_transit_service_density,2392,0.5999190918759534,False
+ALL,ALL,log1p_population_density,log1p_auto_job_accessibility,2393,0.2568975756033213,False
+ALL,ALL,log1p_population_density,log1p_atm_density_500m,2442,0.23888390141372592,False
+ALL,ALL,log1p_population_density,log1p_nearest_other_atm,2442,-0.18431144682612108,False
+ALL,ALL,log1p_median_household_income,unemployment_rate,2115,-0.2727731630508417,False
+ALL,ALL,log1p_median_household_income,log1p_employment_density,2077,0.362855481662236,False
+ALL,ALL,log1p_median_household_income,log1p_retail_employment_density,2077,0.2810879678165473,False
+ALL,ALL,log1p_median_household_income,employment_mix,2077,0.04208687455905635,False
+ALL,ALL,log1p_median_household_income,log1p_road_network_density,2077,0.21544458280284118,False
+ALL,ALL,log1p_median_household_income,log1p_auto_road_density,2077,0.23946338061273773,False
+ALL,ALL,log1p_median_household_income,log1p_intersection_density,2077,-0.14758889955020732,False
+ALL,ALL,log1p_median_household_income,log1p_transit_service_density,2076,0.388296785631391,False
+ALL,ALL,log1p_median_household_income,log1p_auto_job_accessibility,2077,0.4117655816856429,False
+ALL,ALL,log1p_median_household_income,log1p_atm_density_500m,2115,0.39013006714450227,False
+ALL,ALL,log1p_median_household_income,log1p_nearest_other_atm,2115,-0.12637614539930958,False
+ALL,ALL,unemployment_rate,log1p_employment_density,2361,-0.0420765791693301,False
+ALL,ALL,unemployment_rate,log1p_retail_employment_density,2361,-0.0063141840446635745,False
+ALL,ALL,unemployment_rate,employment_mix,2361,-0.06756959644244588,False
+ALL,ALL,unemployment_rate,log1p_road_network_density,2361,0.011739002953411874,False
+ALL,ALL,unemployment_rate,log1p_auto_road_density,2361,-0.07757915507265778,False
+ALL,ALL,unemployment_rate,log1p_intersection_density,2361,0.061077291403623106,False
+ALL,ALL,unemployment_rate,log1p_transit_service_density,2360,-6.898100431792072e-05,False
+ALL,ALL,unemployment_rate,log1p_auto_job_accessibility,2361,-0.03358964943306549,False
+ALL,ALL,unemployment_rate,log1p_atm_density_500m,2409,-0.0759688611167586,False
+ALL,ALL,unemployment_rate,log1p_nearest_other_atm,2409,0.05677139142593545,False
+ALL,ALL,log1p_employment_density,log1p_retail_employment_density,2393,0.7263844422199051,False
+ALL,ALL,log1p_employment_density,employment_mix,2393,-0.1150975137605567,False
+ALL,ALL,log1p_employment_density,log1p_road_network_density,2393,0.2666583590994259,False
+ALL,ALL,log1p_employment_density,log1p_auto_road_density,2393,0.3363506614587968,False
+ALL,ALL,log1p_employment_density,log1p_intersection_density,2393,-0.21181288955062305,False
+ALL,ALL,log1p_employment_density,log1p_transit_service_density,2392,0.6916701311675912,False
+ALL,ALL,log1p_employment_density,log1p_auto_job_accessibility,2393,0.5438525257554565,False
+ALL,ALL,log1p_employment_density,log1p_atm_density_500m,2393,0.7320600498852803,False
+ALL,ALL,log1p_employment_density,log1p_nearest_other_atm,2393,-0.33484452323658703,False
+ALL,ALL,log1p_retail_employment_density,employment_mix,2393,0.1993900983600225,False
+ALL,ALL,log1p_retail_employment_density,log1p_road_network_density,2393,0.15901632934582144,False
+ALL,ALL,log1p_retail_employment_density,log1p_auto_road_density,2393,0.16073146016562123,False
+ALL,ALL,log1p_retail_employment_density,log1p_intersection_density,2393,-0.20755088542983696,False
+ALL,ALL,log1p_retail_employment_density,log1p_transit_service_density,2392,0.6468342897201278,False
+ALL,ALL,log1p_retail_employment_density,log1p_auto_job_accessibility,2393,0.4814758837844791,False
+ALL,ALL,log1p_retail_employment_density,log1p_atm_density_500m,2393,0.6381639236137944,False
+ALL,ALL,log1p_retail_employment_density,log1p_nearest_other_atm,2393,-0.3506484730751552,False
+ALL,ALL,employment_mix,log1p_road_network_density,2393,-0.02224633916265548,False
+ALL,ALL,employment_mix,log1p_auto_road_density,2393,0.0051343729367932115,False
+ALL,ALL,employment_mix,log1p_intersection_density,2393,-0.07716703428029738,False
+ALL,ALL,employment_mix,log1p_transit_service_density,2392,0.04348257535137886,False
+ALL,ALL,employment_mix,log1p_auto_job_accessibility,2393,0.09733859167639225,False
+ALL,ALL,employment_mix,log1p_atm_density_500m,2393,0.14507484612008922,False
+ALL,ALL,employment_mix,log1p_nearest_other_atm,2393,-0.110672293744788,False
+ALL,ALL,log1p_road_network_density,log1p_auto_road_density,2393,0.22755868325593487,False
+ALL,ALL,log1p_road_network_density,log1p_intersection_density,2393,0.36912951772899766,False
+ALL,ALL,log1p_road_network_density,log1p_transit_service_density,2392,0.27898698902933616,False
+ALL,ALL,log1p_road_network_density,log1p_auto_job_accessibility,2393,0.24969834221383758,False
+ALL,ALL,log1p_road_network_density,log1p_atm_density_500m,2393,0.2021920483841786,False
+ALL,ALL,log1p_road_network_density,log1p_nearest_other_atm,2393,-0.0848171784595853,False
+ALL,ALL,log1p_auto_road_density,log1p_intersection_density,2393,-0.25747566177573483,False
+ALL,ALL,log1p_auto_road_density,log1p_transit_service_density,2392,0.18547989607919707,False
+ALL,ALL,log1p_auto_road_density,log1p_auto_job_accessibility,2393,0.26133142191626413,False
+ALL,ALL,log1p_auto_road_density,log1p_atm_density_500m,2393,0.2560326790297303,False
+ALL,ALL,log1p_auto_road_density,log1p_nearest_other_atm,2393,0.014439554105280457,False
+ALL,ALL,log1p_intersection_density,log1p_transit_service_density,2392,-0.30432956621057083,False
+ALL,ALL,log1p_intersection_density,log1p_auto_job_accessibility,2393,-0.1367545177585544,False
+ALL,ALL,log1p_intersection_density,log1p_atm_density_500m,2393,-0.24661935300203935,False
+ALL,ALL,log1p_intersection_density,log1p_nearest_other_atm,2393,0.08784966677453343,False
+ALL,ALL,log1p_transit_service_density,log1p_auto_job_accessibility,2392,0.596131687372821,False
+ALL,ALL,log1p_transit_service_density,log1p_atm_density_500m,2392,0.6641968346697773,False
+ALL,ALL,log1p_transit_service_density,log1p_nearest_other_atm,2392,-0.30969510361545693,False
+ALL,ALL,log1p_auto_job_accessibility,log1p_atm_density_500m,2393,0.5061620241903751,False
+ALL,ALL,log1p_auto_job_accessibility,log1p_nearest_other_atm,2393,-0.21324621345087702,False
+ALL,ALL,log1p_atm_density_500m,log1p_nearest_other_atm,2442,-0.5253712646012892,False

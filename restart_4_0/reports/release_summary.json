@@ -1,0 +1,20 @@
+{
+  "validation": "PASS",
+  "phases_completed": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "primary_feature": "log1p_prior_crime_50m",
+  "primary_ap_gain": 0.10593442366413619,
+  "primary_ci": [
+    0.0651918661890561,
+    0.13358531342560542
+  ],
+  "phase5_supported_conditions": 9,
+  "phase5_comparisons": 54,
+  "phase5_corrected_inference": "PASS",
+  "confirmatory_complete": false
+}

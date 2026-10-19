@@ -1,0 +1,8 @@
+gate,status,required_evidence,artifact
+Construct and offense mapping,PENDING,"Independent crime-domain adjudication of robbery/burglary codebook, attempts and case-level duplicate rule",data/processed/crime_codebook.csv
+Facility identity and continuity,PENDING,"Review unique-address matching, coordinate drift, institution changes and nearby facilities; monthly listings do not prove actual operation",data/processed/qa/continuity_eligibility.csv
+Incident-site linkage,PENDING,Independent adjudication of stratified event-site audit with reasoned accept/reject decisions,data/processed/qa/manual_linkage_audit.csv
+Buffalo coordinates,PENDING,Better incident coordinates or approved coarser design; 50 m results are exploratory,data/processed/qa/sensitivity_summary.csv
+Temporal availability and reporting,PENDING,Validate Buffalo created_at proxy and missing timestamps; current revisions do not recreate historical availability,data/processed/qa/crime_quality_by_city_year.csv
+Historical boundaries and selection,PENDING,Verify municipal vintage and selection from survival/unique-address restrictions; inspect boundary sensitivity,data/processed/city_year_availability.csv
+Scientific approval and later modeling,PENDING,"PI approval of construct, practical-effect threshold and features; independent later holdout still required",protocol/study_spec.md

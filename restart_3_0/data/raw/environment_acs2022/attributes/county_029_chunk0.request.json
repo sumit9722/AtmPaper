@@ -1,0 +1,29 @@
+{
+  "source_type": "official_table_based_summary_file",
+  "tables": [
+    "B25002",
+    "B25003",
+    "B25014",
+    "B25024",
+    "B25035",
+    "B25038",
+    "B25044",
+    "B25064"
+  ],
+  "county": "029",
+  "authenticated": false,
+  "source_files": [
+    "data/raw/environment_acs2022/bulk/acsdt5y2022-b25002.dat",
+    "data/raw/environment_acs2022/bulk/acsdt5y2022-b25003.dat",
+    "data/raw/environment_acs2022/bulk/acsdt5y2022-b25014.dat",
+    "data/raw/environment_acs2022/bulk/acsdt5y2022-b25024.dat",
+    "data/raw/environment_acs2022/bulk/acsdt5y2022-b25035.dat",
+    "data/raw/environment_acs2022/bulk/acsdt5y2022-b25038.dat",
+    "data/raw/environment_acs2022/bulk/acsdt5y2022-b25044.dat",
+    "data/raw/environment_acs2022/bulk/acsdt5y2022-b25064.dat"
+  ],
+  "sha256": "860eee7f68ec058583c6b6e1012aacceee748dfaee106ba65e172e68a078cc74",
+  "rows": 813,
+  "created_utc": "2026-10-18T21:08:20.456796+00:00",
+  "annotation_method": "standard numeric jam-value mapping; other API-only annotations unavailable"
+}

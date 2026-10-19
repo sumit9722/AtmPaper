@@ -1,0 +1,156 @@
+{
+  "status": "PASS",
+  "scope": "user_revised_maximum_recovered_continuous_snapshot_period",
+  "full_years": [
+    2024,
+    2025
+  ],
+  "partial_years": [
+    2023,
+    2024,
+    2025
+  ],
+  "snapshot_start": "2023-02-22",
+  "snapshot_end": "2026-01-15",
+  "snapshots": 36,
+  "full_year_site_years": 2442,
+  "partial_2023_continuity_site_years": 1271,
+  "exact_supported_site_years": 10003,
+  "primary_events": 133620,
+  "all_unique_events": 205429,
+  "excluded_rows": 3937,
+  "duplicate_rows": 47,
+  "link_rows": 963025,
+  "checks": [
+    {
+      "check": "Active specification matches its pre-build freeze",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Every raw manifest and request hash matches preserved bytes",
+      "status": "PASS",
+      "detail": {
+        "files": 642,
+        "sidecars": 320
+      }
+    },
+    {
+      "check": "All 33 acquired source partitions reconcile, including 12 active partitions",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "NYC current-year feed late-occurrence supplements reconcile",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Global city-case uniqueness after harmonization",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Every active raw row accounted for as retained, excluded, or duplicate",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Primary extract is exactly the robbery/burglary subset",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Retained, excluded and duplicate source references form a disjoint partition",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Retained event dates, geometry and report chronology valid",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Complete 144-row city/month active crime grid",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Recovered continuous snapshot series spans February 2023\u2013January 2026",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Every adjacent snapshot advances one month with <=62-day gap",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Panel row IDs unique across distinct exposure cohorts",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "All and only raw-snapshot eligible full-year sites included",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "All and only twelve-snapshot partial 2023 address-continuity sites included",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "All and only exact identities with supported days included",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Every supported exposure day independently reconstructed; no overlap or gap filling",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Exposure duration, leap years, baseline years, null operation dates and scientific gates consistent",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Nine-cell availability grid keeps unsupported 2023 full-year counts null",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "Every link distance, temporal eligibility, multiplicity, nearest flag and panel count reconciles",
+      "status": "PASS",
+      "detail": {
+        "links": 963025
+      }
+    },
+    {
+      "check": "Brute-force direct geodesics detect omitted links; boundary and rounding sensitivities replay",
+      "status": "PASS",
+      "detail": {
+        "sampled_site_years": 216,
+        "includes_observed_zero_sites": true
+      }
+    },
+    {
+      "check": "No fabricated human approval: qa/manual_linkage_audit.csv",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "No fabricated human approval: qa/facility_review.csv",
+      "status": "PASS",
+      "detail": null
+    },
+    {
+      "check": "No fabricated human approval: crime_codebook.csv",
+      "status": "PASS",
+      "detail": null
+    }
+  ],
+  "scientific_acceptance": "PENDING independent construct, facility, exposure, linkage and coordinate review",
+  "confirmatory_eligible": false
+}

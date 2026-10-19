@@ -1,0 +1,9 @@
+{
+  "file": "protocol/study_spec.md",
+  "sha256": "6905750d6cbcf0a4fa92d6ab8cddc56697c897e3208a73f1d284a3ba5779ef4d",
+  "frozen_utc": "2026-10-19T07:56:23.970146+00:00",
+  "status": "retrospective_working_specification",
+  "independent_approval": "PENDING",
+  "supersedes_sha256": "7aef493dc8e80753c3e1d7e302a75e75524326f5b055141b85b778d25525b8ce",
+  "reason": "User explicitly aborted ten-year design and requested maximum continuous ATM snapshot period before the build."
+}

@@ -1,0 +1,15 @@
+{
+  "python": "3.14.7 (main, Aug 10 2026, 07:46:56) [GCC 16.1.1 20260728]",
+  "packages": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "xgboost-cpu": "3.4.1",
+    "joblib": "1.6.0",
+    "matplotlib": "3.11.2",
+    "pyproj": "3.8.0"
+  },
+  "started_utc": "2026-10-17T09:05:41.611933+00:00",
+  "finished_utc": "2026-10-17T09:06:13.741889+00:00",
+  "cpu_threads_per_model": 1
+}

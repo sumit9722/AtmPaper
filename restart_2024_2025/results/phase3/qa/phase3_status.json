@@ -1,0 +1,11 @@
+{
+  "phase": 3,
+  "build_status": "complete",
+  "validation_status": "PASS",
+  "site_years": 2442,
+  "primary_predictors": 14,
+  "sensitivity_predictors": 3,
+  "confirmatory_modeling_ready": false,
+  "model_fitted": false,
+  "research_acceptance": "PENDING phase 2 independent review and feature approval"
+}

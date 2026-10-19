@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "site_years": 2442,
+  "primary_predictors": 14,
+  "sensitivity_predictors": 3,
+  "request_hashes_checked": 43,
+  "spatial_sample_rows": 30,
+  "checks": [
+    "Frozen feature specification matches schema",
+    "All input checksums match",
+    "Archived acquisition hashes verified",
+    "All phase 2 site-year rows retained",
+    "Predictor allowlist and count: primary",
+    "Unique complete predictor keys: primary",
+    "primary 2024 annual export matches combined matrix",
+    "primary 2025 annual export matches combined matrix",
+    "Predictor allowlist and count: sensitivity",
+    "Unique complete predictor keys: sensitivity",
+    "sensitivity 2024 annual export matches combined matrix",
+    "sensitivity 2025 annual export matches combined matrix",
+    "Every formula, transformation, range, year cutoff and background matches phase 2",
+    "Official TIGER/Line geometry and ACS attribute identifiers agree",
+    "EPA county geometry totals agree with archived API counts",
+    "Every ACS uncertainty/annotation field and EPA source value preserved",
+    "Independent brute-force polygon joins pass for five sites per city/year",
+    "Both statewide baseline inventories and sampled independent WGS84 competition calculations pass",
+    "No learned preprocessing or model fitting; independent research gates preserved"
+  ]
+}
