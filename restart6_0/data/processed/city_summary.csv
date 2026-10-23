@@ -1,0 +1,22 @@
+cohort,city,outcome_year,site_years,status,supported_site_days,positive_50m,prevalence_50m,incident_site_links_50m,boundary_clear_sites,strict_exact_full_year_sites
+osm_continuity_full_year,New York City,2023,,UNAVAILABLE_full_year_exposure,,,,,,
+osm_continuity_full_year,Chicago,2023,,UNAVAILABLE_full_year_exposure,,,,,,
+osm_continuity_full_year,Los Angeles,2023,,UNAVAILABLE_full_year_exposure,,,,,,
+osm_continuity_full_year,New York City,2024,702,observed_supported,256932,446,0.6353276353276354,1105,701,668
+osm_continuity_full_year,Chicago,2024,443,observed_supported,162138,220,0.4966139954853273,576,387,401
+osm_continuity_full_year,Los Angeles,2024,174,observed_supported,63684,57,0.3275862068965517,216,144,168
+osm_continuity_full_year,New York City,2025,750,observed_supported,273750,424,0.5653333333333334,1140,749,741
+osm_continuity_full_year,Chicago,2025,482,observed_supported,175930,203,0.4211618257261411,423,426,460
+osm_continuity_full_year,Los Angeles,2025,180,observed_supported,65700,62,0.34444444444444444,243,152,179
+osm_continuity_partial_2023,New York City,2023,680,observed_supported,212840,380,0.5588235294117647,971,679,0
+osm_continuity_partial_2023,Chicago,2023,441,observed_supported,138033,216,0.4897959183673469,459,387,0
+osm_continuity_partial_2023,Los Angeles,2023,166,observed_supported,51958,55,0.3313253012048193,194,138,0
+exact_identity_supported,New York City,2023,797,observed_supported,230283,427,0.5357590966122961,1083,796,0
+exact_identity_supported,Chicago,2023,530,observed_supported,144748,235,0.44339622641509435,494,467,0
+exact_identity_supported,Los Angeles,2023,181,observed_supported,52843,58,0.32044198895027626,196,149,0
+exact_identity_supported,New York City,2024,839,observed_supported,275640,491,0.5852205005959475,1202,837,668
+exact_identity_supported,Chicago,2024,580,observed_supported,180553,256,0.4413793103448276,639,512,401
+exact_identity_supported,Los Angeles,2024,192,observed_supported,66382,61,0.3177083333333333,223,161,168
+exact_identity_supported,New York City,2025,832,observed_supported,289480,449,0.5396634615384616,1201,831,741
+exact_identity_supported,Chicago,2025,553,observed_supported,187084,224,0.4050632911392405,448,491,460
+exact_identity_supported,Los Angeles,2025,209,observed_supported,71030,65,0.31100478468899523,247,175,179

@@ -1,0 +1,109 @@
+snapshot_date,month,city,unique_sites,file,sha256
+2023-02-22,2023-02,New York City,717,data/processed/snapshots/osm_2023-02-22.csv,6a3221930993e447ccd911922a64982ce651f34afbc0bcd12df4660b2902b0ba
+2023-02-22,2023-02,Chicago,461,data/processed/snapshots/osm_2023-02-22.csv,6a3221930993e447ccd911922a64982ce651f34afbc0bcd12df4660b2902b0ba
+2023-02-22,2023-02,Los Angeles,167,data/processed/snapshots/osm_2023-02-22.csv,6a3221930993e447ccd911922a64982ce651f34afbc0bcd12df4660b2902b0ba
+2023-03-15,2023-03,New York City,720,data/processed/snapshots/osm_2023-03-15.csv,c2e6814c1ed863a30a4a5c0c69afeef60934e5ef52706928313165c072266ff2
+2023-03-15,2023-03,Chicago,461,data/processed/snapshots/osm_2023-03-15.csv,c2e6814c1ed863a30a4a5c0c69afeef60934e5ef52706928313165c072266ff2
+2023-03-15,2023-03,Los Angeles,167,data/processed/snapshots/osm_2023-03-15.csv,c2e6814c1ed863a30a4a5c0c69afeef60934e5ef52706928313165c072266ff2
+2023-04-18,2023-04,New York City,732,data/processed/snapshots/osm_2023-04-18.csv,8a2e6359bc158f82f16dbcaa043c8534db7f886d3b76918ae5cf4cf7ba323ee2
+2023-04-18,2023-04,Chicago,463,data/processed/snapshots/osm_2023-04-18.csv,8a2e6359bc158f82f16dbcaa043c8534db7f886d3b76918ae5cf4cf7ba323ee2
+2023-04-18,2023-04,Los Angeles,167,data/processed/snapshots/osm_2023-04-18.csv,8a2e6359bc158f82f16dbcaa043c8534db7f886d3b76918ae5cf4cf7ba323ee2
+2023-05-15,2023-05,New York City,740,data/processed/snapshots/osm_2023-05-15.csv,660575cd15d5e80a7584febb54de464b391f1a185e8002ba5b31f627b08edcf1
+2023-05-15,2023-05,Chicago,464,data/processed/snapshots/osm_2023-05-15.csv,660575cd15d5e80a7584febb54de464b391f1a185e8002ba5b31f627b08edcf1
+2023-05-15,2023-05,Los Angeles,167,data/processed/snapshots/osm_2023-05-15.csv,660575cd15d5e80a7584febb54de464b391f1a185e8002ba5b31f627b08edcf1
+2023-06-15,2023-06,New York City,746,data/processed/snapshots/osm_2023-06-15.csv,fd9d00e1ecb4c8ad5513ba6a4d75dfeb45de4fdffffdfde745dd05f20a2427f4
+2023-06-15,2023-06,Chicago,464,data/processed/snapshots/osm_2023-06-15.csv,fd9d00e1ecb4c8ad5513ba6a4d75dfeb45de4fdffffdfde745dd05f20a2427f4
+2023-06-15,2023-06,Los Angeles,168,data/processed/snapshots/osm_2023-06-15.csv,fd9d00e1ecb4c8ad5513ba6a4d75dfeb45de4fdffffdfde745dd05f20a2427f4
+2023-07-15,2023-07,New York City,746,data/processed/snapshots/osm_2023-07-15.csv,5fa1b751d4d9c69e28c16b51a3ff5cc918707015918e4b317898d5e613b378e4
+2023-07-15,2023-07,Chicago,463,data/processed/snapshots/osm_2023-07-15.csv,5fa1b751d4d9c69e28c16b51a3ff5cc918707015918e4b317898d5e613b378e4
+2023-07-15,2023-07,Los Angeles,169,data/processed/snapshots/osm_2023-07-15.csv,5fa1b751d4d9c69e28c16b51a3ff5cc918707015918e4b317898d5e613b378e4
+2023-08-15,2023-08,New York City,748,data/processed/snapshots/osm_2023-08-15.csv,eed15d5af055e0bf2c64fcb3e5ac982978a2b7644904120d321a25a5ddf5aae5
+2023-08-15,2023-08,Chicago,466,data/processed/snapshots/osm_2023-08-15.csv,eed15d5af055e0bf2c64fcb3e5ac982978a2b7644904120d321a25a5ddf5aae5
+2023-08-15,2023-08,Los Angeles,170,data/processed/snapshots/osm_2023-08-15.csv,eed15d5af055e0bf2c64fcb3e5ac982978a2b7644904120d321a25a5ddf5aae5
+2023-09-15,2023-09,New York City,749,data/processed/snapshots/osm_2023-09-15.csv,3aa747a3b2f6da8e20eb2cabca4021b80e619e95455fd0aa9113b2c06dbac878
+2023-09-15,2023-09,Chicago,476,data/processed/snapshots/osm_2023-09-15.csv,3aa747a3b2f6da8e20eb2cabca4021b80e619e95455fd0aa9113b2c06dbac878
+2023-09-15,2023-09,Los Angeles,170,data/processed/snapshots/osm_2023-09-15.csv,3aa747a3b2f6da8e20eb2cabca4021b80e619e95455fd0aa9113b2c06dbac878
+2023-10-15,2023-10,New York City,751,data/processed/snapshots/osm_2023-10-15.csv,0f71ae54fd99daeba387910c62e0af234ff1c44dd81128f6d3f013cf8c260c23
+2023-10-15,2023-10,Chicago,476,data/processed/snapshots/osm_2023-10-15.csv,0f71ae54fd99daeba387910c62e0af234ff1c44dd81128f6d3f013cf8c260c23
+2023-10-15,2023-10,Los Angeles,172,data/processed/snapshots/osm_2023-10-15.csv,0f71ae54fd99daeba387910c62e0af234ff1c44dd81128f6d3f013cf8c260c23
+2023-11-15,2023-11,New York City,754,data/processed/snapshots/osm_2023-11-15.csv,1b6a5c9b496fc29a2a4b1fb5ddde35699fa1b9036ad0380ef15dae1f6dd89270
+2023-11-15,2023-11,Chicago,477,data/processed/snapshots/osm_2023-11-15.csv,1b6a5c9b496fc29a2a4b1fb5ddde35699fa1b9036ad0380ef15dae1f6dd89270
+2023-11-15,2023-11,Los Angeles,174,data/processed/snapshots/osm_2023-11-15.csv,1b6a5c9b496fc29a2a4b1fb5ddde35699fa1b9036ad0380ef15dae1f6dd89270
+2023-12-15,2023-12,New York City,750,data/processed/snapshots/osm_2023-12-15.csv,32056743c08c4de2c8b8ec3d3f06c2c655c5d965ecd6792e99902ab7e8d4ae07
+2023-12-15,2023-12,Chicago,479,data/processed/snapshots/osm_2023-12-15.csv,32056743c08c4de2c8b8ec3d3f06c2c655c5d965ecd6792e99902ab7e8d4ae07
+2023-12-15,2023-12,Los Angeles,177,data/processed/snapshots/osm_2023-12-15.csv,32056743c08c4de2c8b8ec3d3f06c2c655c5d965ecd6792e99902ab7e8d4ae07
+2024-01-15,2024-01,New York City,750,data/processed/snapshots/osm_2024-01-15.csv,137964c5547025dae2425886b09128968428594a1e3725b1d737d14b7e1aa3ed
+2024-01-15,2024-01,Chicago,487,data/processed/snapshots/osm_2024-01-15.csv,137964c5547025dae2425886b09128968428594a1e3725b1d737d14b7e1aa3ed
+2024-01-15,2024-01,Los Angeles,177,data/processed/snapshots/osm_2024-01-15.csv,137964c5547025dae2425886b09128968428594a1e3725b1d737d14b7e1aa3ed
+2024-02-15,2024-02,New York City,751,data/processed/snapshots/osm_2024-02-15.csv,42efc9d6390c709b7de179fd04c69e71a1357e180e5e01be3cc77d67356ab2d3
+2024-02-15,2024-02,Chicago,499,data/processed/snapshots/osm_2024-02-15.csv,42efc9d6390c709b7de179fd04c69e71a1357e180e5e01be3cc77d67356ab2d3
+2024-02-15,2024-02,Los Angeles,183,data/processed/snapshots/osm_2024-02-15.csv,42efc9d6390c709b7de179fd04c69e71a1357e180e5e01be3cc77d67356ab2d3
+2024-03-15,2024-03,New York City,752,data/processed/snapshots/osm_2024-03-15.csv,5a868ab3386a24bfed7594e63a31d1606757b591caa326285e7d48faaa4178a2
+2024-03-15,2024-03,Chicago,504,data/processed/snapshots/osm_2024-03-15.csv,5a868ab3386a24bfed7594e63a31d1606757b591caa326285e7d48faaa4178a2
+2024-03-15,2024-03,Los Angeles,182,data/processed/snapshots/osm_2024-03-15.csv,5a868ab3386a24bfed7594e63a31d1606757b591caa326285e7d48faaa4178a2
+2024-04-15,2024-04,New York City,758,data/processed/snapshots/osm_2024-04-15.csv,5ee367e3cb6da09db50da375496bd96823c413899fdc5ffdaccd2f441b7624d2
+2024-04-15,2024-04,Chicago,503,data/processed/snapshots/osm_2024-04-15.csv,5ee367e3cb6da09db50da375496bd96823c413899fdc5ffdaccd2f441b7624d2
+2024-04-15,2024-04,Los Angeles,182,data/processed/snapshots/osm_2024-04-15.csv,5ee367e3cb6da09db50da375496bd96823c413899fdc5ffdaccd2f441b7624d2
+2024-05-15,2024-05,New York City,760,data/processed/snapshots/osm_2024-05-15.csv,2674ddb0dd32e675ff9c45d2b4a1802d95c7d97d022d9fbaa50803a8a4a9d003
+2024-05-15,2024-05,Chicago,502,data/processed/snapshots/osm_2024-05-15.csv,2674ddb0dd32e675ff9c45d2b4a1802d95c7d97d022d9fbaa50803a8a4a9d003
+2024-05-15,2024-05,Los Angeles,182,data/processed/snapshots/osm_2024-05-15.csv,2674ddb0dd32e675ff9c45d2b4a1802d95c7d97d022d9fbaa50803a8a4a9d003
+2024-06-15,2024-06,New York City,761,data/processed/snapshots/osm_2024-06-15.csv,1de39efa1d452697c1c60777d7ac3f822887c076f28a965286a85b9fb90a52f0
+2024-06-15,2024-06,Chicago,500,data/processed/snapshots/osm_2024-06-15.csv,1de39efa1d452697c1c60777d7ac3f822887c076f28a965286a85b9fb90a52f0
+2024-06-15,2024-06,Los Angeles,181,data/processed/snapshots/osm_2024-06-15.csv,1de39efa1d452697c1c60777d7ac3f822887c076f28a965286a85b9fb90a52f0
+2024-07-15,2024-07,New York City,763,data/processed/snapshots/osm_2024-07-15.csv,8722e87a0387dd5665103ccfb4102f7d9f12823728fe9627a503e395e6a349e0
+2024-07-15,2024-07,Chicago,500,data/processed/snapshots/osm_2024-07-15.csv,8722e87a0387dd5665103ccfb4102f7d9f12823728fe9627a503e395e6a349e0
+2024-07-15,2024-07,Los Angeles,180,data/processed/snapshots/osm_2024-07-15.csv,8722e87a0387dd5665103ccfb4102f7d9f12823728fe9627a503e395e6a349e0
+2024-08-15,2024-08,New York City,764,data/processed/snapshots/osm_2024-08-15.csv,bf8e4e120f1ee161be359ef2f31956d80721b1f4b2ccaa18b17886ef11c9566d
+2024-08-15,2024-08,Chicago,500,data/processed/snapshots/osm_2024-08-15.csv,bf8e4e120f1ee161be359ef2f31956d80721b1f4b2ccaa18b17886ef11c9566d
+2024-08-15,2024-08,Los Angeles,181,data/processed/snapshots/osm_2024-08-15.csv,bf8e4e120f1ee161be359ef2f31956d80721b1f4b2ccaa18b17886ef11c9566d
+2024-09-15,2024-09,New York City,765,data/processed/snapshots/osm_2024-09-15.csv,4da7f713f6078a48777c7c2a02f9a622fb7c8c2ebe60b842a0a5a950fb61c92b
+2024-09-15,2024-09,Chicago,504,data/processed/snapshots/osm_2024-09-15.csv,4da7f713f6078a48777c7c2a02f9a622fb7c8c2ebe60b842a0a5a950fb61c92b
+2024-09-15,2024-09,Los Angeles,182,data/processed/snapshots/osm_2024-09-15.csv,4da7f713f6078a48777c7c2a02f9a622fb7c8c2ebe60b842a0a5a950fb61c92b
+2024-10-15,2024-10,New York City,765,data/processed/snapshots/osm_2024-10-15.csv,6c41ac06493c6c2034b1b3b25162797265c0a7c596ef475f6ccd0257f0da90a6
+2024-10-15,2024-10,Chicago,504,data/processed/snapshots/osm_2024-10-15.csv,6c41ac06493c6c2034b1b3b25162797265c0a7c596ef475f6ccd0257f0da90a6
+2024-10-15,2024-10,Los Angeles,186,data/processed/snapshots/osm_2024-10-15.csv,6c41ac06493c6c2034b1b3b25162797265c0a7c596ef475f6ccd0257f0da90a6
+2024-11-19,2024-11,New York City,767,data/processed/snapshots/osm_2024-11-19.csv,9d295c3e6eebf74e4f19080c61904cc26b7183f1c1fea0bb1099645f8541734d
+2024-11-19,2024-11,Chicago,506,data/processed/snapshots/osm_2024-11-19.csv,9d295c3e6eebf74e4f19080c61904cc26b7183f1c1fea0bb1099645f8541734d
+2024-11-19,2024-11,Los Angeles,186,data/processed/snapshots/osm_2024-11-19.csv,9d295c3e6eebf74e4f19080c61904cc26b7183f1c1fea0bb1099645f8541734d
+2024-12-15,2024-12,New York City,770,data/processed/snapshots/osm_2024-12-15.csv,0f70738afe6db4d9c70131f580ab4ca4dfdb99d4702e64587619256a22eaaad0
+2024-12-15,2024-12,Chicago,505,data/processed/snapshots/osm_2024-12-15.csv,0f70738afe6db4d9c70131f580ab4ca4dfdb99d4702e64587619256a22eaaad0
+2024-12-15,2024-12,Los Angeles,186,data/processed/snapshots/osm_2024-12-15.csv,0f70738afe6db4d9c70131f580ab4ca4dfdb99d4702e64587619256a22eaaad0
+2025-01-15,2025-01,New York City,779,data/processed/snapshots/osm_2025-01-15.csv,e97156145a682572d2b3f0fc34254259787aa04b3d25ce1fdc50b13a67e72ce3
+2025-01-15,2025-01,Chicago,509,data/processed/snapshots/osm_2025-01-15.csv,e97156145a682572d2b3f0fc34254259787aa04b3d25ce1fdc50b13a67e72ce3
+2025-01-15,2025-01,Los Angeles,191,data/processed/snapshots/osm_2025-01-15.csv,e97156145a682572d2b3f0fc34254259787aa04b3d25ce1fdc50b13a67e72ce3
+2025-02-19,2025-02,New York City,786,data/processed/snapshots/osm_2025-02-19.csv,4bf385af3c2a0f89fb151b2a02a90d2dc58de3ea9e8630f2c4042a6f3c5a5710
+2025-02-19,2025-02,Chicago,514,data/processed/snapshots/osm_2025-02-19.csv,4bf385af3c2a0f89fb151b2a02a90d2dc58de3ea9e8630f2c4042a6f3c5a5710
+2025-02-19,2025-02,Los Angeles,190,data/processed/snapshots/osm_2025-02-19.csv,4bf385af3c2a0f89fb151b2a02a90d2dc58de3ea9e8630f2c4042a6f3c5a5710
+2025-03-15,2025-03,New York City,789,data/processed/snapshots/osm_2025-03-15.csv,e4f18653cfda3656b1c7fe44995c461d90ca17d6094b07c7d53ea2558595b114
+2025-03-15,2025-03,Chicago,514,data/processed/snapshots/osm_2025-03-15.csv,e4f18653cfda3656b1c7fe44995c461d90ca17d6094b07c7d53ea2558595b114
+2025-03-15,2025-03,Los Angeles,191,data/processed/snapshots/osm_2025-03-15.csv,e4f18653cfda3656b1c7fe44995c461d90ca17d6094b07c7d53ea2558595b114
+2025-04-15,2025-04,New York City,799,data/processed/snapshots/osm_2025-04-15.csv,eba016dcabc3a3cb5de2d4aefb7e58976f66ffdaa323615d89a0b7901454730c
+2025-04-15,2025-04,Chicago,516,data/processed/snapshots/osm_2025-04-15.csv,eba016dcabc3a3cb5de2d4aefb7e58976f66ffdaa323615d89a0b7901454730c
+2025-04-15,2025-04,Los Angeles,191,data/processed/snapshots/osm_2025-04-15.csv,eba016dcabc3a3cb5de2d4aefb7e58976f66ffdaa323615d89a0b7901454730c
+2025-05-21,2025-05,New York City,800,data/processed/snapshots/osm_2025-05-21.csv,966b581e68ab8c5c2aa8270028d510897f019ee19dae53bcc390adee3512778e
+2025-05-21,2025-05,Chicago,516,data/processed/snapshots/osm_2025-05-21.csv,966b581e68ab8c5c2aa8270028d510897f019ee19dae53bcc390adee3512778e
+2025-05-21,2025-05,Los Angeles,192,data/processed/snapshots/osm_2025-05-21.csv,966b581e68ab8c5c2aa8270028d510897f019ee19dae53bcc390adee3512778e
+2025-06-25,2025-06,New York City,801,data/processed/snapshots/osm_2025-06-25.csv,ebf7ab245e315753af69638abb1c0d4057feea07486e9678547772a4f300004b
+2025-06-25,2025-06,Chicago,515,data/processed/snapshots/osm_2025-06-25.csv,ebf7ab245e315753af69638abb1c0d4057feea07486e9678547772a4f300004b
+2025-06-25,2025-06,Los Angeles,195,data/processed/snapshots/osm_2025-06-25.csv,ebf7ab245e315753af69638abb1c0d4057feea07486e9678547772a4f300004b
+2025-07-15,2025-07,New York City,801,data/processed/snapshots/osm_2025-07-15.csv,32b8953dedabd04ba7fd20e125ccdd9492c27425d5d22069a004878d0a168250
+2025-07-15,2025-07,Chicago,517,data/processed/snapshots/osm_2025-07-15.csv,32b8953dedabd04ba7fd20e125ccdd9492c27425d5d22069a004878d0a168250
+2025-07-15,2025-07,Los Angeles,195,data/processed/snapshots/osm_2025-07-15.csv,32b8953dedabd04ba7fd20e125ccdd9492c27425d5d22069a004878d0a168250
+2025-08-18,2025-08,New York City,801,data/processed/snapshots/osm_2025-08-18.csv,c6ff39864fd51ab138b2aabe2793dea9f48dab03729b99d8ab0363e69c0834b0
+2025-08-18,2025-08,Chicago,516,data/processed/snapshots/osm_2025-08-18.csv,c6ff39864fd51ab138b2aabe2793dea9f48dab03729b99d8ab0363e69c0834b0
+2025-08-18,2025-08,Los Angeles,199,data/processed/snapshots/osm_2025-08-18.csv,c6ff39864fd51ab138b2aabe2793dea9f48dab03729b99d8ab0363e69c0834b0
+2025-09-25,2025-09,New York City,801,data/processed/snapshots/osm_2025-09-25.csv,4fc4b10aa9bb05e8237e1b5023a90b6ff76ed97279ccfc10c98bd978a2ac12ca
+2025-09-25,2025-09,Chicago,520,data/processed/snapshots/osm_2025-09-25.csv,4fc4b10aa9bb05e8237e1b5023a90b6ff76ed97279ccfc10c98bd978a2ac12ca
+2025-09-25,2025-09,Los Angeles,203,data/processed/snapshots/osm_2025-09-25.csv,4fc4b10aa9bb05e8237e1b5023a90b6ff76ed97279ccfc10c98bd978a2ac12ca
+2025-10-16,2025-10,New York City,801,data/processed/snapshots/osm_2025-10-16.csv,c6df22c1b8655f69fffc97384fb06a05267ac87d71626143f214badff3a50504
+2025-10-16,2025-10,Chicago,522,data/processed/snapshots/osm_2025-10-16.csv,c6df22c1b8655f69fffc97384fb06a05267ac87d71626143f214badff3a50504
+2025-10-16,2025-10,Los Angeles,202,data/processed/snapshots/osm_2025-10-16.csv,c6df22c1b8655f69fffc97384fb06a05267ac87d71626143f214badff3a50504
+2025-11-19,2025-11,New York City,804,data/processed/snapshots/osm_2025-11-19.csv,abcd8777667cd3be838625f44303e502628fa16f6478d1ea464094de4edbff13
+2025-11-19,2025-11,Chicago,522,data/processed/snapshots/osm_2025-11-19.csv,abcd8777667cd3be838625f44303e502628fa16f6478d1ea464094de4edbff13
+2025-11-19,2025-11,Los Angeles,201,data/processed/snapshots/osm_2025-11-19.csv,abcd8777667cd3be838625f44303e502628fa16f6478d1ea464094de4edbff13
+2025-12-15,2025-12,New York City,805,data/processed/snapshots/osm_2025-12-15.csv,7091db6e876b2d5d66acd1536c74fec01b10de7d9e23c09af20c82b9bb9d90e3
+2025-12-15,2025-12,Chicago,519,data/processed/snapshots/osm_2025-12-15.csv,7091db6e876b2d5d66acd1536c74fec01b10de7d9e23c09af20c82b9bb9d90e3
+2025-12-15,2025-12,Los Angeles,202,data/processed/snapshots/osm_2025-12-15.csv,7091db6e876b2d5d66acd1536c74fec01b10de7d9e23c09af20c82b9bb9d90e3
+2026-01-15,2026-01,New York City,807,data/processed/snapshots/osm_2026-01-15.csv,4dab9c0a5f15f7b2b638b51a8cd4ffab42e2f0d9a96cb9fca3eb35bd0f0f519a
+2026-01-15,2026-01,Chicago,524,data/processed/snapshots/osm_2026-01-15.csv,4dab9c0a5f15f7b2b638b51a8cd4ffab42e2f0d9a96cb9fca3eb35bd0f0f519a
+2026-01-15,2026-01,Los Angeles,208,data/processed/snapshots/osm_2026-01-15.csv,4dab9c0a5f15f7b2b638b51a8cd4ffab42e2f0d9a96cb9fca3eb35bd0f0f519a

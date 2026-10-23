@@ -1,0 +1,9 @@
+gate,status,reason,reviewer
+OSM selection,PENDING,Coverage is incomplete and differs by city; mapping edits do not identify operation.,
+Facility identity,PENDING,Nearby OSM nodes and bank polygons may refer to the same physical facility.,
+Crime location precision,PENDING,Chicago/LA public block geocodes do not establish 25–100 m incident precision.,
+LA reporting transition,PENDING,Legacy/NIBRS case overlap and cross-system identifiers require source review.,
+Chicago historical availability,PENDING,Original report dates are absent; unfiltered counts are retrospective.,
+Crime codebook and linkage,PENDING,"Independent review of categories, attempted offenses and sampled links is pending.",
+Historical geography,PENDING,Current municipal polygons may differ from historical boundaries.,
+Future modeling,PENDING,"No modeling acceptance, pristine holdout, environmental increment or transfer claim has been established.",

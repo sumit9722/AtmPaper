@@ -1,0 +1,13 @@
+source,year,raw_rows,retained,excluded,duplicates
+chicago,2022,16566,16465,101,0
+chicago,2023,18553,18445,108,0
+chicago,2024,17556,17438,118,0
+chicago,2025,15559,15370,189,0
+la_legacy,2022,24106,23939,159,8
+la_legacy,2023,23992,23830,143,19
+la_legacy,2024,7580,7530,39,11
+la_legacy,2025,0,0,0,0
+la_nibrs,2022,24,24,0,0
+la_nibrs,2023,94,90,1,3
+la_nibrs,2024,15405,15248,108,49
+la_nibrs,2025,18839,18649,135,55

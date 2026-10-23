@@ -1,0 +1,15 @@
+{
+  "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/4/query",
+  "params": {
+    "where": "GEOID IN ('3651000','1714000','0644000')",
+    "outFields": "*",
+    "returnGeometry": "true",
+    "outSR": "4326",
+    "f": "geojson"
+  },
+  "method": "GET",
+  "retrieved_utc": "2026-10-22T22:13:08.572504+00:00",
+  "http_status": 200,
+  "sha256": "675090a4a1e812b3ce618fa7e24d91c36cc3ce95f0a3ec6c6eda51be0c0404d9",
+  "raw_modified": false
+}

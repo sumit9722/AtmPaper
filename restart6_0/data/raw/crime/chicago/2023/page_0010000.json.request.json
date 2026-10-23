@@ -1,0 +1,15 @@
+{
+  "url": "https://data.cityofchicago.org/resource/ijzp-q8t2.json",
+  "params": {
+    "$select": ":id as source_row_id,id,case_number,date,block,iucr,primary_type,description,location_description,updated_on,latitude,longitude",
+    "$where": "date>='2023-01-01T00:00:00' AND date<'2024-01-01T00:00:00' AND (primary_type in ('ROBBERY','BURGLARY'))",
+    "$order": ":id",
+    "$limit": 10000,
+    "$offset": 10000
+  },
+  "method": "GET",
+  "retrieved_utc": "2026-10-22T22:13:59.577723+00:00",
+  "http_status": 200,
+  "sha256": "28e02dfd06b509a1b6b4a2b76cc2871a3aac0177d3a1fb88f26d04f4b5727c3c",
+  "raw_modified": false
+}

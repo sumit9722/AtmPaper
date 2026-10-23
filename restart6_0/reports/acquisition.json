@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "basis": "Frozen cache reconciled by validate.py",
+  "osm_city_date_snapshots": 108,
+  "crime_new_source_year_partitions": 12,
+  "nyc_inputs": "Inherited and checksum verified",
+  "earlier_attempt_logs": "acquisition_all.json and source_probes.json preserve historical failures; acquisition.json is the final validated status"
+}

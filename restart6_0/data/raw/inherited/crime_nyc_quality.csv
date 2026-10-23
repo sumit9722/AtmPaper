@@ -1,0 +1,5 @@
+city,year,source_rows,unique_valid_cases,primary_cases,excluded_source_rows,duplicate_source_rows,missing_invalid_report_primary,report_before_occurrence_primary,reported_after_year_primary,primary_coordinates_on_3dp_grid,primary_coordinates_on_4dp_grid,primary_coordinates_on_5dp_grid
+New York City,2022,33256,33251,33251,5,0,0,0,199,0,7,249
+New York City,2023,30672,30670,30670,2,0,0,0,210,0,4,221
+New York City,2024,29604,29602,29602,2,0,0,0,191,0,1,244
+New York City,2025,27846,27843,27843,3,0,0,0,134,0,2,178

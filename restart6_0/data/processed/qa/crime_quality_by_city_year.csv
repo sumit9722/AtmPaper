@@ -1,0 +1,13 @@
+city,year,primary_cases,missing_invalid_report_primary,public_block_geocodes,coordinates_on_3dp_grid,coordinates_on_4dp_grid,coordinates_on_5dp_grid
+New York City,2022,33251,0,0,0,7,249
+New York City,2023,30670,0,0,0,4,221
+New York City,2024,29602,0,0,0,1,244
+New York City,2025,27843,0,0,0,2,178
+Chicago,2022,16465,16465,16465,0,0,0
+Chicago,2023,18445,18445,18445,0,0,1
+Chicago,2024,17438,17438,17438,0,0,0
+Chicago,2025,15370,15370,15370,0,0,0
+Los Angeles,2022,23963,4,23963,247,23963,23963
+Los Angeles,2023,23920,1,23920,264,23920,23920
+Los Angeles,2024,22778,109,22778,295,22778,22778
+Los Angeles,2025,18649,222,18649,242,18649,18649

@@ -1,0 +1,15 @@
+{
+  "url": "https://data.lacity.org/resource/2nrs-mtv8.json",
+  "params": {
+    "$select": ":id as source_row_id,dr_no,date_rptd,date_occ,time_occ,crm_cd,crm_cd_desc,premis_cd,premis_desc,location,lat,lon",
+    "$where": "date_occ>='2022-01-01T00:00:00' AND date_occ<'2023-01-01T00:00:00' AND (crm_cd in ('210','220','310','320'))",
+    "$order": ":id",
+    "$limit": 10000,
+    "$offset": 10000
+  },
+  "method": "GET",
+  "retrieved_utc": "2026-10-23T01:22:15.338701+00:00",
+  "http_status": 200,
+  "sha256": "cc5d0374666a127a4a2b56278a215f087b6368272b6d59ecbae36954a6c21a38",
+  "raw_modified": false
+}

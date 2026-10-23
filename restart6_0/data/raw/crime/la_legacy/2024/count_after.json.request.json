@@ -1,0 +1,12 @@
+{
+  "url": "https://data.lacity.org/resource/2nrs-mtv8.json",
+  "params": {
+    "$select": "count(*)",
+    "$where": "date_occ>='2024-01-01T00:00:00' AND date_occ<'2025-01-01T00:00:00' AND (crm_cd in ('210','220','310','320'))"
+  },
+  "method": "GET",
+  "retrieved_utc": "2026-10-23T01:22:41.382326+00:00",
+  "http_status": 200,
+  "sha256": "1a1a70033f4c9165b9e760782abaa9f74c52fe19fc6f9ddc108913932188a872",
+  "raw_modified": false
+}

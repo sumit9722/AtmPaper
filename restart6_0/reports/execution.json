@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "steps": [
+    {
+      "script": "tests/test_pipeline.py",
+      "status": "PASS",
+      "elapsed_seconds": 1.025
+    },
+    {
+      "script": "build_exposure.py",
+      "status": "PASS",
+      "elapsed_seconds": 11.622
+    },
+    {
+      "script": "build_crime.py",
+      "status": "PASS",
+      "elapsed_seconds": 24.215
+    },
+    {
+      "script": "build_panel.py",
+      "status": "PASS",
+      "elapsed_seconds": 16.545
+    },
+    {
+      "script": "build_monthly.py",
+      "status": "PASS",
+      "elapsed_seconds": 3.238
+    },
+    {
+      "script": "validate.py",
+      "status": "PASS",
+      "elapsed_seconds": 27.01
+    },
+    {
+      "script": "report.py",
+      "status": "PASS",
+      "elapsed_seconds": 0.266
+    }
+  ],
+  "elapsed_seconds": 84.757,
+  "completed_utc": "2026-10-23T16:33:57.685606+00:00",
+  "network_used": false,
+  "models_fitted": false
+}

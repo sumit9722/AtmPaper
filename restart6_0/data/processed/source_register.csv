@@ -1,0 +1,8 @@
+source,publisher,url,coverage,limitation
+NYC crime,Inherited Restart 5 historical plus late-report supplement,https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i,2022–2025,Same verified NYC observations; original retrieval vintage retained
+Chicago crime,Chicago Police Department,https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2,2022–2025,Public block geocodes; original report date unavailable
+LA legacy crime,Los Angeles Police Department,https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8,2022–2024,Frozen legacy system; no 2025 records
+LA NIBRS crime,Los Angeles Police Department,https://data.lacity.org/Public-Safety/LAPD-NIBRS-Offenses-Dataset/k7nn-b2ep,2022–2025 occurrences,Consolidated feed; March 2024 reporting-system transition; block geocodes
+Exploratory ATM history,"© OpenStreetMap contributors, via HeiGIT ohsome API v2",https://docs.ohsome.org/ohsome-api/stable/,2023-02-22–2026-01-15,ODbL; mapping history does not establish operating history
+Municipal boundaries,US Census TIGERweb,https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/4,Current downloaded polygons,"LA city, not county; historical boundary stability unverified"
+NYC official ATM reference,NYS Department of Financial Services via Restart 5,https://data.ny.gov/Government-Finance/Bank-Owned-ATM-Locations-in-New-York-State/ndex-ad5r,Partial 2023; full 2024–2025,Separate population; never pooled with OSM

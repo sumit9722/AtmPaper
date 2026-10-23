@@ -1,0 +1,9 @@
+{
+  "url": "https://api.ohsome.org/v1/metadata",
+  "params": {},
+  "method": "GET",
+  "retrieved_utc": "2026-10-22T22:14:24.399129+00:00",
+  "http_status": 200,
+  "sha256": "3de75c5a652cb07f6bb3a8ddea6f03fc13c28c000af63da1260c811640d84313",
+  "raw_modified": false
+}

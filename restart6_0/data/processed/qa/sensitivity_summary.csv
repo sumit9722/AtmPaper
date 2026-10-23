@@ -1,0 +1,91 @@
+city,outcome_year,restriction,radius_m,site_years,positive_sites,incident_site_links,nearest_incident_links
+New York City,2024,all,25,702,123,229,215
+New York City,2024,all,50,702,446,1105,905
+New York City,2024,all,100,702,604,3716,2551
+New York City,2024,point_only,25,617,118,223,209
+New York City,2024,point_only,50,617,402,1023,842
+New York City,2024,point_only,100,617,536,3432,2373
+New York City,2024,boundary_clear,25,701,123,229,215
+New York City,2024,boundary_clear,50,701,446,1105,905
+New York City,2024,boundary_clear,100,701,604,3716,2551
+New York City,2024,drift_le_10m,25,698,123,229,215
+New York City,2024,drift_le_10m,50,698,442,1089,889
+New York City,2024,drift_le_10m,100,698,600,3690,2526
+New York City,2024,drift_le_25m,25,702,123,229,215
+New York City,2024,drift_le_25m,50,702,446,1105,905
+New York City,2024,drift_le_25m,100,702,604,3716,2551
+New York City,2025,all,25,750,114,246,233
+New York City,2025,all,50,750,424,1140,951
+New York City,2025,all,100,750,618,3746,2522
+New York City,2025,point_only,25,666,111,243,230
+New York City,2025,point_only,50,666,384,1056,893
+New York City,2025,point_only,100,666,546,3427,2331
+New York City,2025,boundary_clear,25,749,114,246,233
+New York City,2025,boundary_clear,50,749,424,1140,951
+New York City,2025,boundary_clear,100,749,618,3746,2522
+New York City,2025,drift_le_10m,25,750,114,246,233
+New York City,2025,drift_le_10m,50,750,424,1140,951
+New York City,2025,drift_le_10m,100,750,618,3746,2522
+New York City,2025,drift_le_25m,25,750,114,246,233
+New York City,2025,drift_le_25m,50,750,424,1140,951
+New York City,2025,drift_le_25m,100,750,618,3746,2522
+Chicago,2024,all,25,443,55,106,105
+Chicago,2024,all,50,443,220,576,547
+Chicago,2024,all,100,443,360,1735,1481
+Chicago,2024,point_only,25,223,43,83,83
+Chicago,2024,point_only,50,223,123,360,337
+Chicago,2024,point_only,100,223,186,1064,916
+Chicago,2024,boundary_clear,25,387,53,104,103
+Chicago,2024,boundary_clear,50,387,203,543,518
+Chicago,2024,boundary_clear,100,387,328,1594,1355
+Chicago,2024,drift_le_10m,25,440,55,106,105
+Chicago,2024,drift_le_10m,50,440,219,572,543
+Chicago,2024,drift_le_10m,100,440,357,1725,1476
+Chicago,2024,drift_le_25m,25,442,55,106,105
+Chicago,2024,drift_le_25m,50,442,220,576,547
+Chicago,2024,drift_le_25m,100,442,359,1734,1481
+Chicago,2025,all,25,482,53,93,89
+Chicago,2025,all,50,482,203,423,390
+Chicago,2025,all,100,482,360,1302,1088
+Chicago,2025,point_only,25,254,39,70,68
+Chicago,2025,point_only,50,254,107,254,231
+Chicago,2025,point_only,100,254,189,784,651
+Chicago,2025,boundary_clear,25,426,52,91,87
+Chicago,2025,boundary_clear,50,426,189,396,366
+Chicago,2025,boundary_clear,100,426,329,1213,1013
+Chicago,2025,drift_le_10m,25,480,52,91,87
+Chicago,2025,drift_le_10m,50,480,201,420,388
+Chicago,2025,drift_le_10m,100,480,358,1296,1086
+Chicago,2025,drift_le_25m,25,482,53,93,89
+Chicago,2025,drift_le_25m,50,482,203,423,390
+Chicago,2025,drift_le_25m,100,482,360,1302,1088
+Los Angeles,2024,all,25,174,7,28,28
+Los Angeles,2024,all,50,174,57,216,187
+Los Angeles,2024,all,100,174,116,638,438
+Los Angeles,2024,point_only,25,150,6,27,27
+Los Angeles,2024,point_only,50,150,45,165,145
+Los Angeles,2024,point_only,100,150,97,550,370
+Los Angeles,2024,boundary_clear,25,144,6,25,25
+Los Angeles,2024,boundary_clear,50,144,52,205,180
+Los Angeles,2024,boundary_clear,100,144,96,586,399
+Los Angeles,2024,drift_le_10m,25,174,7,28,28
+Los Angeles,2024,drift_le_10m,50,174,57,216,187
+Los Angeles,2024,drift_le_10m,100,174,116,638,438
+Los Angeles,2024,drift_le_25m,25,174,7,28,28
+Los Angeles,2024,drift_le_25m,50,174,57,216,187
+Los Angeles,2024,drift_le_25m,100,174,116,638,438
+Los Angeles,2025,all,25,180,8,28,28
+Los Angeles,2025,all,50,180,62,243,181
+Los Angeles,2025,all,100,180,117,576,377
+Los Angeles,2025,point_only,25,154,7,27,27
+Los Angeles,2025,point_only,50,154,44,157,119
+Los Angeles,2025,point_only,100,154,93,457,298
+Los Angeles,2025,boundary_clear,25,152,7,26,26
+Los Angeles,2025,boundary_clear,50,152,58,233,174
+Los Angeles,2025,boundary_clear,100,152,104,548,358
+Los Angeles,2025,drift_le_10m,25,180,8,28,28
+Los Angeles,2025,drift_le_10m,50,180,62,243,181
+Los Angeles,2025,drift_le_10m,100,180,117,576,377
+Los Angeles,2025,drift_le_25m,25,180,8,28,28
+Los Angeles,2025,drift_le_25m,50,180,62,243,181
+Los Angeles,2025,drift_le_25m,100,180,117,576,377

@@ -1,0 +1,15 @@
+{
+  "url": "https://data.lacity.org/resource/k7nn-b2ep.json",
+  "params": {
+    "$select": ":id as source_row_id,caseno,uniquenibrno,date_rptd,date_occ,time_occ,nibr_code,nibr_description,premis_cd,premis_desc,hndrdth_loc_chk,hndrdth_lat,hndrdth_lon",
+    "$where": "date_occ>='2022-01-01T00:00:00' AND date_occ<'2023-01-01T00:00:00' AND (nibr_code in ('120','220'))",
+    "$order": ":id",
+    "$limit": 10000,
+    "$offset": 0
+  },
+  "method": "GET",
+  "retrieved_utc": "2026-10-22T22:13:13.627542+00:00",
+  "http_status": 200,
+  "sha256": "3dbb86da7ea4c1d8cfd153254dfc4d85288dbb48b89cb9ce01f74f9061d9c6ae",
+  "raw_modified": false
+}

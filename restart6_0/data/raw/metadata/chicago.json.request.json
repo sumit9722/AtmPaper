@@ -1,0 +1,9 @@
+{
+  "url": "https://data.cityofchicago.org/api/views/ijzp-q8t2.json",
+  "params": {},
+  "method": "GET",
+  "retrieved_utc": "2026-10-22T22:13:17.655976+00:00",
+  "http_status": 200,
+  "sha256": "07b5048b3a12551f4c92c500956100a7ae0b93c764fe32da3381156de80edb93",
+  "raw_modified": false
+}

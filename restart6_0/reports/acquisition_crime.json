@@ -1,0 +1,103 @@
+{
+  "status": "PASS",
+  "partitions": [
+    {
+      "source": "la_nibrs",
+      "year": 2022,
+      "rows": 24,
+      "unique_source_rows": 24,
+      "count_after": 24,
+      "status": "PASS"
+    },
+    {
+      "source": "la_nibrs",
+      "year": 2023,
+      "rows": 94,
+      "unique_source_rows": 94,
+      "count_after": 94,
+      "status": "PASS"
+    },
+    {
+      "source": "la_nibrs",
+      "year": 2024,
+      "rows": 15405,
+      "unique_source_rows": 15405,
+      "count_after": 15405,
+      "status": "PASS"
+    },
+    {
+      "source": "la_nibrs",
+      "year": 2025,
+      "rows": 18839,
+      "unique_source_rows": 18839,
+      "count_after": 18839,
+      "status": "PASS"
+    },
+    {
+      "source": "chicago",
+      "year": 2022,
+      "rows": 16566,
+      "unique_source_rows": 16566,
+      "count_after": 16566,
+      "status": "PASS"
+    },
+    {
+      "source": "chicago",
+      "year": 2023,
+      "rows": 18553,
+      "unique_source_rows": 18553,
+      "count_after": 18553,
+      "status": "PASS"
+    },
+    {
+      "source": "chicago",
+      "year": 2024,
+      "rows": 17556,
+      "unique_source_rows": 17556,
+      "count_after": 17556,
+      "status": "PASS"
+    },
+    {
+      "source": "chicago",
+      "year": 2025,
+      "rows": 15559,
+      "unique_source_rows": 15559,
+      "count_after": 15559,
+      "status": "PASS"
+    },
+    {
+      "source": "la_legacy",
+      "year": 2022,
+      "rows": 24106,
+      "unique_source_rows": 24106,
+      "count_after": 24106,
+      "status": "PASS"
+    },
+    {
+      "source": "la_legacy",
+      "year": 2023,
+      "rows": 23992,
+      "unique_source_rows": 23992,
+      "count_after": 23992,
+      "status": "PASS"
+    },
+    {
+      "source": "la_legacy",
+      "year": 2024,
+      "rows": 7580,
+      "unique_source_rows": 7580,
+      "count_after": 7580,
+      "status": "PASS"
+    },
+    {
+      "source": "la_legacy",
+      "year": 2025,
+      "rows": 0,
+      "unique_source_rows": 0,
+      "count_after": 0,
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "credentials_used": false
+}

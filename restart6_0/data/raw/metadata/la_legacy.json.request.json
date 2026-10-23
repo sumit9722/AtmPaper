@@ -1,0 +1,9 @@
+{
+  "url": "https://data.lacity.org/api/views/2nrs-mtv8.json",
+  "params": {},
+  "method": "GET",
+  "retrieved_utc": "2026-10-22T22:13:19.419838+00:00",
+  "http_status": 200,
+  "sha256": "0092044d203eb6128bc77a1bf2db4ba936aea309c6dfb6e3e47d834c208538be",
+  "raw_modified": false
+}

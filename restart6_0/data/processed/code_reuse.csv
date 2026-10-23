@@ -1,0 +1,6 @@
+source_file,source_sha256,adapted_file,reuse_notes
+restart5_0/scripts/common.py,9d56cd3c474b849a26ed799dbeaa429b8febc32c2766277991821294d69687b2,scripts/common.py,City list and UTM projections adapted
+restart5_0/scripts/build_exposure.py,444b797a82d86c2ad3bc03d31f909148fc7b5c707d94d18e7c4528f9c73db6cf,scripts/build_exposure.py,Continuity and intervals reused; OSM ID/snapshot adapter added
+restart5_0/scripts/build_panel.py,84bee2dcfd847903db4f2d5f50ac61e07d01bb9782bd43f8d2d00429b1858680,scripts/build_panel.py,Geodesic candidate search/linkage reused; source flags and Chicago missingness adapted
+restart5_0/scripts/build_monthly.py,1f0981edf3e8bdbef77a3dc60303b92d20d2632352f1929da4131af55e4d17f6,scripts/build_monthly.py,Monthly aggregation reused; prior-release restore dependency removed
+scripts/large_artifacts.py,4796cd7245b0bcecdcd1a6a34c5ad2599e9ba09f27aa8ef2298795c488cc9d03,scripts/large_artifacts.py,Byte-exact splitting reused; release-local catalog

@@ -1,0 +1,95 @@
+city,source_system,native_code,native_description,category,source_rows,count_unit,reviewer_decision
+New York City,nyc_inherited_restart5,224,"BURGLARY,RESIDENCE,UNKNOWN TIM",burglary,3342,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,389,"ROBBERY,DWELLING",robbery,4787,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,211,"BURGLARY,COMMERCIAL,DAY",burglary,6139,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,233,"BURGLARY,TRUCK NIGHT",burglary,2730,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,386,"ROBBERY,PERSONAL ELECTRONIC DEVICE",robbery,14632,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,380,"ROBBERY,CAR JACKING",robbery,1805,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,243,"BURGLARY,UNCLASSIFIED,NIGHT",burglary,1503,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,388,"ROBBERY,RESIDENTIAL COMMON AREA",robbery,2734,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,383,"ROBBERY,DELIVERY PERSON",robbery,2130,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,366,"ROBBERY,BICYCLE",robbery,1283,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,367,"ROBBERY, CHAIN STORE",robbery,431,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,394,"ROBBERY,LICENSED FOR HIRE VEHICLE",robbery,685,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,244,"BURGLARY,UNCLASSIFIED,UNKNOWN",burglary,609,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,391,"ROBBERY,LICENSED MEDALLION CAB",robbery,166,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,234,"BURGLARY, TRUCK UNKNOWN TIME",burglary,661,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,398,"ROBBERY,PUBLIC PLACE INSIDE",robbery,1485,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,213,"BURGLARY,COMMERCIAL,NIGHT",burglary,12988,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,390,"ROBBERY,HOME INVASION",robbery,1659,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,397,"ROBBERY,OPEN AREA UNCLASSIFIED",robbery,12723,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,375,"ROBBERY,PHARMACY",robbery,70,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,387,"ROBBERY,CLOTHING",robbery,1131,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,382,"ROBBERY,NECKCHAIN/JEWELRY",robbery,3682,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,231,"BURGLARY,TRUCK DAY",burglary,1532,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,241,"BURGLARY,UNCLASSIFIED,DAY",burglary,535,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,214,"BURGLARY,COMMERCIAL,UNKNOWN TI",burglary,1057,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,395,"ROBBERY,ON BUS/ OR BUS DRIVER",robbery,59,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,392,"ROBBERY,UNLICENSED FOR HIRE VEHICLE",robbery,108,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,360,"ROBBERY,ATM LOCATION",robbery,389,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,393,"ROBBERY,OF TRUCK DRIVER",robbery,30,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,363,"ROBBERY,BAR/RESTAURANT",robbery,290,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,223,"BURGLARY,RESIDENCE,NIGHT",burglary,12949,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,221,"BURGLARY,RESIDENCE,DAY",burglary,11340,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,396,"ROBBERY,BEGIN AS SHOPLIFTING",robbery,8659,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,361,"ROBBERY,BANK",robbery,296,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,377,"ROBBERY,BODEGA/CONVENIENCE STORE",robbery,1309,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,379,"ROBBERY,GAS STATION",robbery,191,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,384,"ROBBERY,POCKETBOOK/CARRIED BAG",robbery,3004,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,399,"ROBBERY,COMMERCIAL UNCLASSIFIED",robbery,2082,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,373,"ROBBERY,DOCTOR/DENTIST OFFICE",robbery,6,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,381,"ROBBERY,HIJACKING",robbery,14,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,365,"ROBBERY,LIQUOR STORE",robbery,46,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,371,"ROBBERY,CHECK CASHING BUSINESS",robbery,40,inherited_valid_incidents,PENDING
+New York City,nyc_inherited_restart5,385,"ROBBERY, PAYROLL",robbery,55,inherited_valid_incidents,PENDING
+Chicago,chicago,0610,FORCIBLE ENTRY,burglary,16069,raw_source_rows,PENDING
+Chicago,chicago,0326,AGGRAVATED VEHICULAR HIJACKING,robbery,3263,raw_source_rows,PENDING
+Chicago,chicago,0331,ATTEMPT AGGRAVATED,robbery,267,raw_source_rows,PENDING
+Chicago,chicago,033A,ATTEMPT ARMED - HANDGUN,robbery,1275,raw_source_rows,PENDING
+Chicago,chicago,0650,HOME INVASION,burglary,1014,raw_source_rows,PENDING
+Chicago,chicago,0320,STRONG ARM - NO WEAPON,robbery,8173,raw_source_rows,PENDING
+Chicago,chicago,0325,VEHICULAR HIJACKING,robbery,1107,raw_source_rows,PENDING
+Chicago,chicago,031A,ARMED - HANDGUN,robbery,14717,raw_source_rows,PENDING
+Chicago,chicago,0620,UNLAWFUL ENTRY,burglary,10402,raw_source_rows,PENDING
+Chicago,chicago,0312,ARMED - KNIFE / CUTTING INSTRUMENT,robbery,1457,raw_source_rows,PENDING
+Chicago,chicago,0630,ATTEMPT FORCIBLE ENTRY,burglary,1478,raw_source_rows,PENDING
+Chicago,chicago,0330,AGGRAVATED,robbery,1832,raw_source_rows,PENDING
+Chicago,chicago,0340,ATTEMPT STRONG ARM - NO WEAPON,robbery,927,raw_source_rows,PENDING
+Chicago,chicago,0313,ARMED - OTHER DANGEROUS WEAPON,robbery,1108,raw_source_rows,PENDING
+Chicago,chicago,031B,ARMED - OTHER FIREARM,robbery,390,raw_source_rows,PENDING
+Chicago,chicago,033B,ATTEMPT ARMED - OTHER FIREARM,robbery,75,raw_source_rows,PENDING
+Chicago,chicago,0337,ATTEMPT ARMED - OTHER DANGEROUS WEAPON,robbery,156,raw_source_rows,PENDING
+Chicago,chicago,0334,ATTEMPT ARMED - KNIFE / CUTTING INSTRUMENT,robbery,219,raw_source_rows,PENDING
+Chicago,chicago,0760,BURGLARY FROM MOTOR VEHICLE,burglary,4305,raw_source_rows,PENDING
+Los Angeles,la_legacy,210,ROBBERY,robbery,18066,raw_source_rows,PENDING
+Los Angeles,la_legacy,310,BURGLARY,burglary,32820,raw_source_rows,PENDING
+Los Angeles,la_legacy,320,"BURGLARY, ATTEMPTED",burglary,2224,raw_source_rows,PENDING
+Los Angeles,la_legacy,220,ATTEMPTED ROBBERY,robbery,2568,raw_source_rows,PENDING
+Los Angeles,la_nibrs,220,459 - PC - F - Burglary  - 220,burglary,8313,raw_source_rows,PENDING
+Los Angeles,la_nibrs,220,459 - PC - F - Burglary - Non-Residential - 220,burglary,4380,raw_source_rows,PENDING
+Los Angeles,la_nibrs,220,459 - PC - F - Burglary - Residential - 220,burglary,8225,raw_source_rows,PENDING
+Los Angeles,la_nibrs,220,459 - PC - M - Burglary - Second Degree  - 220,burglary,75,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,211 - PC - F - Robbery - 120,robbery,10951,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,211 - PC - F - Robbery - First Degree - 120,robbery,696,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,215(A) - PC - F - Carjacking - 120,robbery,581,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,18 2113(A) - US - F - Bank/Etc Robbery - 120,robbery,3,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,211 - PC - F - Robbery - Second Degree - 120,robbery,666,raw_source_rows,PENDING
+Los Angeles,la_nibrs,220,459 - PC - F - Burglary - First Degree  - 220,burglary,229,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,211 - PC - F - Robbery - First Degree - Home Invasion - 120,robbery,10,raw_source_rows,PENDING
+Los Angeles,la_nibrs,220,459 - PC - F - Burglary - Second Degree  - 220,burglary,58,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,213(A)(1)(A) - PC - F - Robbery - First Degree - Inhabited Dwelling - In Concert With Others - 120,robbery,5,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,212.5(A) - PC - F - Robbery - First Degree - Cab/Etc/Inhabited Dwelling - 120,robbery,1,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,213(A)(1)(A) - PC - F - Robbery-Home Invasion (Multiple Suspect's) - 120,robbery,63,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,209.5(A) - PC - F - Kidnapping During Commission Of Carjacking - 120,robbery,1,raw_source_rows,PENDING
+Los Angeles,la_nibrs,220,314(1) - PC - F - Indecent Exposure Ill Ent Occ Dwell - 220,burglary,5,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,212.5(B) - PC - F - Robbery - First Degree At Automated Teller Machine/Etc - 120,robbery,2,raw_source_rows,PENDING
+Los Angeles,la_nibrs,220,460(B) - PC - M - Burglary - Second Degree  - 220,burglary,1,raw_source_rows,PENDING
+Los Angeles,la_nibrs,220,460(A) - PC - F - Burglary - First Degree  - 220,burglary,27,raw_source_rows,PENDING
+Los Angeles,la_nibrs,220,220(B) - PC - F - Assault With Intent To Rape In Commission Of 459  - 220,burglary,8,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,212.5(C) - PC - F - Robbery - Second Degree - 120,robbery,1,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,211 - PC - F - Robbery-Home Invasion (One Suspect) - 120,robbery,43,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,213(A)(2) - PC - F - Robbery - Second Degree - 120,robbery,1,raw_source_rows,PENDING
+Los Angeles,la_nibrs,220,460(B) - PC - F - Burglary - Second Degree  - 220,burglary,1,raw_source_rows,PENDING
+Los Angeles,la_nibrs,120,214 - PC - F - Train Robbery - 120,robbery,1,raw_source_rows,PENDING
+Los Angeles,la_nibrs,220,464 - PC - F - Burglary W/Explosives/Etc - 220,burglary,2,raw_source_rows,PENDING
+Los Angeles,la_nibrs,220,463(A) - PC - F - Looting During State Emergency - 220,burglary,13,raw_source_rows,PENDING

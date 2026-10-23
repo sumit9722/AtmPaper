@@ -1,0 +1,122 @@
+{
+  "checked_utc": "2026-10-23T16:26:56.565583+00:00",
+  "cached_snapshot_checks": "PASS",
+  "verified_snapshots": 83,
+  "cities": {
+    "New York City": {
+      "cached": 36,
+      "required": 36
+    },
+    "Chicago": {
+      "cached": 11,
+      "required": 36
+    },
+    "Los Angeles": {
+      "cached": 36,
+      "required": 36
+    }
+  },
+  "missing": [
+    {
+      "city": "Chicago",
+      "date": "2024-01-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2024-02-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2024-03-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2024-04-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2024-05-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2024-06-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2024-07-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2024-08-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2024-09-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2024-10-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2024-11-19"
+    },
+    {
+      "city": "Chicago",
+      "date": "2024-12-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2025-01-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2025-02-19"
+    },
+    {
+      "city": "Chicago",
+      "date": "2025-03-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2025-04-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2025-05-21"
+    },
+    {
+      "city": "Chicago",
+      "date": "2025-06-25"
+    },
+    {
+      "city": "Chicago",
+      "date": "2025-07-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2025-08-18"
+    },
+    {
+      "city": "Chicago",
+      "date": "2025-09-25"
+    },
+    {
+      "city": "Chicago",
+      "date": "2025-10-16"
+    },
+    {
+      "city": "Chicago",
+      "date": "2025-11-19"
+    },
+    {
+      "city": "Chicago",
+      "date": "2025-12-15"
+    },
+    {
+      "city": "Chicago",
+      "date": "2026-01-15"
+    }
+  ],
+  "inherited_input_hashes": "PASS"
+}

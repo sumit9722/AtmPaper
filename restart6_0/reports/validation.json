@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "checks": {
+    "frozen_source_hashes": "PASS",
+    "source_pagination_and_conservation": "PASS",
+    "incident_identity_city_and_report_dates": "PASS",
+    "raw_osm_to_snapshot_reconciliation": "PASS",
+    "full_year_membership_and_partial_dates": "PASS",
+    "exact_coordinate_exposure_reconstruction": "PASS",
+    "nearest_assignment_and_multiplicity": "PASS",
+    "all_link_distances_time_windows_and_count_replay": "PASS",
+    "sampled_bruteforce_omission_check": "PASS",
+    "monthly_to_annual_reconciliation": "PASS"
+  },
+  "incident_rows": 278394,
+  "osm_snapshot_memberships": 52157,
+  "full_year_rows": 2731,
+  "partial_2023_rows": 1287,
+  "exact_supported_rows": 4713,
+  "link_rows": 527429,
+  "bruteforce_sites": 36,
+  "scientific_review": "PENDING",
+  "confirmatory_eligible": false
+}

@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "command": ".venv/bin/python -m unittest discover -s restart6_0/tests -v",
+  "exit_code": 0,
+  "fixture_policy": "Synthetic data created in a temporary directory only; never included in research panels",
+  "test_sha256": "dc88f41a66f11bbee0a7685241a7eba897d52470c7ad32bd6e1795991f7c4fb2"
+}

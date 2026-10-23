@@ -1,0 +1,12 @@
+{
+  "url": "https://data.lacity.org/resource/k7nn-b2ep.json",
+  "params": {
+    "$select": "count(*)",
+    "$where": "date_occ>='2023-01-01T00:00:00' AND date_occ<'2024-01-01T00:00:00' AND (nibr_code in ('120','220'))"
+  },
+  "method": "GET",
+  "retrieved_utc": "2026-10-22T22:13:16.538877+00:00",
+  "http_status": 200,
+  "sha256": "dcc92ef05dfa239e96984302907e5b15cc984f7f2b16ecc4fc4e312fe5022d20",
+  "raw_modified": false
+}

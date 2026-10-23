@@ -1,0 +1,14 @@
+{
+  "release": "restart6_0",
+  "cities": [
+    "New York City",
+    "Chicago",
+    "Los Angeles"
+  ],
+  "phase_1": "COMPUTATION_COMPLETE",
+  "phase_2": "COMPUTATION_COMPLETE",
+  "scientific_review": "PENDING",
+  "confirmatory_eligible": false,
+  "models_fitted": false,
+  "validation": "PASS"
+}

@@ -1,0 +1,655 @@
+{
+  "status": "PASS",
+  "partitions": [
+    {
+      "source": "osm_v2_nyc",
+      "date": "2023-02-22",
+      "features": 821,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2023-03-15",
+      "features": 826,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2023-04-18",
+      "features": 835,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2023-05-15",
+      "features": 844,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2023-06-15",
+      "features": 851,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2023-07-15",
+      "features": 852,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2023-08-15",
+      "features": 855,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2023-09-15",
+      "features": 856,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2023-10-15",
+      "features": 859,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2023-11-15",
+      "features": 866,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2023-12-15",
+      "features": 862,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2024-01-15",
+      "features": 865,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2024-02-15",
+      "features": 866,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2024-03-15",
+      "features": 867,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2024-04-15",
+      "features": 874,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2024-05-15",
+      "features": 877,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2024-06-15",
+      "features": 880,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2024-07-15",
+      "features": 881,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2024-08-15",
+      "features": 882,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2024-09-15",
+      "features": 883,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2024-10-15",
+      "features": 910,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2024-11-19",
+      "features": 913,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2024-12-15",
+      "features": 918,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2025-01-15",
+      "features": 931,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2025-02-19",
+      "features": 944,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2025-03-15",
+      "features": 946,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2025-04-15",
+      "features": 955,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2025-05-21",
+      "features": 957,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2025-06-25",
+      "features": 962,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2025-07-15",
+      "features": 962,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2025-08-18",
+      "features": 964,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2025-09-25",
+      "features": 966,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2025-10-16",
+      "features": 967,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2025-11-19",
+      "features": 970,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2025-12-15",
+      "features": 971,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_nyc",
+      "date": "2026-01-15",
+      "features": 974,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2023-02-22",
+      "features": 333,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2023-03-15",
+      "features": 332,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2023-04-18",
+      "features": 334,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2023-05-15",
+      "features": 337,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2023-06-15",
+      "features": 338,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2023-07-15",
+      "features": 343,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2023-08-15",
+      "features": 344,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2023-09-15",
+      "features": 343,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2023-10-15",
+      "features": 345,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2023-11-15",
+      "features": 348,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2023-12-15",
+      "features": 352,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2024-01-15",
+      "features": 353,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2024-02-15",
+      "features": 362,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2024-03-15",
+      "features": 364,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2024-04-15",
+      "features": 376,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2024-05-15",
+      "features": 377,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2024-06-15",
+      "features": 376,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2024-07-15",
+      "features": 375,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2024-08-15",
+      "features": 377,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2024-09-15",
+      "features": 380,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2024-10-15",
+      "features": 385,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2024-11-19",
+      "features": 386,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2024-12-15",
+      "features": 386,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2025-01-15",
+      "features": 392,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2025-02-19",
+      "features": 392,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2025-03-15",
+      "features": 394,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2025-04-15",
+      "features": 398,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2025-05-21",
+      "features": 400,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2025-06-25",
+      "features": 404,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2025-07-15",
+      "features": 404,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2025-08-18",
+      "features": 408,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2025-09-25",
+      "features": 416,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2025-10-16",
+      "features": 416,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2025-11-19",
+      "features": 414,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2025-12-15",
+      "features": 415,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_la",
+      "date": "2026-01-15",
+      "features": 421,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2023-02-22",
+      "features": 646,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2023-03-15",
+      "features": 646,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2023-04-18",
+      "features": 648,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2023-05-15",
+      "features": 649,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2023-06-15",
+      "features": 649,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2023-07-15",
+      "features": 648,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2023-08-15",
+      "features": 653,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2023-09-15",
+      "features": 665,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2023-10-15",
+      "features": 665,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2023-11-15",
+      "features": 667,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2023-12-15",
+      "features": 670,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2024-01-15",
+      "features": 685,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2024-02-15",
+      "features": 698,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2024-03-15",
+      "features": 705,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2024-04-15",
+      "features": 708,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2024-05-15",
+      "features": 707,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2024-06-15",
+      "features": 704,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2024-07-15",
+      "features": 705,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2024-08-15",
+      "features": 707,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2024-09-15",
+      "features": 711,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2024-10-15",
+      "features": 711,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2024-11-19",
+      "features": 717,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2024-12-15",
+      "features": 718,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2025-01-15",
+      "features": 722,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2025-02-19",
+      "features": 728,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2025-03-15",
+      "features": 728,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2025-04-15",
+      "features": 731,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2025-05-21",
+      "features": 733,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2025-06-25",
+      "features": 733,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2025-07-15",
+      "features": 735,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2025-08-18",
+      "features": 736,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2025-09-25",
+      "features": 740,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2025-10-16",
+      "features": 742,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2025-11-19",
+      "features": 743,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2025-12-15",
+      "features": 738,
+      "status": "PASS"
+    },
+    {
+      "source": "osm_v2_chicago",
+      "date": "2026-01-15",
+      "features": 744,
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "credentials_used": true
+}

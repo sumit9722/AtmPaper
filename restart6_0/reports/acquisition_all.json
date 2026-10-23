@@ -1,0 +1,113 @@
+{
+  "status": "INCOMPLETE",
+  "partitions": [
+    {
+      "source": "boundaries",
+      "status": "PASS",
+      "cities": 3
+    },
+    {
+      "source": "la_nibrs",
+      "year": 2022,
+      "rows": 24,
+      "unique_source_rows": 24,
+      "count_after": 24,
+      "status": "PASS"
+    },
+    {
+      "source": "la_nibrs",
+      "year": 2023,
+      "rows": 94,
+      "unique_source_rows": 94,
+      "count_after": 94,
+      "status": "PASS"
+    },
+    {
+      "source": "la_nibrs",
+      "year": 2024,
+      "rows": 15405,
+      "unique_source_rows": 15405,
+      "count_after": 15405,
+      "status": "PASS"
+    },
+    {
+      "source": "la_nibrs",
+      "year": 2025,
+      "rows": 18839,
+      "unique_source_rows": 18839,
+      "count_after": 18839,
+      "status": "PASS"
+    },
+    {
+      "source": "chicago",
+      "year": 2022,
+      "rows": 16566,
+      "unique_source_rows": 16566,
+      "count_after": 16566,
+      "status": "PASS"
+    },
+    {
+      "source": "chicago",
+      "year": 2023,
+      "rows": 18553,
+      "unique_source_rows": 18553,
+      "count_after": 18553,
+      "status": "PASS"
+    },
+    {
+      "source": "chicago",
+      "year": 2024,
+      "rows": 17556,
+      "unique_source_rows": 17556,
+      "count_after": 17556,
+      "status": "PASS"
+    },
+    {
+      "source": "chicago",
+      "year": 2025,
+      "rows": 15559,
+      "unique_source_rows": 15559,
+      "count_after": 15559,
+      "status": "PASS"
+    },
+    {
+      "source": "la_legacy",
+      "year": 2022,
+      "rows": 24106,
+      "unique_source_rows": 24106,
+      "count_after": 24106,
+      "status": "PASS"
+    },
+    {
+      "source": "la_legacy",
+      "year": 2023,
+      "rows": 23992,
+      "unique_source_rows": 23992,
+      "count_after": 23992,
+      "status": "PASS"
+    },
+    {
+      "source": "la_legacy",
+      "year": 2024,
+      "rows": 7580,
+      "unique_source_rows": 7580,
+      "count_after": 7580,
+      "status": "PASS"
+    },
+    {
+      "source": "la_legacy",
+      "year": 2025,
+      "rows": 0,
+      "unique_source_rows": 0,
+      "count_after": 0,
+      "status": "PASS"
+    }
+  ],
+  "errors": [
+    {
+      "source": "osm",
+      "error": "403 Client Error: Forbidden for url: https://api.ohsome.org/v1/elements/centroid?bboxes=-74.25884300038047%2C40.4765780002232%2C-73.70016900037544%2C40.917705000258394&time=2023-02-22T00%3A00%3A00Z%2C2023-03-15T00%3A00%3A00Z%2C2023-04-18T00%3A00%3A00Z%2C2023-05-15T00%3A00%3A00Z%2C2023-06-15T00%3A00%3A00Z%2C2023-07-15T00%3A00%3A00Z%2C2023-08-15T00%3A00%3A00Z%2C2023-09-15T00%3A00%3A00Z%2C2023-10-15T00%3A00%3A00Z%2C2023-11-15T00%3A00%3A00Z%2C2023-12-15T00%3A00%3A00Z&filter=amenity%3Datm+or+%28amenity%3Dbank+and+atm%3Dyes%29&properties=tags%2Cmetadata&clipGeometry=false"
+    }
+  ],
+  "credentials_used": false
+}

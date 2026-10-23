@@ -1,0 +1,15 @@
+{
+  "url": "https://api.heigit.org/ohsome-api/v2/extraction/features.parquet",
+  "params": {
+    "aoi": "-118.66817600012067,33.70365200005196,-118.15528899989148,34.33730599999661",
+    "time": "2024-11-19T00:00:00Z",
+    "filter": "amenity=atm or (amenity=bank and atm=yes)",
+    "clip": "false"
+  },
+  "method": "GET",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-23T16:15:29.136545+00:00",
+  "sha256": "1ce4299f2d56bc2937bf905c6e36e3721f89f269590e61ad4b422b5945f62a71",
+  "raw_modified": false,
+  "authentication": "Authorization header; value not retained"
+}

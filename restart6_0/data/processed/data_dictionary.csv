@@ -1,0 +1,65 @@
+field,description,missing_value
+site_id,OSM city/type-ID/exact-coordinate hash; continuity can bridge <=50 m drift.,empty string means unavailable/not applicable; never substitute zero
+city,city; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+address_raw,address raw; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+address_normalized,address normalized; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+longitude,longitude; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+latitude,latitude; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+institution,institution; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+outcome_year,outcome year; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+supported_days,"Days supported by the mapping-continuity assumption, not observed operating days.",empty string means unavailable/not applicable; never substitute zero
+calendar_days,calendar days; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+osm_id,"Original OSM type/ID; unit is a mapped object, not a verified physical facility.",empty string means unavailable/not applicable; never substitute zero
+osm_amenity,osm amenity; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+osm_atm_tag,osm atm tag; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+osm_geometry_is_centroid,True when source object is not a point; point-only sensitivity provided.,empty string means unavailable/not applicable; never substitute zero
+source_population,source population; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+cohort,Alternative continuity or exact-coordinate exposure definition; never stack cohorts.,empty string means unavailable/not applicable; never substitute zero
+row_id,row id; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+background_year,background year; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+full_year_supported,full year supported; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+exposure_rule,exposure rule; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+max_coordinate_drift_m,max coordinate drift m; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+strict_exact_identity_full_year,strict exact identity full year; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+confirmatory_eligible,Always false; scientific acceptance is separate from computational validation.,empty string means unavailable/not applicable; never substitute zero
+actual_active_days,actual active days; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+actual_opening_date,actual opening date; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+actual_closing_date,actual closing date; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+coordinate_precision_flag,coordinate precision flag; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+report_time_is_ingestion_proxy,report time is ingestion proxy; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+boundary_distance_projected_m,boundary distance projected m; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+annulus_fraction_inside_city,Fraction of the >200–500 m projected ring inside the municipal polygon.,empty string means unavailable/not applicable; never substitute zero
+boundary_buffer_clear_500m,boundary buffer clear 500m; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+supported_start,supported start; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+supported_end_exclusive,supported end exclusive; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+supported_interval_count,supported interval count; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+primary_count_25m,Count at the specified radius in metres; distances use public geocodes and supported outcome dates.,empty string means unavailable/not applicable; never substitute zero
+robbery_count_25m,Count at the specified radius in metres; distances use public geocodes and supported outcome dates.,empty string means unavailable/not applicable; never substitute zero
+burglary_count_25m,Count at the specified radius in metres; distances use public geocodes and supported outcome dates.,empty string means unavailable/not applicable; never substitute zero
+primary_reported_count_25m,Nearby cases reported by next Jan 1; blank when report dates are unavailable (Chicago).,empty string means unavailable/not applicable; never substitute zero
+primary_nearest_count_25m,Nearby cases assigned to this nearest eligible site in this cohort/year; deterministic ties.,empty string means unavailable/not applicable; never substitute zero
+multiple_match_count_25m,Nearby cases that also match at least one other eligible mapped object.,empty string means unavailable/not applicable; never substitute zero
+primary_any_25m,One when the corresponding nearby robbery/burglary count is positive; zero otherwise.,empty string means unavailable/not applicable; never substitute zero
+primary_count_50m,Count at the specified radius in metres; distances use public geocodes and supported outcome dates.,empty string means unavailable/not applicable; never substitute zero
+robbery_count_50m,Count at the specified radius in metres; distances use public geocodes and supported outcome dates.,empty string means unavailable/not applicable; never substitute zero
+burglary_count_50m,Count at the specified radius in metres; distances use public geocodes and supported outcome dates.,empty string means unavailable/not applicable; never substitute zero
+primary_reported_count_50m,Nearby cases reported by next Jan 1; blank when report dates are unavailable (Chicago).,empty string means unavailable/not applicable; never substitute zero
+primary_nearest_count_50m,Nearby cases assigned to this nearest eligible site in this cohort/year; deterministic ties.,empty string means unavailable/not applicable; never substitute zero
+multiple_match_count_50m,Nearby cases that also match at least one other eligible mapped object.,empty string means unavailable/not applicable; never substitute zero
+primary_any_50m,One when the corresponding nearby robbery/burglary count is positive; zero otherwise.,empty string means unavailable/not applicable; never substitute zero
+primary_count_100m,Count at the specified radius in metres; distances use public geocodes and supported outcome dates.,empty string means unavailable/not applicable; never substitute zero
+robbery_count_100m,Count at the specified radius in metres; distances use public geocodes and supported outcome dates.,empty string means unavailable/not applicable; never substitute zero
+burglary_count_100m,Count at the specified radius in metres; distances use public geocodes and supported outcome dates.,empty string means unavailable/not applicable; never substitute zero
+primary_reported_count_100m,Nearby cases reported by next Jan 1; blank when report dates are unavailable (Chicago).,empty string means unavailable/not applicable; never substitute zero
+primary_nearest_count_100m,Nearby cases assigned to this nearest eligible site in this cohort/year; deterministic ties.,empty string means unavailable/not applicable; never substitute zero
+multiple_match_count_100m,Nearby cases that also match at least one other eligible mapped object.,empty string means unavailable/not applicable; never substitute zero
+primary_any_100m,One when the corresponding nearby robbery/burglary count is positive; zero otherwise.,empty string means unavailable/not applicable; never substitute zero
+background_unfiltered_200_500m,"Retrospective prior-year occurrence count, including reports unavailable at historical cutoff.",empty string means unavailable/not applicable; never substitute zero
+background_primary_200_500m,Prior-year cases >200–500 m with usable report date before outcome-year Jan 1; blank for Chicago.,empty string means unavailable/not applicable; never substitute zero
+background_missing_invalid_report,background missing invalid report; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+background_late_report,background late report; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+background_report_date_coverage,background report date coverage; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+background_has_unknown_availability,background has unknown availability; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+background_measurement_status,background measurement status; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+la_reporting_system_break,la reporting system break; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero
+exposure_is_mapping_continuity,exposure is mapping continuity; see protocol/study_spec.md and producing script.,empty string means unavailable/not applicable; never substitute zero

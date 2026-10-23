@@ -1,0 +1,10 @@
+city,outcome_year,required_snapshots,available_snapshots,complete_monthly_window,inventory_identities,any_exact_supported_identities,exact_full_year_sites,full_year_sites,drift_10m_full_year_sites,drift_25m_full_year_sites,baseline_osm_candidates,missing_ambiguous_candidates,drift_excluded_candidates,status,crime_available,confirmatory_eligible
+New York City,2023,14,12,False,817,797,0,,,,717,0,0,MISSING_full_year_exposure,True,False
+Chicago,2023,14,12,False,543,530,0,,,,461,0,0,MISSING_full_year_exposure,True,False
+Los Angeles,2023,14,12,False,186,181,0,,,,167,0,0,MISSING_full_year_exposure,True,False
+New York City,2024,14,14,True,866,839,668,702,698,702,750,47,1,supported_exploratory_cohort,True,False
+Chicago,2024,14,14,True,597,580,401,443,440,442,479,36,0,supported_exploratory_cohort,True,False
+Los Angeles,2024,14,14,True,200,192,168,174,174,174,177,3,0,supported_exploratory_cohort,True,False
+New York City,2025,14,14,True,838,832,741,750,750,750,770,20,0,supported_exploratory_cohort,True,False
+Chicago,2025,14,14,True,571,553,460,482,480,482,505,23,0,supported_exploratory_cohort,True,False
+Los Angeles,2025,14,14,True,215,209,179,180,180,180,186,6,0,supported_exploratory_cohort,True,False

@@ -1,0 +1,43 @@
+{
+  "format": "byte_concat_v1",
+  "part_bytes": 64000000,
+  "files": {
+    "data/processed/crime_primary_2022_2025.csv": {
+      "bytes": 115738216,
+      "sha256": "45e0d0dc0053815209473af9d5e7810cac3d82137a224bf7ce96ca094bd80582",
+      "parts": [
+        {
+          "file": "data/processed/crime_primary_2022_2025.csv.part001",
+          "bytes": 64000000,
+          "sha256": "9a0e26233dbf12689901050f0d15f76ae0743e7b712f5c09578dbc39b7404409"
+        },
+        {
+          "file": "data/processed/crime_primary_2022_2025.csv.part002",
+          "bytes": 51738216,
+          "sha256": "df5c927e6c5f75b3287d2431631a3d11892a349d51380e471be299fdb33c639a"
+        }
+      ]
+    },
+    "data/processed/event_atm_links.csv": {
+      "bytes": 136187128,
+      "sha256": "2f23ef34f1f417d02ed36de042cf3a0cd170f074f0254e2bb0d3c35f5ebf652a",
+      "parts": [
+        {
+          "file": "data/processed/event_atm_links.csv.part001",
+          "bytes": 64000000,
+          "sha256": "dcf9311121f3c2cd5a07f3d1c34a8a04b75ae28fff88f6a950e35bf86e46e33a"
+        },
+        {
+          "file": "data/processed/event_atm_links.csv.part002",
+          "bytes": 64000000,
+          "sha256": "ba49844b6d4d92fd985dc788b939f96cc5f571a6608879b978bcbe897e4b85d5"
+        },
+        {
+          "file": "data/processed/event_atm_links.csv.part003",
+          "bytes": 8187128,
+          "sha256": "2208a2140f894ae90707d8b201d261fb33aa01525355a50f4792b7365f250f45"
+        }
+      ]
+    }
+  }
+}

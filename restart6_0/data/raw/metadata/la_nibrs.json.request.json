@@ -1,0 +1,9 @@
+{
+  "url": "https://data.lacity.org/api/views/k7nn-b2ep.json",
+  "params": {},
+  "method": "GET",
+  "retrieved_utc": "2026-10-22T22:13:10.621457+00:00",
+  "http_status": 200,
+  "sha256": "55ffc20c0526d55d1292000856f892069317de6b9b5938fde2be94c20528420d",
+  "raw_modified": false
+}
