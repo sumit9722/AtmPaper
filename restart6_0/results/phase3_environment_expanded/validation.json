@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "main_rows": 2731,
+  "partial_2023_rows": 1287,
+  "epa_block_groups": 987,
+  "environment_parameters": 117,
+  "epa_core_parameters": 104,
+  "new_parameters": 94,
+  "exploratory_predictors": 116,
+  "exported_values_verified": 470106,
+  "existing_epa_values_reconciled": 40180,
+  "original_phase3_integrity": "PASS",
+  "scientific_review": "PENDING",
+  "models_fitted": false,
+  "completed_utc": "2026-10-26T08:49:22.407840+00:00"
+}

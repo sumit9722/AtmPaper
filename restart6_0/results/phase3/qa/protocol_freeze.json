@@ -1,0 +1,8 @@
+{
+  "files": {
+    "protocol/phase3_feature_spec.md": "cac221207456fb8ac670a3176a5988cefe4856c351741b086f9a67ac7d8674fb",
+    "protocol/phase3_variables.json": "3f8b91776ec06b74cb28d2d3322300939eec060d77be43b4aafc5096571fc51d"
+  },
+  "frozen_utc": "2026-10-23T18:47:25.185577+00:00",
+  "approval": "working_specification; independent review pending"
+}

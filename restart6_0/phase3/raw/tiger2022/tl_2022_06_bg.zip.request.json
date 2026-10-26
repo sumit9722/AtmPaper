@@ -1,0 +1,9 @@
+{
+  "url": "https://www2.census.gov/geo/tiger/TIGER2022/BG/tl_2022_06_bg.zip",
+  "params": {},
+  "method": "GET",
+  "retrieved_utc": "2026-10-23T20:12:06.681686+00:00",
+  "sha256": "6976956d85f46667fa3b73dfdd07b77a920bccfed6b5608b3ea19efaa50e479d",
+  "bytes": 52701356,
+  "authenticated": false
+}

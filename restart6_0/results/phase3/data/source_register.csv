@@ -1,0 +1,6 @@
+source,vintage,url,use,limitation
+ACS 2018–2022 five-year summary files,2022; released 2023-12-07,https://www2.census.gov/programs-surveys/acs/summary_file/2022/table-based-SF/data/5YRData/,11 population/economic/housing predictors,Fixed pre-2024 context; API-only non-jam annotations unavailable; no 2023 predictors
+2022 TIGER/Line block groups,2022,https://www2.census.gov/geo/tiger/TIGER2022/BG/,ACS spatial joins and official land area,Polygon context is not a 50 m ATM buffer
+EPA Smart Location Database v3,2021 release; 2019 block-group geometry,https://www.epa.gov/smartgrowth/smart-location-mapping,8 primary and 2 sensitivity measures,Older mixed-year measurements; centroid transit distance is not ATM-to-transit distance
+Historical OSM via HeiGIT,2023-12-15 and 2024-12-15,https://www.openstreetmap.org/copyright,Mapped ATM competition from verified Phase 2 raw snapshots,ODbL; mapped objects are not a complete inventory or verified distinct facilities
+Restart 6 harmonized police records,2022–2024 occurrences used as predictors,../../../reports/phase_1_2_report.md,Prior-crime candidates and annulus background,Latest extracts; Chicago original report dates unavailable; LA reporting-system break; block geocodes

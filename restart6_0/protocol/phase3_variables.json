@@ -1,0 +1,389 @@
+{
+  "version": "restart6_phase3_v1",
+  "features": [
+    {
+      "name": "background_primary",
+      "source": "phase2_report_filtered_annulus",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_background_primary"
+    },
+    {
+      "name": "population_density",
+      "components": [
+        "B01003_001"
+      ],
+      "area_denominator": "ALAND",
+      "transform": "log1p",
+      "source": "ACS2022",
+      "available_at": "2023-12-07",
+      "role": "primary",
+      "predictor": "log1p_population_density"
+    },
+    {
+      "name": "median_household_income",
+      "components": [
+        "B19013_001"
+      ],
+      "transform": "log1p",
+      "source": "ACS2022",
+      "available_at": "2023-12-07",
+      "role": "primary",
+      "predictor": "log1p_median_household_income"
+    },
+    {
+      "name": "unemployment_rate",
+      "components": [
+        "B23025_005",
+        "B23025_003"
+      ],
+      "numerator": [
+        "B23025_005"
+      ],
+      "denominator": "B23025_003",
+      "transform": "identity",
+      "source": "ACS2022",
+      "available_at": "2023-12-07",
+      "role": "primary",
+      "predictor": "unemployment_rate"
+    },
+    {
+      "name": "housing_vacancy_share",
+      "components": [
+        "B25002_003",
+        "B25002_001"
+      ],
+      "numerator": [
+        "B25002_003"
+      ],
+      "denominator": "B25002_001",
+      "transform": "identity",
+      "source": "ACS2022",
+      "available_at": "2023-12-07",
+      "role": "primary",
+      "predictor": "housing_vacancy_share"
+    },
+    {
+      "name": "renter_occupied_share",
+      "components": [
+        "B25003_003",
+        "B25003_001"
+      ],
+      "numerator": [
+        "B25003_003"
+      ],
+      "denominator": "B25003_001",
+      "transform": "identity",
+      "source": "ACS2022",
+      "available_at": "2023-12-07",
+      "role": "primary",
+      "predictor": "renter_occupied_share"
+    },
+    {
+      "name": "multifamily_housing_share",
+      "components": [
+        "B25024_004",
+        "B25024_005",
+        "B25024_006",
+        "B25024_007",
+        "B25024_008",
+        "B25024_009",
+        "B25024_001"
+      ],
+      "numerator": [
+        "B25024_004",
+        "B25024_005",
+        "B25024_006",
+        "B25024_007",
+        "B25024_008",
+        "B25024_009"
+      ],
+      "denominator": "B25024_001",
+      "transform": "identity",
+      "source": "ACS2022",
+      "available_at": "2023-12-07",
+      "role": "primary",
+      "predictor": "multifamily_housing_share"
+    },
+    {
+      "name": "crowded_household_share",
+      "components": [
+        "B25014_005",
+        "B25014_006",
+        "B25014_007",
+        "B25014_011",
+        "B25014_012",
+        "B25014_013",
+        "B25014_001"
+      ],
+      "numerator": [
+        "B25014_005",
+        "B25014_006",
+        "B25014_007",
+        "B25014_011",
+        "B25014_012",
+        "B25014_013"
+      ],
+      "denominator": "B25014_001",
+      "transform": "identity",
+      "source": "ACS2022",
+      "available_at": "2023-12-07",
+      "role": "primary",
+      "predictor": "crowded_household_share"
+    },
+    {
+      "name": "no_vehicle_household_share",
+      "components": [
+        "B25044_003",
+        "B25044_010",
+        "B25044_001"
+      ],
+      "numerator": [
+        "B25044_003",
+        "B25044_010"
+      ],
+      "denominator": "B25044_001",
+      "transform": "identity",
+      "source": "ACS2022",
+      "available_at": "2023-12-07",
+      "role": "primary",
+      "predictor": "no_vehicle_household_share"
+    },
+    {
+      "name": "median_gross_rent",
+      "components": [
+        "B25064_001"
+      ],
+      "transform": "log1p",
+      "source": "ACS2022",
+      "available_at": "2023-12-07",
+      "role": "primary",
+      "predictor": "log1p_median_gross_rent"
+    },
+    {
+      "name": "housing_age",
+      "components": [
+        "B25035_001"
+      ],
+      "transform": "log1p",
+      "subtract_from": 2022,
+      "source": "ACS2022",
+      "available_at": "2023-12-07",
+      "role": "primary",
+      "predictor": "log1p_housing_age"
+    },
+    {
+      "name": "recent_move_share",
+      "components": [
+        "B25038_003",
+        "B25038_010",
+        "B25038_001"
+      ],
+      "numerator": [
+        "B25038_003",
+        "B25038_010"
+      ],
+      "denominator": "B25038_001",
+      "transform": "identity",
+      "source": "ACS2022",
+      "available_at": "2023-12-07",
+      "role": "primary",
+      "predictor": "recent_move_share"
+    },
+    {
+      "name": "employment_density",
+      "field": "D1C",
+      "source": "EPA_SLD2021",
+      "available_at": "2021-06-30",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_employment_density"
+    },
+    {
+      "name": "retail_employment_density",
+      "field": "D1C5_RET",
+      "source": "EPA_SLD2021",
+      "available_at": "2021-06-30",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_retail_employment_density"
+    },
+    {
+      "name": "employment_mix",
+      "field": "D2B_E5MIXA",
+      "source": "EPA_SLD2021",
+      "available_at": "2021-06-30",
+      "transform": "identity",
+      "role": "primary",
+      "predictor": "employment_mix"
+    },
+    {
+      "name": "road_network_density",
+      "field": "D3A",
+      "source": "EPA_SLD2021",
+      "available_at": "2021-06-30",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_road_network_density"
+    },
+    {
+      "name": "auto_road_density",
+      "field": "D3AAO",
+      "source": "EPA_SLD2021",
+      "available_at": "2021-06-30",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_auto_road_density"
+    },
+    {
+      "name": "intersection_density",
+      "field": "D3B",
+      "source": "EPA_SLD2021",
+      "available_at": "2021-06-30",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_intersection_density"
+    },
+    {
+      "name": "transit_service_density",
+      "field": "D4D",
+      "source": "EPA_SLD2021",
+      "available_at": "2021-06-30",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_transit_service_density"
+    },
+    {
+      "name": "auto_job_accessibility",
+      "field": "D5AR",
+      "source": "EPA_SLD2021",
+      "available_at": "2021-06-30",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_auto_job_accessibility"
+    },
+    {
+      "name": "transit_centroid_distance",
+      "field": "D4A",
+      "source": "EPA_SLD2021",
+      "available_at": "2021-06-30",
+      "transform": "log1p",
+      "role": "sensitivity",
+      "predictor": "log1p_transit_centroid_distance"
+    },
+    {
+      "name": "transit_job_accessibility",
+      "field": "D5BR",
+      "source": "EPA_SLD2021",
+      "available_at": "2021-06-30",
+      "transform": "log1p",
+      "role": "sensitivity",
+      "predictor": "log1p_transit_job_accessibility"
+    },
+    {
+      "name": "atm_density_500m",
+      "source": "prior_December_OSM",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_atm_density_500m"
+    },
+    {
+      "name": "nearest_other_atm",
+      "source": "prior_December_OSM",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_nearest_other_atm"
+    },
+    {
+      "name": "prior_crime_25m",
+      "source": "prior_year_report_filtered_crime",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_prior_crime_25m"
+    },
+    {
+      "name": "prior_crime_50m",
+      "source": "prior_year_report_filtered_crime",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_prior_crime_50m"
+    },
+    {
+      "name": "prior_crime_100m",
+      "source": "prior_year_report_filtered_crime",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_prior_crime_100m"
+    },
+    {
+      "name": "prior_robbery_50m",
+      "source": "prior_year_report_filtered_crime",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_prior_robbery_50m"
+    },
+    {
+      "name": "prior_burglary_50m",
+      "source": "prior_year_report_filtered_crime",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_prior_burglary_50m"
+    },
+    {
+      "name": "prior_recent_crime_50m",
+      "source": "prior_year_report_filtered_crime",
+      "transform": "log1p",
+      "role": "primary",
+      "predictor": "log1p_prior_recent_crime_50m"
+    },
+    {
+      "name": "background_unfiltered",
+      "source": "prior_year_unfiltered_crime",
+      "transform": "log1p",
+      "role": "sensitivity",
+      "predictor": "log1p_background_unfiltered"
+    },
+    {
+      "name": "prior_crime_25m_unfiltered",
+      "source": "prior_year_unfiltered_crime",
+      "transform": "log1p",
+      "role": "sensitivity",
+      "predictor": "log1p_prior_crime_25m_unfiltered"
+    },
+    {
+      "name": "prior_crime_50m_unfiltered",
+      "source": "prior_year_unfiltered_crime",
+      "transform": "log1p",
+      "role": "sensitivity",
+      "predictor": "log1p_prior_crime_50m_unfiltered"
+    },
+    {
+      "name": "prior_crime_100m_unfiltered",
+      "source": "prior_year_unfiltered_crime",
+      "transform": "log1p",
+      "role": "sensitivity",
+      "predictor": "log1p_prior_crime_100m_unfiltered"
+    },
+    {
+      "name": "prior_robbery_50m_unfiltered",
+      "source": "prior_year_unfiltered_crime",
+      "transform": "log1p",
+      "role": "sensitivity",
+      "predictor": "log1p_prior_robbery_50m_unfiltered"
+    },
+    {
+      "name": "prior_burglary_50m_unfiltered",
+      "source": "prior_year_unfiltered_crime",
+      "transform": "log1p",
+      "role": "sensitivity",
+      "predictor": "log1p_prior_burglary_50m_unfiltered"
+    },
+    {
+      "name": "prior_recent_crime_50m_unfiltered",
+      "source": "prior_year_unfiltered_crime",
+      "transform": "log1p",
+      "role": "sensitivity",
+      "predictor": "log1p_prior_recent_crime_50m_unfiltered"
+    }
+  ]
+}

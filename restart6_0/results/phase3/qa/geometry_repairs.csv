@@ -1,0 +1,3 @@
+layer,geoid,relative_area_change,repair
+sld2021,360810929002,2.3005822454706372e-07,make_valid
+sld2021,170317104004,9.653715470488297e-05,NOT_REPAIRED; bounding-envelope missingness

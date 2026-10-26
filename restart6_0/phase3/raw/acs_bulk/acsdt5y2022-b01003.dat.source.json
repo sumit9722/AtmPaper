@@ -1,0 +1,9 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2022/table-based-SF/data/5YRData/acsdt5y2022-b01003.dat",
+  "params": {},
+  "method": "GET",
+  "retrieved_utc": "2026-10-23T20:12:11.305755+00:00",
+  "sha256": "45f7e8d4fd2e3752d5219924ef01e886bfe70bcbe38524cd81d38abc7d1fa392",
+  "bytes": 18398036,
+  "authenticated": false
+}

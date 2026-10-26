@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "checks": {
+    "frozen_inputs_and_phase12_integrity": "PASS",
+    "cohort_preservation_and_predictor_allowlist": "PASS",
+    "all_acs_estimates_margins_and_jam_annotations": "PASS",
+    "sld_pagination_identity_and_counts": "PASS",
+    "independent_scalar_polygon_membership": "PASS",
+    "invalid_source_geometry_conservative_missingness": "PASS",
+    "all_feature_formulas_transforms_and_vintage_cutoffs": "PASS",
+    "prior_event_link_replay_and_bruteforce_omissions": "PASS",
+    "all_historical_atm_neighbors_and_query_coverage": "PASS",
+    "labels_separate_and_unchanged": "PASS"
+  },
+  "primary_site_years": 2731,
+  "partial_supplement_rows": 1287,
+  "primary_predictors": 28,
+  "sensitivity_predictors": 9,
+  "acs_source_cells_verified": 1081260,
+  "prior_event_links": 18579,
+  "bruteforce_sampled_site_years": 36,
+  "atm_rows_reconstructed": 2731,
+  "scientific_review": "PENDING",
+  "confirmatory_modeling_ready": false
+}

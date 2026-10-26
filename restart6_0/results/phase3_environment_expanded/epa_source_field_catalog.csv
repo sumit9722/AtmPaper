@@ -1,0 +1,184 @@
+field,source_type,source_description,included_in_environment,role
+GEOID10,esriFieldTypeString,Census block group 12-digit FIPS code (2010),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+GEOID20,esriFieldTypeString,Census block group 12-digit FIPS code (2018),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+STATEFP,esriFieldTypeString,State FIPS code,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+COUNTYFP,esriFieldTypeString,County FIPS code,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+TRACTCE,esriFieldTypeString,Census tract FIPS code in which CBG resides,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+BLKGRPCE,esriFieldTypeString,Census block group FIPS code in which CBG resides,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+CSA,esriFieldTypeString,Combined Statistical Area (CSA) Code,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+CSA_Name,esriFieldTypeString,Name of CSA in which CBG resides,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+CBSA,esriFieldTypeString,FIPS for Core-Based Statistical Area (CBSA) in which CBG resides,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+CBSA_Name,esriFieldTypeString,Name of CBSA in which CBG resides,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+CBSA_POP,esriFieldTypeDouble,Total population in CBSA,True,core SLD measure
+CBSA_EMP,esriFieldTypeDouble,Total employment in CBSA,True,core SLD measure
+CBSA_WRK,esriFieldTypeDouble,Total number of workers that live in CBSA,True,core SLD measure
+Ac_Total,esriFieldTypeDouble,Total geometric area (acres) of the CBG,True,core SLD measure
+Ac_Water,esriFieldTypeDouble,Total water area (acres),True,core SLD measure
+Ac_Land,esriFieldTypeDouble,Total land area (acres),True,core SLD measure
+Ac_Unpr,esriFieldTypeDouble,"Total land area (acres) that is not protected from development (i.e., not a park, natural area or conservation area)",True,core SLD measure
+TotPop,esriFieldTypeInteger,"Population, 2018",True,core SLD measure
+CountHU,esriFieldTypeInteger,"Housing units, 2018",True,core SLD measure
+HH,esriFieldTypeInteger,"Households (occupied housing units), 2018",True,core SLD measure
+P_WrkAge,esriFieldTypeDouble,"Percent of population that is working aged 18 to 64 years, 2018",True,core SLD measure
+AutoOwn0,esriFieldTypeInteger,"Number of households in CBG that own zero automobiles, 2018",True,core SLD measure
+Pct_AO0,esriFieldTypeDouble,"Percent of zero-car households in CBG, 2018",True,core SLD measure
+AutoOwn1,esriFieldTypeInteger,"Number of households in CBG that own one automobile, 2018",True,core SLD measure
+Pct_AO1,esriFieldTypeDouble,"Percent of one-car households in CBG, 2018",True,core SLD measure
+AutoOwn2p,esriFieldTypeInteger,"Number of households in CBG that own two or more automobiles, 2018",True,core SLD measure
+Pct_AO2p,esriFieldTypeDouble,"Percent of two-plus-car households in CBG, 2018",True,core SLD measure
+Workers,esriFieldTypeInteger,"Count of workers in CBG (home location), 2017",True,core SLD measure
+R_LowWageWk,esriFieldTypeInteger,"Count of workers earning $1250/month or less (home location), 2017",True,core SLD measure
+R_MedWageWk,esriFieldTypeInteger,"Count of workers earning more than $1250/month but less than $3333/month (home location), 2017",True,core SLD measure
+R_HiWageWk,esriFieldTypeInteger,"Count of workers earning $3333/month or more (home location), 2017",True,core SLD measure
+R_PCTLOWWAGE,esriFieldTypeDouble,"Percent of low wage workers in a CBG (home location), 2017",True,core SLD measure
+TotEmp,esriFieldTypeInteger,"Total employment, 2017",True,core SLD measure
+E5_Ret,esriFieldTypeInteger,Retail jobs within a 5-tier employment classification scheme ,True,core SLD measure
+E5_Off,esriFieldTypeInteger,Office jobs within a 5-tier employment classification scheme,True,core SLD measure
+E5_Ind,esriFieldTypeInteger,Industrial jobs within a 5-tier employment classification scheme ,True,core SLD measure
+E5_Svc,esriFieldTypeInteger,Service jobs within a 5-tier employment classification scheme ,True,core SLD measure
+E5_Ent,esriFieldTypeInteger,Entertainment jobs within a 5-tier employment classification scheme ,True,core SLD measure
+E8_Ret,esriFieldTypeInteger,Retail jobs within an 8-tier employment classification scheme ,True,core SLD measure
+E8_off,esriFieldTypeInteger,Office jobs within an 8-tier employment classification scheme ,True,core SLD measure
+E8_Ind,esriFieldTypeInteger,Industrial jobs within an 8-tier employment classification scheme ,True,core SLD measure
+E8_Svc,esriFieldTypeInteger,Service jobs within an 8-tier employment classification scheme ,True,core SLD measure
+E8_Ent,esriFieldTypeInteger,Entertainment jobs within an 8-tier employment classification scheme ,True,core SLD measure
+E8_Ed,esriFieldTypeInteger,Education jobs within an 8-tier employment classification scheme ,True,core SLD measure
+E8_Hlth,esriFieldTypeInteger,Health care jobs within an 8-tier employment classification scheme ,True,core SLD measure
+E8_Pub,esriFieldTypeInteger,Public administration jobs within an 8-tier employment classification scheme ,True,core SLD measure
+E_LowWageWk,esriFieldTypeInteger,"Number of workers earning $1250/month or less (work location), 2017",True,core SLD measure
+E_MedWageWk,esriFieldTypeInteger,"Number of workers earning more than $1250/month but less than $3333/month (work location), 2017",True,core SLD measure
+E_HiWageWk,esriFieldTypeInteger,"Numberof workers earning $3333/month or more (work location), 2017",True,core SLD measure
+E_PctLowWage,esriFieldTypeDouble,"Percent LowWageWk of total #workers in a CBG (work location), 2017",True,core SLD measure
+D1A,esriFieldTypeDouble,Gross residential density (HU/acre) on unprotected land,True,core SLD measure
+D1B,esriFieldTypeDouble,Gross population density (people/acre) on unprotected land,True,core SLD measure
+D1C,esriFieldTypeDouble,Gross employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1C5_RET,esriFieldTypeDouble,Gross retail (5-tier) employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1C5_OFF,esriFieldTypeDouble,Gross office (5-tier) employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1C5_IND,esriFieldTypeDouble,Gross industrial (5-tier) employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1C5_SVC,esriFieldTypeDouble,Gross service (5-tier) employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1C5_ENT,esriFieldTypeDouble,Gross entertainment (5-tier) employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1C8_RET,esriFieldTypeDouble,Gross retail (8-tier) employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1C8_OFF,esriFieldTypeDouble,Gross office (8-tier) employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1C8_IND,esriFieldTypeDouble,Gross industrial (8-tier) employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1C8_SVC,esriFieldTypeDouble,Gross service (8-tier) employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1C8_ENT,esriFieldTypeDouble,Gross entertainment (8-tier) employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1C8_ED,esriFieldTypeDouble,Gross education(8-tier) employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1C8_HLTH,esriFieldTypeDouble,Gross health care (8-tier) employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1C8_PUB,esriFieldTypeDouble,Gross retail (8-tier) employment density (jobs/acre) on unprotected land,True,core SLD measure
+D1D,esriFieldTypeDouble,Gross activity density (employment + HUs) on unprotected land,True,core SLD measure
+D1_FLAG,esriFieldTypeDouble,Flag indicating that density metrics are based on total CBG land acreage rather than unprotected acreage,True,core SLD measure
+D2A_JPHH,esriFieldTypeDouble,Jobs per household,True,core SLD measure
+D2B_E5MIX,esriFieldTypeDouble,5-tier employment entropy (denominator set to observed employment types in the CBG),True,core SLD measure
+D2B_E5MIXA,esriFieldTypeDouble,5-tier employment entropy (denominator set to the static 5 employment types in the CBG),True,core SLD measure
+D2B_E8MIX,esriFieldTypeDouble,8-tier employment entropy (denominator set to observed employment types in the CBG),True,core SLD measure
+D2B_E8MIXA,esriFieldTypeDouble,8-tier employment entropy (denominator set to the static 8 employment types in the CBG),True,core SLD measure
+D2A_EPHHM,esriFieldTypeDouble,Employment and household entropy,True,core SLD measure
+D2C_TRPMX1,esriFieldTypeDouble,Employment and Household entropy (based on vehicle trip production and trip attractions including all 5 employment categories),True,core SLD measure
+D2C_TRPMX2,esriFieldTypeDouble,"Employment and Household Entropy calculations, based on trips production and trip attractions including 4 of the 5 employment categories (excluding industrial)",True,core SLD measure
+D2C_TRIPEQ,esriFieldTypeDouble,"Trip productions and trip attractions equilibrium index; the closer to one, the more balanced the trip making",True,core SLD measure
+D2R_JOBPOP,esriFieldTypeDouble,Regional Diversity. Standard calculation based on population and total employment: Deviation of CBG ratio of jobs/pop from the regional average ratio of jobs/pop,True,core SLD measure
+D2R_WRKEMP,esriFieldTypeDouble,"Household Workers per Job, as compared to the region: Deviation of CBG ratio of household workers/job from regional average ratio of household workers/job",True,core SLD measure
+D2A_WRKEMP,esriFieldTypeDouble,"Household Workers per Job, by CBG",True,core SLD measure
+D2C_WREMLX,esriFieldTypeDouble,Household Workers per Job Equilibrium Index; the closer to one the more balanced the resident workers and jobs in the CBG.,True,core SLD measure
+D3A,esriFieldTypeDouble,Total road network density,True,core SLD measure
+D3AAO,esriFieldTypeDouble,Network density in terms of facility miles of auto-oriented links per square mile,True,core SLD measure
+D3AMM,esriFieldTypeDouble,Network density in terms of facility miles of multi-modal links per square mile,True,core SLD measure
+D3APO,esriFieldTypeDouble,Network density in terms of facility miles of pedestrian-oriented links per square mile,True,core SLD measure
+D3B,esriFieldTypeDouble,"Street intersection density (weighted, auto-oriented intersections eliminated)",True,core SLD measure
+D3BAO,esriFieldTypeDouble,Intersection density in terms of auto-oriented intersections per square mile,True,core SLD measure
+D3BMM3,esriFieldTypeDouble,Intersection density in terms of multi-modal intersections having three legs per square mile,True,core SLD measure
+D3BMM4,esriFieldTypeDouble,Intersection density in terms of multi-modal intersections having four or more legs per square mile,True,core SLD measure
+D3BPO3,esriFieldTypeDouble,Intersection density in terms of pedestrian-oriented intersections having three legs per square mile,True,core SLD measure
+D3BPO4,esriFieldTypeDouble,Intersection density in terms of pedestrian-oriented intersections having four or more legs per square mile,True,core SLD measure
+D4A,esriFieldTypeDouble,Distance from the population-weighted centroid to nearest transit stop (meters),True,core SLD measure
+D4B025,esriFieldTypeDouble,Proportion of CBG employment within ¼ mile of fixed-guideway transit stop,True,core SLD measure
+D4B050,esriFieldTypeDouble,Proportion of CBG employment within ½ mile of fixed-guideway transit stop,True,core SLD measure
+D4C,esriFieldTypeDouble,Aggregate frequency of transit service within 0.25 miles of CBG boundary per hour during evening peak period,True,core SLD measure
+D4D,esriFieldTypeDouble,Aggregate frequency of transit service [D4c] per square mile,True,core SLD measure
+D4E,esriFieldTypeDouble,Aggregate frequency of transit service [D4c] per capita,True,core SLD measure
+D5AR,esriFieldTypeDouble,"Jobs within 45 minutes auto travel time, time- decay (network travel time) weighted",True,core SLD measure
+D5AE,esriFieldTypeDouble,"Working age population within 45 minutes auto travel time, time-decay (network travel time) weighted",True,core SLD measure
+D5BR,esriFieldTypeDouble,"Jobs within 45-minute transit commute, distance decay (walk network travel time, GTFS schedules) weighted",True,core SLD measure
+D5BE,esriFieldTypeDouble,"Working age population within 45-minute transit commute, time decay (walk network travel time, GTFS schedules) weighted",True,core SLD measure
+D5CR,esriFieldTypeDouble,Proportional Accessibility to Regional Destinations - Auto: Employment accessibility expressed as a ratio of total CBSA accessibility,True,core SLD measure
+D5CRI,esriFieldTypeDouble,Regional Centrality Index – Auto: CBG [D5cr] score relative to max CBSA [D5cr] score,True,core SLD measure
+D5CE,esriFieldTypeDouble,Proportional Accessibility to Regional Destinations - Auto: Working age population accessibility expressed as a ratio of total CBSA accessibility,True,core SLD measure
+D5CEI,esriFieldTypeDouble,Regional Centrality Index – Auto: CBG [D5ce] score relative to max CBSA [D5ce] score,True,core SLD measure
+D5DR,esriFieldTypeDouble,Proportional Accessibility of Regional Destinations - Transit: Employment accessibility expressed as a ratio of total MSA accessibility,True,core SLD measure
+D5DRI,esriFieldTypeDouble,Regional Centrality Index – Transit: CBG [D5dr] score relative to max CBSA [D5dr] score,True,core SLD measure
+D5DE,esriFieldTypeDouble,Proportional Accessibility of Regional Destinations - Transit: Working age population accessibility expressed as a ratio of total MSA accessibility,True,core SLD measure
+D5DEI,esriFieldTypeDouble,Regional Centrality Index – Transit: CBG [D5de] score relative to max CBSA [D5de] score,True,core SLD measure
+D2A_Ranked,esriFieldTypeDouble,Quantile ranked order (1-20) of [D2a_EpHHm] from lowest to highest,True,core SLD measure
+D2B_Ranked,esriFieldTypeDouble,Quantile ranked order (1-20) of [D2b_E8MixA] from lowest to highest,True,core SLD measure
+D3B_Ranked,esriFieldTypeDouble,Quantile ranked order (1-20) of [D3b] from lowest to highest,True,core SLD measure
+D4A_Ranked,esriFieldTypeDouble,"Quantile ranked order (1,13-20)  of [D4a] from lowest to highest",True,core SLD measure
+NatWalkInd,esriFieldTypeDouble,Walkability Index,True,core SLD measure
+Region,esriFieldTypeString,Region used to normalize vehicle miles traveled,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Households,esriFieldTypeInteger,Number of households,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Workers_1,esriFieldTypeInteger,Number of workers,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Residents,esriFieldTypeInteger,Number of residents,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Drivers,esriFieldTypeDouble,Number of drivers,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Vehicles,esriFieldTypeInteger,Number of vehicles available,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+White,esriFieldTypeInteger,Number of white residents,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Male,esriFieldTypeInteger,Number of male residents,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Lowwage,esriFieldTypeInteger,Number of of low wage residents,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Medwage,esriFieldTypeInteger,Number of medium wage residents,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Highwage,esriFieldTypeInteger,Number of high wage residents,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+W_P_Lowwage,esriFieldTypeDouble,Percent low wage workers (workplace),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+W_P_Medwage,esriFieldTypeDouble,Percent medium wage workers (workplace),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+W_P_Highwage,esriFieldTypeDouble,Percent of high wage workers (workplace),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+GasPrice,esriFieldTypeInteger,2020 statewide average gas price (cents),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+logd1a,esriFieldTypeDouble,Log of D1a (residential density),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+logd1c,esriFieldTypeDouble,Log of D1c (employment density),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+logd3aao,esriFieldTypeDouble,Log of D3aao (auto network density),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+logd3apo,esriFieldTypeDouble,Log of D3apo (pedestrian network density),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+d4bo25,esriFieldTypeInteger,D4b025 (1/4 mile job accessibility to fixed guideway transit),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+d5dei_1,esriFieldTypeInteger,D5dei (Regional centrality index - transit),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+logd4d,esriFieldTypeInteger,Log of D4d (frequency of transit service),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+UPTpercap,esriFieldTypeInteger,Unlinked passenger trips per capita for the CBSA,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_C_constant,esriFieldTypeDouble,"Constant Beta value, commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_C_male,esriFieldTypeDouble,"Male Beta value, commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_C_ld1c,esriFieldTypeDouble,"Logd1c Beta value, commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_C_drvmveh,esriFieldTypeDouble,"Drivers minus vehicles Beta value, commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_C_ld1a,esriFieldTypeDouble,"Logd1a Beta value, commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_C_ld3apo,esriFieldTypeDouble,"Logd3apo Beta value, commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_C_inc1,esriFieldTypeDouble,"Low wage Beta value, commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_C_gasp,esriFieldTypeDouble,"Fuel price Beta value, commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_constant,esriFieldTypeDouble,"Constant Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_inc2,esriFieldTypeDouble,"Medium wage Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_inc3,esriFieldTypeDouble,"High wage Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_white,esriFieldTypeDouble,"White Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_male,esriFieldTypeDouble,"Male Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_drvmveh,esriFieldTypeDouble,"Drivers minus vehicles Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_gasp,esriFieldTypeDouble,"Fuel price Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_ld1a,esriFieldTypeDouble,"Logd1a Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_ld1c,esriFieldTypeDouble,"Logd1c Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_ld3aao,esriFieldTypeDouble,"Logd3aao Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_ld3apo,esriFieldTypeDouble,"Logd3apo Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_d4bo25,esriFieldTypeDouble,"D4b025 Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_d5dei,esriFieldTypeDouble,"D5dei Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+B_N_UPTpc,esriFieldTypeDouble,"UPTC Beta value, non-commute VMT model",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+C_R_Households,esriFieldTypeInteger,# of households in the county,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+C_R_Pop,esriFieldTypeInteger,# of residents in the county,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+C_R_Workers,esriFieldTypeInteger,# of workers living in the county,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+C_R_Drivers,esriFieldTypeDouble,# of drivers in the county,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+C_R_Vehicles,esriFieldTypeInteger,# of vehicles available in the county,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+C_R_White,esriFieldTypeDouble,Percent white in the county,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+C_R_Male,esriFieldTypeDouble,Percent male in the county,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+C_R_Lowwage,esriFieldTypeDouble,Percent low wage workers living in the county,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+C_R_Medwage,esriFieldTypeDouble,Percent medium wage workers living in the county,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+C_R_Highwage,esriFieldTypeDouble,Percent high wage workers living in the county,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+C_R_DrmV,esriFieldTypeDouble,"Household drivers minus vehicles available, county average",False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+NonCom_VMT_Per_Worker,esriFieldTypeDouble,Mean non-commute VMT per worker (by workplace ),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Com_VMT_Per_Worker,esriFieldTypeDouble,Mean commute VMT per worker (by workplace ),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+VMT_per_worker,esriFieldTypeDouble,Mean total work-related VMT per worker (by workplace ),False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+VMT_tot_min,esriFieldTypeDouble,Minimum average daily VMT per worker per worker among all block groups within the same county,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+VMT_tot_max,esriFieldTypeDouble,Maximum average daily VMT per worker among all block groups within the same county,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+VMT_tot_avg,esriFieldTypeDouble,Weighted average daily VMT per worker among all block groups within the same county,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+GHG_per_worker,esriFieldTypeDouble,Estimated average daily GHG generated by a worker in a workplace block group ,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Annual_GHG,esriFieldTypeDouble,Annual_GHGTotal estimated annual GHG generated by a worker (over 260 days) within a block group,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Shape_Length,esriFieldTypeDouble,Shape_Length,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Shape_Area,esriFieldTypeDouble,Shape_Area,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+OBJECTID,esriFieldTypeOID,OBJECTID,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+Shape,esriFieldTypeGeometry,Shape,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"
+SLC_score,esriFieldTypeDouble,SLC_score,False,"source identifier, geometry, or separate Smart Location Calculator attribute; raw export only"

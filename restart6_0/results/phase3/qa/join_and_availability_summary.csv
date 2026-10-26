@@ -1,0 +1,10 @@
+city,year,site_years,acs_unique,sld_unique,atm_density_covered,atm_nearest_covered,report_filtered_crime_available
+New York City,2023,680,0,680,0,0,680
+Chicago,2023,441,0,441,0,0,0
+Los Angeles,2023,166,0,166,0,0,166
+New York City,2024,702,702,702,702,702,702
+Chicago,2024,443,443,443,440,442,0
+Los Angeles,2024,174,174,174,174,172,174
+New York City,2025,750,750,750,750,750,750
+Chicago,2025,482,482,482,479,481,0
+Los Angeles,2025,180,180,180,180,178,180
