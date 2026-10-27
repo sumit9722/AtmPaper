@@ -11,6 +11,8 @@
 # Python build caches are not research artifacts.
 __pycache__/
 *.pyc
+.venv-chicago/
+.mplconfig-chicago/
 
 # Local API credentials (at any directory depth).
 apikey.txt

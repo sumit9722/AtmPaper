@@ -1,0 +1,8 @@
+{
+  "status": "COMPLETE",
+  "models_fitted": true,
+  "elapsed_seconds": 197.12189722061157,
+  "finding": "Adding environmental variables changed 2025 average precision by -0.0465; the 95% spatial-bootstrap interval is [-0.0873, -0.0035]. The interval supports worse performance in this evaluation.",
+  "scientific_review": "PENDING",
+  "confirmatory_eligible": false
+}

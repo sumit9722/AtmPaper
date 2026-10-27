@@ -1,0 +1,11 @@
+{
+  "training_rows": 443,
+  "evaluation_rows": 482,
+  "unique_sites_both_years": 531,
+  "recurring_evaluation_sites": 394,
+  "new_evaluation_sites": 88,
+  "training_blocks_2km": 119,
+  "evaluation_blocks_2km": 122,
+  "train_positive_50m": 220,
+  "test_positive_50m": 203
+}

@@ -1,0 +1,839 @@
+{
+  "candidate_features": [
+    "sld_CBSA_POP",
+    "sld_CBSA_EMP",
+    "sld_CBSA_WRK",
+    "sld_Ac_Total",
+    "sld_Ac_Water",
+    "sld_Ac_Land",
+    "sld_Ac_Unpr",
+    "sld_TotPop",
+    "sld_CountHU",
+    "sld_HH",
+    "sld_P_WrkAge",
+    "sld_AutoOwn0",
+    "sld_Pct_AO0",
+    "sld_AutoOwn1",
+    "sld_Pct_AO1",
+    "sld_AutoOwn2p",
+    "sld_Pct_AO2p",
+    "sld_Workers",
+    "sld_R_LowWageWk",
+    "sld_R_MedWageWk",
+    "sld_R_HiWageWk",
+    "sld_R_PCTLOWWAGE",
+    "sld_TotEmp",
+    "sld_E5_Ret",
+    "sld_E5_Off",
+    "sld_E5_Ind",
+    "sld_E5_Svc",
+    "sld_E5_Ent",
+    "sld_E8_Ret",
+    "sld_E8_off",
+    "sld_E8_Ind",
+    "sld_E8_Svc",
+    "sld_E8_Ent",
+    "sld_E8_Ed",
+    "sld_E8_Hlth",
+    "sld_E8_Pub",
+    "sld_E_LowWageWk",
+    "sld_E_MedWageWk",
+    "sld_E_HiWageWk",
+    "sld_E_PctLowWage",
+    "sld_D1A",
+    "sld_D1B",
+    "employment_density",
+    "retail_employment_density",
+    "sld_D1C5_OFF",
+    "sld_D1C5_IND",
+    "sld_D1C5_SVC",
+    "sld_D1C5_ENT",
+    "sld_D1C8_RET",
+    "sld_D1C8_OFF",
+    "sld_D1C8_IND",
+    "sld_D1C8_SVC",
+    "sld_D1C8_ENT",
+    "sld_D1C8_ED",
+    "sld_D1C8_HLTH",
+    "sld_D1C8_PUB",
+    "sld_D1D",
+    "sld_D2A_JPHH",
+    "sld_D2B_E5MIX",
+    "employment_mix",
+    "sld_D2B_E8MIX",
+    "sld_D2B_E8MIXA",
+    "sld_D2A_EPHHM",
+    "sld_D2C_TRPMX1",
+    "sld_D2C_TRPMX2",
+    "sld_D2C_TRIPEQ",
+    "sld_D2R_JOBPOP",
+    "sld_D2R_WRKEMP",
+    "sld_D2A_WRKEMP",
+    "sld_D2C_WREMLX",
+    "road_network_density",
+    "auto_road_density",
+    "sld_D3AMM",
+    "sld_D3APO",
+    "intersection_density",
+    "sld_D3BAO",
+    "sld_D3BMM3",
+    "sld_D3BMM4",
+    "sld_D3BPO3",
+    "sld_D3BPO4",
+    "transit_centroid_distance",
+    "sld_D4B025",
+    "sld_D4B050",
+    "sld_D4C",
+    "transit_service_density",
+    "sld_D4E",
+    "auto_job_accessibility",
+    "sld_D5AE",
+    "transit_job_accessibility",
+    "sld_D5BE",
+    "sld_D5CR",
+    "sld_D5CRI",
+    "sld_D5CE",
+    "sld_D5CEI",
+    "sld_D5DR",
+    "sld_D5DRI",
+    "sld_D5DE",
+    "sld_D5DEI",
+    "sld_D2A_Ranked",
+    "sld_D2B_Ranked",
+    "sld_D3B_Ranked",
+    "sld_D4A_Ranked",
+    "sld_NatWalkInd",
+    "population_density",
+    "median_household_income",
+    "unemployment_rate",
+    "housing_vacancy_share",
+    "renter_occupied_share",
+    "multifamily_housing_share",
+    "crowded_household_share",
+    "no_vehicle_household_share",
+    "median_gross_rent",
+    "housing_age",
+    "recent_move_share",
+    "atm_density_500m",
+    "nearest_other_atm",
+    "background_unfiltered",
+    "prior_crime_25m_unfiltered",
+    "prior_crime_50m_unfiltered",
+    "prior_crime_100m_unfiltered",
+    "prior_robbery_50m_unfiltered",
+    "prior_burglary_50m_unfiltered",
+    "prior_recent_crime_50m_unfiltered"
+  ],
+  "features": [
+    "sld_Ac_Total",
+    "sld_Ac_Water",
+    "sld_Ac_Land",
+    "sld_Ac_Unpr",
+    "sld_TotPop",
+    "sld_CountHU",
+    "sld_HH",
+    "sld_P_WrkAge",
+    "sld_AutoOwn0",
+    "sld_Pct_AO0",
+    "sld_AutoOwn1",
+    "sld_Pct_AO1",
+    "sld_AutoOwn2p",
+    "sld_Pct_AO2p",
+    "sld_Workers",
+    "sld_R_LowWageWk",
+    "sld_R_MedWageWk",
+    "sld_R_HiWageWk",
+    "sld_R_PCTLOWWAGE",
+    "sld_TotEmp",
+    "sld_E5_Ret",
+    "sld_E5_Off",
+    "sld_E5_Ind",
+    "sld_E5_Svc",
+    "sld_E5_Ent",
+    "sld_E8_off",
+    "sld_E8_Svc",
+    "sld_E8_Ed",
+    "sld_E8_Hlth",
+    "sld_E8_Pub",
+    "sld_E_LowWageWk",
+    "sld_E_MedWageWk",
+    "sld_E_HiWageWk",
+    "sld_E_PctLowWage",
+    "sld_D1A",
+    "sld_D1B",
+    "employment_density",
+    "retail_employment_density",
+    "sld_D1C5_OFF",
+    "sld_D1C5_IND",
+    "sld_D1C5_SVC",
+    "sld_D1C5_ENT",
+    "sld_D1C8_OFF",
+    "sld_D1C8_SVC",
+    "sld_D1C8_ED",
+    "sld_D1C8_HLTH",
+    "sld_D1C8_PUB",
+    "sld_D1D",
+    "sld_D2A_JPHH",
+    "sld_D2B_E5MIX",
+    "employment_mix",
+    "sld_D2B_E8MIX",
+    "sld_D2B_E8MIXA",
+    "sld_D2A_EPHHM",
+    "sld_D2C_TRPMX1",
+    "sld_D2C_TRPMX2",
+    "sld_D2C_TRIPEQ",
+    "sld_D2R_JOBPOP",
+    "sld_D2R_WRKEMP",
+    "sld_D2A_WRKEMP",
+    "sld_D2C_WREMLX",
+    "road_network_density",
+    "auto_road_density",
+    "sld_D3AMM",
+    "sld_D3APO",
+    "intersection_density",
+    "sld_D3BAO",
+    "sld_D3BMM3",
+    "sld_D3BMM4",
+    "sld_D3BPO3",
+    "sld_D3BPO4",
+    "transit_centroid_distance",
+    "sld_D4B025",
+    "sld_D4B050",
+    "sld_D4C",
+    "transit_service_density",
+    "sld_D4E",
+    "auto_job_accessibility",
+    "sld_D5AE",
+    "transit_job_accessibility",
+    "sld_D5BE",
+    "sld_D5CR",
+    "sld_D5CRI",
+    "sld_D5CE",
+    "sld_D5CEI",
+    "sld_D5DR",
+    "sld_D5DRI",
+    "sld_D5DE",
+    "sld_D5DEI",
+    "sld_D2A_Ranked",
+    "sld_D2B_Ranked",
+    "sld_D3B_Ranked",
+    "sld_D4A_Ranked",
+    "sld_NatWalkInd",
+    "population_density",
+    "median_household_income",
+    "unemployment_rate",
+    "housing_vacancy_share",
+    "renter_occupied_share",
+    "multifamily_housing_share",
+    "crowded_household_share",
+    "no_vehicle_household_share",
+    "median_gross_rent",
+    "housing_age",
+    "recent_move_share",
+    "atm_density_500m",
+    "nearest_other_atm",
+    "background_unfiltered",
+    "prior_crime_25m_unfiltered",
+    "prior_crime_50m_unfiltered",
+    "prior_crime_100m_unfiltered",
+    "prior_robbery_50m_unfiltered",
+    "prior_burglary_50m_unfiltered",
+    "prior_recent_crime_50m_unfiltered"
+  ],
+  "excluded": {
+    "sld_CBSA_POP": "constant_observed_values_in_training",
+    "sld_CBSA_EMP": "constant_observed_values_in_training",
+    "sld_CBSA_WRK": "constant_observed_values_in_training",
+    "sld_E8_Ret": "exact_training_duplicate_of:sld_E5_Ret",
+    "sld_E8_Ind": "exact_training_duplicate_of:sld_E5_Ind",
+    "sld_E8_Ent": "exact_training_duplicate_of:sld_E5_Ent",
+    "sld_D1C8_RET": "exact_training_duplicate_of:retail_employment_density",
+    "sld_D1C8_IND": "exact_training_duplicate_of:sld_D1C5_IND",
+    "sld_D1C8_ENT": "exact_training_duplicate_of:sld_D1C5_ENT"
+  },
+  "parameters": {
+    "max_depth": 2,
+    "n_estimators": 80,
+    "min_child_weight": 5,
+    "reg_lambda": 5
+  },
+  "threshold_from_training_oof": 0.16999999999999998,
+  "fixed_threshold": 0.5,
+  "seed": 17,
+  "train_year": 2024,
+  "target": "primary_any_25m",
+  "source_city": "Chicago",
+  "past_crime_semantics": "retrospective unfiltered occurrence counts",
+  "feature_training_ranges": {
+    "sld_Ac_Total": {
+      "min": 6.5498797,
+      "max": 4937.556400699999,
+      "missing_fraction": 0.0
+    },
+    "sld_Ac_Water": {
+      "min": 0.0,
+      "max": 353.2499593,
+      "missing_fraction": 0.0
+    },
+    "sld_Ac_Land": {
+      "min": 6.5498797,
+      "max": 4914.7238664999995,
+      "missing_fraction": 0.0
+    },
+    "sld_Ac_Unpr": {
+      "min": 6.5498797,
+      "max": 4914.7238664999995,
+      "missing_fraction": 0.0
+    },
+    "sld_TotPop": {
+      "min": 0.0,
+      "max": 5014.0,
+      "missing_fraction": 0.0
+    },
+    "sld_CountHU": {
+      "min": 0.0,
+      "max": 3562.0,
+      "missing_fraction": 0.0
+    },
+    "sld_HH": {
+      "min": 0.0,
+      "max": 3115.0,
+      "missing_fraction": 0.0
+    },
+    "sld_P_WrkAge": {
+      "min": 0.0,
+      "max": 0.963,
+      "missing_fraction": 0.0
+    },
+    "sld_AutoOwn0": {
+      "min": 0.0,
+      "max": 1342.0,
+      "missing_fraction": 0.0
+    },
+    "sld_Pct_AO0": {
+      "min": 0.0,
+      "max": 0.871165644172,
+      "missing_fraction": 0.0
+    },
+    "sld_AutoOwn1": {
+      "min": 0.0,
+      "max": 1743.0,
+      "missing_fraction": 0.0
+    },
+    "sld_Pct_AO1": {
+      "min": 0.0,
+      "max": 0.779816513761,
+      "missing_fraction": 0.0
+    },
+    "sld_AutoOwn2p": {
+      "min": 0.0,
+      "max": 643.0,
+      "missing_fraction": 0.0
+    },
+    "sld_Pct_AO2p": {
+      "min": 0.0,
+      "max": 0.792642140468,
+      "missing_fraction": 0.0
+    },
+    "sld_Workers": {
+      "min": 17.0,
+      "max": 3113.0,
+      "missing_fraction": 0.0
+    },
+    "sld_R_LowWageWk": {
+      "min": 7.0,
+      "max": 348.0,
+      "missing_fraction": 0.0
+    },
+    "sld_R_MedWageWk": {
+      "min": 8.0,
+      "max": 505.0,
+      "missing_fraction": 0.0
+    },
+    "sld_R_HiWageWk": {
+      "min": 2.0,
+      "max": 2588.0,
+      "missing_fraction": 0.0
+    },
+    "sld_R_PCTLOWWAGE": {
+      "min": 0.06125574272588055,
+      "max": 0.4117647058823529,
+      "missing_fraction": 0.0
+    },
+    "sld_TotEmp": {
+      "min": 0.0,
+      "max": 266101.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E5_Ret": {
+      "min": 0.0,
+      "max": 2341.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E5_Off": {
+      "min": 0.0,
+      "max": 110844.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E5_Ind": {
+      "min": 0.0,
+      "max": 28243.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E5_Svc": {
+      "min": 0.0,
+      "max": 137775.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E5_Ent": {
+      "min": 0.0,
+      "max": 8089.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E8_off": {
+      "min": 0.0,
+      "max": 65769.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E8_Svc": {
+      "min": 0.0,
+      "max": 86353.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E8_Ed": {
+      "min": 0.0,
+      "max": 49185.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E8_Hlth": {
+      "min": 0.0,
+      "max": 12789.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E8_Pub": {
+      "min": 0.0,
+      "max": 45075.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E_LowWageWk": {
+      "min": 0.0,
+      "max": 20398.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E_MedWageWk": {
+      "min": 0.0,
+      "max": 41394.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E_HiWageWk": {
+      "min": 0.0,
+      "max": 204309.0,
+      "missing_fraction": 0.0
+    },
+    "sld_E_PctLowWage": {
+      "min": 0.0,
+      "max": 0.7971623751970572,
+      "missing_fraction": 0.0
+    },
+    "sld_D1A": {
+      "min": 0.0,
+      "max": 165.37392563923453,
+      "missing_fraction": 0.0
+    },
+    "sld_D1B": {
+      "min": 0.0,
+      "max": 206.52957699720656,
+      "missing_fraction": 0.0
+    },
+    "employment_density": {
+      "min": 0.0,
+      "max": 1391.6121555421116,
+      "missing_fraction": 0.0
+    },
+    "retail_employment_density": {
+      "min": 0.0,
+      "max": 184.0817853902517,
+      "missing_fraction": 0.0
+    },
+    "sld_D1C5_OFF": {
+      "min": 0.0,
+      "max": 579.6741003187128,
+      "missing_fraction": 0.0
+    },
+    "sld_D1C5_IND": {
+      "min": 0.0,
+      "max": 85.83172367861499,
+      "missing_fraction": 0.0
+    },
+    "sld_D1C5_SVC": {
+      "min": 0.0,
+      "max": 720.5135070135566,
+      "missing_fraction": 0.0
+    },
+    "sld_D1C5_ENT": {
+      "min": 0.0,
+      "max": 310.81511557507366,
+      "missing_fraction": 0.0
+    },
+    "sld_D1C8_OFF": {
+      "min": 0.0,
+      "max": 343.9481244258726,
+      "missing_fraction": 0.0
+    },
+    "sld_D1C8_SVC": {
+      "min": 0.0,
+      "max": 521.0189962135304,
+      "missing_fraction": 0.0
+    },
+    "sld_D1C8_ED": {
+      "min": 0.0,
+      "max": 257.21979199754514,
+      "missing_fraction": 0.0
+    },
+    "sld_D1C8_HLTH": {
+      "min": 0.0,
+      "max": 159.59609103312113,
+      "missing_fraction": 0.0
+    },
+    "sld_D1C8_PUB": {
+      "min": 0.0,
+      "max": 235.72597589284024,
+      "missing_fraction": 0.0
+    },
+    "sld_D1D": {
+      "min": 2.3900239224871593,
+      "max": 1407.0709682928434,
+      "missing_fraction": 0.0
+    },
+    "sld_D2A_JPHH": {
+      "min": 0.0,
+      "max": 176.28571428571428,
+      "missing_fraction": 0.0
+    },
+    "sld_D2B_E5MIX": {
+      "min": 0.0,
+      "max": 0.9910760598382222,
+      "missing_fraction": 0.0
+    },
+    "employment_mix": {
+      "min": 0.0,
+      "max": 0.9859399445671373,
+      "missing_fraction": 0.0
+    },
+    "sld_D2B_E8MIX": {
+      "min": 0.0,
+      "max": 0.9828150359563356,
+      "missing_fraction": 0.0
+    },
+    "sld_D2B_E8MIXA": {
+      "min": 0.0,
+      "max": 0.8812699103823232,
+      "missing_fraction": 0.0
+    },
+    "sld_D2A_EPHHM": {
+      "min": 0.0,
+      "max": 0.9444498436178146,
+      "missing_fraction": 0.0
+    },
+    "sld_D2C_TRPMX1": {
+      "min": 0.0,
+      "max": 0.8877439340973057,
+      "missing_fraction": 0.0
+    },
+    "sld_D2C_TRPMX2": {
+      "min": 0.0,
+      "max": 0.9088797721927817,
+      "missing_fraction": 0.0
+    },
+    "sld_D2C_TRIPEQ": {
+      "min": 7.286357848776556e-39,
+      "max": 0.9938578034474216,
+      "missing_fraction": 0.0
+    },
+    "sld_D2R_JOBPOP": {
+      "min": 0.0,
+      "max": 0.9934902353530295,
+      "missing_fraction": 0.0
+    },
+    "sld_D2R_WRKEMP": {
+      "min": 0.009680930285845268,
+      "max": 1.0,
+      "missing_fraction": 0.0
+    },
+    "sld_D2A_WRKEMP": {
+      "min": 0.0,
+      "max": 83.28571428571429,
+      "missing_fraction": 0.0
+    },
+    "sld_D2C_WREMLX": {
+      "min": 0.0,
+      "max": 0.9982920584855619,
+      "missing_fraction": 0.0
+    },
+    "road_network_density": {
+      "min": 6.388444082524278,
+      "max": 83.4707975565441,
+      "missing_fraction": 0.0
+    },
+    "auto_road_density": {
+      "min": 0.0,
+      "max": 21.613845874915775,
+      "missing_fraction": 0.0
+    },
+    "sld_D3AMM": {
+      "min": 0.0,
+      "max": 30.806693805627848,
+      "missing_fraction": 0.0
+    },
+    "sld_D3APO": {
+      "min": 2.7920057162111265,
+      "max": 58.29045517905925,
+      "missing_fraction": 0.0
+    },
+    "intersection_density": {
+      "min": 0.0,
+      "max": 1108.8872494103227,
+      "missing_fraction": 0.0
+    },
+    "sld_D3BAO": {
+      "min": 0.0,
+      "max": 102.11015550400253,
+      "missing_fraction": 0.0
+    },
+    "sld_D3BMM3": {
+      "min": 0.0,
+      "max": 316.0855510979056,
+      "missing_fraction": 0.0
+    },
+    "sld_D3BMM4": {
+      "min": 0.0,
+      "max": 255.5927989585143,
+      "missing_fraction": 0.0
+    },
+    "sld_D3BPO3": {
+      "min": 0.0,
+      "max": 1080.9603215729785,
+      "missing_fraction": 0.0
+    },
+    "sld_D3BPO4": {
+      "min": 0.0,
+      "max": 337.00527672569325,
+      "missing_fraction": 0.0
+    },
+    "transit_centroid_distance": {
+      "min": 0.0,
+      "max": 697.38,
+      "missing_fraction": 0.002257336343115124
+    },
+    "sld_D4B025": {
+      "min": 0.0,
+      "max": 1.0,
+      "missing_fraction": 0.0
+    },
+    "sld_D4B050": {
+      "min": 0.0,
+      "max": 1.0,
+      "missing_fraction": 0.0
+    },
+    "sld_D4C": {
+      "min": 3.67,
+      "max": 395.33,
+      "missing_fraction": 0.0
+    },
+    "transit_service_density": {
+      "min": 3.94960134634,
+      "max": 8000.62350991,
+      "missing_fraction": 0.0
+    },
+    "sld_D4E": {
+      "min": 0.0,
+      "max": 0.53982300885,
+      "missing_fraction": 0.0
+    },
+    "auto_job_accessibility": {
+      "min": 160840.0,
+      "max": 715774.0,
+      "missing_fraction": 0.0
+    },
+    "sld_D5AE": {
+      "min": 162089.0,
+      "max": 463608.0,
+      "missing_fraction": 0.0
+    },
+    "transit_job_accessibility": {
+      "min": 9183.0,
+      "max": 1503981.0,
+      "missing_fraction": 0.002257336343115124
+    },
+    "sld_D5BE": {
+      "min": 19243.0,
+      "max": 609900.0,
+      "missing_fraction": 0.002257336343115124
+    },
+    "sld_D5CR": {
+      "min": 9.158166387615617e-05,
+      "max": 0.0004075589025074099,
+      "missing_fraction": 0.0
+    },
+    "sld_D5CRI": {
+      "min": 0.22470779883035708,
+      "max": 1.0,
+      "missing_fraction": 0.0
+    },
+    "sld_D5CE": {
+      "min": 0.00010649691608350107,
+      "max": 0.0003046031641359979,
+      "missing_fraction": 0.0
+    },
+    "sld_D5CEI": {
+      "min": 0.3422111592477177,
+      "max": 0.978794558029946,
+      "missing_fraction": 0.0
+    },
+    "sld_D5DR": {
+      "min": 6.69371277971232e-06,
+      "max": 0.0010962884504132108,
+      "missing_fraction": 0.002257336343115124
+    },
+    "sld_D5DRI": {
+      "min": 0.00610579521948748,
+      "max": 1.0,
+      "missing_fraction": 0.002257336343115124
+    },
+    "sld_D5DE": {
+      "min": 2.4509976840014292e-05,
+      "max": 0.0007768349464597369,
+      "missing_fraction": 0.002257336343115124
+    },
+    "sld_D5DEI": {
+      "min": 0.031551073946548616,
+      "max": 1.0,
+      "missing_fraction": 0.002257336343115124
+    },
+    "sld_D2A_Ranked": {
+      "min": 1.0,
+      "max": 20.0,
+      "missing_fraction": 0.0
+    },
+    "sld_D2B_Ranked": {
+      "min": 1.0,
+      "max": 20.0,
+      "missing_fraction": 0.0
+    },
+    "sld_D3B_Ranked": {
+      "min": 1.0,
+      "max": 20.0,
+      "missing_fraction": 0.0
+    },
+    "sld_D4A_Ranked": {
+      "min": 1.0,
+      "max": 20.0,
+      "missing_fraction": 0.0
+    },
+    "sld_NatWalkInd": {
+      "min": 5.333333333333333,
+      "max": 19.833333333333336,
+      "missing_fraction": 0.0
+    },
+    "population_density": {
+      "min": 0.0,
+      "max": 63616.48582862329,
+      "missing_fraction": 0.0
+    },
+    "median_household_income": {
+      "min": 2499.0,
+      "max": 250001.0,
+      "missing_fraction": 0.12641083521444696
+    },
+    "unemployment_rate": {
+      "min": 0.0,
+      "max": 0.5882352941176471,
+      "missing_fraction": 0.029345372460496615
+    },
+    "housing_vacancy_share": {
+      "min": 0.0,
+      "max": 0.4384359400998336,
+      "missing_fraction": 0.029345372460496615
+    },
+    "renter_occupied_share": {
+      "min": 0.0,
+      "max": 0.9756782039289055,
+      "missing_fraction": 0.029345372460496615
+    },
+    "multifamily_housing_share": {
+      "min": 0.0,
+      "max": 1.0,
+      "missing_fraction": 0.029345372460496615
+    },
+    "crowded_household_share": {
+      "min": 0.0,
+      "max": 0.3671399594320487,
+      "missing_fraction": 0.029345372460496615
+    },
+    "no_vehicle_household_share": {
+      "min": 0.0,
+      "max": 0.824634655532359,
+      "missing_fraction": 0.029345372460496615
+    },
+    "median_gross_rent": {
+      "min": 236.0,
+      "max": 3501.0,
+      "missing_fraction": 0.14672686230248308
+    },
+    "housing_age": {
+      "min": 13.0,
+      "max": 84.0,
+      "missing_fraction": 0.029345372460496615
+    },
+    "recent_move_share": {
+      "min": 0.0,
+      "max": 0.3117782909930716,
+      "missing_fraction": 0.029345372460496615
+    },
+    "atm_density_500m": {
+      "min": 0.0,
+      "max": 21.645072260497766,
+      "missing_fraction": 0.006772009029345372
+    },
+    "nearest_other_atm": {
+      "min": 3.438154168086386,
+      "max": 1898.290732412035,
+      "missing_fraction": 0.002257336343115124
+    },
+    "background_unfiltered": {
+      "min": 0.0,
+      "max": 162.0,
+      "missing_fraction": 0.0
+    },
+    "prior_crime_25m_unfiltered": {
+      "min": 0.0,
+      "max": 12.0,
+      "missing_fraction": 0.0
+    },
+    "prior_crime_50m_unfiltered": {
+      "min": 0.0,
+      "max": 15.0,
+      "missing_fraction": 0.0
+    },
+    "prior_crime_100m_unfiltered": {
+      "min": 0.0,
+      "max": 23.0,
+      "missing_fraction": 0.0
+    },
+    "prior_robbery_50m_unfiltered": {
+      "min": 0.0,
+      "max": 15.0,
+      "missing_fraction": 0.0
+    },
+    "prior_burglary_50m_unfiltered": {
+      "min": 0.0,
+      "max": 5.0,
+      "missing_fraction": 0.0
+    },
+    "prior_recent_crime_50m_unfiltered": {
+      "min": 0.0,
+      "max": 9.0,
+      "missing_fraction": 0.0
+    }
+  }
+}

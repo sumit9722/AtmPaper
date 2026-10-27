@@ -1,0 +1,13 @@
+Transfer exports: /private/var/folders/vd/j83pqqj91cg8r2hf50_bj8f40000gn/T/tmpu0v6pjb5/target
+test_bh_known_result_and_missing (test_pipeline.AnalysisTests.test_bh_known_result_and_missing) ... ok
+test_saved_sources_and_real_spatial_splits (test_pipeline.AnalysisTests.test_saved_sources_and_real_spatial_splits) ... ok
+test_tied_top_decile_does_not_depend_on_row_order (test_pipeline.AnalysisTests.test_tied_top_decile_does_not_depend_on_row_order) ... ok
+test_training_only_exclusions_preserve_missing_values (test_pipeline.AnalysisTests.test_training_only_exclusions_preserve_missing_values) ... ok
+test_transfer_uses_frozen_schema_without_requiring_outcomes (test_pipeline.AnalysisTests.test_transfer_uses_frozen_schema_without_requiring_outcomes) ... ok
+test_weighted_spearman_equals_expanded_sample_with_ties_and_missing (test_pipeline.AnalysisTests.test_weighted_spearman_equals_expanded_sample_with_ties_and_missing) ... ok
+test_xgboost_native_missing_and_shap_and_save_reload (test_pipeline.AnalysisTests.test_xgboost_native_missing_and_shap_and_save_reload) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.241s
+
+OK

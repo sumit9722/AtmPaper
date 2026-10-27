@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "models_reloaded_exactly": [
+    "model_reload_50_crime_only",
+    "model_reload_50_environment_only",
+    "model_reload_50_crime_plus_environment",
+    "model_reload_25_crime_only",
+    "model_reload_25_environment_only",
+    "model_reload_25_crime_plus_environment",
+    "model_reload_100_crime_only",
+    "model_reload_100_environment_only",
+    "model_reload_100_crime_plus_environment"
+  ],
+  "shap_max_additivity_errors": {
+    "crime_only": 9.5367431640625e-07,
+    "environment_only": 1.430511474609375e-06,
+    "crime_plus_environment": 8.344650268554688e-07
+  },
+  "all_candidates_reported": 123,
+  "training_rows": 443,
+  "evaluation_rows": 482,
+  "source_manifests_verified": true,
+  "existing_small_release_files_unchanged": 160,
+  "test_data_excluded_from_tuning": true,
+  "fold_purge_distance_m": 1000,
+  "shared_geographies_purged": true,
+  "historical_reporting_leakage_resolved": false,
+  "scientific_review": "PENDING",
+  "confirmatory_eligible": false
+}

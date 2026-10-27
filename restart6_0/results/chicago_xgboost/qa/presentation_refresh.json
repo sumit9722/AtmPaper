@@ -1,0 +1,6 @@
+{
+  "statistics_models_predictions_unchanged": true,
+  "current_pipeline_sha256": "a046c58be7dd654d092fc09fb4d7c5593c135c5b2c3d11b0c49f0eedb1af8c40",
+  "training_pipeline_sha256": "24880de965420cf0800a94b8fe7556f4ab509f0b822f5842ff88944744609562",
+  "changes": "Stepwise precision-recall curves consistent with AP; selected model settings included in HTML."
+}

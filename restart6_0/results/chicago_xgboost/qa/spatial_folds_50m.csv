@@ -1,0 +1,5 @@
+fold,training_before_purge,training_after_purge,validation_rows,purged_rows,minimum_train_validation_distance_m,train_positive,validation_positive
+0,332,272,111,60,1002.884909430059,124,55
+1,332,273,111,59,1019.5294901316838,129,55
+2,331,258,112,73,1002.884909430059,124,55
+3,334,286,109,48,1040.7304137005583,138,55
