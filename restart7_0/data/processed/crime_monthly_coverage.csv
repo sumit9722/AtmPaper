@@ -1,0 +1,179 @@
+city,month,source_system,retained_cases,interpretation
+Chicago,2022-01,chicago,1256,observed_extract; not_certified_complete
+Chicago,2022-02,chicago,1122,observed_extract; not_certified_complete
+Chicago,2022-03,chicago,1158,observed_extract; not_certified_complete
+Chicago,2022-04,chicago,1156,observed_extract; not_certified_complete
+Chicago,2022-05,chicago,1270,observed_extract; not_certified_complete
+Chicago,2022-06,chicago,1405,observed_extract; not_certified_complete
+Chicago,2022-07,chicago,1461,observed_extract; not_certified_complete
+Chicago,2022-08,chicago,1413,observed_extract; not_certified_complete
+Chicago,2022-09,chicago,1515,observed_extract; not_certified_complete
+Chicago,2022-10,chicago,1619,observed_extract; not_certified_complete
+Chicago,2022-11,chicago,1506,observed_extract; not_certified_complete
+Chicago,2022-12,chicago,1584,observed_extract; not_certified_complete
+Chicago,2023-01,chicago,1570,observed_extract; not_certified_complete
+Chicago,2023-02,chicago,1120,observed_extract; not_certified_complete
+Chicago,2023-03,chicago,1253,observed_extract; not_certified_complete
+Chicago,2023-04,chicago,1346,observed_extract; not_certified_complete
+Chicago,2023-05,chicago,1381,observed_extract; not_certified_complete
+Chicago,2023-06,chicago,1382,observed_extract; not_certified_complete
+Chicago,2023-07,chicago,1635,observed_extract; not_certified_complete
+Chicago,2023-08,chicago,1862,observed_extract; not_certified_complete
+Chicago,2023-09,chicago,1776,observed_extract; not_certified_complete
+Chicago,2023-10,chicago,1857,observed_extract; not_certified_complete
+Chicago,2023-11,chicago,1695,observed_extract; not_certified_complete
+Chicago,2023-12,chicago,1567,observed_extract; not_certified_complete
+Chicago,2024-01,chicago,1282,observed_extract; not_certified_complete
+Chicago,2024-02,chicago,1211,observed_extract; not_certified_complete
+Chicago,2024-03,chicago,1334,observed_extract; not_certified_complete
+Chicago,2024-04,chicago,1318,observed_extract; not_certified_complete
+Chicago,2024-05,chicago,1488,observed_extract; not_certified_complete
+Chicago,2024-06,chicago,1438,observed_extract; not_certified_complete
+Chicago,2024-07,chicago,1644,observed_extract; not_certified_complete
+Chicago,2024-08,chicago,1436,observed_extract; not_certified_complete
+Chicago,2024-09,chicago,1482,observed_extract; not_certified_complete
+Chicago,2024-10,chicago,1415,observed_extract; not_certified_complete
+Chicago,2024-11,chicago,1332,observed_extract; not_certified_complete
+Chicago,2024-12,chicago,1285,observed_extract; not_certified_complete
+Chicago,2025-01,chicago,1082,observed_extract; not_certified_complete
+Chicago,2025-02,chicago,826,observed_extract; not_certified_complete
+Chicago,2025-03,chicago,846,observed_extract; not_certified_complete
+Chicago,2025-04,chicago,874,observed_extract; not_certified_complete
+Chicago,2025-05,chicago,1025,observed_extract; not_certified_complete
+Chicago,2025-06,chicago,1179,observed_extract; not_certified_complete
+Chicago,2025-07,chicago,1153,observed_extract; not_certified_complete
+Chicago,2025-08,chicago,1158,observed_extract; not_certified_complete
+Chicago,2025-09,chicago,935,observed_extract; not_certified_complete
+Chicago,2025-10,chicago,1016,observed_extract; not_certified_complete
+Chicago,2025-11,chicago,913,observed_extract; not_certified_complete
+Chicago,2025-12,chicago,868,observed_extract; not_certified_complete
+Los Angeles,2022-01,la_legacy,2050,observed_extract; not_certified_complete
+Los Angeles,2022-01,la_nibrs,2,observed_extract; not_certified_complete
+Los Angeles,2022-02,la_legacy,1870,observed_extract; not_certified_complete
+Los Angeles,2022-02,la_nibrs,1,observed_extract; not_certified_complete
+Los Angeles,2022-03,la_legacy,1974,observed_extract; not_certified_complete
+Los Angeles,2022-04,la_legacy,1957,observed_extract; not_certified_complete
+Los Angeles,2022-05,la_legacy,2136,observed_extract; not_certified_complete
+Los Angeles,2022-05,la_nibrs,1,observed_extract; not_certified_complete
+Los Angeles,2022-06,la_legacy,2083,observed_extract; not_certified_complete
+Los Angeles,2022-06,la_nibrs,3,observed_extract; not_certified_complete
+Los Angeles,2022-07,la_legacy,2140,observed_extract; not_certified_complete
+Los Angeles,2022-07,la_nibrs,3,observed_extract; not_certified_complete
+Los Angeles,2022-08,la_legacy,2009,observed_extract; not_certified_complete
+Los Angeles,2022-08,la_nibrs,2,observed_extract; not_certified_complete
+Los Angeles,2022-09,la_legacy,1869,observed_extract; not_certified_complete
+Los Angeles,2022-09,la_nibrs,1,observed_extract; not_certified_complete
+Los Angeles,2022-10,la_legacy,1867,observed_extract; not_certified_complete
+Los Angeles,2022-10,la_nibrs,5,observed_extract; not_certified_complete
+Los Angeles,2022-11,la_legacy,1991,observed_extract; not_certified_complete
+Los Angeles,2022-11,la_nibrs,4,observed_extract; not_certified_complete
+Los Angeles,2022-12,la_legacy,1993,observed_extract; not_certified_complete
+Los Angeles,2022-12,la_nibrs,2,observed_extract; not_certified_complete
+Los Angeles,2023-01,la_legacy,1933,observed_extract; not_certified_complete
+Los Angeles,2023-01,la_nibrs,4,observed_extract; not_certified_complete
+Los Angeles,2023-02,la_legacy,1685,observed_extract; not_certified_complete
+Los Angeles,2023-02,la_nibrs,6,observed_extract; not_certified_complete
+Los Angeles,2023-03,la_legacy,1944,observed_extract; not_certified_complete
+Los Angeles,2023-03,la_nibrs,6,observed_extract; not_certified_complete
+Los Angeles,2023-04,la_legacy,1889,observed_extract; not_certified_complete
+Los Angeles,2023-04,la_nibrs,3,observed_extract; not_certified_complete
+Los Angeles,2023-05,la_legacy,1816,observed_extract; not_certified_complete
+Los Angeles,2023-05,la_nibrs,5,observed_extract; not_certified_complete
+Los Angeles,2023-06,la_legacy,1974,observed_extract; not_certified_complete
+Los Angeles,2023-06,la_nibrs,2,observed_extract; not_certified_complete
+Los Angeles,2023-07,la_legacy,2036,observed_extract; not_certified_complete
+Los Angeles,2023-07,la_nibrs,4,observed_extract; not_certified_complete
+Los Angeles,2023-08,la_legacy,2172,observed_extract; not_certified_complete
+Los Angeles,2023-08,la_nibrs,12,observed_extract; not_certified_complete
+Los Angeles,2023-09,la_legacy,2059,observed_extract; not_certified_complete
+Los Angeles,2023-09,la_nibrs,7,observed_extract; not_certified_complete
+Los Angeles,2023-10,la_legacy,2101,observed_extract; not_certified_complete
+Los Angeles,2023-10,la_nibrs,8,observed_extract; not_certified_complete
+Los Angeles,2023-11,la_legacy,2020,observed_extract; not_certified_complete
+Los Angeles,2023-11,la_nibrs,15,observed_extract; not_certified_complete
+Los Angeles,2023-12,la_legacy,2201,observed_extract; not_certified_complete
+Los Angeles,2023-12,la_nibrs,18,observed_extract; not_certified_complete
+Los Angeles,2024-01,la_legacy,2093,observed_extract; not_certified_complete
+Los Angeles,2024-01,la_nibrs,48,observed_extract; not_certified_complete
+Los Angeles,2024-02,la_legacy,1922,observed_extract; not_certified_complete
+Los Angeles,2024-02,la_nibrs,25,observed_extract; not_certified_complete
+Los Angeles,2024-03,la_legacy,1539,observed_extract; not_certified_complete
+Los Angeles,2024-03,la_nibrs,376,observed_extract; not_certified_complete
+Los Angeles,2024-04,la_legacy,938,observed_extract; not_certified_complete
+Los Angeles,2024-04,la_nibrs,874,observed_extract; not_certified_complete
+Los Angeles,2024-05,la_legacy,372,observed_extract; not_certified_complete
+Los Angeles,2024-05,la_nibrs,1587,observed_extract; not_certified_complete
+Los Angeles,2024-06,la_legacy,97,observed_extract; not_certified_complete
+Los Angeles,2024-06,la_nibrs,1792,observed_extract; not_certified_complete
+Los Angeles,2024-07,la_legacy,123,observed_extract; not_certified_complete
+Los Angeles,2024-07,la_nibrs,1758,observed_extract; not_certified_complete
+Los Angeles,2024-08,la_legacy,105,observed_extract; not_certified_complete
+Los Angeles,2024-08,la_nibrs,1729,observed_extract; not_certified_complete
+Los Angeles,2024-09,la_legacy,107,observed_extract; not_certified_complete
+Los Angeles,2024-09,la_nibrs,1635,observed_extract; not_certified_complete
+Los Angeles,2024-10,la_legacy,105,observed_extract; not_certified_complete
+Los Angeles,2024-10,la_nibrs,1799,observed_extract; not_certified_complete
+Los Angeles,2024-11,la_legacy,97,observed_extract; not_certified_complete
+Los Angeles,2024-11,la_nibrs,1701,observed_extract; not_certified_complete
+Los Angeles,2024-12,la_legacy,32,observed_extract; not_certified_complete
+Los Angeles,2024-12,la_nibrs,1924,observed_extract; not_certified_complete
+Los Angeles,2025-01,la_nibrs,1665,observed_extract; not_certified_complete
+Los Angeles,2025-02,la_nibrs,1720,observed_extract; not_certified_complete
+Los Angeles,2025-03,la_nibrs,1625,observed_extract; not_certified_complete
+Los Angeles,2025-04,la_nibrs,1570,observed_extract; not_certified_complete
+Los Angeles,2025-05,la_nibrs,1553,observed_extract; not_certified_complete
+Los Angeles,2025-06,la_nibrs,1423,observed_extract; not_certified_complete
+Los Angeles,2025-07,la_nibrs,1610,observed_extract; not_certified_complete
+Los Angeles,2025-08,la_nibrs,1482,observed_extract; not_certified_complete
+Los Angeles,2025-09,la_nibrs,1435,observed_extract; not_certified_complete
+Los Angeles,2025-10,la_nibrs,1548,observed_extract; not_certified_complete
+Los Angeles,2025-11,la_nibrs,1513,observed_extract; not_certified_complete
+Los Angeles,2025-12,la_nibrs,1505,observed_extract; not_certified_complete
+New York City,2022-01,nyc_inherited_restart5,2375,observed_extract; not_certified_complete
+New York City,2022-02,nyc_inherited_restart5,2449,observed_extract; not_certified_complete
+New York City,2022-03,nyc_inherited_restart5,2492,observed_extract; not_certified_complete
+New York City,2022-04,nyc_inherited_restart5,2450,observed_extract; not_certified_complete
+New York City,2022-05,nyc_inherited_restart5,2693,observed_extract; not_certified_complete
+New York City,2022-06,nyc_inherited_restart5,2767,observed_extract; not_certified_complete
+New York City,2022-07,nyc_inherited_restart5,3018,observed_extract; not_certified_complete
+New York City,2022-08,nyc_inherited_restart5,2920,observed_extract; not_certified_complete
+New York City,2022-09,nyc_inherited_restart5,2851,observed_extract; not_certified_complete
+New York City,2022-10,nyc_inherited_restart5,2804,observed_extract; not_certified_complete
+New York City,2022-11,nyc_inherited_restart5,2673,observed_extract; not_certified_complete
+New York City,2022-12,nyc_inherited_restart5,2487,observed_extract; not_certified_complete
+New York City,2023-01,nyc_inherited_restart5,2511,observed_extract; not_certified_complete
+New York City,2023-02,nyc_inherited_restart5,2169,observed_extract; not_certified_complete
+New York City,2023-03,nyc_inherited_restart5,2364,observed_extract; not_certified_complete
+New York City,2023-04,nyc_inherited_restart5,2257,observed_extract; not_certified_complete
+New York City,2023-05,nyc_inherited_restart5,2422,observed_extract; not_certified_complete
+New York City,2023-06,nyc_inherited_restart5,2402,observed_extract; not_certified_complete
+New York City,2023-07,nyc_inherited_restart5,2588,observed_extract; not_certified_complete
+New York City,2023-08,nyc_inherited_restart5,2617,observed_extract; not_certified_complete
+New York City,2023-09,nyc_inherited_restart5,2453,observed_extract; not_certified_complete
+New York City,2023-10,nyc_inherited_restart5,2645,observed_extract; not_certified_complete
+New York City,2023-11,nyc_inherited_restart5,2393,observed_extract; not_certified_complete
+New York City,2023-12,nyc_inherited_restart5,2583,observed_extract; not_certified_complete
+New York City,2024-01,nyc_inherited_restart5,2418,observed_extract; not_certified_complete
+New York City,2024-02,nyc_inherited_restart5,2167,observed_extract; not_certified_complete
+New York City,2024-03,nyc_inherited_restart5,2292,observed_extract; not_certified_complete
+New York City,2024-04,nyc_inherited_restart5,2280,observed_extract; not_certified_complete
+New York City,2024-05,nyc_inherited_restart5,2502,observed_extract; not_certified_complete
+New York City,2024-06,nyc_inherited_restart5,2378,observed_extract; not_certified_complete
+New York City,2024-07,nyc_inherited_restart5,2527,observed_extract; not_certified_complete
+New York City,2024-08,nyc_inherited_restart5,2589,observed_extract; not_certified_complete
+New York City,2024-09,nyc_inherited_restart5,2371,observed_extract; not_certified_complete
+New York City,2024-10,nyc_inherited_restart5,2488,observed_extract; not_certified_complete
+New York City,2024-11,nyc_inherited_restart5,2296,observed_extract; not_certified_complete
+New York City,2024-12,nyc_inherited_restart5,2141,observed_extract; not_certified_complete
+New York City,2025-01,nyc_inherited_restart5,2191,observed_extract; not_certified_complete
+New York City,2025-02,nyc_inherited_restart5,1848,observed_extract; not_certified_complete
+New York City,2025-03,nyc_inherited_restart5,2110,observed_extract; not_certified_complete
+New York City,2025-04,nyc_inherited_restart5,2154,observed_extract; not_certified_complete
+New York City,2025-05,nyc_inherited_restart5,2405,observed_extract; not_certified_complete
+New York City,2025-06,nyc_inherited_restart5,2268,observed_extract; not_certified_complete
+New York City,2025-07,nyc_inherited_restart5,2445,observed_extract; not_certified_complete
+New York City,2025-08,nyc_inherited_restart5,2384,observed_extract; not_certified_complete
+New York City,2025-09,nyc_inherited_restart5,2357,observed_extract; not_certified_complete
+New York City,2025-10,nyc_inherited_restart5,2380,observed_extract; not_certified_complete
+New York City,2025-11,nyc_inherited_restart5,2086,observed_extract; not_certified_complete
+New York City,2025-12,nyc_inherited_restart5,1983,observed_extract; not_certified_complete

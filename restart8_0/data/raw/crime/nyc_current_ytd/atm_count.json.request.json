@@ -1,0 +1,7 @@
+{
+  "url": "https://data.cityofnewyork.us/resource/5uac-w243.json?%24query=select+count%28%2A%29+as+n+where+%28upper%28prem_typ_desc%29+like+%27%25ATM%25%27+or+upper%28prem_typ_desc%29+like+%27%25TELLER%25%27%29",
+  "http_status": 200,
+  "bytes": 14,
+  "sha256": "572088a223d9c7c182dce510a80976d2b3e4b78082c2a5500aa51182429b9408",
+  "retrieved_utc": "2026-11-14T09:53:19+00:00"
+}

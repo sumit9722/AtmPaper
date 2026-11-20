@@ -1,0 +1,502 @@
+[{"yr":"1015","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1016","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1016","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"1025","value":"STREET","n":"2"}
+,{"yr":"1026","value":"STREET","n":"6"}
+,{"yr":"1926","value":"BANK","n":"1"}
+,{"yr":"1926","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"1926","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1945","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1966","value":"STREET","n":"1"}
+,{"yr":"1970","value":"RESIDENCE - APT. HOUSE","n":"3"}
+,{"yr":"1970","value":"STREET","n":"1"}
+,{"yr":"1972","value":"OTHER","n":"1"}
+,{"yr":"1972","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1976","value":"CHAIN STORE","n":"2"}
+,{"yr":"1976","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1976","value":"RESIDENCE - APT. HOUSE","n":"3"}
+,{"yr":"1976","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1980","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1983","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1984","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1985","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1986","value":"CHURCH","n":"1"}
+,{"yr":"1986","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1986","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1987","value":"RESIDENCE - APT. HOUSE","n":"3"}
+,{"yr":"1988","value":"STORE UNCLASSIFIED","n":"1"}
+,{"yr":"1990","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1991","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1991","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1992","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1993","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1993","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1994","value":"OTHER","n":"2"}
+,{"yr":"1994","value":"RESIDENCE - APT. HOUSE","n":"4"}
+,{"yr":"1994","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1994","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1995","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"1995","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"1995","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1995","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1996","value":"OTHER","n":"1"}
+,{"yr":"1996","value":"RESIDENCE - APT. HOUSE","n":"3"}
+,{"yr":"1996","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1997","value":"RESIDENCE - APT. HOUSE","n":"3"}
+,{"yr":"1997","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1998","value":"CHAIN STORE","n":"1"}
+,{"yr":"1998","value":"PARKING LOT/GARAGE (PUBLIC)","n":"1"}
+,{"yr":"1998","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1998","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1999","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"1999","value":"(null)","n":"2"}
+,{"yr":"1999","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1999","value":"RESIDENCE-HOUSE","n":"2"}
+,{"yr":"1999","value":"RESIDENCE - PUBLIC HOUSING","n":"3"}
+,{"yr":"2000","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"2000","value":"MULTI DWELL - APT BUILD","n":"1"}
+,{"yr":"2000","value":"RESIDENCE - APT. HOUSE","n":"6"}
+,{"yr":"2000","value":"RESIDENCE-HOUSE","n":"3"}
+,{"yr":"2000","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"2000","value":"STREET","n":"1"}
+,{"yr":"2001","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"2001","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"2001","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"2001","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"2002","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"2002","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"2002","value":"PUBLIC BUILDING","n":"1"}
+,{"yr":"2002","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"2002","value":"RESIDENCE-HOUSE","n":"2"}
+,{"yr":"2002","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"2002","value":"STREET","n":"1"}
+,{"yr":"2003","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"2003","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"2004","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"2004","value":"RESIDENCE-HOUSE","n":"4"}
+,{"yr":"2004","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"2005","value":"OTHER","n":"1"}
+,{"yr":"2005","value":"PUBLIC SCHOOL","n":"2"}
+,{"yr":"2005","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"2005","value":"RESIDENCE-HOUSE","n":"3"}
+,{"yr":"2006","value":"BUS (OTHER)","n":"1"}
+,{"yr":"2006","value":"CHAIN STORE","n":"3"}
+,{"yr":"2006","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"2006","value":"DEPARTMENT STORE","n":"2"}
+,{"yr":"2006","value":"DRUG STORE","n":"1"}
+,{"yr":"2006","value":"FAST FOOD","n":"1"}
+,{"yr":"2006","value":"HOSPITAL","n":"1"}
+,{"yr":"2006","value":"(null)","n":"1"}
+,{"yr":"2006","value":"OTHER","n":"1"}
+,{"yr":"2006","value":"RESIDENCE - APT. HOUSE","n":"14"}
+,{"yr":"2006","value":"RESIDENCE-HOUSE","n":"7"}
+,{"yr":"2006","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"2006","value":"STREET","n":"7"}
+,{"yr":"2006","value":"TRANSIT - NYC SUBWAY","n":"1"}
+,{"yr":"2007","value":"CHURCH","n":"1"}
+,{"yr":"2007","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"2007","value":"HOSPITAL","n":"1"}
+,{"yr":"2007","value":"OTHER","n":"1"}
+,{"yr":"2007","value":"RESIDENCE - APT. HOUSE","n":"5"}
+,{"yr":"2007","value":"RESIDENCE-HOUSE","n":"2"}
+,{"yr":"2007","value":"RESIDENCE - PUBLIC HOUSING","n":"3"}
+,{"yr":"2008","value":"CHURCH","n":"1"}
+,{"yr":"2008","value":"RESIDENCE - APT. HOUSE","n":"3"}
+,{"yr":"2008","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"2009","value":"RESIDENCE - APT. HOUSE","n":"4"}
+,{"yr":"2009","value":"RESIDENCE-HOUSE","n":"2"}
+,{"yr":"2009","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"2010","value":"RESIDENCE - APT. HOUSE","n":"4"}
+,{"yr":"2010","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"2010","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"2010","value":"STREET","n":"1"}
+,{"yr":"2011","value":"OTHER","n":"1"}
+,{"yr":"2011","value":"PRIVATE/PAROCHIAL SCHOOL","n":"1"}
+,{"yr":"2011","value":"RESIDENCE - APT. HOUSE","n":"13"}
+,{"yr":"2011","value":"RESIDENCE-HOUSE","n":"4"}
+,{"yr":"2011","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"2012","value":"DRUG STORE","n":"1"}
+,{"yr":"2012","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"2012","value":"OTHER","n":"2"}
+,{"yr":"2012","value":"RESIDENCE - APT. HOUSE","n":"8"}
+,{"yr":"2012","value":"RESIDENCE-HOUSE","n":"7"}
+,{"yr":"2012","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"2013","value":"OTHER","n":"2"}
+,{"yr":"2013","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"2013","value":"RESIDENCE - APT. HOUSE","n":"10"}
+,{"yr":"2013","value":"RESIDENCE-HOUSE","n":"4"}
+,{"yr":"2013","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"2013","value":"TRANSIT - NYC SUBWAY","n":"1"}
+,{"yr":"2014","value":"DOCTOR/DENTIST OFFICE","n":"1"}
+,{"yr":"2014","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"2014","value":"PUBLIC BUILDING","n":"2"}
+,{"yr":"2014","value":"RESIDENCE - APT. HOUSE","n":"13"}
+,{"yr":"2014","value":"RESIDENCE-HOUSE","n":"4"}
+,{"yr":"2014","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"2014","value":"SMALL MERCHANT","n":"1"}
+,{"yr":"2015","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"2015","value":"DOCTOR/DENTIST OFFICE","n":"1"}
+,{"yr":"2015","value":"DRUG STORE","n":"1"}
+,{"yr":"2015","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"2015","value":"HOSPITAL","n":"1"}
+,{"yr":"2015","value":"OTHER","n":"1"}
+,{"yr":"2015","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"2015","value":"RESIDENCE - APT. HOUSE","n":"14"}
+,{"yr":"2015","value":"RESIDENCE-HOUSE","n":"10"}
+,{"yr":"2015","value":"RESIDENCE - PUBLIC HOUSING","n":"6"}
+,{"yr":"2015","value":"STREET","n":"1"}
+,{"yr":"2016","value":"BANK","n":"2"}
+,{"yr":"2016","value":"BAR/NIGHT CLUB","n":"1"}
+,{"yr":"2016","value":"BUS STOP","n":"1"}
+,{"yr":"2016","value":"CHAIN STORE","n":"3"}
+,{"yr":"2016","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"2016","value":"DRUG STORE","n":"2"}
+,{"yr":"2016","value":"GAS STATION","n":"2"}
+,{"yr":"2016","value":"HOTEL/MOTEL","n":"2"}
+,{"yr":"2016","value":"OTHER","n":"3"}
+,{"yr":"2016","value":"PUBLIC SCHOOL","n":"3"}
+,{"yr":"2016","value":"RESIDENCE - APT. HOUSE","n":"38"}
+,{"yr":"2016","value":"RESIDENCE-HOUSE","n":"15"}
+,{"yr":"2016","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"2016","value":"RESTAURANT/DINER","n":"1"}
+,{"yr":"2016","value":"STREET","n":"18"}
+,{"yr":"2016","value":"TRANSIT - NYC SUBWAY","n":"1"}
+,{"yr":"2017","value":"BAR/NIGHT CLUB","n":"1"}
+,{"yr":"2017","value":"COMMERCIAL BUILDING","n":"5"}
+,{"yr":"2017","value":"DAYCARE FACILITY","n":"2"}
+,{"yr":"2017","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"2017","value":"HOSPITAL","n":"2"}
+,{"yr":"2017","value":"HOTEL/MOTEL","n":"2"}
+,{"yr":"2017","value":"PUBLIC BUILDING","n":"1"}
+,{"yr":"2017","value":"RESIDENCE - APT. HOUSE","n":"22"}
+,{"yr":"2017","value":"RESIDENCE-HOUSE","n":"11"}
+,{"yr":"2017","value":"RESIDENCE - PUBLIC HOUSING","n":"7"}
+,{"yr":"2017","value":"STORAGE FACILITY","n":"1"}
+,{"yr":"2018","value":"CHURCH","n":"1"}
+,{"yr":"2018","value":"COLLEGE/UNIVERSITY","n":"1"}
+,{"yr":"2018","value":"COMMERCIAL BUILDING","n":"2"}
+,{"yr":"2018","value":"HOSPITAL","n":"2"}
+,{"yr":"2018","value":"OTHER","n":"2"}
+,{"yr":"2018","value":"PUBLIC BUILDING","n":"1"}
+,{"yr":"2018","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"2018","value":"RESIDENCE - APT. HOUSE","n":"40"}
+,{"yr":"2018","value":"RESIDENCE-HOUSE","n":"9"}
+,{"yr":"2018","value":"RESIDENCE - PUBLIC HOUSING","n":"10"}
+,{"yr":"2018","value":"STREET","n":"1"}
+,{"yr":"2019","value":"COMMERCIAL BUILDING","n":"4"}
+,{"yr":"2019","value":"HOSPITAL","n":"2"}
+,{"yr":"2019","value":"(null)","n":"2"}
+,{"yr":"2019","value":"OTHER","n":"1"}
+,{"yr":"2019","value":"PUBLIC BUILDING","n":"1"}
+,{"yr":"2019","value":"RESIDENCE - APT. HOUSE","n":"42"}
+,{"yr":"2019","value":"RESIDENCE-HOUSE","n":"13"}
+,{"yr":"2019","value":"RESIDENCE - PUBLIC HOUSING","n":"6"}
+,{"yr":"2019","value":"STREET","n":"1"}
+,{"yr":"2020","value":"BAR/NIGHT CLUB","n":"1"}
+,{"yr":"2020","value":"CHAIN STORE","n":"1"}
+,{"yr":"2020","value":"CHECK CASHING BUSINESS","n":"2"}
+,{"yr":"2020","value":"COMMERCIAL BUILDING","n":"5"}
+,{"yr":"2020","value":"DOCTOR/DENTIST OFFICE","n":"1"}
+,{"yr":"2020","value":"DRUG STORE","n":"1"}
+,{"yr":"2020","value":"FAST FOOD","n":"2"}
+,{"yr":"2020","value":"FOOD SUPERMARKET","n":"1"}
+,{"yr":"2020","value":"GROCERY/BODEGA","n":"1"}
+,{"yr":"2020","value":"HOSPITAL","n":"1"}
+,{"yr":"2020","value":"(null)","n":"5"}
+,{"yr":"2020","value":"OTHER","n":"9"}
+,{"yr":"2020","value":"PUBLIC BUILDING","n":"1"}
+,{"yr":"2020","value":"PUBLIC SCHOOL","n":"2"}
+,{"yr":"2020","value":"RESIDENCE - APT. HOUSE","n":"55"}
+,{"yr":"2020","value":"RESIDENCE-HOUSE","n":"27"}
+,{"yr":"2020","value":"RESIDENCE - PUBLIC HOUSING","n":"9"}
+,{"yr":"2020","value":"STORAGE FACILITY","n":"1"}
+,{"yr":"2020","value":"STORE UNCLASSIFIED","n":"1"}
+,{"yr":"2020","value":"STREET","n":"6"}
+,{"yr":"2020","value":"TRANSIT FACILITY (OTHER)","n":"1"}
+,{"yr":"2020","value":"TRANSIT - NYC SUBWAY","n":"2"}
+,{"yr":"2021","value":"AIRPORT TERMINAL","n":"1"}
+,{"yr":"2021","value":"BAR/NIGHT CLUB","n":"1"}
+,{"yr":"2021","value":"CHAIN STORE","n":"2"}
+,{"yr":"2021","value":"COMMERCIAL BUILDING","n":"6"}
+,{"yr":"2021","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"2021","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"2021","value":"HOSPITAL","n":"2"}
+,{"yr":"2021","value":"HOTEL/MOTEL","n":"2"}
+,{"yr":"2021","value":"MAILBOX OUTSIDE","n":"1"}
+,{"yr":"2021","value":"(null)","n":"3"}
+,{"yr":"2021","value":"OTHER","n":"5"}
+,{"yr":"2021","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"2021","value":"PRIVATE/PAROCHIAL SCHOOL","n":"1"}
+,{"yr":"2021","value":"PUBLIC BUILDING","n":"2"}
+,{"yr":"2021","value":"PUBLIC SCHOOL","n":"2"}
+,{"yr":"2021","value":"REAL ESTATE","n":"1"}
+,{"yr":"2021","value":"RESIDENCE - APT. HOUSE","n":"77"}
+,{"yr":"2021","value":"RESIDENCE-HOUSE","n":"44"}
+,{"yr":"2021","value":"RESIDENCE - PUBLIC HOUSING","n":"11"}
+,{"yr":"2021","value":"RESTAURANT/DINER","n":"2"}
+,{"yr":"2021","value":"STREET","n":"11"}
+,{"yr":"2021","value":"TRANSIT - NYC SUBWAY","n":"1"}
+,{"yr":"2022","value":"BANK","n":"3"}
+,{"yr":"2022","value":"BAR/NIGHT CLUB","n":"1"}
+,{"yr":"2022","value":"CHAIN STORE","n":"3"}
+,{"yr":"2022","value":"COLLEGE/UNIVERSITY","n":"1"}
+,{"yr":"2022","value":"COMMERCIAL BUILDING","n":"11"}
+,{"yr":"2022","value":"DOCTOR/DENTIST OFFICE","n":"1"}
+,{"yr":"2022","value":"FAST FOOD","n":"1"}
+,{"yr":"2022","value":"GROCERY/BODEGA","n":"1"}
+,{"yr":"2022","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"2022","value":"HOSPITAL","n":"2"}
+,{"yr":"2022","value":"HOTEL/MOTEL","n":"3"}
+,{"yr":"2022","value":"JEWELRY","n":"1"}
+,{"yr":"2022","value":"MAILBOX OUTSIDE","n":"1"}
+,{"yr":"2022","value":"(null)","n":"4"}
+,{"yr":"2022","value":"OTHER","n":"10"}
+,{"yr":"2022","value":"PRIVATE/PAROCHIAL SCHOOL","n":"1"}
+,{"yr":"2022","value":"PUBLIC BUILDING","n":"6"}
+,{"yr":"2022","value":"PUBLIC SCHOOL","n":"5"}
+,{"yr":"2022","value":"RESIDENCE - APT. HOUSE","n":"99"}
+,{"yr":"2022","value":"RESIDENCE-HOUSE","n":"54"}
+,{"yr":"2022","value":"RESIDENCE - PUBLIC HOUSING","n":"12"}
+,{"yr":"2022","value":"RESTAURANT/DINER","n":"2"}
+,{"yr":"2022","value":"STREET","n":"16"}
+,{"yr":"2023","value":"BANK","n":"2"}
+,{"yr":"2023","value":"BEAUTY & NAIL SALON","n":"1"}
+,{"yr":"2023","value":"CHAIN STORE","n":"4"}
+,{"yr":"2023","value":"CHECK CASHING BUSINESS","n":"1"}
+,{"yr":"2023","value":"CHURCH","n":"1"}
+,{"yr":"2023","value":"COLLEGE/UNIVERSITY","n":"2"}
+,{"yr":"2023","value":"COMMERCIAL BUILDING","n":"13"}
+,{"yr":"2023","value":"DEPARTMENT STORE","n":"3"}
+,{"yr":"2023","value":"DOCTOR/DENTIST OFFICE","n":"4"}
+,{"yr":"2023","value":"DRUG STORE","n":"1"}
+,{"yr":"2023","value":"FACTORY/WAREHOUSE","n":"1"}
+,{"yr":"2023","value":"FAST FOOD","n":"1"}
+,{"yr":"2023","value":"FOOD SUPERMARKET","n":"2"}
+,{"yr":"2023","value":"GROCERY/BODEGA","n":"2"}
+,{"yr":"2023","value":"GYM/FITNESS FACILITY","n":"2"}
+,{"yr":"2023","value":"HOMELESS SHELTER","n":"6"}
+,{"yr":"2023","value":"HOSPITAL","n":"2"}
+,{"yr":"2023","value":"HOTEL/MOTEL","n":"6"}
+,{"yr":"2023","value":"JEWELRY","n":"1"}
+,{"yr":"2023","value":"MAILBOX INSIDE","n":"1"}
+,{"yr":"2023","value":"MAILBOX OUTSIDE","n":"2"}
+,{"yr":"2023","value":"(null)","n":"3"}
+,{"yr":"2023","value":"OPEN AREAS (OPEN LOTS)","n":"1"}
+,{"yr":"2023","value":"OTHER","n":"14"}
+,{"yr":"2023","value":"PARK/PLAYGROUND","n":"2"}
+,{"yr":"2023","value":"PUBLIC BUILDING","n":"3"}
+,{"yr":"2023","value":"PUBLIC SCHOOL","n":"6"}
+,{"yr":"2023","value":"REAL ESTATE","n":"2"}
+,{"yr":"2023","value":"RESIDENCE - APT. HOUSE","n":"176"}
+,{"yr":"2023","value":"RESIDENCE-HOUSE","n":"100"}
+,{"yr":"2023","value":"RESIDENCE - PUBLIC HOUSING","n":"30"}
+,{"yr":"2023","value":"RESTAURANT/DINER","n":"5"}
+,{"yr":"2023","value":"STREET","n":"52"}
+,{"yr":"2023","value":"TRANSIT FACILITY (OTHER)","n":"1"}
+,{"yr":"2023","value":"TRANSIT - NYC SUBWAY","n":"1"}
+,{"yr":"2024","value":"AIRPORT TERMINAL","n":"1"}
+,{"yr":"2024","value":"BANK","n":"7"}
+,{"yr":"2024","value":"BAR/NIGHT CLUB","n":"3"}
+,{"yr":"2024","value":"BEAUTY & NAIL SALON","n":"1"}
+,{"yr":"2024","value":"CHAIN STORE","n":"5"}
+,{"yr":"2024","value":"CHURCH","n":"3"}
+,{"yr":"2024","value":"CLOTHING/BOUTIQUE","n":"1"}
+,{"yr":"2024","value":"COLLEGE/UNIVERSITY","n":"2"}
+,{"yr":"2024","value":"COMMERCIAL BUILDING","n":"37"}
+,{"yr":"2024","value":"CONSTRUCTION SITE","n":"4"}
+,{"yr":"2024","value":"DAYCARE FACILITY","n":"1"}
+,{"yr":"2024","value":"DEPARTMENT STORE","n":"2"}
+,{"yr":"2024","value":"DOCTOR/DENTIST OFFICE","n":"5"}
+,{"yr":"2024","value":"DRUG STORE","n":"2"}
+,{"yr":"2024","value":"FOOD SUPERMARKET","n":"2"}
+,{"yr":"2024","value":"GROCERY/BODEGA","n":"5"}
+,{"yr":"2024","value":"GYM/FITNESS FACILITY","n":"2"}
+,{"yr":"2024","value":"HIGHWAY/PARKWAY","n":"2"}
+,{"yr":"2024","value":"HOMELESS SHELTER","n":"12"}
+,{"yr":"2024","value":"HOSPITAL","n":"5"}
+,{"yr":"2024","value":"HOTEL/MOTEL","n":"4"}
+,{"yr":"2024","value":"MAILBOX INSIDE","n":"4"}
+,{"yr":"2024","value":"MAILBOX OUTSIDE","n":"10"}
+,{"yr":"2024","value":"(null)","n":"8"}
+,{"yr":"2024","value":"OPEN AREAS (OPEN LOTS)","n":"1"}
+,{"yr":"2024","value":"OTHER","n":"21"}
+,{"yr":"2024","value":"PARKING LOT/GARAGE (PRIVATE)","n":"2"}
+,{"yr":"2024","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2"}
+,{"yr":"2024","value":"PARK/PLAYGROUND","n":"2"}
+,{"yr":"2024","value":"PRIVATE/PAROCHIAL SCHOOL","n":"2"}
+,{"yr":"2024","value":"PUBLIC BUILDING","n":"12"}
+,{"yr":"2024","value":"PUBLIC SCHOOL","n":"7"}
+,{"yr":"2024","value":"REAL ESTATE","n":"2"}
+,{"yr":"2024","value":"RESIDENCE - APT. HOUSE","n":"364"}
+,{"yr":"2024","value":"RESIDENCE-HOUSE","n":"175"}
+,{"yr":"2024","value":"RESIDENCE - PUBLIC HOUSING","n":"48"}
+,{"yr":"2024","value":"RESTAURANT/DINER","n":"7"}
+,{"yr":"2024","value":"SMALL MERCHANT","n":"3"}
+,{"yr":"2024","value":"SMOKE SHOP","n":"1"}
+,{"yr":"2024","value":"STORAGE FACILITY","n":"3"}
+,{"yr":"2024","value":"STORE UNCLASSIFIED","n":"2"}
+,{"yr":"2024","value":"STREET","n":"74"}
+,{"yr":"2024","value":"SYNAGOGUE","n":"1"}
+,{"yr":"2024","value":"TELECOMM. STORE","n":"2"}
+,{"yr":"2024","value":"TRANSIT FACILITY (OTHER)","n":"2"}
+,{"yr":"2024","value":"TRANSIT - NYC SUBWAY","n":"5"}
+,{"yr":"2025","value":"ABANDONED BUILDING","n":"2"}
+,{"yr":"2025","value":"AIRPORT TERMINAL","n":"25"}
+,{"yr":"2025","value":"ATM","n":"14"}
+,{"yr":"2025","value":"BANK","n":"76"}
+,{"yr":"2025","value":"BAR/NIGHT CLUB","n":"49"}
+,{"yr":"2025","value":"BEAUTY & NAIL SALON","n":"14"}
+,{"yr":"2025","value":"BRIDGE","n":"2"}
+,{"yr":"2025","value":"BUS (NYC TRANSIT)","n":"7"}
+,{"yr":"2025","value":"BUS (OTHER)","n":"5"}
+,{"yr":"2025","value":"BUS STOP","n":"5"}
+,{"yr":"2025","value":"BUS TERMINAL","n":"1"}
+,{"yr":"2025","value":"CANDY STORE","n":"2"}
+,{"yr":"2025","value":"CEMETERY","n":"1"}
+,{"yr":"2025","value":"CHAIN STORE","n":"285"}
+,{"yr":"2025","value":"CHECK CASHING BUSINESS","n":"17"}
+,{"yr":"2025","value":"CHURCH","n":"10"}
+,{"yr":"2025","value":"CLOTHING/BOUTIQUE","n":"47"}
+,{"yr":"2025","value":"COLLEGE/UNIVERSITY","n":"18"}
+,{"yr":"2025","value":"COMMERCIAL BUILDING","n":"254"}
+,{"yr":"2025","value":"CONSTRUCTION SITE","n":"8"}
+,{"yr":"2025","value":"DAYCARE FACILITY","n":"3"}
+,{"yr":"2025","value":"DEPARTMENT STORE","n":"113"}
+,{"yr":"2025","value":"DOCTOR/DENTIST OFFICE","n":"24"}
+,{"yr":"2025","value":"DRUG STORE","n":"20"}
+,{"yr":"2025","value":"DRY CLEANER/LAUNDRY","n":"8"}
+,{"yr":"2025","value":"FACTORY/WAREHOUSE","n":"6"}
+,{"yr":"2025","value":"FAST FOOD","n":"12"}
+,{"yr":"2025","value":"FERRY/FERRY TERMINAL","n":"1"}
+,{"yr":"2025","value":"FOOD SUPERMARKET","n":"12"}
+,{"yr":"2025","value":"GAS STATION","n":"9"}
+,{"yr":"2025","value":"GROCERY/BODEGA","n":"48"}
+,{"yr":"2025","value":"GYM/FITNESS FACILITY","n":"17"}
+,{"yr":"2025","value":"HIGHWAY/PARKWAY","n":"11"}
+,{"yr":"2025","value":"HOMELESS SHELTER","n":"91"}
+,{"yr":"2025","value":"HOSPITAL","n":"44"}
+,{"yr":"2025","value":"HOTEL/MOTEL","n":"44"}
+,{"yr":"2025","value":"JEWELRY","n":"7"}
+,{"yr":"2025","value":"LIQUOR STORE","n":"7"}
+,{"yr":"2025","value":"LOAN COMPANY","n":"1"}
+,{"yr":"2025","value":"MAILBOX INSIDE","n":"26"}
+,{"yr":"2025","value":"MAILBOX OUTSIDE","n":"105"}
+,{"yr":"2025","value":"MARINA/PIER","n":"1"}
+,{"yr":"2025","value":"MOBILE FOOD","n":"2"}
+,{"yr":"2025","value":"MOSQUE","n":"1"}
+,{"yr":"2025","value":"MULTI DWELL - APT BUILD","n":"4"}
+,{"yr":"2025","value":"MULTI DWELL - PUBLIC HOUS","n":"1"}
+,{"yr":"2025","value":"(null)","n":"80"}
+,{"yr":"2025","value":"OPEN AREAS (OPEN LOTS)","n":"3"}
+,{"yr":"2025","value":"OTHER","n":"187"}
+,{"yr":"2025","value":"OTHER HOUSE OF WORSHIP","n":"2"}
+,{"yr":"2025","value":"PARKING LOT/GARAGE (PRIVATE)","n":"31"}
+,{"yr":"2025","value":"PARKING LOT/GARAGE (PUBLIC)","n":"30"}
+,{"yr":"2025","value":"PARK/PLAYGROUND","n":"44"}
+,{"yr":"2025","value":"PRIVATE/PAROCHIAL SCHOOL","n":"13"}
+,{"yr":"2025","value":"PUBLIC BUILDING","n":"73"}
+,{"yr":"2025","value":"PUBLIC SCHOOL","n":"70"}
+,{"yr":"2025","value":"REAL ESTATE","n":"5"}
+,{"yr":"2025","value":"RESIDENCE - APT. HOUSE","n":"3056"}
+,{"yr":"2025","value":"RESIDENCE-HOUSE","n":"1441"}
+,{"yr":"2025","value":"RESIDENCE - PUBLIC HOUSING","n":"442"}
+,{"yr":"2025","value":"RESTAURANT/DINER","n":"49"}
+,{"yr":"2025","value":"SHOE","n":"1"}
+,{"yr":"2025","value":"SMALL MERCHANT","n":"28"}
+,{"yr":"2025","value":"SMOKE SHOP","n":"1"}
+,{"yr":"2025","value":"SOCIAL CLUB/POLICY","n":"4"}
+,{"yr":"2025","value":"STORAGE FACILITY","n":"31"}
+,{"yr":"2025","value":"STORE UNCLASSIFIED","n":"24"}
+,{"yr":"2025","value":"STREET","n":"1244"}
+,{"yr":"2025","value":"SYNAGOGUE","n":"2"}
+,{"yr":"2025","value":"TAXI (LIVERY LICENSED)","n":"1"}
+,{"yr":"2025","value":"TAXI/LIVERY (UNLICENSED)","n":"1"}
+,{"yr":"2025","value":"TAXI (YELLOW LICENSED)","n":"1"}
+,{"yr":"2025","value":"TELECOMM. STORE","n":"1"}
+,{"yr":"2025","value":"TRANSIT FACILITY (OTHER)","n":"12"}
+,{"yr":"2025","value":"TRANSIT - NYC SUBWAY","n":"131"}
+,{"yr":"2025","value":"TUNNEL","n":"1"}
+,{"yr":"2025","value":"VARIETY STORE","n":"1"}
+,{"yr":"2025","value":"VIDEO STORE","n":"1"}
+,{"yr":"2026","value":"ABANDONED BUILDING","n":"75"}
+,{"yr":"2026","value":"AIRPORT TERMINAL","n":"1332"}
+,{"yr":"2026","value":"ATM","n":"147"}
+,{"yr":"2026","value":"BANK","n":"1210"}
+,{"yr":"2026","value":"BAR/NIGHT CLUB","n":"3292"}
+,{"yr":"2026","value":"BEAUTY & NAIL SALON","n":"846"}
+,{"yr":"2026","value":"BOOK/CARD","n":"90"}
+,{"yr":"2026","value":"BRIDGE","n":"375"}
+,{"yr":"2026","value":"BUS (NYC TRANSIT)","n":"910"}
+,{"yr":"2026","value":"BUS (OTHER)","n":"206"}
+,{"yr":"2026","value":"BUS STOP","n":"360"}
+,{"yr":"2026","value":"BUS TERMINAL","n":"343"}
+,{"yr":"2026","value":"CANDY STORE","n":"378"}
+,{"yr":"2026","value":"CEMETERY","n":"23"}
+,{"yr":"2026","value":"CHAIN STORE","n":"19980"}
+,{"yr":"2026","value":"CHECK CASHING BUSINESS","n":"211"}
+,{"yr":"2026","value":"CHURCH","n":"469"}
+,{"yr":"2026","value":"CLOTHING/BOUTIQUE","n":"3145"}
+,{"yr":"2026","value":"COLLEGE/UNIVERSITY","n":"434"}
+,{"yr":"2026","value":"COMMERCIAL BUILDING","n":"6942"}
+,{"yr":"2026","value":"CONSTRUCTION SITE","n":"505"}
+,{"yr":"2026","value":"DAYCARE FACILITY","n":"137"}
+,{"yr":"2026","value":"DEPARTMENT STORE","n":"6976"}
+,{"yr":"2026","value":"DOCTOR/DENTIST OFFICE","n":"672"}
+,{"yr":"2026","value":"DRUG STORE","n":"4887"}
+,{"yr":"2026","value":"DRY CLEANER/LAUNDRY","n":"660"}
+,{"yr":"2026","value":"FACTORY/WAREHOUSE","n":"182"}
+,{"yr":"2026","value":"FAST FOOD","n":"2286"}
+,{"yr":"2026","value":"FERRY/FERRY TERMINAL","n":"102"}
+,{"yr":"2026","value":"FOOD SUPERMARKET","n":"1805"}
+,{"yr":"2026","value":"GAS STATION","n":"1011"}
+,{"yr":"2026","value":"GROCERY/BODEGA","n":"5928"}
+,{"yr":"2026","value":"GYM/FITNESS FACILITY","n":"1070"}
+,{"yr":"2026","value":"HIGHWAY/PARKWAY","n":"1166"}
+,{"yr":"2026","value":"HOMELESS SHELTER","n":"7114"}
+,{"yr":"2026","value":"HOSPITAL","n":"1713"}
+,{"yr":"2026","value":"HOTEL/MOTEL","n":"1689"}
+,{"yr":"2026","value":"JEWELRY","n":"154"}
+,{"yr":"2026","value":"LIQUOR STORE","n":"426"}
+,{"yr":"2026","value":"LOAN COMPANY","n":"18"}
+,{"yr":"2026","value":"MAILBOX INSIDE","n":"155"}
+,{"yr":"2026","value":"MAILBOX OUTSIDE","n":"587"}
+,{"yr":"2026","value":"MARINA/PIER","n":"158"}
+,{"yr":"2026","value":"MOBILE FOOD","n":"112"}
+,{"yr":"2026","value":"MOSQUE","n":"79"}
+,{"yr":"2026","value":"MULTI DWELL - APT BUILD","n":"40"}
+,{"yr":"2026","value":"MULTI DWELL - PUBLIC HOUS","n":"14"}
+,{"yr":"2026","value":"(null)","n":"1726"}
+,{"yr":"2026","value":"OPEN AREAS (OPEN LOTS)","n":"420"}
+,{"yr":"2026","value":"OTHER","n":"7746"}
+,{"yr":"2026","value":"OTHER HOUSE OF WORSHIP","n":"32"}
+,{"yr":"2026","value":"PARKING LOT/GARAGE (PRIVATE)","n":"1208"}
+,{"yr":"2026","value":"PARKING LOT/GARAGE (PUBLIC)","n":"1531"}
+,{"yr":"2026","value":"PARK/PLAYGROUND","n":"3826"}
+,{"yr":"2026","value":"PHOTO/COPY","n":"34"}
+,{"yr":"2026","value":"PRIVATE/PAROCHIAL SCHOOL","n":"271"}
+,{"yr":"2026","value":"PUBLIC BUILDING","n":"1327"}
+,{"yr":"2026","value":"PUBLIC SCHOOL","n":"1981"}
+,{"yr":"2026","value":"PVT HOUSE","n":"5"}
+,{"yr":"2026","value":"REAL ESTATE","n":"47"}
+,{"yr":"2026","value":"RESIDENCE - APT. HOUSE","n":"92705"}
+,{"yr":"2026","value":"RESIDENCE-HOUSE","n":"35964"}
+,{"yr":"2026","value":"RESIDENCE - PUBLIC HOUSING","n":"27094"}
+,{"yr":"2026","value":"RESTAURANT/DINER","n":"3082"}
+,{"yr":"2026","value":"SHOE","n":"169"}
+,{"yr":"2026","value":"SMALL MERCHANT","n":"911"}
+,{"yr":"2026","value":"SMOKE SHOP","n":"270"}
+,{"yr":"2026","value":"SOCIAL CLUB/POLICY","n":"170"}
+,{"yr":"2026","value":"STORAGE FACILITY","n":"313"}
+,{"yr":"2026","value":"STORE UNCLASSIFIED","n":"833"}
+,{"yr":"2026","value":"STREET","n":"127053"}
+,{"yr":"2026","value":"SYNAGOGUE","n":"151"}
+,{"yr":"2026","value":"TAXI (LIVERY LICENSED)","n":"171"}
+,{"yr":"2026","value":"TAXI/LIVERY (UNLICENSED)","n":"39"}
+,{"yr":"2026","value":"TAXI (YELLOW LICENSED)","n":"107"}
+,{"yr":"2026","value":"TELECOMM. STORE","n":"217"}
+,{"yr":"2026","value":"TRAMWAY","n":"40"}
+,{"yr":"2026","value":"TRANSIT FACILITY (OTHER)","n":"1570"}
+,{"yr":"2026","value":"TRANSIT - NYC SUBWAY","n":"24236"}
+,{"yr":"2026","value":"TUNNEL","n":"87"}
+,{"yr":"2026","value":"VARIETY STORE","n":"296"}
+,{"yr":"2026","value":"VIDEO STORE","n":"27"}]

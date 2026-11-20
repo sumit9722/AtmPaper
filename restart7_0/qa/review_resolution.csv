@@ -1,0 +1,9 @@
+review_item,action,status,evidence
+Environmental gain versus weak baseline,Fixed prior-local-50m + prior-annulus baseline; 19 environment extension; direct-lag benchmark committed,IMPLEMENTED_PHASE1_3; predictive_test_not_run,results/phase3/data/feature_schema.json
+Spatial precision and bank centroids,"Core excludes nonpoints, >10m drift, close objects and truncated annuli; physical-distance claim removed",MITIGATED_NOT_VALIDATED; precise_incident_and_ATM_positions_unavailable,qa/cohort_eligibility.csv
+Missing Chicago original report dates,Common retrospective occurrence-year regime in every city; separate NYC/LA report-filtered matrix,RETROSPECTIVE_DESIGN_IMPLEMENTED; historical_availability_not_reconstructed,results/phase3/data/features_baseline_core_2024_2025.csv
+Vehicle burglary mismatch,Excluded NYC 231/233/234 and Chicago 0760 from outcomes and all lags; preserved excluded cases,IMPLEMENTED; remaining_codebook_review_pending,qa/crime_conservation.csv
+Transfer selector fallback,Freeze identical two-feature baseline in all future local/source models; no selection removes local crime,FUTURE_MODEL_PROTOCOL_FIXED; no_transfer_models_fitted,protocol/study_spec.md
+Feature redundancy and city proxies,Removed 6 verified aliases and 3 metropolitan totals from expanded predictors; mapped competition moved to sensitivity,IMPLEMENTED; other_correlations_require_training_only_handling,qa/environment_column_decisions.csv
+Repeated units and unresolved identity,"Publish stable object/component/geography groups, paired-year counts and pending review queues",GROUPING_IMPLEMENTED; physical_identity_review_pending,qa/repeated_units.csv
+Previously inspected years and different older studies,Declare retrospective exploratory status; no older model performance carried forward,DISCLOSED; untouched_holdout_unavailable,protocol/study_spec.md

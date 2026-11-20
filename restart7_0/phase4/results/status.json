@@ -1,0 +1,16 @@
+{
+  "status": "COMPUTATIONALLY_COMPLETE",
+  "scope": "exploratory_retrospective_coordinate_benchmark",
+  "numerical_continuation_gate": false,
+  "primary_ap_gain": -0.008768051800028376,
+  "primary_ap_gain_ci": [
+    -0.02863317642623361,
+    0.01245367719930419
+  ],
+  "models_fitted": 92,
+  "skipped_scenarios": [],
+  "scientific_review": "PENDING",
+  "confirmatory_eligible": false,
+  "phase5_started": false,
+  "next_action": "stop_environmental_model_expansion; report_negative_or_inconclusive_result"
+}

@@ -1,0 +1,7 @@
+subset,city,site_years,unique_osm_objects,objects_in_both_years,unique_epa_block_groups,independent_sample_size
+full_year_2024_2025,New York City,1452,769,683,511,not_established; site_years_and_geographies_are_repeated
+full_year_2024_2025,Chicago,925,499,426,336,not_established; site_years_and_geographies_are_repeated
+full_year_2024_2025,Los Angeles,354,186,168,109,not_established; site_years_and_geographies_are_repeated
+core_2024_2025,New York City,1168,624,544,440,not_established; site_years_and_geographies_are_repeated
+core_2024_2025,Chicago,402,222,180,149,not_established; site_years_and_geographies_are_repeated
+core_2024_2025,Los Angeles,220,116,104,75,not_established; site_years_and_geographies_are_repeated

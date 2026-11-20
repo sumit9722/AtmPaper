@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "checks": {
+    "base_consumed_artifacts_unchanged": "PASS",
+    "unchanged_membership_geometry_and_exposure": "PASS",
+    "native_offense_filter_and_case_conservation": "PASS",
+    "independent_core_membership_rules": "PASS",
+    "complete_cached_link_reuse_and_annual_count_replay": "PASS",
+    "nearest_assignment_recomputed_for_every_subset": "PASS",
+    "monthly_counts_exposure_and_annual_reconciliation": "PASS",
+    "corrected_prior_counts_cutoffs_and_chicago_missingness": "PASS",
+    "source_description_conflict_sensitivity_baselines": "PASS",
+    "independent_geodesic_omission_check_18_sites": "PASS",
+    "fixed_baseline_environment_inheritance_allowlists_and_label_alignment": "PASS",
+    "human_review_status_and_claim_limits_preserved": "PASS"
+  },
+  "master_full_year_rows": 2731,
+  "core_rows": 1790,
+  "partial_2023_rows": 1287,
+  "retained_cases": 269202,
+  "excluded_vehicle_cases": 9192,
+  "retained_event_links": 238437,
+  "monthly_rows": 46929,
+  "independent_distance_sites": 18,
+  "scientific_review": "PENDING",
+  "models_fitted": false,
+  "confirmatory_eligible": false
+}

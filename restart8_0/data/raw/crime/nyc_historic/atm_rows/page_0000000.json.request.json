@@ -1,0 +1,7 @@
+{
+  "url": "https://data.cityofnewyork.us/resource/qgea-i56i.json?%24query=select+%3A%2A%2C+%2A+where+%28upper%28prem_typ_desc%29+like+%27%25ATM%25%27+or+upper%28prem_typ_desc%29+like+%27%25TELLER%25%27%29+order+by+%3Aid+limit+50000+offset+0",
+  "http_status": 200,
+  "bytes": 9184352,
+  "sha256": "d5ab75bfa3258dd7d0d942483b3dcde37c2502f1601f75b0a516700ca79e2dd7",
+  "retrieved_utc": "2026-11-14T09:52:17+00:00"
+}

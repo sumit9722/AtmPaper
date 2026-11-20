@@ -1,0 +1,13 @@
+city,year,base_cases,retained_cases,excluded_vehicle_cases
+New York City,2022,33251,31979,1272
+New York City,2023,30670,29404,1266
+New York City,2024,29602,28449,1153
+New York City,2025,27843,26611,1232
+Chicago,2022,16465,16465,0
+Chicago,2023,18445,18444,1
+Chicago,2024,17438,16665,773
+Chicago,2025,15370,11875,3495
+Los Angeles,2022,23963,23963,0
+Los Angeles,2023,23920,23920,0
+Los Angeles,2024,22778,22778,0
+Los Angeles,2025,18649,18649,0

@@ -1,0 +1,7 @@
+{
+  "url": "https://data.cityofchicago.org/resource/ijzp-q8t2.json?%24query=select+year+as+yr%2C+primary_type+as+value%2C+count%28%2A%29+as+n+group+by+yr%2C+value+order+by+yr%2C+value+limit+50000",
+  "http_status": 200,
+  "bytes": 40993,
+  "sha256": "162ddd30f7228c0d8de61feddb91c9ad2b7bbb4bba690b4cefc53eadd682fcfe",
+  "retrieved_utc": "2026-11-14T09:54:42+00:00"
+}

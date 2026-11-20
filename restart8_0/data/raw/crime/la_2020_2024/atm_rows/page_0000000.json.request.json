@@ -1,0 +1,7 @@
+{
+  "url": "https://data.lacity.org/resource/2nrs-mtv8.json?%24query=select+%3A%2A%2C+%2A+where+%28upper%28premis_desc%29+like+%27%25ATM%25%27+or+upper%28premis_desc%29+like+%27%25TELLER%25%27%29+order+by+%3Aid+limit+50000+offset+0",
+  "http_status": 200,
+  "bytes": 1641803,
+  "sha256": "569e64a8f051b108906bc203ea2a4f22df45761b4fb3522f7ea93976ce9f2367",
+  "retrieved_utc": "2026-11-14T09:55:04+00:00"
+}

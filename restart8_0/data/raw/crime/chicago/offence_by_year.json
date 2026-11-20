@@ -1,0 +1,805 @@
+[{"yr":"2001","value":"ARSON","n":"1011"}
+,{"yr":"2001","value":"ASSAULT","n":"31392"}
+,{"yr":"2001","value":"BATTERY","n":"93472"}
+,{"yr":"2001","value":"BURGLARY","n":"26016"}
+,{"yr":"2001","value":"CONCEALED CARRY LICENSE VIOLATION","n":"1"}
+,{"yr":"2001","value":"CRIMINAL DAMAGE","n":"55868"}
+,{"yr":"2001","value":"CRIMINAL SEXUAL ASSAULT","n":"52"}
+,{"yr":"2001","value":"CRIMINAL TRESPASS","n":"13242"}
+,{"yr":"2001","value":"CRIM SEXUAL ASSAULT","n":"1767"}
+,{"yr":"2001","value":"DECEPTIVE PRACTICE","n":"14962"}
+,{"yr":"2001","value":"DOMESTIC VIOLENCE","n":"1"}
+,{"yr":"2001","value":"GAMBLING","n":"934"}
+,{"yr":"2001","value":"HOMICIDE","n":"667"}
+,{"yr":"2001","value":"HUMAN TRAFFICKING","n":"1"}
+,{"yr":"2001","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"406"}
+,{"yr":"2001","value":"INTIMIDATION","n":"280"}
+,{"yr":"2001","value":"KIDNAPPING","n":"933"}
+,{"yr":"2001","value":"LIQUOR LAW VIOLATION","n":"1637"}
+,{"yr":"2001","value":"MOTOR VEHICLE THEFT","n":"27557"}
+,{"yr":"2001","value":"NARCOTICS","n":"50568"}
+,{"yr":"2001","value":"OBSCENITY","n":"19"}
+,{"yr":"2001","value":"OFFENSE INVOLVING CHILDREN","n":"2269"}
+,{"yr":"2001","value":"OTHER NARCOTIC VIOLATION","n":"6"}
+,{"yr":"2001","value":"OTHER OFFENSE","n":"29672"}
+,{"yr":"2001","value":"PROSTITUTION","n":"6026"}
+,{"yr":"2001","value":"PUBLIC INDECENCY","n":"9"}
+,{"yr":"2001","value":"PUBLIC PEACE VIOLATION","n":"2750"}
+,{"yr":"2001","value":"RITUALISM","n":"8"}
+,{"yr":"2001","value":"ROBBERY","n":"18441"}
+,{"yr":"2001","value":"SEX OFFENSE","n":"2239"}
+,{"yr":"2001","value":"STALKING","n":"204"}
+,{"yr":"2001","value":"THEFT","n":"99292"}
+,{"yr":"2001","value":"WEAPONS VIOLATION","n":"4278"}
+,{"yr":"2002","value":"ARSON","n":"1032"}
+,{"yr":"2002","value":"ASSAULT","n":"31524"}
+,{"yr":"2002","value":"BATTERY","n":"94154"}
+,{"yr":"2002","value":"BURGLARY","n":"25623"}
+,{"yr":"2002","value":"CRIMINAL DAMAGE","n":"55942"}
+,{"yr":"2002","value":"CRIMINAL SEXUAL ASSAULT","n":"50"}
+,{"yr":"2002","value":"CRIMINAL TRESPASS","n":"13881"}
+,{"yr":"2002","value":"CRIM SEXUAL ASSAULT","n":"1791"}
+,{"yr":"2002","value":"DECEPTIVE PRACTICE","n":"13742"}
+,{"yr":"2002","value":"GAMBLING","n":"971"}
+,{"yr":"2002","value":"HOMICIDE","n":"658"}
+,{"yr":"2002","value":"HUMAN TRAFFICKING","n":"1"}
+,{"yr":"2002","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"361"}
+,{"yr":"2002","value":"INTIMIDATION","n":"337"}
+,{"yr":"2002","value":"KIDNAPPING","n":"829"}
+,{"yr":"2002","value":"LIQUOR LAW VIOLATION","n":"1414"}
+,{"yr":"2002","value":"MOTOR VEHICLE THEFT","n":"25121"}
+,{"yr":"2002","value":"NARCOTICS","n":"51789"}
+,{"yr":"2002","value":"OBSCENITY","n":"26"}
+,{"yr":"2002","value":"OFFENSE INVOLVING CHILDREN","n":"2601"}
+,{"yr":"2002","value":"OTHER NARCOTIC VIOLATION","n":"5"}
+,{"yr":"2002","value":"OTHER OFFENSE","n":"32603"}
+,{"yr":"2002","value":"PROSTITUTION","n":"6408"}
+,{"yr":"2002","value":"PUBLIC INDECENCY","n":"8"}
+,{"yr":"2002","value":"PUBLIC PEACE VIOLATION","n":"2457"}
+,{"yr":"2002","value":"RITUALISM","n":"2"}
+,{"yr":"2002","value":"ROBBERY","n":"18523"}
+,{"yr":"2002","value":"SEX OFFENSE","n":"2173"}
+,{"yr":"2002","value":"STALKING","n":"200"}
+,{"yr":"2002","value":"THEFT","n":"98335"}
+,{"yr":"2002","value":"WEAPONS VIOLATION","n":"4282"}
+,{"yr":"2003","value":"ARSON","n":"955"}
+,{"yr":"2003","value":"ASSAULT","n":"29477"}
+,{"yr":"2003","value":"BATTERY","n":"88380"}
+,{"yr":"2003","value":"BURGLARY","n":"25157"}
+,{"yr":"2003","value":"CRIMINAL DAMAGE","n":"55011"}
+,{"yr":"2003","value":"CRIMINAL SEXUAL ASSAULT","n":"64"}
+,{"yr":"2003","value":"CRIMINAL TRESPASS","n":"14807"}
+,{"yr":"2003","value":"CRIM SEXUAL ASSAULT","n":"1560"}
+,{"yr":"2003","value":"DECEPTIVE PRACTICE","n":"13465"}
+,{"yr":"2003","value":"GAMBLING","n":"1088"}
+,{"yr":"2003","value":"HOMICIDE","n":"604"}
+,{"yr":"2003","value":"HUMAN TRAFFICKING","n":"1"}
+,{"yr":"2003","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"410"}
+,{"yr":"2003","value":"INTIMIDATION","n":"364"}
+,{"yr":"2003","value":"KIDNAPPING","n":"705"}
+,{"yr":"2003","value":"LIQUOR LAW VIOLATION","n":"1311"}
+,{"yr":"2003","value":"MOTOR VEHICLE THEFT","n":"22749"}
+,{"yr":"2003","value":"NARCOTICS","n":"54288"}
+,{"yr":"2003","value":"OBSCENITY","n":"16"}
+,{"yr":"2003","value":"OFFENSE INVOLVING CHILDREN","n":"3051"}
+,{"yr":"2003","value":"OTHER NARCOTIC VIOLATION","n":"2"}
+,{"yr":"2003","value":"OTHER OFFENSE","n":"31149"}
+,{"yr":"2003","value":"PROSTITUTION","n":"6214"}
+,{"yr":"2003","value":"PUBLIC INDECENCY","n":"6"}
+,{"yr":"2003","value":"PUBLIC PEACE VIOLATION","n":"2430"}
+,{"yr":"2003","value":"RITUALISM","n":"2"}
+,{"yr":"2003","value":"ROBBERY","n":"17332"}
+,{"yr":"2003","value":"SEX OFFENSE","n":"2082"}
+,{"yr":"2003","value":"STALKING","n":"247"}
+,{"yr":"2003","value":"THEFT","n":"98876"}
+,{"yr":"2003","value":"WEAPONS VIOLATION","n":"4211"}
+,{"yr":"2004","value":"ARSON","n":"778"}
+,{"yr":"2004","value":"ASSAULT","n":"28850"}
+,{"yr":"2004","value":"BATTERY","n":"87134"}
+,{"yr":"2004","value":"BURGLARY","n":"24564"}
+,{"yr":"2004","value":"CRIMINAL DAMAGE","n":"53164"}
+,{"yr":"2004","value":"CRIMINAL SEXUAL ASSAULT","n":"64"}
+,{"yr":"2004","value":"CRIMINAL TRESPASS","n":"15913"}
+,{"yr":"2004","value":"CRIM SEXUAL ASSAULT","n":"1522"}
+,{"yr":"2004","value":"DECEPTIVE PRACTICE","n":"13264"}
+,{"yr":"2004","value":"GAMBLING","n":"1122"}
+,{"yr":"2004","value":"HOMICIDE","n":"455"}
+,{"yr":"2004","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"531"}
+,{"yr":"2004","value":"INTIMIDATION","n":"349"}
+,{"yr":"2004","value":"KIDNAPPING","n":"482"}
+,{"yr":"2004","value":"LIQUOR LAW VIOLATION","n":"985"}
+,{"yr":"2004","value":"MOTOR VEHICLE THEFT","n":"22805"}
+,{"yr":"2004","value":"NARCOTICS","n":"57060"}
+,{"yr":"2004","value":"OBSCENITY","n":"13"}
+,{"yr":"2004","value":"OFFENSE INVOLVING CHILDREN","n":"3110"}
+,{"yr":"2004","value":"OTHER NARCOTIC VIOLATION","n":"9"}
+,{"yr":"2004","value":"OTHER OFFENSE","n":"29533"}
+,{"yr":"2004","value":"PROSTITUTION","n":"7476"}
+,{"yr":"2004","value":"PUBLIC INDECENCY","n":"9"}
+,{"yr":"2004","value":"PUBLIC PEACE VIOLATION","n":"2495"}
+,{"yr":"2004","value":"RITUALISM","n":"1"}
+,{"yr":"2004","value":"ROBBERY","n":"15978"}
+,{"yr":"2004","value":"SEX OFFENSE","n":"1805"}
+,{"yr":"2004","value":"STALKING","n":"215"}
+,{"yr":"2004","value":"THEFT","n":"95464"}
+,{"yr":"2004","value":"WEAPONS VIOLATION","n":"4298"}
+,{"yr":"2005","value":"ARSON","n":"691"}
+,{"yr":"2005","value":"ASSAULT","n":"27067"}
+,{"yr":"2005","value":"BATTERY","n":"83964"}
+,{"yr":"2005","value":"BURGLARY","n":"25503"}
+,{"yr":"2005","value":"CRIMINAL DAMAGE","n":"54548"}
+,{"yr":"2005","value":"CRIMINAL SEXUAL ASSAULT","n":"65"}
+,{"yr":"2005","value":"CRIMINAL TRESPASS","n":"16655"}
+,{"yr":"2005","value":"CRIM SEXUAL ASSAULT","n":"1504"}
+,{"yr":"2005","value":"DECEPTIVE PRACTICE","n":"13594"}
+,{"yr":"2005","value":"GAMBLING","n":"1078"}
+,{"yr":"2005","value":"HOMICIDE","n":"453"}
+,{"yr":"2005","value":"HUMAN TRAFFICKING","n":"1"}
+,{"yr":"2005","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"615"}
+,{"yr":"2005","value":"INTIMIDATION","n":"258"}
+,{"yr":"2005","value":"KIDNAPPING","n":"389"}
+,{"yr":"2005","value":"LIQUOR LAW VIOLATION","n":"1005"}
+,{"yr":"2005","value":"MOTOR VEHICLE THEFT","n":"22497"}
+,{"yr":"2005","value":"NARCOTICS","n":"56234"}
+,{"yr":"2005","value":"OBSCENITY","n":"19"}
+,{"yr":"2005","value":"OFFENSE INVOLVING CHILDREN","n":"2915"}
+,{"yr":"2005","value":"OTHER NARCOTIC VIOLATION","n":"9"}
+,{"yr":"2005","value":"OTHER OFFENSE","n":"28028"}
+,{"yr":"2005","value":"PROSTITUTION","n":"6124"}
+,{"yr":"2005","value":"PUBLIC INDECENCY","n":"4"}
+,{"yr":"2005","value":"PUBLIC PEACE VIOLATION","n":"2730"}
+,{"yr":"2005","value":"RITUALISM","n":"2"}
+,{"yr":"2005","value":"ROBBERY","n":"16047"}
+,{"yr":"2005","value":"SEX OFFENSE","n":"1822"}
+,{"yr":"2005","value":"STALKING","n":"192"}
+,{"yr":"2005","value":"THEFT","n":"85684"}
+,{"yr":"2005","value":"WEAPONS VIOLATION","n":"4106"}
+,{"yr":"2006","value":"ARSON","n":"726"}
+,{"yr":"2006","value":"ASSAULT","n":"25946"}
+,{"yr":"2006","value":"BATTERY","n":"80668"}
+,{"yr":"2006","value":"BURGLARY","n":"24324"}
+,{"yr":"2006","value":"CRIMINAL DAMAGE","n":"57124"}
+,{"yr":"2006","value":"CRIMINAL SEXUAL ASSAULT","n":"66"}
+,{"yr":"2006","value":"CRIMINAL TRESPASS","n":"14505"}
+,{"yr":"2006","value":"CRIM SEXUAL ASSAULT","n":"1424"}
+,{"yr":"2006","value":"DECEPTIVE PRACTICE","n":"13616"}
+,{"yr":"2006","value":"GAMBLING","n":"1368"}
+,{"yr":"2006","value":"HOMICIDE","n":"478"}
+,{"yr":"2006","value":"HUMAN TRAFFICKING","n":"1"}
+,{"yr":"2006","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"758"}
+,{"yr":"2006","value":"INTIMIDATION","n":"276"}
+,{"yr":"2006","value":"KIDNAPPING","n":"339"}
+,{"yr":"2006","value":"LIQUOR LAW VIOLATION","n":"1135"}
+,{"yr":"2006","value":"MOTOR VEHICLE THEFT","n":"21819"}
+,{"yr":"2006","value":"NARCOTICS","n":"55813"}
+,{"yr":"2006","value":"OBSCENITY","n":"17"}
+,{"yr":"2006","value":"OFFENSE INVOLVING CHILDREN","n":"2793"}
+,{"yr":"2006","value":"OTHER NARCOTIC VIOLATION","n":"9"}
+,{"yr":"2006","value":"OTHER OFFENSE","n":"27101"}
+,{"yr":"2006","value":"PROSTITUTION","n":"7034"}
+,{"yr":"2006","value":"PUBLIC INDECENCY","n":"4"}
+,{"yr":"2006","value":"PUBLIC PEACE VIOLATION","n":"3068"}
+,{"yr":"2006","value":"RITUALISM","n":"7"}
+,{"yr":"2006","value":"ROBBERY","n":"15969"}
+,{"yr":"2006","value":"SEX OFFENSE","n":"1577"}
+,{"yr":"2006","value":"STALKING","n":"186"}
+,{"yr":"2006","value":"THEFT","n":"86243"}
+,{"yr":"2006","value":"WEAPONS VIOLATION","n":"3821"}
+,{"yr":"2007","value":"ARSON","n":"712"}
+,{"yr":"2007","value":"ASSAULT","n":"26313"}
+,{"yr":"2007","value":"BATTERY","n":"79595"}
+,{"yr":"2007","value":"BURGLARY","n":"24858"}
+,{"yr":"2007","value":"CRIMINAL DAMAGE","n":"53749"}
+,{"yr":"2007","value":"CRIMINAL SEXUAL ASSAULT","n":"75"}
+,{"yr":"2007","value":"CRIMINAL TRESPASS","n":"13699"}
+,{"yr":"2007","value":"CRIM SEXUAL ASSAULT","n":"1492"}
+,{"yr":"2007","value":"DECEPTIVE PRACTICE","n":"14181"}
+,{"yr":"2007","value":"GAMBLING","n":"1409"}
+,{"yr":"2007","value":"HOMICIDE","n":"448"}
+,{"yr":"2007","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"677"}
+,{"yr":"2007","value":"INTIMIDATION","n":"255"}
+,{"yr":"2007","value":"KIDNAPPING","n":"329"}
+,{"yr":"2007","value":"LIQUOR LAW VIOLATION","n":"1170"}
+,{"yr":"2007","value":"MOTOR VEHICLE THEFT","n":"18573"}
+,{"yr":"2007","value":"NARCOTICS","n":"54454"}
+,{"yr":"2007","value":"OBSCENITY","n":"12"}
+,{"yr":"2007","value":"OFFENSE INVOLVING CHILDREN","n":"2928"}
+,{"yr":"2007","value":"OTHER NARCOTIC VIOLATION","n":"12"}
+,{"yr":"2007","value":"OTHER OFFENSE","n":"26863"}
+,{"yr":"2007","value":"PROSTITUTION","n":"6087"}
+,{"yr":"2007","value":"PUBLIC INDECENCY","n":"5"}
+,{"yr":"2007","value":"PUBLIC PEACE VIOLATION","n":"3315"}
+,{"yr":"2007","value":"RITUALISM","n":"1"}
+,{"yr":"2007","value":"ROBBERY","n":"15450"}
+,{"yr":"2007","value":"SEX OFFENSE","n":"1533"}
+,{"yr":"2007","value":"STALKING","n":"213"}
+,{"yr":"2007","value":"THEFT","n":"85156"}
+,{"yr":"2007","value":"WEAPONS VIOLATION","n":"3554"}
+,{"yr":"2008","value":"ARSON","n":"644"}
+,{"yr":"2008","value":"ASSAULT","n":"25449"}
+,{"yr":"2008","value":"BATTERY","n":"75930"}
+,{"yr":"2008","value":"BURGLARY","n":"26218"}
+,{"yr":"2008","value":"CRIMINAL DAMAGE","n":"52843"}
+,{"yr":"2008","value":"CRIMINAL SEXUAL ASSAULT","n":"77"}
+,{"yr":"2008","value":"CRIMINAL TRESPASS","n":"12310"}
+,{"yr":"2008","value":"CRIM SEXUAL ASSAULT","n":"1495"}
+,{"yr":"2008","value":"DECEPTIVE PRACTICE","n":"14949"}
+,{"yr":"2008","value":"GAMBLING","n":"1199"}
+,{"yr":"2008","value":"HOMICIDE","n":"513"}
+,{"yr":"2008","value":"HUMAN TRAFFICKING","n":"1"}
+,{"yr":"2008","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"580"}
+,{"yr":"2008","value":"INTIMIDATION","n":"261"}
+,{"yr":"2008","value":"KIDNAPPING","n":"359"}
+,{"yr":"2008","value":"LIQUOR LAW VIOLATION","n":"912"}
+,{"yr":"2008","value":"MOTOR VEHICLE THEFT","n":"18881"}
+,{"yr":"2008","value":"NARCOTICS","n":"46506"}
+,{"yr":"2008","value":"OBSCENITY","n":"13"}
+,{"yr":"2008","value":"OFFENSE INVOLVING CHILDREN","n":"2677"}
+,{"yr":"2008","value":"OTHER NARCOTIC VIOLATION","n":"12"}
+,{"yr":"2008","value":"OTHER OFFENSE","n":"26532"}
+,{"yr":"2008","value":"PROSTITUTION","n":"5141"}
+,{"yr":"2008","value":"PUBLIC INDECENCY","n":"4"}
+,{"yr":"2008","value":"PUBLIC PEACE VIOLATION","n":"3013"}
+,{"yr":"2008","value":"ROBBERY","n":"16703"}
+,{"yr":"2008","value":"SEX OFFENSE","n":"1506"}
+,{"yr":"2008","value":"STALKING","n":"190"}
+,{"yr":"2008","value":"THEFT","n":"88437"}
+,{"yr":"2008","value":"WEAPONS VIOLATION","n":"3877"}
+,{"yr":"2009","value":"ARSON","n":"616"}
+,{"yr":"2009","value":"ASSAULT","n":"22861"}
+,{"yr":"2009","value":"BATTERY","n":"68460"}
+,{"yr":"2009","value":"BURGLARY","n":"26767"}
+,{"yr":"2009","value":"CRIMINAL DAMAGE","n":"47725"}
+,{"yr":"2009","value":"CRIMINAL SEXUAL ASSAULT","n":"69"}
+,{"yr":"2009","value":"CRIMINAL TRESPASS","n":"10851"}
+,{"yr":"2009","value":"CRIM SEXUAL ASSAULT","n":"1384"}
+,{"yr":"2009","value":"DECEPTIVE PRACTICE","n":"13905"}
+,{"yr":"2009","value":"GAMBLING","n":"991"}
+,{"yr":"2009","value":"HOMICIDE","n":"461"}
+,{"yr":"2009","value":"HUMAN TRAFFICKING","n":"1"}
+,{"yr":"2009","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"573"}
+,{"yr":"2009","value":"INTIMIDATION","n":"231"}
+,{"yr":"2009","value":"KIDNAPPING","n":"293"}
+,{"yr":"2009","value":"LIQUOR LAW VIOLATION","n":"746"}
+,{"yr":"2009","value":"MOTOR VEHICLE THEFT","n":"15482"}
+,{"yr":"2009","value":"NARCOTICS","n":"43543"}
+,{"yr":"2009","value":"OBSCENITY","n":"21"}
+,{"yr":"2009","value":"OFFENSE INVOLVING CHILDREN","n":"2641"}
+,{"yr":"2009","value":"OTHER NARCOTIC VIOLATION","n":"7"}
+,{"yr":"2009","value":"OTHER OFFENSE","n":"25601"}
+,{"yr":"2009","value":"PROSTITUTION","n":"3940"}
+,{"yr":"2009","value":"PUBLIC INDECENCY","n":"10"}
+,{"yr":"2009","value":"PUBLIC PEACE VIOLATION","n":"3147"}
+,{"yr":"2009","value":"ROBBERY","n":"15981"}
+,{"yr":"2009","value":"SEX OFFENSE","n":"1268"}
+,{"yr":"2009","value":"STALKING","n":"168"}
+,{"yr":"2009","value":"THEFT","n":"80977"}
+,{"yr":"2009","value":"WEAPONS VIOLATION","n":"4159"}
+,{"yr":"2010","value":"ARSON","n":"522"}
+,{"yr":"2010","value":"ASSAULT","n":"21537"}
+,{"yr":"2010","value":"BATTERY","n":"65403"}
+,{"yr":"2010","value":"BURGLARY","n":"26422"}
+,{"yr":"2010","value":"CRIMINAL DAMAGE","n":"40654"}
+,{"yr":"2010","value":"CRIMINAL SEXUAL ASSAULT","n":"86"}
+,{"yr":"2010","value":"CRIMINAL TRESPASS","n":"9401"}
+,{"yr":"2010","value":"CRIM SEXUAL ASSAULT","n":"1318"}
+,{"yr":"2010","value":"DECEPTIVE PRACTICE","n":"12600"}
+,{"yr":"2010","value":"GAMBLING","n":"927"}
+,{"yr":"2010","value":"HOMICIDE","n":"438"}
+,{"yr":"2010","value":"HUMAN TRAFFICKING","n":"1"}
+,{"yr":"2010","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"797"}
+,{"yr":"2010","value":"INTIMIDATION","n":"198"}
+,{"yr":"2010","value":"KIDNAPPING","n":"314"}
+,{"yr":"2010","value":"LIQUOR LAW VIOLATION","n":"737"}
+,{"yr":"2010","value":"MOTOR VEHICLE THEFT","n":"19029"}
+,{"yr":"2010","value":"NARCOTICS","n":"43398"}
+,{"yr":"2010","value":"OBSCENITY","n":"34"}
+,{"yr":"2010","value":"OFFENSE INVOLVING CHILDREN","n":"2653"}
+,{"yr":"2010","value":"OTHER NARCOTIC VIOLATION","n":"6"}
+,{"yr":"2010","value":"OTHER OFFENSE","n":"22012"}
+,{"yr":"2010","value":"PROSTITUTION","n":"2484"}
+,{"yr":"2010","value":"PUBLIC INDECENCY","n":"7"}
+,{"yr":"2010","value":"PUBLIC PEACE VIOLATION","n":"3538"}
+,{"yr":"2010","value":"ROBBERY","n":"14275"}
+,{"yr":"2010","value":"SEX OFFENSE","n":"1147"}
+,{"yr":"2010","value":"STALKING","n":"189"}
+,{"yr":"2010","value":"THEFT","n":"76758"}
+,{"yr":"2010","value":"WEAPONS VIOLATION","n":"3704"}
+,{"yr":"2011","value":"ARSON","n":"504"}
+,{"yr":"2011","value":"ASSAULT","n":"20411"}
+,{"yr":"2011","value":"BATTERY","n":"60460"}
+,{"yr":"2011","value":"BURGLARY","n":"26620"}
+,{"yr":"2011","value":"CRIMINAL DAMAGE","n":"37331"}
+,{"yr":"2011","value":"CRIMINAL SEXUAL ASSAULT","n":"84"}
+,{"yr":"2011","value":"CRIMINAL TRESPASS","n":"8659"}
+,{"yr":"2011","value":"CRIM SEXUAL ASSAULT","n":"1440"}
+,{"yr":"2011","value":"DECEPTIVE PRACTICE","n":"12761"}
+,{"yr":"2011","value":"GAMBLING","n":"736"}
+,{"yr":"2011","value":"HOMICIDE","n":"438"}
+,{"yr":"2011","value":"HUMAN TRAFFICKING","n":"1"}
+,{"yr":"2011","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"1047"}
+,{"yr":"2011","value":"INTIMIDATION","n":"171"}
+,{"yr":"2011","value":"KIDNAPPING","n":"266"}
+,{"yr":"2011","value":"LIQUOR LAW VIOLATION","n":"619"}
+,{"yr":"2011","value":"MOTOR VEHICLE THEFT","n":"19388"}
+,{"yr":"2011","value":"NARCOTICS","n":"38604"}
+,{"yr":"2011","value":"OBSCENITY","n":"40"}
+,{"yr":"2011","value":"OFFENSE INVOLVING CHILDREN","n":"2459"}
+,{"yr":"2011","value":"OTHER NARCOTIC VIOLATION","n":"5"}
+,{"yr":"2011","value":"OTHER OFFENSE","n":"20207"}
+,{"yr":"2011","value":"PROSTITUTION","n":"2424"}
+,{"yr":"2011","value":"PUBLIC INDECENCY","n":"13"}
+,{"yr":"2011","value":"PUBLIC PEACE VIOLATION","n":"3095"}
+,{"yr":"2011","value":"ROBBERY","n":"13983"}
+,{"yr":"2011","value":"SEX OFFENSE","n":"1104"}
+,{"yr":"2011","value":"STALKING","n":"182"}
+,{"yr":"2011","value":"THEFT","n":"75153"}
+,{"yr":"2011","value":"WEAPONS VIOLATION","n":"3880"}
+,{"yr":"2012","value":"ARSON","n":"469"}
+,{"yr":"2012","value":"ASSAULT","n":"19900"}
+,{"yr":"2012","value":"BATTERY","n":"59134"}
+,{"yr":"2012","value":"BURGLARY","n":"22844"}
+,{"yr":"2012","value":"CRIMINAL DAMAGE","n":"35855"}
+,{"yr":"2012","value":"CRIMINAL SEXUAL ASSAULT","n":"105"}
+,{"yr":"2012","value":"CRIMINAL TRESPASS","n":"8216"}
+,{"yr":"2012","value":"CRIM SEXUAL ASSAULT","n":"1372"}
+,{"yr":"2012","value":"DECEPTIVE PRACTICE","n":"13799"}
+,{"yr":"2012","value":"GAMBLING","n":"724"}
+,{"yr":"2012","value":"HOMICIDE","n":"515"}
+,{"yr":"2012","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"1228"}
+,{"yr":"2012","value":"INTIMIDATION","n":"156"}
+,{"yr":"2012","value":"KIDNAPPING","n":"235"}
+,{"yr":"2012","value":"LIQUOR LAW VIOLATION","n":"573"}
+,{"yr":"2012","value":"MOTOR VEHICLE THEFT","n":"16490"}
+,{"yr":"2012","value":"NARCOTICS","n":"35489"}
+,{"yr":"2012","value":"OBSCENITY","n":"26"}
+,{"yr":"2012","value":"OFFENSE INVOLVING CHILDREN","n":"2364"}
+,{"yr":"2012","value":"OTHER NARCOTIC VIOLATION","n":"6"}
+,{"yr":"2012","value":"OTHER OFFENSE","n":"17525"}
+,{"yr":"2012","value":"PROSTITUTION","n":"2204"}
+,{"yr":"2012","value":"PUBLIC INDECENCY","n":"17"}
+,{"yr":"2012","value":"PUBLIC PEACE VIOLATION","n":"3007"}
+,{"yr":"2012","value":"ROBBERY","n":"13484"}
+,{"yr":"2012","value":"SEX OFFENSE","n":"1093"}
+,{"yr":"2012","value":"STALKING","n":"207"}
+,{"yr":"2012","value":"THEFT","n":"75464"}
+,{"yr":"2012","value":"WEAPONS VIOLATION","n":"3907"}
+,{"yr":"2013","value":"ARSON","n":"364"}
+,{"yr":"2013","value":"ASSAULT","n":"17972"}
+,{"yr":"2013","value":"BATTERY","n":"54006"}
+,{"yr":"2013","value":"BURGLARY","n":"17894"}
+,{"yr":"2013","value":"CRIMINAL DAMAGE","n":"30856"}
+,{"yr":"2013","value":"CRIMINAL SEXUAL ASSAULT","n":"114"}
+,{"yr":"2013","value":"CRIMINAL TRESPASS","n":"8136"}
+,{"yr":"2013","value":"CRIM SEXUAL ASSAULT","n":"1247"}
+,{"yr":"2013","value":"DECEPTIVE PRACTICE","n":"13957"}
+,{"yr":"2013","value":"GAMBLING","n":"596"}
+,{"yr":"2013","value":"HOMICIDE","n":"431"}
+,{"yr":"2013","value":"HUMAN TRAFFICKING","n":"2"}
+,{"yr":"2013","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"1281"}
+,{"yr":"2013","value":"INTIMIDATION","n":"135"}
+,{"yr":"2013","value":"KIDNAPPING","n":"242"}
+,{"yr":"2013","value":"LIQUOR LAW VIOLATION","n":"465"}
+,{"yr":"2013","value":"MOTOR VEHICLE THEFT","n":"12582"}
+,{"yr":"2013","value":"NARCOTICS","n":"34129"}
+,{"yr":"2013","value":"OBSCENITY","n":"25"}
+,{"yr":"2013","value":"OFFENSE INVOLVING CHILDREN","n":"2539"}
+,{"yr":"2013","value":"OTHER NARCOTIC VIOLATION","n":"5"}
+,{"yr":"2013","value":"OTHER OFFENSE","n":"18051"}
+,{"yr":"2013","value":"PROSTITUTION","n":"1652"}
+,{"yr":"2013","value":"PUBLIC INDECENCY","n":"10"}
+,{"yr":"2013","value":"PUBLIC PEACE VIOLATION","n":"3135"}
+,{"yr":"2013","value":"ROBBERY","n":"11819"}
+,{"yr":"2013","value":"SEX OFFENSE","n":"1066"}
+,{"yr":"2013","value":"STALKING","n":"154"}
+,{"yr":"2013","value":"THEFT","n":"71536"}
+,{"yr":"2013","value":"WEAPONS VIOLATION","n":"3245"}
+,{"yr":"2014","value":"ARSON","n":"397"}
+,{"yr":"2014","value":"ASSAULT","n":"16905"}
+,{"yr":"2014","value":"BATTERY","n":"49455"}
+,{"yr":"2014","value":"BURGLARY","n":"14569"}
+,{"yr":"2014","value":"CONCEALED CARRY LICENSE VIOLATION","n":"15"}
+,{"yr":"2014","value":"CRIMINAL DAMAGE","n":"27799"}
+,{"yr":"2014","value":"CRIMINAL SEXUAL ASSAULT","n":"120"}
+,{"yr":"2014","value":"CRIMINAL TRESPASS","n":"7539"}
+,{"yr":"2014","value":"CRIM SEXUAL ASSAULT","n":"1288"}
+,{"yr":"2014","value":"DECEPTIVE PRACTICE","n":"16000"}
+,{"yr":"2014","value":"GAMBLING","n":"393"}
+,{"yr":"2014","value":"HOMICIDE","n":"429"}
+,{"yr":"2014","value":"HUMAN TRAFFICKING","n":"3"}
+,{"yr":"2014","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"1399"}
+,{"yr":"2014","value":"INTIMIDATION","n":"115"}
+,{"yr":"2014","value":"KIDNAPPING","n":"220"}
+,{"yr":"2014","value":"LIQUOR LAW VIOLATION","n":"397"}
+,{"yr":"2014","value":"MOTOR VEHICLE THEFT","n":"9911"}
+,{"yr":"2014","value":"NARCOTICS","n":"29118"}
+,{"yr":"2014","value":"OBSCENITY","n":"39"}
+,{"yr":"2014","value":"OFFENSE INVOLVING CHILDREN","n":"2578"}
+,{"yr":"2014","value":"OTHER NARCOTIC VIOLATION","n":"10"}
+,{"yr":"2014","value":"OTHER OFFENSE","n":"17022"}
+,{"yr":"2014","value":"PROSTITUTION","n":"1625"}
+,{"yr":"2014","value":"PUBLIC INDECENCY","n":"10"}
+,{"yr":"2014","value":"PUBLIC PEACE VIOLATION","n":"2903"}
+,{"yr":"2014","value":"ROBBERY","n":"9800"}
+,{"yr":"2014","value":"SEX OFFENSE","n":"1032"}
+,{"yr":"2014","value":"STALKING","n":"142"}
+,{"yr":"2014","value":"THEFT","n":"61570"}
+,{"yr":"2014","value":"WEAPONS VIOLATION","n":"3113"}
+,{"yr":"2015","value":"ARSON","n":"453"}
+,{"yr":"2015","value":"ASSAULT","n":"17048"}
+,{"yr":"2015","value":"BATTERY","n":"48928"}
+,{"yr":"2015","value":"BURGLARY","n":"13184"}
+,{"yr":"2015","value":"CONCEALED CARRY LICENSE VIOLATION","n":"34"}
+,{"yr":"2015","value":"CRIMINAL DAMAGE","n":"28677"}
+,{"yr":"2015","value":"CRIMINAL SEXUAL ASSAULT","n":"159"}
+,{"yr":"2015","value":"CRIMINAL TRESPASS","n":"6401"}
+,{"yr":"2015","value":"CRIM SEXUAL ASSAULT","n":"1318"}
+,{"yr":"2015","value":"DECEPTIVE PRACTICE","n":"16511"}
+,{"yr":"2015","value":"GAMBLING","n":"310"}
+,{"yr":"2015","value":"HOMICIDE","n":"502"}
+,{"yr":"2015","value":"HUMAN TRAFFICKING","n":"14"}
+,{"yr":"2015","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"1308"}
+,{"yr":"2015","value":"INTIMIDATION","n":"123"}
+,{"yr":"2015","value":"KIDNAPPING","n":"190"}
+,{"yr":"2015","value":"LIQUOR LAW VIOLATION","n":"292"}
+,{"yr":"2015","value":"MOTOR VEHICLE THEFT","n":"10068"}
+,{"yr":"2015","value":"NARCOTICS","n":"23939"}
+,{"yr":"2015","value":"NON-CRIMINAL","n":"1"}
+,{"yr":"2015","value":"OBSCENITY","n":"49"}
+,{"yr":"2015","value":"OFFENSE INVOLVING CHILDREN","n":"2539"}
+,{"yr":"2015","value":"OTHER NARCOTIC VIOLATION","n":"5"}
+,{"yr":"2015","value":"OTHER OFFENSE","n":"17566"}
+,{"yr":"2015","value":"PROSTITUTION","n":"1322"}
+,{"yr":"2015","value":"PUBLIC INDECENCY","n":"14"}
+,{"yr":"2015","value":"PUBLIC PEACE VIOLATION","n":"2422"}
+,{"yr":"2015","value":"ROBBERY","n":"9638"}
+,{"yr":"2015","value":"SEX OFFENSE","n":"1064"}
+,{"yr":"2015","value":"STALKING","n":"155"}
+,{"yr":"2015","value":"THEFT","n":"57356"}
+,{"yr":"2015","value":"WEAPONS VIOLATION","n":"3364"}
+,{"yr":"2016","value":"ARSON","n":"516"}
+,{"yr":"2016","value":"ASSAULT","n":"18743"}
+,{"yr":"2016","value":"BATTERY","n":"50302"}
+,{"yr":"2016","value":"BURGLARY","n":"14289"}
+,{"yr":"2016","value":"CONCEALED CARRY LICENSE VIOLATION","n":"36"}
+,{"yr":"2016","value":"CRIMINAL DAMAGE","n":"31018"}
+,{"yr":"2016","value":"CRIMINAL SEXUAL ASSAULT","n":"179"}
+,{"yr":"2016","value":"CRIMINAL TRESPASS","n":"6306"}
+,{"yr":"2016","value":"CRIM SEXUAL ASSAULT","n":"1462"}
+,{"yr":"2016","value":"DECEPTIVE PRACTICE","n":"19464"}
+,{"yr":"2016","value":"GAMBLING","n":"189"}
+,{"yr":"2016","value":"HOMICIDE","n":"790"}
+,{"yr":"2016","value":"HUMAN TRAFFICKING","n":"11"}
+,{"yr":"2016","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"936"}
+,{"yr":"2016","value":"INTIMIDATION","n":"136"}
+,{"yr":"2016","value":"KIDNAPPING","n":"202"}
+,{"yr":"2016","value":"LIQUOR LAW VIOLATION","n":"227"}
+,{"yr":"2016","value":"MOTOR VEHICLE THEFT","n":"11285"}
+,{"yr":"2016","value":"NARCOTICS","n":"13333"}
+,{"yr":"2016","value":"NON-CRIMINAL","n":"1"}
+,{"yr":"2016","value":"OBSCENITY","n":"51"}
+,{"yr":"2016","value":"OFFENSE INVOLVING CHILDREN","n":"2540"}
+,{"yr":"2016","value":"OTHER NARCOTIC VIOLATION","n":"4"}
+,{"yr":"2016","value":"OTHER OFFENSE","n":"17310"}
+,{"yr":"2016","value":"PROSTITUTION","n":"800"}
+,{"yr":"2016","value":"PUBLIC INDECENCY","n":"10"}
+,{"yr":"2016","value":"PUBLIC PEACE VIOLATION","n":"1607"}
+,{"yr":"2016","value":"ROBBERY","n":"11960"}
+,{"yr":"2016","value":"SEX OFFENSE","n":"1075"}
+,{"yr":"2016","value":"STALKING","n":"176"}
+,{"yr":"2016","value":"THEFT","n":"61631"}
+,{"yr":"2016","value":"WEAPONS VIOLATION","n":"3450"}
+,{"yr":"2017","value":"ARSON","n":"444"}
+,{"yr":"2017","value":"ASSAULT","n":"19306"}
+,{"yr":"2017","value":"BATTERY","n":"49241"}
+,{"yr":"2017","value":"BURGLARY","n":"13001"}
+,{"yr":"2017","value":"CONCEALED CARRY LICENSE VIOLATION","n":"69"}
+,{"yr":"2017","value":"CRIMINAL DAMAGE","n":"29045"}
+,{"yr":"2017","value":"CRIMINAL SEXUAL ASSAULT","n":"257"}
+,{"yr":"2017","value":"CRIMINAL TRESPASS","n":"6814"}
+,{"yr":"2017","value":"CRIM SEXUAL ASSAULT","n":"1455"}
+,{"yr":"2017","value":"DECEPTIVE PRACTICE","n":"19833"}
+,{"yr":"2017","value":"GAMBLING","n":"191"}
+,{"yr":"2017","value":"HOMICIDE","n":"676"}
+,{"yr":"2017","value":"HUMAN TRAFFICKING","n":"10"}
+,{"yr":"2017","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"1087"}
+,{"yr":"2017","value":"INTIMIDATION","n":"150"}
+,{"yr":"2017","value":"KIDNAPPING","n":"190"}
+,{"yr":"2017","value":"LIQUOR LAW VIOLATION","n":"191"}
+,{"yr":"2017","value":"MOTOR VEHICLE THEFT","n":"11380"}
+,{"yr":"2017","value":"NARCOTICS","n":"11683"}
+,{"yr":"2017","value":"NON-CRIMINAL","n":"1"}
+,{"yr":"2017","value":"OBSCENITY","n":"87"}
+,{"yr":"2017","value":"OFFENSE INVOLVING CHILDREN","n":"2482"}
+,{"yr":"2017","value":"OTHER NARCOTIC VIOLATION","n":"11"}
+,{"yr":"2017","value":"OTHER OFFENSE","n":"17273"}
+,{"yr":"2017","value":"PROSTITUTION","n":"735"}
+,{"yr":"2017","value":"PUBLIC INDECENCY","n":"10"}
+,{"yr":"2017","value":"PUBLIC PEACE VIOLATION","n":"1498"}
+,{"yr":"2017","value":"ROBBERY","n":"11881"}
+,{"yr":"2017","value":"SEX OFFENSE","n":"1082"}
+,{"yr":"2017","value":"STALKING","n":"192"}
+,{"yr":"2017","value":"THEFT","n":"64388"}
+,{"yr":"2017","value":"WEAPONS VIOLATION","n":"4686"}
+,{"yr":"2018","value":"ARSON","n":"373"}
+,{"yr":"2018","value":"ASSAULT","n":"20408"}
+,{"yr":"2018","value":"BATTERY","n":"49835"}
+,{"yr":"2018","value":"BURGLARY","n":"11747"}
+,{"yr":"2018","value":"CONCEALED CARRY LICENSE VIOLATION","n":"149"}
+,{"yr":"2018","value":"CRIMINAL DAMAGE","n":"27823"}
+,{"yr":"2018","value":"CRIMINAL SEXUAL ASSAULT","n":"397"}
+,{"yr":"2018","value":"CRIMINAL TRESPASS","n":"6909"}
+,{"yr":"2018","value":"CRIM SEXUAL ASSAULT","n":"1374"}
+,{"yr":"2018","value":"DECEPTIVE PRACTICE","n":"20033"}
+,{"yr":"2018","value":"GAMBLING","n":"201"}
+,{"yr":"2018","value":"HOMICIDE","n":"600"}
+,{"yr":"2018","value":"HUMAN TRAFFICKING","n":"13"}
+,{"yr":"2018","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"1307"}
+,{"yr":"2018","value":"INTIMIDATION","n":"169"}
+,{"yr":"2018","value":"KIDNAPPING","n":"172"}
+,{"yr":"2018","value":"LIQUOR LAW VIOLATION","n":"268"}
+,{"yr":"2018","value":"MOTOR VEHICLE THEFT","n":"9985"}
+,{"yr":"2018","value":"NARCOTICS","n":"13593"}
+,{"yr":"2018","value":"NON-CRIMINAL","n":"1"}
+,{"yr":"2018","value":"OBSCENITY","n":"86"}
+,{"yr":"2018","value":"OFFENSE INVOLVING CHILDREN","n":"2509"}
+,{"yr":"2018","value":"OTHER NARCOTIC VIOLATION","n":"1"}
+,{"yr":"2018","value":"OTHER OFFENSE","n":"17275"}
+,{"yr":"2018","value":"PROSTITUTION","n":"718"}
+,{"yr":"2018","value":"PUBLIC INDECENCY","n":"14"}
+,{"yr":"2018","value":"PUBLIC PEACE VIOLATION","n":"1372"}
+,{"yr":"2018","value":"ROBBERY","n":"9681"}
+,{"yr":"2018","value":"SEX OFFENSE","n":"1282"}
+,{"yr":"2018","value":"STALKING","n":"208"}
+,{"yr":"2018","value":"THEFT","n":"65293"}
+,{"yr":"2018","value":"WEAPONS VIOLATION","n":"5456"}
+,{"yr":"2019","value":"ARSON","n":"376"}
+,{"yr":"2019","value":"ASSAULT","n":"20626"}
+,{"yr":"2019","value":"BATTERY","n":"49556"}
+,{"yr":"2019","value":"BURGLARY","n":"9638"}
+,{"yr":"2019","value":"CONCEALED CARRY LICENSE VIOLATION","n":"217"}
+,{"yr":"2019","value":"CRIMINAL DAMAGE","n":"26683"}
+,{"yr":"2019","value":"CRIMINAL SEXUAL ASSAULT","n":"814"}
+,{"yr":"2019","value":"CRIMINAL TRESPASS","n":"6820"}
+,{"yr":"2019","value":"CRIM SEXUAL ASSAULT","n":"940"}
+,{"yr":"2019","value":"DECEPTIVE PRACTICE","n":"19339"}
+,{"yr":"2019","value":"GAMBLING","n":"142"}
+,{"yr":"2019","value":"HOMICIDE","n":"509"}
+,{"yr":"2019","value":"HUMAN TRAFFICKING","n":"17"}
+,{"yr":"2019","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"1546"}
+,{"yr":"2019","value":"INTIMIDATION","n":"163"}
+,{"yr":"2019","value":"KIDNAPPING","n":"173"}
+,{"yr":"2019","value":"LIQUOR LAW VIOLATION","n":"232"}
+,{"yr":"2019","value":"MOTOR VEHICLE THEFT","n":"8979"}
+,{"yr":"2019","value":"NARCOTICS","n":"15080"}
+,{"yr":"2019","value":"NON-CRIMINAL","n":"3"}
+,{"yr":"2019","value":"OBSCENITY","n":"59"}
+,{"yr":"2019","value":"OFFENSE INVOLVING CHILDREN","n":"2522"}
+,{"yr":"2019","value":"OTHER NARCOTIC VIOLATION","n":"8"}
+,{"yr":"2019","value":"OTHER OFFENSE","n":"16813"}
+,{"yr":"2019","value":"PROSTITUTION","n":"681"}
+,{"yr":"2019","value":"PUBLIC INDECENCY","n":"11"}
+,{"yr":"2019","value":"PUBLIC PEACE VIOLATION","n":"1522"}
+,{"yr":"2019","value":"ROBBERY","n":"7997"}
+,{"yr":"2019","value":"SEX OFFENSE","n":"1406"}
+,{"yr":"2019","value":"STALKING","n":"228"}
+,{"yr":"2019","value":"THEFT","n":"62505"}
+,{"yr":"2019","value":"WEAPONS VIOLATION","n":"6339"}
+,{"yr":"2020","value":"ARSON","n":"588"}
+,{"yr":"2020","value":"ASSAULT","n":"18263"}
+,{"yr":"2020","value":"BATTERY","n":"41567"}
+,{"yr":"2020","value":"BURGLARY","n":"8759"}
+,{"yr":"2020","value":"CONCEALED CARRY LICENSE VIOLATION","n":"148"}
+,{"yr":"2020","value":"CRIMINAL DAMAGE","n":"24885"}
+,{"yr":"2020","value":"CRIMINAL SEXUAL ASSAULT","n":"1273"}
+,{"yr":"2020","value":"CRIMINAL TRESPASS","n":"4176"}
+,{"yr":"2020","value":"CRIM SEXUAL ASSAULT","n":"77"}
+,{"yr":"2020","value":"DECEPTIVE PRACTICE","n":"18717"}
+,{"yr":"2020","value":"GAMBLING","n":"25"}
+,{"yr":"2020","value":"HOMICIDE","n":"797"}
+,{"yr":"2020","value":"HUMAN TRAFFICKING","n":"7"}
+,{"yr":"2020","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"654"}
+,{"yr":"2020","value":"INTIMIDATION","n":"163"}
+,{"yr":"2020","value":"KIDNAPPING","n":"120"}
+,{"yr":"2020","value":"LIQUOR LAW VIOLATION","n":"143"}
+,{"yr":"2020","value":"MOTOR VEHICLE THEFT","n":"9962"}
+,{"yr":"2020","value":"NARCOTICS","n":"7493"}
+,{"yr":"2020","value":"NON-CRIMINAL","n":"1"}
+,{"yr":"2020","value":"OBSCENITY","n":"58"}
+,{"yr":"2020","value":"OFFENSE INVOLVING CHILDREN","n":"2123"}
+,{"yr":"2020","value":"OTHER NARCOTIC VIOLATION","n":"6"}
+,{"yr":"2020","value":"OTHER OFFENSE","n":"12628"}
+,{"yr":"2020","value":"PROSTITUTION","n":"278"}
+,{"yr":"2020","value":"PUBLIC INDECENCY","n":"9"}
+,{"yr":"2020","value":"PUBLIC PEACE VIOLATION","n":"1272"}
+,{"yr":"2020","value":"RITUALISM","n":"1"}
+,{"yr":"2020","value":"ROBBERY","n":"7860"}
+,{"yr":"2020","value":"SEX OFFENSE","n":"1032"}
+,{"yr":"2020","value":"STALKING","n":"205"}
+,{"yr":"2020","value":"THEFT","n":"41368"}
+,{"yr":"2020","value":"WEAPONS VIOLATION","n":"8434"}
+,{"yr":"2021","value":"ARSON","n":"530"}
+,{"yr":"2021","value":"ASSAULT","n":"20347"}
+,{"yr":"2021","value":"BATTERY","n":"40514"}
+,{"yr":"2021","value":"BURGLARY","n":"6662"}
+,{"yr":"2021","value":"CONCEALED CARRY LICENSE VIOLATION","n":"173"}
+,{"yr":"2021","value":"CRIMINAL DAMAGE","n":"25096"}
+,{"yr":"2021","value":"CRIMINAL SEXUAL ASSAULT","n":"1638"}
+,{"yr":"2021","value":"CRIMINAL TRESPASS","n":"3406"}
+,{"yr":"2021","value":"DECEPTIVE PRACTICE","n":"18048"}
+,{"yr":"2021","value":"GAMBLING","n":"13"}
+,{"yr":"2021","value":"HOMICIDE","n":"813"}
+,{"yr":"2021","value":"HUMAN TRAFFICKING","n":"13"}
+,{"yr":"2021","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"314"}
+,{"yr":"2021","value":"INTIMIDATION","n":"124"}
+,{"yr":"2021","value":"KIDNAPPING","n":"88"}
+,{"yr":"2021","value":"LIQUOR LAW VIOLATION","n":"184"}
+,{"yr":"2021","value":"MOTOR VEHICLE THEFT","n":"10605"}
+,{"yr":"2021","value":"NARCOTICS","n":"5420"}
+,{"yr":"2021","value":"NON-CRIMINAL","n":"4"}
+,{"yr":"2021","value":"OBSCENITY","n":"52"}
+,{"yr":"2021","value":"OFFENSE INVOLVING CHILDREN","n":"2058"}
+,{"yr":"2021","value":"OTHER NARCOTIC VIOLATION","n":"2"}
+,{"yr":"2021","value":"OTHER OFFENSE","n":"13974"}
+,{"yr":"2021","value":"PROSTITUTION","n":"95"}
+,{"yr":"2021","value":"PUBLIC INDECENCY","n":"4"}
+,{"yr":"2021","value":"PUBLIC PEACE VIOLATION","n":"603"}
+,{"yr":"2021","value":"ROBBERY","n":"7923"}
+,{"yr":"2021","value":"SEX OFFENSE","n":"1151"}
+,{"yr":"2021","value":"STALKING","n":"370"}
+,{"yr":"2021","value":"THEFT","n":"40830"}
+,{"yr":"2021","value":"WEAPONS VIOLATION","n":"8979"}
+,{"yr":"2022","value":"ARSON","n":"422"}
+,{"yr":"2022","value":"ASSAULT","n":"20817"}
+,{"yr":"2022","value":"BATTERY","n":"41000"}
+,{"yr":"2022","value":"BURGLARY","n":"7595"}
+,{"yr":"2022","value":"CONCEALED CARRY LICENSE VIOLATION","n":"177"}
+,{"yr":"2022","value":"CRIMINAL DAMAGE","n":"27254"}
+,{"yr":"2022","value":"CRIMINAL SEXUAL ASSAULT","n":"1724"}
+,{"yr":"2022","value":"CRIMINAL TRESPASS","n":"4223"}
+,{"yr":"2022","value":"DECEPTIVE PRACTICE","n":"17279"}
+,{"yr":"2022","value":"GAMBLING","n":"9"}
+,{"yr":"2022","value":"HOMICIDE","n":"738"}
+,{"yr":"2022","value":"HUMAN TRAFFICKING","n":"16"}
+,{"yr":"2022","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"392"}
+,{"yr":"2022","value":"INTIMIDATION","n":"185"}
+,{"yr":"2022","value":"KIDNAPPING","n":"120"}
+,{"yr":"2022","value":"LIQUOR LAW VIOLATION","n":"204"}
+,{"yr":"2022","value":"MOTOR VEHICLE THEFT","n":"21476"}
+,{"yr":"2022","value":"NARCOTICS","n":"4757"}
+,{"yr":"2022","value":"NON-CRIMINAL","n":"5"}
+,{"yr":"2022","value":"OBSCENITY","n":"51"}
+,{"yr":"2022","value":"OFFENSE INVOLVING CHILDREN","n":"2029"}
+,{"yr":"2022","value":"OTHER NARCOTIC VIOLATION","n":"7"}
+,{"yr":"2022","value":"OTHER OFFENSE","n":"14640"}
+,{"yr":"2022","value":"PROSTITUTION","n":"283"}
+,{"yr":"2022","value":"PUBLIC INDECENCY","n":"5"}
+,{"yr":"2022","value":"PUBLIC PEACE VIOLATION","n":"712"}
+,{"yr":"2022","value":"ROBBERY","n":"8971"}
+,{"yr":"2022","value":"SEX OFFENSE","n":"1293"}
+,{"yr":"2022","value":"STALKING","n":"455"}
+,{"yr":"2022","value":"THEFT","n":"54907"}
+,{"yr":"2022","value":"WEAPONS VIOLATION","n":"8781"}
+,{"yr":"2023","value":"ARSON","n":"513"}
+,{"yr":"2023","value":"ASSAULT","n":"22643"}
+,{"yr":"2023","value":"BATTERY","n":"44306"}
+,{"yr":"2023","value":"BURGLARY","n":"7494"}
+,{"yr":"2023","value":"CONCEALED CARRY LICENSE VIOLATION","n":"205"}
+,{"yr":"2023","value":"CRIMINAL DAMAGE","n":"30098"}
+,{"yr":"2023","value":"CRIMINAL SEXUAL ASSAULT","n":"1813"}
+,{"yr":"2023","value":"CRIMINAL TRESPASS","n":"4722"}
+,{"yr":"2023","value":"DECEPTIVE PRACTICE","n":"17678"}
+,{"yr":"2023","value":"GAMBLING","n":"15"}
+,{"yr":"2023","value":"HOMICIDE","n":"638"}
+,{"yr":"2023","value":"HUMAN TRAFFICKING","n":"15"}
+,{"yr":"2023","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"586"}
+,{"yr":"2023","value":"INTIMIDATION","n":"237"}
+,{"yr":"2023","value":"KIDNAPPING","n":"139"}
+,{"yr":"2023","value":"LIQUOR LAW VIOLATION","n":"186"}
+,{"yr":"2023","value":"MOTOR VEHICLE THEFT","n":"29257"}
+,{"yr":"2023","value":"NARCOTICS","n":"5455"}
+,{"yr":"2023","value":"NON-CRIMINAL","n":"3"}
+,{"yr":"2023","value":"OBSCENITY","n":"43"}
+,{"yr":"2023","value":"OFFENSE INVOLVING CHILDREN","n":"1854"}
+,{"yr":"2023","value":"OTHER NARCOTIC VIOLATION","n":"2"}
+,{"yr":"2023","value":"OTHER OFFENSE","n":"15748"}
+,{"yr":"2023","value":"PROSTITUTION","n":"209"}
+,{"yr":"2023","value":"PUBLIC INDECENCY","n":"6"}
+,{"yr":"2023","value":"PUBLIC PEACE VIOLATION","n":"863"}
+,{"yr":"2023","value":"ROBBERY","n":"11059"}
+,{"yr":"2023","value":"SEX OFFENSE","n":"1423"}
+,{"yr":"2023","value":"STALKING","n":"535"}
+,{"yr":"2023","value":"THEFT","n":"57529"}
+,{"yr":"2023","value":"WEAPONS VIOLATION","n":"8609"}
+,{"yr":"2024","value":"ARSON","n":"481"}
+,{"yr":"2024","value":"ASSAULT","n":"23488"}
+,{"yr":"2024","value":"BATTERY","n":"46188"}
+,{"yr":"2024","value":"BURGLARY","n":"8436"}
+,{"yr":"2024","value":"CONCEALED CARRY LICENSE VIOLATION","n":"196"}
+,{"yr":"2024","value":"CRIMINAL DAMAGE","n":"28557"}
+,{"yr":"2024","value":"CRIMINAL SEXUAL ASSAULT","n":"1750"}
+,{"yr":"2024","value":"CRIMINAL TRESPASS","n":"4952"}
+,{"yr":"2024","value":"DECEPTIVE PRACTICE","n":"16492"}
+,{"yr":"2024","value":"GAMBLING","n":"22"}
+,{"yr":"2024","value":"HOMICIDE","n":"597"}
+,{"yr":"2024","value":"HUMAN TRAFFICKING","n":"23"}
+,{"yr":"2024","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"691"}
+,{"yr":"2024","value":"INTIMIDATION","n":"164"}
+,{"yr":"2024","value":"KIDNAPPING","n":"97"}
+,{"yr":"2024","value":"LIQUOR LAW VIOLATION","n":"196"}
+,{"yr":"2024","value":"MOTOR VEHICLE THEFT","n":"21715"}
+,{"yr":"2024","value":"NARCOTICS","n":"5998"}
+,{"yr":"2024","value":"NON-CRIMINAL","n":"3"}
+,{"yr":"2024","value":"OBSCENITY","n":"62"}
+,{"yr":"2024","value":"OFFENSE INVOLVING CHILDREN","n":"1760"}
+,{"yr":"2024","value":"OTHER NARCOTIC VIOLATION","n":"5"}
+,{"yr":"2024","value":"OTHER OFFENSE","n":"17169"}
+,{"yr":"2024","value":"PROSTITUTION","n":"308"}
+,{"yr":"2024","value":"PUBLIC INDECENCY","n":"9"}
+,{"yr":"2024","value":"PUBLIC PEACE VIOLATION","n":"979"}
+,{"yr":"2024","value":"ROBBERY","n":"9120"}
+,{"yr":"2024","value":"SEX OFFENSE","n":"1306"}
+,{"yr":"2024","value":"STALKING","n":"521"}
+,{"yr":"2024","value":"THEFT","n":"60564"}
+,{"yr":"2024","value":"WEAPONS VIOLATION","n":"7841"}
+,{"yr":"2025","value":"ARSON","n":"374"}
+,{"yr":"2025","value":"ASSAULT","n":"21601"}
+,{"yr":"2025","value":"BATTERY","n":"42677"}
+,{"yr":"2025","value":"BURGLARY","n":"9742"}
+,{"yr":"2025","value":"CONCEALED CARRY LICENSE VIOLATION","n":"278"}
+,{"yr":"2025","value":"CRIMINAL DAMAGE","n":"26250"}
+,{"yr":"2025","value":"CRIMINAL SEXUAL ASSAULT","n":"1819"}
+,{"yr":"2025","value":"CRIMINAL TRESPASS","n":"5326"}
+,{"yr":"2025","value":"DECEPTIVE PRACTICE","n":"15396"}
+,{"yr":"2025","value":"GAMBLING","n":"13"}
+,{"yr":"2025","value":"HOMICIDE","n":"441"}
+,{"yr":"2025","value":"HUMAN TRAFFICKING","n":"19"}
+,{"yr":"2025","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"916"}
+,{"yr":"2025","value":"INTIMIDATION","n":"145"}
+,{"yr":"2025","value":"KIDNAPPING","n":"89"}
+,{"yr":"2025","value":"LIQUOR LAW VIOLATION","n":"200"}
+,{"yr":"2025","value":"MOTOR VEHICLE THEFT","n":"17260"}
+,{"yr":"2025","value":"NARCOTICS","n":"7408"}
+,{"yr":"2025","value":"NON-CRIMINAL","n":"3"}
+,{"yr":"2025","value":"OBSCENITY","n":"55"}
+,{"yr":"2025","value":"OFFENSE INVOLVING CHILDREN","n":"1628"}
+,{"yr":"2025","value":"OTHER NARCOTIC VIOLATION","n":"10"}
+,{"yr":"2025","value":"OTHER OFFENSE","n":"16869"}
+,{"yr":"2025","value":"PROSTITUTION","n":"190"}
+,{"yr":"2025","value":"PUBLIC INDECENCY","n":"10"}
+,{"yr":"2025","value":"PUBLIC PEACE VIOLATION","n":"1059"}
+,{"yr":"2025","value":"ROBBERY","n":"5816"}
+,{"yr":"2025","value":"SEX OFFENSE","n":"1396"}
+,{"yr":"2025","value":"STALKING","n":"581"}
+,{"yr":"2025","value":"THEFT","n":"55209"}
+,{"yr":"2025","value":"WEAPONS VIOLATION","n":"5445"}
+,{"yr":"2026","value":"ARSON","n":"319"}
+,{"yr":"2026","value":"ASSAULT","n":"17980"}
+,{"yr":"2026","value":"BATTERY","n":"36558"}
+,{"yr":"2026","value":"BURGLARY","n":"11936"}
+,{"yr":"2026","value":"CONCEALED CARRY LICENSE VIOLATION","n":"223"}
+,{"yr":"2026","value":"CRIMINAL DAMAGE","n":"21695"}
+,{"yr":"2026","value":"CRIMINAL SEXUAL ASSAULT","n":"1564"}
+,{"yr":"2026","value":"CRIMINAL TRESPASS","n":"4747"}
+,{"yr":"2026","value":"DECEPTIVE PRACTICE","n":"11324"}
+,{"yr":"2026","value":"GAMBLING","n":"17"}
+,{"yr":"2026","value":"HOMICIDE","n":"368"}
+,{"yr":"2026","value":"HUMAN TRAFFICKING","n":"23"}
+,{"yr":"2026","value":"INTERFERENCE WITH PUBLIC OFFICER","n":"886"}
+,{"yr":"2026","value":"INTIMIDATION","n":"215"}
+,{"yr":"2026","value":"KIDNAPPING","n":"95"}
+,{"yr":"2026","value":"LIQUOR LAW VIOLATION","n":"191"}
+,{"yr":"2026","value":"MOTOR VEHICLE THEFT","n":"15368"}
+,{"yr":"2026","value":"NARCOTICS","n":"5572"}
+,{"yr":"2026","value":"OBSCENITY","n":"49"}
+,{"yr":"2026","value":"OFFENSE INVOLVING CHILDREN","n":"1373"}
+,{"yr":"2026","value":"OTHER NARCOTIC VIOLATION","n":"6"}
+,{"yr":"2026","value":"OTHER OFFENSE","n":"13262"}
+,{"yr":"2026","value":"PROSTITUTION","n":"120"}
+,{"yr":"2026","value":"PUBLIC INDECENCY","n":"18"}
+,{"yr":"2026","value":"PUBLIC PEACE VIOLATION","n":"1127"}
+,{"yr":"2026","value":"ROBBERY","n":"4027"}
+,{"yr":"2026","value":"SEX OFFENSE","n":"1262"}
+,{"yr":"2026","value":"STALKING","n":"569"}
+,{"yr":"2026","value":"THEFT","n":"42691"}
+,{"yr":"2026","value":"WEAPONS VIOLATION","n":"4309"}]

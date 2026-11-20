@@ -1,0 +1,93 @@
+scenario,scheme,fold,fit_id,model,selected_C,train_rows,train_positive,test_rows,feature_count,all_missing_training_columns,warnings,model_file
+core_50m,forward_spatial,0,fit_000_M0,M0,0.01,465,251,210,2,,,results/models/fit_000_M0.joblib
+core_50m,forward_spatial,0,fit_000_M1,M1,0.01,465,251,210,21,,,results/models/fit_000_M1.joblib
+core_50m,forward_spatial,0,fit_000_B0,B0,,465,251,210,2,,,results/models/fit_000_B0.joblib
+core_50m,forward_spatial,0,fit_000_B1,B1,,465,251,210,21,,,results/models/fit_000_B1.joblib
+core_50m,forward_spatial,1,fit_001_M0,M0,10.0,499,282,181,2,,,results/models/fit_001_M0.joblib
+core_50m,forward_spatial,1,fit_001_M1,M1,0.1,499,282,181,21,,,results/models/fit_001_M1.joblib
+core_50m,forward_spatial,1,fit_001_B0,B0,,499,282,181,2,,,results/models/fit_001_B0.joblib
+core_50m,forward_spatial,1,fit_001_B1,B1,,499,282,181,21,,,results/models/fit_001_B1.joblib
+core_50m,forward_spatial,2,fit_002_M0,M0,0.1,358,175,204,2,,,results/models/fit_002_M0.joblib
+core_50m,forward_spatial,2,fit_002_M1,M1,0.1,358,175,204,21,,,results/models/fit_002_M1.joblib
+core_50m,forward_spatial,2,fit_002_B0,B0,,358,175,204,2,,,results/models/fit_002_B0.joblib
+core_50m,forward_spatial,2,fit_002_B1,B1,,358,175,204,21,,,results/models/fit_002_B1.joblib
+core_50m,forward_spatial,3,fit_003_M0,M0,0.01,560,332,153,2,,,results/models/fit_003_M0.joblib
+core_50m,forward_spatial,3,fit_003_M1,M1,0.01,560,332,153,21,,,results/models/fit_003_M1.joblib
+core_50m,forward_spatial,3,fit_003_B0,B0,,560,332,153,2,,,results/models/fit_003_B0.joblib
+core_50m,forward_spatial,3,fit_003_B1,B1,,560,332,153,21,,,results/models/fit_003_B1.joblib
+core_50m,forward_spatial,4,fit_004_M0,M0,0.01,497,269,187,2,,,results/models/fit_004_M0.joblib
+core_50m,forward_spatial,4,fit_004_M1,M1,0.1,497,269,187,21,,,results/models/fit_004_M1.joblib
+core_50m,forward_spatial,4,fit_004_B0,B0,,497,269,187,2,,,results/models/fit_004_B0.joblib
+core_50m,forward_spatial,4,fit_004_B1,B1,,497,269,187,21,,,results/models/fit_004_B1.joblib
+core_50m,forward_city_out,New York City,fit_005_M0,M0,1.0,298,148,611,2,,,results/models/fit_005_M0.joblib
+core_50m,forward_city_out,New York City,fit_005_M1,M1,1.0,298,148,611,21,,,results/models/fit_005_M1.joblib
+core_50m,forward_city_out,New York City,fit_005_B0,B0,,298,148,611,2,,,results/models/fit_005_B0.joblib
+core_50m,forward_city_out,New York City,fit_005_B1,B1,,298,148,611,21,,,results/models/fit_005_B1.joblib
+core_50m,forward_city_out,Chicago,fit_006_M0,M0,10.0,665,387,212,2,,,results/models/fit_006_M0.joblib
+core_50m,forward_city_out,Chicago,fit_006_M1,M1,0.1,665,387,212,21,,,results/models/fit_006_M1.joblib
+core_50m,forward_city_out,Chicago,fit_006_B0,B0,,665,387,212,2,,,results/models/fit_006_B0.joblib
+core_50m,forward_city_out,Chicago,fit_006_B1,B1,,665,387,212,21,,,results/models/fit_006_B1.joblib
+core_50m,forward_city_out,Los Angeles,fit_007_M0,M0,10.0,747,461,112,2,,,results/models/fit_007_M0.joblib
+core_50m,forward_city_out,Los Angeles,fit_007_M1,M1,0.01,747,461,112,21,,,results/models/fit_007_M1.joblib
+core_50m,forward_city_out,Los Angeles,fit_007_B0,B0,,747,461,112,2,,,results/models/fit_007_B0.joblib
+core_50m,forward_city_out,Los Angeles,fit_007_B1,B1,,747,461,112,21,,,results/models/fit_007_B1.joblib
+core_25m,forward_spatial,0,fit_008_M0,M0,10.0,465,73,210,2,,,results/models/fit_008_M0.joblib
+core_25m,forward_spatial,0,fit_008_M1,M1,0.01,465,73,210,21,,,results/models/fit_008_M1.joblib
+core_25m,forward_spatial,1,fit_009_M0,M0,1.0,499,99,181,2,,,results/models/fit_009_M0.joblib
+core_25m,forward_spatial,1,fit_009_M1,M1,0.01,499,99,181,21,,,results/models/fit_009_M1.joblib
+core_25m,forward_spatial,2,fit_010_M0,M0,0.01,358,56,204,2,,,results/models/fit_010_M0.joblib
+core_25m,forward_spatial,2,fit_010_M1,M1,0.01,358,56,204,21,,,results/models/fit_010_M1.joblib
+core_25m,forward_spatial,3,fit_011_M0,M0,0.01,560,112,153,2,,,results/models/fit_011_M0.joblib
+core_25m,forward_spatial,3,fit_011_M1,M1,0.01,560,112,153,21,,,results/models/fit_011_M1.joblib
+core_25m,forward_spatial,4,fit_012_M0,M0,0.1,497,75,187,2,,,results/models/fit_012_M0.joblib
+core_25m,forward_spatial,4,fit_012_M1,M1,0.1,497,75,187,21,,,results/models/fit_012_M1.joblib
+core_100m,forward_spatial,0,fit_013_M0,M0,10.0,465,371,210,2,,,results/models/fit_013_M0.joblib
+core_100m,forward_spatial,0,fit_013_M1,M1,0.1,465,371,210,21,,,results/models/fit_013_M1.joblib
+core_100m,forward_spatial,1,fit_014_M0,M0,0.1,499,417,181,2,,,results/models/fit_014_M0.joblib
+core_100m,forward_spatial,1,fit_014_M1,M1,0.1,499,417,181,21,,,results/models/fit_014_M1.joblib
+core_100m,forward_spatial,2,fit_015_M0,M0,0.01,358,278,204,2,,,results/models/fit_015_M0.joblib
+core_100m,forward_spatial,2,fit_015_M1,M1,0.1,358,278,204,21,,,results/models/fit_015_M1.joblib
+core_100m,forward_spatial,3,fit_016_M0,M0,0.01,560,482,153,2,,,results/models/fit_016_M0.joblib
+core_100m,forward_spatial,3,fit_016_M1,M1,0.1,560,482,153,21,,,results/models/fit_016_M1.joblib
+core_100m,forward_spatial,4,fit_017_M0,M0,10.0,497,392,187,2,,,results/models/fit_017_M0.joblib
+core_100m,forward_spatial,4,fit_017_M1,M1,0.1,497,392,187,21,,,results/models/fit_017_M1.joblib
+master_50m,forward_spatial,0,fit_018_M0,M0,0.01,768,380,282,2,,,results/models/fit_018_M0.joblib
+master_50m,forward_spatial,0,fit_018_M1,M1,0.01,768,380,282,21,,,results/models/fit_018_M1.joblib
+master_50m,forward_spatial,1,fit_019_M0,M0,0.1,770,402,269,2,,,results/models/fit_019_M0.joblib
+master_50m,forward_spatial,1,fit_019_M1,M1,0.1,770,402,269,21,,,results/models/fit_019_M1.joblib
+master_50m,forward_spatial,2,fit_020_M0,M0,0.01,556,235,335,2,,,results/models/fit_020_M0.joblib
+master_50m,forward_spatial,2,fit_020_M1,M1,0.01,556,235,335,21,,,results/models/fit_020_M1.joblib
+master_50m,forward_spatial,3,fit_021_M0,M0,0.01,863,468,237,2,,,results/models/fit_021_M0.joblib
+master_50m,forward_spatial,3,fit_021_M1,M1,0.01,863,468,237,21,,,results/models/fit_021_M1.joblib
+master_50m,forward_spatial,4,fit_022_M0,M0,0.01,724,372,289,2,,,results/models/fit_022_M0.joblib
+master_50m,forward_spatial,4,fit_022_M1,M1,0.1,724,372,289,21,,,results/models/fit_022_M1.joblib
+explicit_atm_50m,forward_spatial,0,fit_023_M0,M0,10.0,195,95,93,2,,,results/models/fit_023_M0.joblib
+explicit_atm_50m,forward_spatial,0,fit_023_M1,M1,0.01,195,95,93,21,,,results/models/fit_023_M1.joblib
+explicit_atm_50m,forward_spatial,1,fit_024_M0,M0,1.0,226,125,73,2,,,results/models/fit_024_M0.joblib
+explicit_atm_50m,forward_spatial,1,fit_024_M1,M1,0.1,226,125,73,21,,,results/models/fit_024_M1.joblib
+explicit_atm_50m,forward_spatial,2,fit_025_M0,M0,10.0,167,70,72,2,,,results/models/fit_025_M0.joblib
+explicit_atm_50m,forward_spatial,2,fit_025_M1,M1,0.1,167,70,72,21,,,results/models/fit_025_M1.joblib
+explicit_atm_50m,forward_spatial,3,fit_026_M0,M0,1.0,241,134,67,2,,,results/models/fit_026_M0.joblib
+explicit_atm_50m,forward_spatial,3,fit_026_M1,M1,0.1,241,134,67,21,,,results/models/fit_026_M1.joblib
+explicit_atm_50m,forward_spatial,4,fit_027_M0,M0,10.0,239,115,71,2,,,results/models/fit_027_M0.joblib
+explicit_atm_50m,forward_spatial,4,fit_027_M1,M1,0.01,239,115,71,21,,,results/models/fit_027_M1.joblib
+no_source_conflicts_50m,forward_spatial,0,fit_028_M0,M0,0.01,465,251,210,2,,,results/models/fit_028_M0.joblib
+no_source_conflicts_50m,forward_spatial,0,fit_028_M1,M1,0.01,465,251,210,21,,,results/models/fit_028_M1.joblib
+no_source_conflicts_50m,forward_spatial,1,fit_029_M0,M0,10.0,499,282,181,2,,,results/models/fit_029_M0.joblib
+no_source_conflicts_50m,forward_spatial,1,fit_029_M1,M1,0.1,499,282,181,21,,,results/models/fit_029_M1.joblib
+no_source_conflicts_50m,forward_spatial,2,fit_030_M0,M0,0.1,358,175,204,2,,,results/models/fit_030_M0.joblib
+no_source_conflicts_50m,forward_spatial,2,fit_030_M1,M1,0.1,358,175,204,21,,,results/models/fit_030_M1.joblib
+no_source_conflicts_50m,forward_spatial,3,fit_031_M0,M0,0.01,560,332,153,2,,,results/models/fit_031_M0.joblib
+no_source_conflicts_50m,forward_spatial,3,fit_031_M1,M1,0.01,560,332,153,21,,,results/models/fit_031_M1.joblib
+no_source_conflicts_50m,forward_spatial,4,fit_032_M0,M0,0.01,497,269,187,2,,,results/models/fit_032_M0.joblib
+no_source_conflicts_50m,forward_spatial,4,fit_032_M1,M1,0.1,497,269,187,21,,,results/models/fit_032_M1.joblib
+report_filtered_50m,forward_spatial,0,fit_033_M0,M0,0.01,359,197,169,2,,,results/models/fit_033_M0.joblib
+report_filtered_50m,forward_spatial,0,fit_033_M1,M1,0.1,359,197,169,21,,,results/models/fit_033_M1.joblib
+report_filtered_50m,forward_spatial,1,fit_034_M0,M0,1.0,342,192,168,2,,,results/models/fit_034_M0.joblib
+report_filtered_50m,forward_spatial,1,fit_034_M1,M1,0.01,342,192,168,21,,,results/models/fit_034_M1.joblib
+report_filtered_50m,forward_spatial,2,fit_035_M0,M0,0.01,232,103,173,2,,,results/models/fit_035_M0.joblib
+report_filtered_50m,forward_spatial,2,fit_035_M1,M1,0.1,232,103,173,21,,,results/models/fit_035_M1.joblib
+report_filtered_50m,forward_spatial,3,fit_036_M0,M0,0.01,430,246,100,2,,,results/models/fit_036_M0.joblib
+report_filtered_50m,forward_spatial,3,fit_036_M1,M1,0.01,430,246,100,21,,,results/models/fit_036_M1.joblib
+report_filtered_50m,forward_spatial,4,fit_037_M0,M0,0.1,417,234,113,2,,,results/models/fit_037_M0.joblib
+report_filtered_50m,forward_spatial,4,fit_037_M1,M1,0.1,417,234,113,21,,,results/models/fit_037_M1.joblib

@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "checks": {
+    "phase1_3_and_phase4_inputs_unchanged": "PASS",
+    "outer_and_inner_spatial_identity_geography_separation": "PASS",
+    "training_only_imputation_and_scaling": "PASS",
+    "all_saved_models_replay_exactly": "PASS",
+    "prediction_labels_and_unique_complete_test_coverage": "PASS",
+    "weighted_bootstrap_AP_matches_sklearn": "PASS"
+  },
+  "models_replayed": 92,
+  "predictions": 32484,
+  "scientific_review": "PENDING"
+}

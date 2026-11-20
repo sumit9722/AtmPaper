@@ -1,0 +1,19 @@
+row_id,city,outcome_year,longitude,latitude
+osm_continuity_partial_2023:osm_6a24fef08d9036b7:2023,New York City,2023,-73.9581907,40.7644185
+osm_continuity_partial_2023:osm_bfb066080fd298ba:2023,New York City,2023,-73.9606301,40.7661461
+osm_continuity_full_year:osm_69101c8fd750a114:2024,New York City,2024,-73.9273619,40.8652463
+osm_continuity_full_year:osm_b9526fcf6b50df7d:2024,New York City,2024,-73.9712998,40.7507513
+osm_continuity_full_year:osm_6039ea2f336217d6:2025,New York City,2025,-73.9036522,40.7002876
+osm_continuity_full_year:osm_ae3197576c6dac9a:2025,New York City,2025,-73.9970472,40.6036855
+osm_continuity_partial_2023:osm_deffcfd842a6a981:2023,Chicago,2023,-87.66698705000017,41.857598150004875
+osm_continuity_partial_2023:osm_56c793d320bb2329:2023,Chicago,2023,-87.6574216,41.9170287
+osm_continuity_full_year:osm_db5936fe6e0085d8:2024,Chicago,2024,-87.725974,41.8857869
+osm_continuity_full_year:osm_5255911186a23be7:2024,Chicago,2024,-87.6481578,41.9252645
+osm_continuity_full_year:osm_ce10825ab7654fcf:2025,Chicago,2025,-87.6521937,41.961986
+osm_continuity_full_year:osm_4dadcea2c1b4acb8:2025,Chicago,2025,-87.76889243117812,41.97591134470812
+osm_continuity_partial_2023:osm_681abe36d04576b1:2023,Los Angeles,2023,-118.3932467,34.0268336
+osm_continuity_partial_2023:osm_c92533ccd75782d3:2023,Los Angeles,2023,-118.27574090220145,34.2466706065066
+osm_continuity_full_year:osm_67499c0074882abc:2024,Los Angeles,2024,-118.296135,34.1150957
+osm_continuity_full_year:osm_c10bba1ab1ca01f4:2024,Los Angeles,2024,-118.43354150755518,34.00410234011362
+osm_continuity_full_year:osm_66a41d96d01f2822:2025,Los Angeles,2025,-118.308543,34.0838562
+osm_continuity_full_year:osm_bdd6e55abf789f7a:2025,Los Angeles,2025,-118.444897,34.0582622

@@ -1,0 +1,14 @@
+nyc_historic: 7537 ATM-coded rows
+nyc_current_ytd: 161 ATM-coded rows
+chicago: 8835 ATM-coded rows
+la_2010_2019: 967 ATM-coded rows
+la_2020_2024: 2476 ATM-coded rows
+la_nibrs: 622 ATM-coded rows
+FDIC nyc 36005: 4373 branch-year rows
+FDIC nyc 36047: 10392 branch-year rows
+FDIC nyc 36061: 19572 branch-year rows
+FDIC nyc 36081: 12737 branch-year rows
+FDIC nyc 36085: 3138 branch-year rows
+FDIC chicago_cook 17031: 44212 branch-year rows
+FDIC la_county 06037: 54382 branch-year rows
+Done: 51 raw files; 0 failures

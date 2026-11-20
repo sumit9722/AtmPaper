@@ -1,0 +1,316 @@
+subset,city,year,predictor,rows,missing
+full_year_2024_2025,New York City,2024,log1p_prior_local_50m_retrospective,702,0
+full_year_2024_2025,New York City,2024,log1p_prior_annulus_200_500m_retrospective,702,0
+full_year_2024_2025,New York City,2024,log1p_population_density,702,0
+full_year_2024_2025,New York City,2024,log1p_median_household_income,702,114
+full_year_2024_2025,New York City,2024,unemployment_rate,702,43
+full_year_2024_2025,New York City,2024,housing_vacancy_share,702,44
+full_year_2024_2025,New York City,2024,renter_occupied_share,702,44
+full_year_2024_2025,New York City,2024,multifamily_housing_share,702,44
+full_year_2024_2025,New York City,2024,crowded_household_share,702,44
+full_year_2024_2025,New York City,2024,no_vehicle_household_share,702,44
+full_year_2024_2025,New York City,2024,log1p_median_gross_rent,702,84
+full_year_2024_2025,New York City,2024,log1p_housing_age,702,53
+full_year_2024_2025,New York City,2024,recent_move_share,702,44
+full_year_2024_2025,New York City,2024,log1p_employment_density,702,0
+full_year_2024_2025,New York City,2024,log1p_retail_employment_density,702,0
+full_year_2024_2025,New York City,2024,employment_mix,702,0
+full_year_2024_2025,New York City,2024,log1p_road_network_density,702,0
+full_year_2024_2025,New York City,2024,log1p_auto_road_density,702,0
+full_year_2024_2025,New York City,2024,log1p_intersection_density,702,0
+full_year_2024_2025,New York City,2024,log1p_transit_service_density,702,1
+full_year_2024_2025,New York City,2024,log1p_auto_job_accessibility,702,0
+full_year_2024_2025,New York City,2025,log1p_prior_local_50m_retrospective,750,0
+full_year_2024_2025,New York City,2025,log1p_prior_annulus_200_500m_retrospective,750,0
+full_year_2024_2025,New York City,2025,log1p_population_density,750,0
+full_year_2024_2025,New York City,2025,log1p_median_household_income,750,124
+full_year_2024_2025,New York City,2025,unemployment_rate,750,47
+full_year_2024_2025,New York City,2025,housing_vacancy_share,750,48
+full_year_2024_2025,New York City,2025,renter_occupied_share,750,48
+full_year_2024_2025,New York City,2025,multifamily_housing_share,750,48
+full_year_2024_2025,New York City,2025,crowded_household_share,750,48
+full_year_2024_2025,New York City,2025,no_vehicle_household_share,750,48
+full_year_2024_2025,New York City,2025,log1p_median_gross_rent,750,92
+full_year_2024_2025,New York City,2025,log1p_housing_age,750,57
+full_year_2024_2025,New York City,2025,recent_move_share,750,48
+full_year_2024_2025,New York City,2025,log1p_employment_density,750,0
+full_year_2024_2025,New York City,2025,log1p_retail_employment_density,750,0
+full_year_2024_2025,New York City,2025,employment_mix,750,0
+full_year_2024_2025,New York City,2025,log1p_road_network_density,750,0
+full_year_2024_2025,New York City,2025,log1p_auto_road_density,750,0
+full_year_2024_2025,New York City,2025,log1p_intersection_density,750,0
+full_year_2024_2025,New York City,2025,log1p_transit_service_density,750,1
+full_year_2024_2025,New York City,2025,log1p_auto_job_accessibility,750,0
+full_year_2024_2025,Chicago,2024,log1p_prior_local_50m_retrospective,443,0
+full_year_2024_2025,Chicago,2024,log1p_prior_annulus_200_500m_retrospective,443,0
+full_year_2024_2025,Chicago,2024,log1p_population_density,443,0
+full_year_2024_2025,Chicago,2024,log1p_median_household_income,443,56
+full_year_2024_2025,Chicago,2024,unemployment_rate,443,13
+full_year_2024_2025,Chicago,2024,housing_vacancy_share,443,13
+full_year_2024_2025,Chicago,2024,renter_occupied_share,443,13
+full_year_2024_2025,Chicago,2024,multifamily_housing_share,443,13
+full_year_2024_2025,Chicago,2024,crowded_household_share,443,13
+full_year_2024_2025,Chicago,2024,no_vehicle_household_share,443,13
+full_year_2024_2025,Chicago,2024,log1p_median_gross_rent,443,65
+full_year_2024_2025,Chicago,2024,log1p_housing_age,443,13
+full_year_2024_2025,Chicago,2024,recent_move_share,443,13
+full_year_2024_2025,Chicago,2024,log1p_employment_density,443,0
+full_year_2024_2025,Chicago,2024,log1p_retail_employment_density,443,0
+full_year_2024_2025,Chicago,2024,employment_mix,443,0
+full_year_2024_2025,Chicago,2024,log1p_road_network_density,443,0
+full_year_2024_2025,Chicago,2024,log1p_auto_road_density,443,0
+full_year_2024_2025,Chicago,2024,log1p_intersection_density,443,0
+full_year_2024_2025,Chicago,2024,log1p_transit_service_density,443,0
+full_year_2024_2025,Chicago,2024,log1p_auto_job_accessibility,443,0
+full_year_2024_2025,Chicago,2025,log1p_prior_local_50m_retrospective,482,0
+full_year_2024_2025,Chicago,2025,log1p_prior_annulus_200_500m_retrospective,482,0
+full_year_2024_2025,Chicago,2025,log1p_population_density,482,0
+full_year_2024_2025,Chicago,2025,log1p_median_household_income,482,62
+full_year_2024_2025,Chicago,2025,unemployment_rate,482,21
+full_year_2024_2025,Chicago,2025,housing_vacancy_share,482,21
+full_year_2024_2025,Chicago,2025,renter_occupied_share,482,21
+full_year_2024_2025,Chicago,2025,multifamily_housing_share,482,21
+full_year_2024_2025,Chicago,2025,crowded_household_share,482,21
+full_year_2024_2025,Chicago,2025,no_vehicle_household_share,482,21
+full_year_2024_2025,Chicago,2025,log1p_median_gross_rent,482,76
+full_year_2024_2025,Chicago,2025,log1p_housing_age,482,21
+full_year_2024_2025,Chicago,2025,recent_move_share,482,21
+full_year_2024_2025,Chicago,2025,log1p_employment_density,482,0
+full_year_2024_2025,Chicago,2025,log1p_retail_employment_density,482,0
+full_year_2024_2025,Chicago,2025,employment_mix,482,0
+full_year_2024_2025,Chicago,2025,log1p_road_network_density,482,0
+full_year_2024_2025,Chicago,2025,log1p_auto_road_density,482,0
+full_year_2024_2025,Chicago,2025,log1p_intersection_density,482,0
+full_year_2024_2025,Chicago,2025,log1p_transit_service_density,482,0
+full_year_2024_2025,Chicago,2025,log1p_auto_job_accessibility,482,0
+full_year_2024_2025,Los Angeles,2024,log1p_prior_local_50m_retrospective,174,0
+full_year_2024_2025,Los Angeles,2024,log1p_prior_annulus_200_500m_retrospective,174,0
+full_year_2024_2025,Los Angeles,2024,log1p_population_density,174,0
+full_year_2024_2025,Los Angeles,2024,log1p_median_household_income,174,38
+full_year_2024_2025,Los Angeles,2024,unemployment_rate,174,9
+full_year_2024_2025,Los Angeles,2024,housing_vacancy_share,174,16
+full_year_2024_2025,Los Angeles,2024,renter_occupied_share,174,16
+full_year_2024_2025,Los Angeles,2024,multifamily_housing_share,174,16
+full_year_2024_2025,Los Angeles,2024,crowded_household_share,174,16
+full_year_2024_2025,Los Angeles,2024,no_vehicle_household_share,174,16
+full_year_2024_2025,Los Angeles,2024,log1p_median_gross_rent,174,24
+full_year_2024_2025,Los Angeles,2024,log1p_housing_age,174,18
+full_year_2024_2025,Los Angeles,2024,recent_move_share,174,16
+full_year_2024_2025,Los Angeles,2024,log1p_employment_density,174,0
+full_year_2024_2025,Los Angeles,2024,log1p_retail_employment_density,174,0
+full_year_2024_2025,Los Angeles,2024,employment_mix,174,0
+full_year_2024_2025,Los Angeles,2024,log1p_road_network_density,174,0
+full_year_2024_2025,Los Angeles,2024,log1p_auto_road_density,174,0
+full_year_2024_2025,Los Angeles,2024,log1p_intersection_density,174,0
+full_year_2024_2025,Los Angeles,2024,log1p_transit_service_density,174,0
+full_year_2024_2025,Los Angeles,2024,log1p_auto_job_accessibility,174,0
+full_year_2024_2025,Los Angeles,2025,log1p_prior_local_50m_retrospective,180,0
+full_year_2024_2025,Los Angeles,2025,log1p_prior_annulus_200_500m_retrospective,180,0
+full_year_2024_2025,Los Angeles,2025,log1p_population_density,180,0
+full_year_2024_2025,Los Angeles,2025,log1p_median_household_income,180,40
+full_year_2024_2025,Los Angeles,2025,unemployment_rate,180,12
+full_year_2024_2025,Los Angeles,2025,housing_vacancy_share,180,19
+full_year_2024_2025,Los Angeles,2025,renter_occupied_share,180,19
+full_year_2024_2025,Los Angeles,2025,multifamily_housing_share,180,19
+full_year_2024_2025,Los Angeles,2025,crowded_household_share,180,19
+full_year_2024_2025,Los Angeles,2025,no_vehicle_household_share,180,19
+full_year_2024_2025,Los Angeles,2025,log1p_median_gross_rent,180,27
+full_year_2024_2025,Los Angeles,2025,log1p_housing_age,180,21
+full_year_2024_2025,Los Angeles,2025,recent_move_share,180,19
+full_year_2024_2025,Los Angeles,2025,log1p_employment_density,180,0
+full_year_2024_2025,Los Angeles,2025,log1p_retail_employment_density,180,0
+full_year_2024_2025,Los Angeles,2025,employment_mix,180,0
+full_year_2024_2025,Los Angeles,2025,log1p_road_network_density,180,0
+full_year_2024_2025,Los Angeles,2025,log1p_auto_road_density,180,0
+full_year_2024_2025,Los Angeles,2025,log1p_intersection_density,180,0
+full_year_2024_2025,Los Angeles,2025,log1p_transit_service_density,180,0
+full_year_2024_2025,Los Angeles,2025,log1p_auto_job_accessibility,180,0
+core_2024_2025,New York City,2024,log1p_prior_local_50m_retrospective,557,0
+core_2024_2025,New York City,2024,log1p_prior_annulus_200_500m_retrospective,557,0
+core_2024_2025,New York City,2024,log1p_population_density,557,0
+core_2024_2025,New York City,2024,log1p_median_household_income,557,91
+core_2024_2025,New York City,2024,unemployment_rate,557,32
+core_2024_2025,New York City,2024,housing_vacancy_share,557,33
+core_2024_2025,New York City,2024,renter_occupied_share,557,33
+core_2024_2025,New York City,2024,multifamily_housing_share,557,33
+core_2024_2025,New York City,2024,crowded_household_share,557,33
+core_2024_2025,New York City,2024,no_vehicle_household_share,557,33
+core_2024_2025,New York City,2024,log1p_median_gross_rent,557,67
+core_2024_2025,New York City,2024,log1p_housing_age,557,42
+core_2024_2025,New York City,2024,recent_move_share,557,33
+core_2024_2025,New York City,2024,log1p_employment_density,557,0
+core_2024_2025,New York City,2024,log1p_retail_employment_density,557,0
+core_2024_2025,New York City,2024,employment_mix,557,0
+core_2024_2025,New York City,2024,log1p_road_network_density,557,0
+core_2024_2025,New York City,2024,log1p_auto_road_density,557,0
+core_2024_2025,New York City,2024,log1p_intersection_density,557,0
+core_2024_2025,New York City,2024,log1p_transit_service_density,557,0
+core_2024_2025,New York City,2024,log1p_auto_job_accessibility,557,0
+core_2024_2025,New York City,2025,log1p_prior_local_50m_retrospective,611,0
+core_2024_2025,New York City,2025,log1p_prior_annulus_200_500m_retrospective,611,0
+core_2024_2025,New York City,2025,log1p_population_density,611,0
+core_2024_2025,New York City,2025,log1p_median_household_income,611,99
+core_2024_2025,New York City,2025,unemployment_rate,611,36
+core_2024_2025,New York City,2025,housing_vacancy_share,611,37
+core_2024_2025,New York City,2025,renter_occupied_share,611,37
+core_2024_2025,New York City,2025,multifamily_housing_share,611,37
+core_2024_2025,New York City,2025,crowded_household_share,611,37
+core_2024_2025,New York City,2025,no_vehicle_household_share,611,37
+core_2024_2025,New York City,2025,log1p_median_gross_rent,611,75
+core_2024_2025,New York City,2025,log1p_housing_age,611,46
+core_2024_2025,New York City,2025,recent_move_share,611,37
+core_2024_2025,New York City,2025,log1p_employment_density,611,0
+core_2024_2025,New York City,2025,log1p_retail_employment_density,611,0
+core_2024_2025,New York City,2025,employment_mix,611,0
+core_2024_2025,New York City,2025,log1p_road_network_density,611,0
+core_2024_2025,New York City,2025,log1p_auto_road_density,611,0
+core_2024_2025,New York City,2025,log1p_intersection_density,611,0
+core_2024_2025,New York City,2025,log1p_transit_service_density,611,0
+core_2024_2025,New York City,2025,log1p_auto_job_accessibility,611,0
+core_2024_2025,Chicago,2024,log1p_prior_local_50m_retrospective,190,0
+core_2024_2025,Chicago,2024,log1p_prior_annulus_200_500m_retrospective,190,0
+core_2024_2025,Chicago,2024,log1p_population_density,190,0
+core_2024_2025,Chicago,2024,log1p_median_household_income,190,20
+core_2024_2025,Chicago,2024,unemployment_rate,190,7
+core_2024_2025,Chicago,2024,housing_vacancy_share,190,7
+core_2024_2025,Chicago,2024,renter_occupied_share,190,7
+core_2024_2025,Chicago,2024,multifamily_housing_share,190,7
+core_2024_2025,Chicago,2024,crowded_household_share,190,7
+core_2024_2025,Chicago,2024,no_vehicle_household_share,190,7
+core_2024_2025,Chicago,2024,log1p_median_gross_rent,190,18
+core_2024_2025,Chicago,2024,log1p_housing_age,190,7
+core_2024_2025,Chicago,2024,recent_move_share,190,7
+core_2024_2025,Chicago,2024,log1p_employment_density,190,0
+core_2024_2025,Chicago,2024,log1p_retail_employment_density,190,0
+core_2024_2025,Chicago,2024,employment_mix,190,0
+core_2024_2025,Chicago,2024,log1p_road_network_density,190,0
+core_2024_2025,Chicago,2024,log1p_auto_road_density,190,0
+core_2024_2025,Chicago,2024,log1p_intersection_density,190,0
+core_2024_2025,Chicago,2024,log1p_transit_service_density,190,0
+core_2024_2025,Chicago,2024,log1p_auto_job_accessibility,190,0
+core_2024_2025,Chicago,2025,log1p_prior_local_50m_retrospective,212,0
+core_2024_2025,Chicago,2025,log1p_prior_annulus_200_500m_retrospective,212,0
+core_2024_2025,Chicago,2025,log1p_population_density,212,0
+core_2024_2025,Chicago,2025,log1p_median_household_income,212,23
+core_2024_2025,Chicago,2025,unemployment_rate,212,13
+core_2024_2025,Chicago,2025,housing_vacancy_share,212,13
+core_2024_2025,Chicago,2025,renter_occupied_share,212,13
+core_2024_2025,Chicago,2025,multifamily_housing_share,212,13
+core_2024_2025,Chicago,2025,crowded_household_share,212,13
+core_2024_2025,Chicago,2025,no_vehicle_household_share,212,13
+core_2024_2025,Chicago,2025,log1p_median_gross_rent,212,25
+core_2024_2025,Chicago,2025,log1p_housing_age,212,13
+core_2024_2025,Chicago,2025,recent_move_share,212,13
+core_2024_2025,Chicago,2025,log1p_employment_density,212,0
+core_2024_2025,Chicago,2025,log1p_retail_employment_density,212,0
+core_2024_2025,Chicago,2025,employment_mix,212,0
+core_2024_2025,Chicago,2025,log1p_road_network_density,212,0
+core_2024_2025,Chicago,2025,log1p_auto_road_density,212,0
+core_2024_2025,Chicago,2025,log1p_intersection_density,212,0
+core_2024_2025,Chicago,2025,log1p_transit_service_density,212,0
+core_2024_2025,Chicago,2025,log1p_auto_job_accessibility,212,0
+core_2024_2025,Los Angeles,2024,log1p_prior_local_50m_retrospective,108,0
+core_2024_2025,Los Angeles,2024,log1p_prior_annulus_200_500m_retrospective,108,0
+core_2024_2025,Los Angeles,2024,log1p_population_density,108,0
+core_2024_2025,Los Angeles,2024,log1p_median_household_income,108,22
+core_2024_2025,Los Angeles,2024,unemployment_rate,108,9
+core_2024_2025,Los Angeles,2024,housing_vacancy_share,108,10
+core_2024_2025,Los Angeles,2024,renter_occupied_share,108,10
+core_2024_2025,Los Angeles,2024,multifamily_housing_share,108,10
+core_2024_2025,Los Angeles,2024,crowded_household_share,108,10
+core_2024_2025,Los Angeles,2024,no_vehicle_household_share,108,10
+core_2024_2025,Los Angeles,2024,log1p_median_gross_rent,108,17
+core_2024_2025,Los Angeles,2024,log1p_housing_age,108,12
+core_2024_2025,Los Angeles,2024,recent_move_share,108,10
+core_2024_2025,Los Angeles,2024,log1p_employment_density,108,0
+core_2024_2025,Los Angeles,2024,log1p_retail_employment_density,108,0
+core_2024_2025,Los Angeles,2024,employment_mix,108,0
+core_2024_2025,Los Angeles,2024,log1p_road_network_density,108,0
+core_2024_2025,Los Angeles,2024,log1p_auto_road_density,108,0
+core_2024_2025,Los Angeles,2024,log1p_intersection_density,108,0
+core_2024_2025,Los Angeles,2024,log1p_transit_service_density,108,0
+core_2024_2025,Los Angeles,2024,log1p_auto_job_accessibility,108,0
+core_2024_2025,Los Angeles,2025,log1p_prior_local_50m_retrospective,112,0
+core_2024_2025,Los Angeles,2025,log1p_prior_annulus_200_500m_retrospective,112,0
+core_2024_2025,Los Angeles,2025,log1p_population_density,112,0
+core_2024_2025,Los Angeles,2025,log1p_median_household_income,112,25
+core_2024_2025,Los Angeles,2025,unemployment_rate,112,12
+core_2024_2025,Los Angeles,2025,housing_vacancy_share,112,13
+core_2024_2025,Los Angeles,2025,renter_occupied_share,112,13
+core_2024_2025,Los Angeles,2025,multifamily_housing_share,112,13
+core_2024_2025,Los Angeles,2025,crowded_household_share,112,13
+core_2024_2025,Los Angeles,2025,no_vehicle_household_share,112,13
+core_2024_2025,Los Angeles,2025,log1p_median_gross_rent,112,20
+core_2024_2025,Los Angeles,2025,log1p_housing_age,112,15
+core_2024_2025,Los Angeles,2025,recent_move_share,112,13
+core_2024_2025,Los Angeles,2025,log1p_employment_density,112,0
+core_2024_2025,Los Angeles,2025,log1p_retail_employment_density,112,0
+core_2024_2025,Los Angeles,2025,employment_mix,112,0
+core_2024_2025,Los Angeles,2025,log1p_road_network_density,112,0
+core_2024_2025,Los Angeles,2025,log1p_auto_road_density,112,0
+core_2024_2025,Los Angeles,2025,log1p_intersection_density,112,0
+core_2024_2025,Los Angeles,2025,log1p_transit_service_density,112,0
+core_2024_2025,Los Angeles,2025,log1p_auto_job_accessibility,112,0
+partial_2023,New York City,2023,log1p_prior_local_50m_retrospective,680,0
+partial_2023,New York City,2023,log1p_prior_annulus_200_500m_retrospective,680,0
+partial_2023,New York City,2023,log1p_population_density,680,680
+partial_2023,New York City,2023,log1p_median_household_income,680,680
+partial_2023,New York City,2023,unemployment_rate,680,680
+partial_2023,New York City,2023,housing_vacancy_share,680,680
+partial_2023,New York City,2023,renter_occupied_share,680,680
+partial_2023,New York City,2023,multifamily_housing_share,680,680
+partial_2023,New York City,2023,crowded_household_share,680,680
+partial_2023,New York City,2023,no_vehicle_household_share,680,680
+partial_2023,New York City,2023,log1p_median_gross_rent,680,680
+partial_2023,New York City,2023,log1p_housing_age,680,680
+partial_2023,New York City,2023,recent_move_share,680,680
+partial_2023,New York City,2023,log1p_employment_density,680,0
+partial_2023,New York City,2023,log1p_retail_employment_density,680,0
+partial_2023,New York City,2023,employment_mix,680,0
+partial_2023,New York City,2023,log1p_road_network_density,680,0
+partial_2023,New York City,2023,log1p_auto_road_density,680,0
+partial_2023,New York City,2023,log1p_intersection_density,680,0
+partial_2023,New York City,2023,log1p_transit_service_density,680,1
+partial_2023,New York City,2023,log1p_auto_job_accessibility,680,0
+partial_2023,Chicago,2023,log1p_prior_local_50m_retrospective,441,0
+partial_2023,Chicago,2023,log1p_prior_annulus_200_500m_retrospective,441,0
+partial_2023,Chicago,2023,log1p_population_density,441,441
+partial_2023,Chicago,2023,log1p_median_household_income,441,441
+partial_2023,Chicago,2023,unemployment_rate,441,441
+partial_2023,Chicago,2023,housing_vacancy_share,441,441
+partial_2023,Chicago,2023,renter_occupied_share,441,441
+partial_2023,Chicago,2023,multifamily_housing_share,441,441
+partial_2023,Chicago,2023,crowded_household_share,441,441
+partial_2023,Chicago,2023,no_vehicle_household_share,441,441
+partial_2023,Chicago,2023,log1p_median_gross_rent,441,441
+partial_2023,Chicago,2023,log1p_housing_age,441,441
+partial_2023,Chicago,2023,recent_move_share,441,441
+partial_2023,Chicago,2023,log1p_employment_density,441,0
+partial_2023,Chicago,2023,log1p_retail_employment_density,441,0
+partial_2023,Chicago,2023,employment_mix,441,0
+partial_2023,Chicago,2023,log1p_road_network_density,441,0
+partial_2023,Chicago,2023,log1p_auto_road_density,441,0
+partial_2023,Chicago,2023,log1p_intersection_density,441,0
+partial_2023,Chicago,2023,log1p_transit_service_density,441,0
+partial_2023,Chicago,2023,log1p_auto_job_accessibility,441,0
+partial_2023,Los Angeles,2023,log1p_prior_local_50m_retrospective,166,0
+partial_2023,Los Angeles,2023,log1p_prior_annulus_200_500m_retrospective,166,0
+partial_2023,Los Angeles,2023,log1p_population_density,166,166
+partial_2023,Los Angeles,2023,log1p_median_household_income,166,166
+partial_2023,Los Angeles,2023,unemployment_rate,166,166
+partial_2023,Los Angeles,2023,housing_vacancy_share,166,166
+partial_2023,Los Angeles,2023,renter_occupied_share,166,166
+partial_2023,Los Angeles,2023,multifamily_housing_share,166,166
+partial_2023,Los Angeles,2023,crowded_household_share,166,166
+partial_2023,Los Angeles,2023,no_vehicle_household_share,166,166
+partial_2023,Los Angeles,2023,log1p_median_gross_rent,166,166
+partial_2023,Los Angeles,2023,log1p_housing_age,166,166
+partial_2023,Los Angeles,2023,recent_move_share,166,166
+partial_2023,Los Angeles,2023,log1p_employment_density,166,0
+partial_2023,Los Angeles,2023,log1p_retail_employment_density,166,0
+partial_2023,Los Angeles,2023,employment_mix,166,0
+partial_2023,Los Angeles,2023,log1p_road_network_density,166,0
+partial_2023,Los Angeles,2023,log1p_auto_road_density,166,0
+partial_2023,Los Angeles,2023,log1p_intersection_density,166,0
+partial_2023,Los Angeles,2023,log1p_transit_service_density,166,0
+partial_2023,Los Angeles,2023,log1p_auto_job_accessibility,166,0

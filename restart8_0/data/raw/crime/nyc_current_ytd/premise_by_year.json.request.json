@@ -1,0 +1,7 @@
+{
+  "url": "https://data.cityofnewyork.us/resource/5uac-w243.json?%24query=select+date_extract_y%28cmplnt_fr_dt%29+as+yr%2C+prem_typ_desc+as+value%2C+count%28%2A%29+as+n+group+by+yr%2C+value+order+by+yr%2C+value+limit+50000",
+  "http_status": 200,
+  "bytes": 25006,
+  "sha256": "5be9ee4fbf7af03a664bd0e7e4ea7e6b435c14b139b1ea5e133aed5bd1ad3462",
+  "retrieved_utc": "2026-11-14T09:53:23+00:00"
+}

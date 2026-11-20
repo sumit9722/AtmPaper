@@ -1,0 +1,7 @@
+{
+  "url": "https://data.lacity.org/resource/63jg-8b9z.json?%24query=select+date_extract_y%28date_occ%29+as+yr%2C+premis_desc+as+value%2C+count%28%2A%29+as+n+group+by+yr%2C+value+order+by+yr%2C+value+limit+50000",
+  "http_status": 200,
+  "bytes": 130248,
+  "sha256": "7401cfef13802e77f071feee82e38c8912f2e1ff27cab30c3d4a0ad1786d2664",
+  "retrieved_utc": "2026-11-14T09:54:57+00:00"
+}

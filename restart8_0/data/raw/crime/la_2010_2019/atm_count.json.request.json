@@ -1,0 +1,7 @@
+{
+  "url": "https://data.lacity.org/resource/63jg-8b9z.json?%24query=select+count%28%2A%29+as+n+where+%28upper%28premis_desc%29+like+%27%25ATM%25%27+or+upper%28premis_desc%29+like+%27%25TELLER%25%27%29",
+  "http_status": 200,
+  "bytes": 14,
+  "sha256": "5e5cd1a3797cd593d443fbdfaf3b7ebbfee9cb78a19652e21d090e315b45d146",
+  "retrieved_utc": "2026-11-14T09:54:49+00:00"
+}

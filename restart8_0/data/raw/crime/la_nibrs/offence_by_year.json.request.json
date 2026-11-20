@@ -1,0 +1,7 @@
+{
+  "url": "https://data.lacity.org/resource/k7nn-b2ep.json?%24query=select+date_extract_y%28date_occ%29+as+yr%2C+nibr_description+as+value%2C+count%28%2A%29+as+n+group+by+yr%2C+value+order+by+yr%2C+value+limit+50000",
+  "http_status": 200,
+  "bytes": 677485,
+  "sha256": "6ce68436a5f6806a82ad706fe853f6ffdcbd7e6ed6b27e25071256d4deaeb883",
+  "retrieved_utc": "2026-11-14T09:55:25+00:00"
+}

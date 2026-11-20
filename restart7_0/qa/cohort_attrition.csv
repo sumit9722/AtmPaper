@@ -1,0 +1,37 @@
+city,year,stage,remaining,removed_this_stage
+New York City,2024,inherited_master,702,0
+New York City,2024,nonpoint_centroid,617,85
+New York City,2024,coordinate_drift_over_10m,613,4
+New York City,2024,boundary_truncated_background,612,1
+New York City,2024,unresolved_object_within_10m,557,55
+New York City,2024,baseline_neighbor_inventory_unavailable,557,0
+New York City,2025,inherited_master,750,0
+New York City,2025,nonpoint_centroid,666,84
+New York City,2025,coordinate_drift_over_10m,666,0
+New York City,2025,boundary_truncated_background,665,1
+New York City,2025,unresolved_object_within_10m,611,54
+New York City,2025,baseline_neighbor_inventory_unavailable,611,0
+Chicago,2024,inherited_master,443,0
+Chicago,2024,nonpoint_centroid,223,220
+Chicago,2024,coordinate_drift_over_10m,221,2
+Chicago,2024,boundary_truncated_background,198,23
+Chicago,2024,unresolved_object_within_10m,190,8
+Chicago,2024,baseline_neighbor_inventory_unavailable,190,0
+Chicago,2025,inherited_master,482,0
+Chicago,2025,nonpoint_centroid,254,228
+Chicago,2025,coordinate_drift_over_10m,252,2
+Chicago,2025,boundary_truncated_background,229,23
+Chicago,2025,unresolved_object_within_10m,212,17
+Chicago,2025,baseline_neighbor_inventory_unavailable,212,0
+Los Angeles,2024,inherited_master,174,0
+Los Angeles,2024,nonpoint_centroid,150,24
+Los Angeles,2024,coordinate_drift_over_10m,150,0
+Los Angeles,2024,boundary_truncated_background,123,27
+Los Angeles,2024,unresolved_object_within_10m,108,15
+Los Angeles,2024,baseline_neighbor_inventory_unavailable,108,0
+Los Angeles,2025,inherited_master,180,0
+Los Angeles,2025,nonpoint_centroid,154,26
+Los Angeles,2025,coordinate_drift_over_10m,154,0
+Los Angeles,2025,boundary_truncated_background,129,25
+Los Angeles,2025,unresolved_object_within_10m,112,17
+Los Angeles,2025,baseline_neighbor_inventory_unavailable,112,0

@@ -1,0 +1,30 @@
+{
+  "version": "restart7_review_revision_v1",
+  "base": "restart6_0",
+  "exclude_native_codes": {
+    "New York City": ["231", "233", "234"],
+    "Chicago": ["0760"]
+  },
+  "radii_m": [25, 50, 100],
+  "benchmark_radius_m": 50,
+  "baseline_features": ["log1p_prior_local_50m_retrospective", "log1p_prior_annulus_200_500m_retrospective"],
+  "core_rules": {
+    "point_geometry_only": true,
+    "max_coordinate_drift_m": 10,
+    "exclude_unresolved_objects_within_m": 10,
+    "require_boundary_clear_500m": true
+  },
+  "exclude_expanded_city_proxies": ["sld_CBSA_POP", "sld_CBSA_EMP", "sld_CBSA_WRK"],
+  "redundant_expanded_aliases": {
+    "sld_E8_Ret": "sld_E5_Ret",
+    "sld_E8_Ind": "sld_E5_Ind",
+    "sld_E8_Ent": "sld_E5_Ent",
+    "sld_D1C8_RET": "retail_employment_density",
+    "sld_D1C8_IND": "sld_D1C5_IND",
+    "sld_D1C8_ENT": "sld_D1C5_ENT"
+  },
+  "primary_environment_sources": ["ACS2022", "EPA_SLD2021"],
+  "primary_environment_role": "primary",
+  "scientific_review": "PENDING",
+  "models_fitted": false
+}

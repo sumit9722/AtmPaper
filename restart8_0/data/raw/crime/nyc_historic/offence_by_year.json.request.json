@@ -1,0 +1,7 @@
+{
+  "url": "https://data.cityofnewyork.us/resource/qgea-i56i.json?%24query=select+date_extract_y%28cmplnt_fr_dt%29+as+yr%2C+ofns_desc+as+value%2C+count%28%2A%29+as+n+group+by+yr%2C+value+order+by+yr%2C+value+limit+50000",
+  "http_status": 200,
+  "bytes": 113860,
+  "sha256": "64f47ebfec52bcb5e399eb8c96847cf8b601662258652888ca2f68082b57b5fb",
+  "retrieved_utc": "2026-11-14T09:53:14+00:00"
+}

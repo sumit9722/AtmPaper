@@ -1,0 +1,2679 @@
+{
+  "id" : "5uac-w243",
+  "name" : "NYPD Complaint Data Current (Year To Date)",
+  "assetType" : "dataset",
+  "attribution" : "Police Department (NYPD)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1477694250,
+  "description" : "This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) for all complete quarters so far this year (2019). For additional details, please see the attached data dictionary in the ‘About’ section.",
+  "diciBackend" : false,
+  "displayType" : "table",
+  "downloadCount" : 37001,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "locked" : false,
+  "newBackend" : true,
+  "numberOfComments" : 2,
+  "oid" : 38565792,
+  "provenance" : "official",
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1654789720,
+  "publicationGroup" : 13877134,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1793913650,
+  "rowsUpdatedBy" : "7pdm-vrjs",
+  "tableId" : 18735282,
+  "totalTimesRated" : 0,
+  "viewCount" : 180806,
+  "viewLastModified" : 1793913409,
+  "viewType" : "tabular",
+  "approvals" : [ {
+    "reviewedAt" : 1540418499,
+    "reviewedAutomatically" : true,
+    "state" : "approved",
+    "submissionId" : 4757889,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1540418499,
+    "targetAudience" : "public",
+    "workflowId" : 2285,
+    "submissionDetails" : {
+      "permissionType" : "READ"
+    },
+    "submissionOutcomeApplication" : {
+      "failureCount" : 0,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "5fuc-pqz2",
+      "displayName" : "NYC OpenData"
+    }
+  } ],
+  "clientContext" : {
+    "clientContextVariables" : [ ],
+    "inheritedVariables" : { }
+  },
+  "columns" : [ {
+    "id" : 561601987,
+    "name" : "CMPLNT_NUM",
+    "dataTypeName" : "text",
+    "description" : "Randomly generated persistent ID for each complaint ",
+    "fieldName" : "cmplnt_num",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 142513543,
+    "width" : 250,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "332394768",
+      "null" : "0",
+      "top" : [ {
+        "item" : "316906736",
+        "count" : "1"
+      }, {
+        "item" : "318208033",
+        "count" : "1"
+      }, {
+        "item" : "318208035",
+        "count" : "1"
+      }, {
+        "item" : "318208036",
+        "count" : "1"
+      }, {
+        "item" : "318208037",
+        "count" : "1"
+      }, {
+        "item" : "318208217",
+        "count" : "1"
+      }, {
+        "item" : "318208219",
+        "count" : "1"
+      }, {
+        "item" : "318208221",
+        "count" : "1"
+      }, {
+        "item" : "318208222",
+        "count" : "1"
+      }, {
+        "item" : "318208223",
+        "count" : "1"
+      }, {
+        "item" : "318208224",
+        "count" : "1"
+      }, {
+        "item" : "318208225",
+        "count" : "1"
+      }, {
+        "item" : "318208226",
+        "count" : "1"
+      }, {
+        "item" : "318208227",
+        "count" : "1"
+      }, {
+        "item" : "318208228",
+        "count" : "1"
+      }, {
+        "item" : "318208229",
+        "count" : "1"
+      }, {
+        "item" : "318208233",
+        "count" : "1"
+      }, {
+        "item" : "318208234",
+        "count" : "1"
+      }, {
+        "item" : "318208235",
+        "count" : "1"
+      }, {
+        "item" : "292135683H1",
+        "count" : "1"
+      } ],
+      "smallest" : "292135683H1",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 561601943,
+    "name" : "ADDR_PCT_CD",
+    "dataTypeName" : "number",
+    "description" : "The precinct in which the incident occurred",
+    "fieldName" : "addr_pct_cd",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 39763960,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "123",
+      "null" : "0",
+      "top" : [ {
+        "item" : "75",
+        "count" : "14335"
+      }, {
+        "item" : "40",
+        "count" : "11453"
+      }, {
+        "item" : "44",
+        "count" : "10357"
+      }, {
+        "item" : "14",
+        "count" : "10252"
+      }, {
+        "item" : "46",
+        "count" : "10073"
+      }, {
+        "item" : "47",
+        "count" : "10021"
+      }, {
+        "item" : "103",
+        "count" : "9895"
+      }, {
+        "item" : "73",
+        "count" : "9460"
+      }, {
+        "item" : "52",
+        "count" : "8983"
+      }, {
+        "item" : "67",
+        "count" : "8939"
+      }, {
+        "item" : "43",
+        "count" : "8758"
+      }, {
+        "item" : "114",
+        "count" : "8633"
+      }, {
+        "item" : "18",
+        "count" : "8065"
+      }, {
+        "item" : "109",
+        "count" : "7896"
+      }, {
+        "item" : "42",
+        "count" : "7815"
+      }, {
+        "item" : "110",
+        "count" : "7809"
+      }, {
+        "item" : "48",
+        "count" : "7261"
+      }, {
+        "item" : "115",
+        "count" : "6593"
+      }, {
+        "item" : "79",
+        "count" : "6484"
+      }, {
+        "item" : "49",
+        "count" : "6382"
+      } ],
+      "smallest" : "1",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601944,
+    "name" : "BORO_NM",
+    "dataTypeName" : "text",
+    "description" : "The name of the borough in which the incident occurred",
+    "fieldName" : "boro_nm",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39763959,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "STATEN ISLAND",
+      "null" : "0",
+      "top" : [ {
+        "item" : "BROOKLYN",
+        "count" : "122914"
+      }, {
+        "item" : "MANHATTAN",
+        "count" : "98634"
+      }, {
+        "item" : "BRONX",
+        "count" : "96090"
+      }, {
+        "item" : "QUEENS",
+        "count" : "91815"
+      }, {
+        "item" : "STATEN ISLAND",
+        "count" : "16412"
+      }, {
+        "item" : "(null)",
+        "count" : "1173"
+      } ],
+      "smallest" : "BRONX",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601945,
+    "name" : "CMPLNT_FR_DT",
+    "dataTypeName" : "calendar_date",
+    "description" : "Exact date of occurrence for the reported event (or starting date of occurrence, if CMPLNT_TO_DT exists)",
+    "fieldName" : "cmplnt_fr_dt",
+    "position" : 4,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 39763947,
+    "width" : 178,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "2026-09-30T00:00:00.000",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2026-04-01T00:00:00.000",
+        "count" : "1858"
+      }, {
+        "item" : "2026-04-15T00:00:00.000",
+        "count" : "1857"
+      }, {
+        "item" : "2026-07-01T00:00:00.000",
+        "count" : "1815"
+      }, {
+        "item" : "2026-05-01T00:00:00.000",
+        "count" : "1797"
+      }, {
+        "item" : "2026-04-17T00:00:00.000",
+        "count" : "1775"
+      }, {
+        "item" : "2026-01-01T00:00:00.000",
+        "count" : "1768"
+      }, {
+        "item" : "2026-06-11T00:00:00.000",
+        "count" : "1755"
+      }, {
+        "item" : "2026-05-05T00:00:00.000",
+        "count" : "1753"
+      }, {
+        "item" : "2026-06-24T00:00:00.000",
+        "count" : "1748"
+      }, {
+        "item" : "2026-04-14T00:00:00.000",
+        "count" : "1744"
+      }, {
+        "item" : "2026-03-27T00:00:00.000",
+        "count" : "1744"
+      }, {
+        "item" : "2026-08-01T00:00:00.000",
+        "count" : "1723"
+      }, {
+        "item" : "2026-08-12T00:00:00.000",
+        "count" : "1721"
+      }, {
+        "item" : "2026-04-16T00:00:00.000",
+        "count" : "1721"
+      }, {
+        "item" : "2026-05-15T00:00:00.000",
+        "count" : "1716"
+      }, {
+        "item" : "2026-03-11T00:00:00.000",
+        "count" : "1716"
+      }, {
+        "item" : "2026-08-13T00:00:00.000",
+        "count" : "1715"
+      }, {
+        "item" : "2026-07-22T00:00:00.000",
+        "count" : "1714"
+      }, {
+        "item" : "2026-05-22T00:00:00.000",
+        "count" : "1714"
+      }, {
+        "item" : "2026-06-01T00:00:00.000",
+        "count" : "1712"
+      } ],
+      "smallest" : "1015-09-18T00:00:00.000",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "left"
+    }
+  }, {
+    "id" : 561601946,
+    "name" : "CMPLNT_FR_TM",
+    "dataTypeName" : "text",
+    "description" : "Exact time of occurrence for the reported event (or starting time of occurrence, if CMPLNT_TO_TM exists)",
+    "fieldName" : "cmplnt_fr_tm",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39763948,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "23:59:00",
+      "null" : "0",
+      "top" : [ {
+        "item" : "12:00:00",
+        "count" : "8457"
+      }, {
+        "item" : "15:00:00",
+        "count" : "7251"
+      }, {
+        "item" : "18:00:00",
+        "count" : "6627"
+      }, {
+        "item" : "17:00:00",
+        "count" : "6404"
+      }, {
+        "item" : "16:00:00",
+        "count" : "6404"
+      }, {
+        "item" : "20:00:00",
+        "count" : "5889"
+      }, {
+        "item" : "19:00:00",
+        "count" : "5811"
+      }, {
+        "item" : "14:00:00",
+        "count" : "5734"
+      }, {
+        "item" : "00:00:00",
+        "count" : "5644"
+      }, {
+        "item" : "10:00:00",
+        "count" : "5458"
+      }, {
+        "item" : "09:00:00",
+        "count" : "5409"
+      }, {
+        "item" : "13:00:00",
+        "count" : "5393"
+      }, {
+        "item" : "08:00:00",
+        "count" : "5153"
+      }, {
+        "item" : "21:00:00",
+        "count" : "5070"
+      }, {
+        "item" : "22:00:00",
+        "count" : "4970"
+      }, {
+        "item" : "11:00:00",
+        "count" : "4729"
+      }, {
+        "item" : "23:00:00",
+        "count" : "4144"
+      }, {
+        "item" : "01:00:00",
+        "count" : "3275"
+      }, {
+        "item" : "17:30:00",
+        "count" : "3001"
+      }, {
+        "item" : "18:30:00",
+        "count" : "2915"
+      } ],
+      "smallest" : "00:00:00",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601947,
+    "name" : "CMPLNT_TO_DT",
+    "dataTypeName" : "calendar_date",
+    "description" : "Ending date of occurrence for the reported event, if exact time of occurrence is unknown",
+    "fieldName" : "cmplnt_to_dt",
+    "position" : 6,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 39763949,
+    "width" : 209,
+    "cachedContents" : {
+      "non_null" : "410738",
+      "largest" : "2026-10-02T00:00:00.000",
+      "null" : "16300",
+      "top" : [ {
+        "item" : "2026-04-15T00:00:00.000",
+        "count" : "1742"
+      }, {
+        "item" : "2026-08-13T00:00:00.000",
+        "count" : "1722"
+      }, {
+        "item" : "2026-06-11T00:00:00.000",
+        "count" : "1719"
+      }, {
+        "item" : "2026-04-01T00:00:00.000",
+        "count" : "1716"
+      }, {
+        "item" : "2026-06-24T00:00:00.000",
+        "count" : "1714"
+      }, {
+        "item" : "2026-04-17T00:00:00.000",
+        "count" : "1699"
+      }, {
+        "item" : "2026-04-14T00:00:00.000",
+        "count" : "1698"
+      }, {
+        "item" : "2026-04-16T00:00:00.000",
+        "count" : "1690"
+      }, {
+        "item" : "2026-08-12T00:00:00.000",
+        "count" : "1687"
+      }, {
+        "item" : "2026-07-22T00:00:00.000",
+        "count" : "1682"
+      }, {
+        "item" : "2026-03-27T00:00:00.000",
+        "count" : "1682"
+      }, {
+        "item" : "2026-05-06T00:00:00.000",
+        "count" : "1675"
+      }, {
+        "item" : "2026-05-05T00:00:00.000",
+        "count" : "1674"
+      }, {
+        "item" : "2026-03-11T00:00:00.000",
+        "count" : "1673"
+      }, {
+        "item" : "2026-05-01T00:00:00.000",
+        "count" : "1672"
+      }, {
+        "item" : "2026-07-01T00:00:00.000",
+        "count" : "1660"
+      }, {
+        "item" : "2026-08-05T00:00:00.000",
+        "count" : "1653"
+      }, {
+        "item" : "2026-06-25T00:00:00.000",
+        "count" : "1653"
+      }, {
+        "item" : "2026-07-17T00:00:00.000",
+        "count" : "1649"
+      }, {
+        "item" : "2026-05-13T00:00:00.000",
+        "count" : "1647"
+      } ],
+      "smallest" : "1966-09-02T00:00:00.000",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "left"
+    }
+  }, {
+    "id" : 561601948,
+    "name" : "CMPLNT_TO_TM",
+    "dataTypeName" : "text",
+    "description" : "Ending time of occurrence for the reported event, if exact time of occurrence is unknown",
+    "fieldName" : "cmplnt_to_tm",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39763950,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "(null)",
+      "null" : "0",
+      "top" : [ {
+        "item" : "(null)",
+        "count" : "16075"
+      }, {
+        "item" : "12:00:00",
+        "count" : "4913"
+      }, {
+        "item" : "15:00:00",
+        "count" : "4522"
+      }, {
+        "item" : "16:00:00",
+        "count" : "4279"
+      }, {
+        "item" : "17:00:00",
+        "count" : "3928"
+      }, {
+        "item" : "18:00:00",
+        "count" : "3884"
+      }, {
+        "item" : "13:00:00",
+        "count" : "3671"
+      }, {
+        "item" : "10:00:00",
+        "count" : "3612"
+      }, {
+        "item" : "09:00:00",
+        "count" : "3553"
+      }, {
+        "item" : "14:00:00",
+        "count" : "3539"
+      }, {
+        "item" : "08:00:00",
+        "count" : "3418"
+      }, {
+        "item" : "19:00:00",
+        "count" : "3320"
+      }, {
+        "item" : "11:00:00",
+        "count" : "3223"
+      }, {
+        "item" : "20:00:00",
+        "count" : "3186"
+      }, {
+        "item" : "21:00:00",
+        "count" : "2743"
+      }, {
+        "item" : "22:00:00",
+        "count" : "2560"
+      }, {
+        "item" : "23:00:00",
+        "count" : "2529"
+      }, {
+        "item" : "07:00:00",
+        "count" : "2458"
+      }, {
+        "item" : "15:30:00",
+        "count" : "2394"
+      }, {
+        "item" : "17:30:00",
+        "count" : "2355"
+      } ],
+      "smallest" : "00:00:00",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601949,
+    "name" : "CRM_ATPT_CPTD_CD",
+    "dataTypeName" : "text",
+    "description" : "Indicator of whether crime was successfully completed or attempted, but failed or was interrupted prematurely",
+    "fieldName" : "crm_atpt_cptd_cd",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39763956,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "COMPLETED",
+      "null" : "0",
+      "top" : [ {
+        "item" : "COMPLETED",
+        "count" : "421904"
+      }, {
+        "item" : "ATTEMPTED",
+        "count" : "5134"
+      } ],
+      "smallest" : "ATTEMPTED",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601950,
+    "name" : "HADEVELOPT",
+    "dataTypeName" : "text",
+    "description" : "Name of NYCHA housing development of occurrence, if applicable",
+    "fieldName" : "hadevelopt",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39763964,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "WOODSIDE",
+      "null" : "0",
+      "top" : [ {
+        "item" : "(null)",
+        "count" : "425652"
+      }, {
+        "item" : "INGERSOLL",
+        "count" : "227"
+      }, {
+        "item" : "WILLIAMSBURG",
+        "count" : "107"
+      }, {
+        "item" : "NOSTRAND",
+        "count" : "105"
+      }, {
+        "item" : "MANHATTANVILLE",
+        "count" : "89"
+      }, {
+        "item" : "WALD",
+        "count" : "87"
+      }, {
+        "item" : "MARLBORO",
+        "count" : "86"
+      }, {
+        "item" : "MARBLE HILL",
+        "count" : "82"
+      }, {
+        "item" : "WOODSIDE",
+        "count" : "76"
+      }, {
+        "item" : "WHITMAN",
+        "count" : "67"
+      }, {
+        "item" : "SHEEPSHEAD BAY",
+        "count" : "66"
+      }, {
+        "item" : "SMITH",
+        "count" : "64"
+      }, {
+        "item" : "RIIS",
+        "count" : "59"
+      }, {
+        "item" : "GRANT",
+        "count" : "56"
+      }, {
+        "item" : "RIIS II",
+        "count" : "46"
+      }, {
+        "item" : "RED HOOK EAST",
+        "count" : "46"
+      }, {
+        "item" : "RED HOOK WEST",
+        "count" : "27"
+      }, {
+        "item" : "MARKHAM GARDENS",
+        "count" : "26"
+      }, {
+        "item" : "WEST BRIGHTON I",
+        "count" : "19"
+      }, {
+        "item" : "GLENWOOD",
+        "count" : "13"
+      } ],
+      "smallest" : "CAMPOS PLAZA I",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601951,
+    "name" : "HOUSING_PSA",
+    "dataTypeName" : "number",
+    "description" : "Development Level Code",
+    "fieldName" : "housing_psa",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 65773877,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "27805",
+      "largest" : "74130",
+      "null" : "399233",
+      "top" : [ {
+        "item" : "1251",
+        "count" : "404"
+      }, {
+        "item" : "670",
+        "count" : "398"
+      }, {
+        "item" : "346",
+        "count" : "382"
+      }, {
+        "item" : "638",
+        "count" : "373"
+      }, {
+        "item" : "887",
+        "count" : "367"
+      }, {
+        "item" : "415",
+        "count" : "365"
+      }, {
+        "item" : "897",
+        "count" : "357"
+      }, {
+        "item" : "833",
+        "count" : "315"
+      }, {
+        "item" : "227",
+        "count" : "311"
+      }, {
+        "item" : "489",
+        "count" : "310"
+      }, {
+        "item" : "334",
+        "count" : "307"
+      }, {
+        "item" : "21821",
+        "count" : "290"
+      }, {
+        "item" : "510",
+        "count" : "289"
+      }, {
+        "item" : "477",
+        "count" : "282"
+      }, {
+        "item" : "268",
+        "count" : "274"
+      }, {
+        "item" : "4552",
+        "count" : "272"
+      }, {
+        "item" : "339",
+        "count" : "271"
+      }, {
+        "item" : "776",
+        "count" : "270"
+      }, {
+        "item" : "521",
+        "count" : "269"
+      }, {
+        "item" : "845",
+        "count" : "266"
+      } ],
+      "smallest" : "218",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : {
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 561601952,
+    "name" : "JURISDICTION_CODE",
+    "dataTypeName" : "number",
+    "description" : "Jurisdiction responsible for incident. Either internal, like Police(0), Transit(1), and Housing(2); or external(3), like Correction, Port Authority, etc.",
+    "fieldName" : "jurisdiction_code",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 65773914,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "97",
+      "null" : "0",
+      "top" : [ {
+        "item" : "0",
+        "count" : "368645"
+      }, {
+        "item" : "2",
+        "count" : "27545"
+      }, {
+        "item" : "1",
+        "count" : "25280"
+      }, {
+        "item" : "3",
+        "count" : "2227"
+      }, {
+        "item" : "17",
+        "count" : "1521"
+      }, {
+        "item" : "72",
+        "count" : "477"
+      }, {
+        "item" : "97",
+        "count" : "475"
+      }, {
+        "item" : "11",
+        "count" : "274"
+      }, {
+        "item" : "51",
+        "count" : "154"
+      }, {
+        "item" : "73",
+        "count" : "143"
+      }, {
+        "item" : "14",
+        "count" : "97"
+      }, {
+        "item" : "7",
+        "count" : "82"
+      }, {
+        "item" : "88",
+        "count" : "60"
+      }, {
+        "item" : "4",
+        "count" : "20"
+      }, {
+        "item" : "12",
+        "count" : "17"
+      }, {
+        "item" : "13",
+        "count" : "9"
+      }, {
+        "item" : "87",
+        "count" : "6"
+      }, {
+        "item" : "52",
+        "count" : "4"
+      }, {
+        "item" : "85",
+        "count" : "2"
+      } ],
+      "smallest" : "0",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601953,
+    "name" : "JURIS_DESC",
+    "dataTypeName" : "text",
+    "description" : "Description of the jurisdiction code",
+    "fieldName" : "juris_desc",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39763958,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "U.S. PARK POLICE",
+      "null" : "0",
+      "top" : [ {
+        "item" : "N.Y. POLICE DEPT",
+        "count" : "368645"
+      }, {
+        "item" : "N.Y. HOUSING POLICE",
+        "count" : "27545"
+      }, {
+        "item" : "N.Y. TRANSIT POLICE",
+        "count" : "25280"
+      }, {
+        "item" : "PORT AUTHORITY",
+        "count" : "2227"
+      }, {
+        "item" : "MTA POLICE DEPT",
+        "count" : "1521"
+      }, {
+        "item" : "DEPT OF CORRECTIONS",
+        "count" : "477"
+      }, {
+        "item" : "OTHER",
+        "count" : "475"
+      }, {
+        "item" : "N.Y. STATE POLICE",
+        "count" : "274"
+      }, {
+        "item" : "N.Y.C. DEPT OF HOMELESS SERVICES",
+        "count" : "154"
+      }, {
+        "item" : "DISTRICT ATTORNEY OFFICE",
+        "count" : "143"
+      }, {
+        "item" : "HEALTH & HOSP CORP",
+        "count" : "97"
+      }, {
+        "item" : "AMTRACK",
+        "count" : "82"
+      }, {
+        "item" : "NYC PARKS",
+        "count" : "60"
+      }, {
+        "item" : "TRI-BORO BRDG TUNNL",
+        "count" : "20"
+      }, {
+        "item" : "N.Y. STATE PARKS",
+        "count" : "17"
+      }, {
+        "item" : "U.S. PARK POLICE",
+        "count" : "9"
+      }, {
+        "item" : "NEW YORK CITY SHERIFF OFFICE",
+        "count" : "6"
+      }, {
+        "item" : "N.Y.C. DEPT OF PROBATION",
+        "count" : "4"
+      }, {
+        "item" : "NYS DEPT TAX AND FINANCE",
+        "count" : "2"
+      } ],
+      "smallest" : "AMTRACK",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601954,
+    "name" : "KY_CD",
+    "dataTypeName" : "number",
+    "description" : "Three digit offense classification code",
+    "fieldName" : "ky_cd",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 39763952,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "881",
+      "null" : "0",
+      "top" : [ {
+        "item" : "341",
+        "count" : "75799"
+      }, {
+        "item" : "578",
+        "count" : "65351"
+      }, {
+        "item" : "344",
+        "count" : "46237"
+      }, {
+        "item" : "109",
+        "count" : "33945"
+      }, {
+        "item" : "106",
+        "count" : "22796"
+      }, {
+        "item" : "348",
+        "count" : "20935"
+      }, {
+        "item" : "126",
+        "count" : "14462"
+      }, {
+        "item" : "351",
+        "count" : "13843"
+      }, {
+        "item" : "361",
+        "count" : "12842"
+      }, {
+        "item" : "121",
+        "count" : "11760"
+      }, {
+        "item" : "343",
+        "count" : "10666"
+      }, {
+        "item" : "105",
+        "count" : "10080"
+      }, {
+        "item" : "110",
+        "count" : "9105"
+      }, {
+        "item" : "107",
+        "count" : "8326"
+      }, {
+        "item" : "359",
+        "count" : "8000"
+      }, {
+        "item" : "235",
+        "count" : "7669"
+      }, {
+        "item" : "233",
+        "count" : "7055"
+      }, {
+        "item" : "117",
+        "count" : "6644"
+      }, {
+        "item" : "113",
+        "count" : "4663"
+      }, {
+        "item" : "118",
+        "count" : "4095"
+      } ],
+      "smallest" : "101",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601955,
+    "name" : "LAW_CAT_CD",
+    "dataTypeName" : "text",
+    "description" : "Level of offense: felony, misdemeanor, violation ",
+    "fieldName" : "law_cat_cd",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39763957,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "VIOLATION",
+      "null" : "0",
+      "top" : [ {
+        "item" : "MISDEMEANOR",
+        "count" : "222182"
+      }, {
+        "item" : "FELONY",
+        "count" : "136006"
+      }, {
+        "item" : "VIOLATION",
+        "count" : "68850"
+      } ],
+      "smallest" : "FELONY",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601956,
+    "name" : "LOC_OF_OCCUR_DESC",
+    "dataTypeName" : "text",
+    "description" : "Specific location of occurrence in or around the premises; inside, opposite of, front of, rear of",
+    "fieldName" : "loc_of_occur_desc",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39763961,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "REAR OF",
+      "null" : "0",
+      "top" : [ {
+        "item" : "INSIDE",
+        "count" : "213577"
+      }, {
+        "item" : "FRONT OF",
+        "count" : "103251"
+      }, {
+        "item" : "(null)",
+        "count" : "98003"
+      }, {
+        "item" : "OPPOSITE OF",
+        "count" : "6669"
+      }, {
+        "item" : "REAR OF",
+        "count" : "5412"
+      }, {
+        "item" : "OUTSIDE",
+        "count" : "126"
+      } ],
+      "smallest" : "FRONT OF",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601957,
+    "name" : "OFNS_DESC",
+    "dataTypeName" : "text",
+    "description" : "Description of offense corresponding with key code",
+    "fieldName" : "ofns_desc",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39763953,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "VEHICLE AND TRAFFIC LAWS",
+      "null" : "0",
+      "top" : [ {
+        "item" : "PETIT LARCENY",
+        "count" : "75799"
+      }, {
+        "item" : "HARRASSMENT 2",
+        "count" : "65351"
+      }, {
+        "item" : "ASSAULT 3 & RELATED OFFENSES",
+        "count" : "46237"
+      }, {
+        "item" : "GRAND LARCENY",
+        "count" : "33945"
+      }, {
+        "item" : "CRIMINAL MISCHIEF & RELATED OF",
+        "count" : "25603"
+      }, {
+        "item" : "FELONY ASSAULT",
+        "count" : "22796"
+      }, {
+        "item" : "VEHICLE AND TRAFFIC LAWS",
+        "count" : "20935"
+      }, {
+        "item" : "MISCELLANEOUS PENAL LAW",
+        "count" : "14954"
+      }, {
+        "item" : "DANGEROUS DRUGS",
+        "count" : "14313"
+      }, {
+        "item" : "OFF. AGNST PUB ORD SENSBLTY &",
+        "count" : "12842"
+      }, {
+        "item" : "OTHER OFFENSES RELATED TO THEFT",
+        "count" : "10666"
+      }, {
+        "item" : "ROBBERY",
+        "count" : "10080"
+      }, {
+        "item" : "GRAND LARCENY OF MOTOR VEHICLE",
+        "count" : "9105"
+      }, {
+        "item" : "BURGLARY",
+        "count" : "8326"
+      }, {
+        "item" : "OFFENSES AGAINST PUBLIC ADMINI",
+        "count" : "8000"
+      }, {
+        "item" : "SEX CRIMES",
+        "count" : "7804"
+      }, {
+        "item" : "DANGEROUS WEAPONS",
+        "count" : "6735"
+      }, {
+        "item" : "FORGERY",
+        "count" : "4663"
+      }, {
+        "item" : "OTHER STATE LAWS",
+        "count" : "3641"
+      }, {
+        "item" : "CRIMINAL TRESPASS",
+        "count" : "3543"
+      } ],
+      "smallest" : "ADMINISTRATIVE CODE",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601958,
+    "name" : "PARKS_NM",
+    "dataTypeName" : "text",
+    "description" : "Name of NYC park, playground or greenspace of occurrence, if applicable (state parks are not included)",
+    "fieldName" : "parks_nm",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39763963,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "ZION TRIANGLE",
+      "null" : "0",
+      "top" : [ {
+        "item" : "(null)",
+        "count" : "424400"
+      }, {
+        "item" : "FLUSHING MEADOWS CORONA PARK",
+        "count" : "198"
+      }, {
+        "item" : "SARA D. ROOSEVELT PARK",
+        "count" : "167"
+      }, {
+        "item" : "CENTRAL PARK",
+        "count" : "147"
+      }, {
+        "item" : "CONEY ISLAND BEACH & BOARDWALK",
+        "count" : "140"
+      }, {
+        "item" : "WASHINGTON SQUARE PARK",
+        "count" : "117"
+      }, {
+        "item" : "PROSPECT PARK",
+        "count" : "54"
+      }, {
+        "item" : "RIVERSIDE PARK",
+        "count" : "48"
+      }, {
+        "item" : "HUDSON RIVER PARK",
+        "count" : "46"
+      }, {
+        "item" : "BRYANT PARK",
+        "count" : "45"
+      }, {
+        "item" : "ST. MARY'S PARK BRONX",
+        "count" : "33"
+      }, {
+        "item" : "LINCOLN TERRACE / ARTHUR S. SOMERS PARK",
+        "count" : "32"
+      }, {
+        "item" : "BRONX PARK",
+        "count" : "29"
+      }, {
+        "item" : "MCCARREN PARK",
+        "count" : "25"
+      }, {
+        "item" : "TOMPKINS SQUARE PARK",
+        "count" : "24"
+      }, {
+        "item" : "ST. JAMES PARK",
+        "count" : "22"
+      }, {
+        "item" : "RUFUS KING PARK",
+        "count" : "22"
+      }, {
+        "item" : "CLAREMONT PARK",
+        "count" : "21"
+      }, {
+        "item" : "RICHMAN (ECHO) PARK",
+        "count" : "21"
+      }, {
+        "item" : "RANDALL'S ISLAND PARK",
+        "count" : "20"
+      } ],
+      "smallest" : "100% PLAYGROUND",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601959,
+    "name" : "PATROL_BORO",
+    "dataTypeName" : "text",
+    "description" : "The name of the patrol borough in which the incident occurred",
+    "fieldName" : "patrol_boro",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 65773915,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "PATROL BORO STATEN ISLAND",
+      "null" : "0",
+      "top" : [ {
+        "item" : "PATROL BORO BKLYN NORTH",
+        "count" : "62204"
+      }, {
+        "item" : "PATROL BORO BKLYN SOUTH",
+        "count" : "60697"
+      }, {
+        "item" : "PATROL BORO MAN SOUTH",
+        "count" : "51615"
+      }, {
+        "item" : "PATROL BORO BRONX SOUTH",
+        "count" : "49313"
+      }, {
+        "item" : "PATROL BORO QUEENS NORTH",
+        "count" : "48309"
+      }, {
+        "item" : "PATROL BORO MAN NORTH",
+        "count" : "47962"
+      }, {
+        "item" : "PATROL BORO BRONX NORTH",
+        "count" : "46784"
+      }, {
+        "item" : "PATROL BORO QUEENS SOUTH",
+        "count" : "43739"
+      }, {
+        "item" : "PATROL BORO STATEN ISLAND",
+        "count" : "16415"
+      } ],
+      "smallest" : "PATROL BORO BKLYN NORTH",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601960,
+    "name" : "PD_CD",
+    "dataTypeName" : "number",
+    "description" : "Three digit internal classification code (more granular than Key Code)",
+    "fieldName" : "pd_cd",
+    "position" : 19,
+    "renderTypeName" : "number",
+    "tableColumnId" : 39763954,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : "426834",
+      "largest" : "969",
+      "null" : "204",
+      "top" : [ {
+        "item" : "638",
+        "count" : "52105"
+      }, {
+        "item" : "101",
+        "count" : "35229"
+      }, {
+        "item" : "333",
+        "count" : "31561"
+      }, {
+        "item" : "109",
+        "count" : "16608"
+      }, {
+        "item" : "922",
+        "count" : "14310"
+      }, {
+        "item" : "637",
+        "count" : "13246"
+      }, {
+        "item" : "639",
+        "count" : "11424"
+      }, {
+        "item" : "478",
+        "count" : "10180"
+      }, {
+        "item" : "352",
+        "count" : "9465"
+      }, {
+        "item" : "198",
+        "count" : "9408"
+      }, {
+        "item" : "113",
+        "count" : "8498"
+      }, {
+        "item" : "259",
+        "count" : "7678"
+      }, {
+        "item" : "511",
+        "count" : "7565"
+      }, {
+        "item" : "339",
+        "count" : "7462"
+      }, {
+        "item" : "916",
+        "count" : "6289"
+      }, {
+        "item" : "441",
+        "count" : "6209"
+      }, {
+        "item" : "269",
+        "count" : "6136"
+      }, {
+        "item" : "338",
+        "count" : "5891"
+      }, {
+        "item" : "349",
+        "count" : "4766"
+      }, {
+        "item" : "267",
+        "count" : "4628"
+      } ],
+      "smallest" : "100",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601961,
+    "name" : "PD_DESC",
+    "dataTypeName" : "text",
+    "description" : "Description of internal classification corresponding with PD code (more granular than Offense Description)",
+    "fieldName" : "pd_desc",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39763955,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "WEAPONS, POSSESSION, ETC",
+      "null" : "0",
+      "top" : [ {
+        "item" : "HARASSMENT,SUBD 3,4,5",
+        "count" : "52105"
+      }, {
+        "item" : "ASSAULT 3",
+        "count" : "35229"
+      }, {
+        "item" : "LARCENY,PETIT FROM STORE-SHOPL",
+        "count" : "31561"
+      }, {
+        "item" : "ASSAULT 2,1,UNCLASSIFIED",
+        "count" : "16608"
+      }, {
+        "item" : "TRAFFIC,UNCLASSIFIED MISDEMEAN",
+        "count" : "14310"
+      }, {
+        "item" : "HARASSMENT,SUBD 1,CIVILIAN",
+        "count" : "13246"
+      }, {
+        "item" : "AGGRAVATED HARASSMENT 2",
+        "count" : "11424"
+      }, {
+        "item" : "THEFT OF SERVICES, UNCLASSIFIE",
+        "count" : "10180"
+      }, {
+        "item" : "LARCENY,PETIT FROM BUILDING,UNATTENDED, PACKAGE THEFT INSIDE",
+        "count" : "9465"
+      }, {
+        "item" : "CRIMINAL CONTEMPT 1",
+        "count" : "9408"
+      }, {
+        "item" : "MENACING,UNCLASSIFIED",
+        "count" : "8498"
+      }, {
+        "item" : "CONTROLLED SUBSTANCE, POSSESSI",
+        "count" : "8089"
+      }, {
+        "item" : "CRIMINAL MISCHIEF,UNCLASSIFIED 4",
+        "count" : "7678"
+      }, {
+        "item" : "LARCENY,PETIT FROM OPEN AREAS,",
+        "count" : "7462"
+      }, {
+        "item" : "LEAVING SCENE-ACCIDENT-PERSONA",
+        "count" : "6289"
+      }, {
+        "item" : "LARCENY,GRAND OF AUTO",
+        "count" : "6209"
+      }, {
+        "item" : "MISCHIEF,CRIMINAL,    UNCL 2ND",
+        "count" : "6136"
+      }, {
+        "item" : "LARCENY,PETIT FROM BUILDING,UN",
+        "count" : "5891"
+      }, {
+        "item" : "LARCENY,PETIT OF LICENSE PLATE",
+        "count" : "4766"
+      }, {
+        "item" : "MISCHIEF, CRIMINAL 3 & 2, OF M",
+        "count" : "4628"
+      } ],
+      "smallest" : "ABANDON ANIMAL",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601962,
+    "name" : "PREM_TYP_DESC",
+    "dataTypeName" : "text",
+    "description" : "Specific description of premises; grocery store, residence, street, etc.",
+    "fieldName" : "prem_typ_desc",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39763962,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "VIDEO STORE",
+      "null" : "0",
+      "top" : [ {
+        "item" : "STREET",
+        "count" : "128497"
+      }, {
+        "item" : "RESIDENCE - APT. HOUSE",
+        "count" : "96815"
+      }, {
+        "item" : "RESIDENCE-HOUSE",
+        "count" : "37916"
+      }, {
+        "item" : "RESIDENCE - PUBLIC HOUSING",
+        "count" : "27709"
+      }, {
+        "item" : "TRANSIT - NYC SUBWAY",
+        "count" : "24379"
+      }, {
+        "item" : "CHAIN STORE",
+        "count" : "20289"
+      }, {
+        "item" : "OTHER",
+        "count" : "8011"
+      }, {
+        "item" : "COMMERCIAL BUILDING",
+        "count" : "7281"
+      }, {
+        "item" : "HOMELESS SHELTER",
+        "count" : "7231"
+      }, {
+        "item" : "DEPARTMENT STORE",
+        "count" : "7100"
+      }, {
+        "item" : "GROCERY/BODEGA",
+        "count" : "5985"
+      }, {
+        "item" : "DRUG STORE",
+        "count" : "4916"
+      }, {
+        "item" : "PARK/PLAYGROUND",
+        "count" : "3879"
+      }, {
+        "item" : "BAR/NIGHT CLUB",
+        "count" : "3349"
+      }, {
+        "item" : "CLOTHING/BOUTIQUE",
+        "count" : "3193"
+      }, {
+        "item" : "RESTAURANT/DINER",
+        "count" : "3148"
+      }, {
+        "item" : "FAST FOOD",
+        "count" : "2303"
+      }, {
+        "item" : "PUBLIC SCHOOL",
+        "count" : "2080"
+      }, {
+        "item" : "(null)",
+        "count" : "1834"
+      }, {
+        "item" : "FOOD SUPERMARKET",
+        "count" : "1822"
+      } ],
+      "smallest" : "ABANDONED BUILDING",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601963,
+    "name" : "RPT_DT",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date event was reported to police ",
+    "fieldName" : "rpt_dt",
+    "position" : 22,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 39763951,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "2026-09-30T00:00:00.000",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2026-04-15T00:00:00.000",
+        "count" : "1895"
+      }, {
+        "item" : "2026-07-22T00:00:00.000",
+        "count" : "1887"
+      }, {
+        "item" : "2026-04-01T00:00:00.000",
+        "count" : "1849"
+      }, {
+        "item" : "2026-06-11T00:00:00.000",
+        "count" : "1843"
+      }, {
+        "item" : "2026-06-24T00:00:00.000",
+        "count" : "1841"
+      }, {
+        "item" : "2026-08-05T00:00:00.000",
+        "count" : "1839"
+      }, {
+        "item" : "2026-08-12T00:00:00.000",
+        "count" : "1829"
+      }, {
+        "item" : "2026-04-16T00:00:00.000",
+        "count" : "1803"
+      }, {
+        "item" : "2026-01-13T00:00:00.000",
+        "count" : "1799"
+      }, {
+        "item" : "2026-05-13T00:00:00.000",
+        "count" : "1799"
+      }, {
+        "item" : "2026-09-16T00:00:00.000",
+        "count" : "1796"
+      }, {
+        "item" : "2026-07-01T00:00:00.000",
+        "count" : "1789"
+      }, {
+        "item" : "2026-04-14T00:00:00.000",
+        "count" : "1785"
+      }, {
+        "item" : "2026-03-27T00:00:00.000",
+        "count" : "1783"
+      }, {
+        "item" : "2026-06-25T00:00:00.000",
+        "count" : "1782"
+      }, {
+        "item" : "2026-06-02T00:00:00.000",
+        "count" : "1781"
+      }, {
+        "item" : "2026-08-13T00:00:00.000",
+        "count" : "1781"
+      }, {
+        "item" : "2026-09-09T00:00:00.000",
+        "count" : "1779"
+      }, {
+        "item" : "2026-05-06T00:00:00.000",
+        "count" : "1778"
+      }, {
+        "item" : "2026-05-05T00:00:00.000",
+        "count" : "1774"
+      } ],
+      "smallest" : "2026-01-01T00:00:00.000",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "left"
+    }
+  }, {
+    "id" : 561601964,
+    "name" : "STATION_NAME",
+    "dataTypeName" : "text",
+    "description" : "Transit station name",
+    "fieldName" : "station_name",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 65773942,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "ZEREGA AVENUE",
+      "null" : "0",
+      "top" : [ {
+        "item" : "(null)",
+        "count" : "401712"
+      }, {
+        "item" : "ATLANTIC AVENUE",
+        "count" : "1016"
+      }, {
+        "item" : "BROADWAY-JUNCTION",
+        "count" : "831"
+      }, {
+        "item" : "STILLWELL AVENUE-CONEY ISLAND",
+        "count" : "630"
+      }, {
+        "item" : "FRANKLIN AVENUE",
+        "count" : "589"
+      }, {
+        "item" : "59 ST-COLUMBUS CIRCLE",
+        "count" : "580"
+      }, {
+        "item" : "125 STREET",
+        "count" : "554"
+      }, {
+        "item" : "14 ST-UNION SQUARE",
+        "count" : "529"
+      }, {
+        "item" : "JAY STREET-METROTECH",
+        "count" : "521"
+      }, {
+        "item" : "NOSTRAND AVENUE",
+        "count" : "476"
+      }, {
+        "item" : "42 ST-PORT AUTHORITY BUS TERMI",
+        "count" : "472"
+      }, {
+        "item" : "JACKSON HEIGHTS - ROOSEVELT AV",
+        "count" : "428"
+      }, {
+        "item" : "42 ST-TIMES SQUARE",
+        "count" : "374"
+      }, {
+        "item" : "161 ST-YANKEE STADIUM",
+        "count" : "367"
+      }, {
+        "item" : "HUNTS POINT AVENUE",
+        "count" : "366"
+      }, {
+        "item" : "UTICA AVE-CROWN HEIGHTS",
+        "count" : "315"
+      }, {
+        "item" : "3 AVENUE-149 STREET",
+        "count" : "301"
+      }, {
+        "item" : "TREMONT AVENUE",
+        "count" : "283"
+      }, {
+        "item" : "34 ST-PENN STATION",
+        "count" : "281"
+      }, {
+        "item" : "PARSONS/ARCHER-JAMAICA CENTER",
+        "count" : "273"
+      } ],
+      "smallest" : "103 ST-CORONA PLAZA",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601965,
+    "name" : "SUSP_AGE_GROUP",
+    "dataTypeName" : "text",
+    "description" : "Suspect’s Age Group",
+    "fieldName" : "susp_age_group",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 65773982,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "UNKNOWN",
+      "null" : "0",
+      "top" : [ {
+        "item" : "UNKNOWN",
+        "count" : "158345"
+      }, {
+        "item" : "25-44",
+        "count" : "131563"
+      }, {
+        "item" : "45-64",
+        "count" : "49604"
+      }, {
+        "item" : "(null)",
+        "count" : "40929"
+      }, {
+        "item" : "18-24",
+        "count" : "30756"
+      }, {
+        "item" : "<18",
+        "count" : "9223"
+      }, {
+        "item" : "65+",
+        "count" : "6593"
+      }, {
+        "item" : "2026",
+        "count" : "9"
+      }, {
+        "item" : "-3",
+        "count" : "2"
+      }, {
+        "item" : "-953",
+        "count" : "1"
+      }, {
+        "item" : "-957",
+        "count" : "1"
+      }, {
+        "item" : "-962",
+        "count" : "1"
+      }, {
+        "item" : "-963",
+        "count" : "1"
+      }, {
+        "item" : "964",
+        "count" : "1"
+      }, {
+        "item" : "-63",
+        "count" : "1"
+      }, {
+        "item" : "1022",
+        "count" : "1"
+      }, {
+        "item" : "1025",
+        "count" : "1"
+      }, {
+        "item" : "1026",
+        "count" : "1"
+      }, {
+        "item" : "-52",
+        "count" : "1"
+      }, {
+        "item" : "1016",
+        "count" : "1"
+      } ],
+      "smallest" : "1016",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601966,
+    "name" : "SUSP_RACE",
+    "dataTypeName" : "text",
+    "description" : "Suspect’s Race Description",
+    "fieldName" : "susp_race",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 65774046,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "WHITE HISPANIC",
+      "null" : "0",
+      "top" : [ {
+        "item" : "BLACK",
+        "count" : "133708"
+      }, {
+        "item" : "UNKNOWN",
+        "count" : "119980"
+      }, {
+        "item" : "WHITE HISPANIC",
+        "count" : "61605"
+      }, {
+        "item" : "(null)",
+        "count" : "40929"
+      }, {
+        "item" : "WHITE",
+        "count" : "31295"
+      }, {
+        "item" : "BLACK HISPANIC",
+        "count" : "23036"
+      }, {
+        "item" : "ASIAN / PACIFIC ISLANDER",
+        "count" : "15416"
+      }, {
+        "item" : "AMERICAN INDIAN/ALASKAN NATIVE",
+        "count" : "1069"
+      } ],
+      "smallest" : "AMERICAN INDIAN/ALASKAN NATIVE",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601967,
+    "name" : "SUSP_SEX",
+    "dataTypeName" : "text",
+    "description" : "Suspect’s Sex Description\n",
+    "fieldName" : "susp_sex",
+    "position" : 26,
+    "renderTypeName" : "text",
+    "tableColumnId" : 65775110,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "U",
+      "null" : "0",
+      "top" : [ {
+        "item" : "M",
+        "count" : "227897"
+      }, {
+        "item" : "U",
+        "count" : "91378"
+      }, {
+        "item" : "F",
+        "count" : "66834"
+      }, {
+        "item" : "(null)",
+        "count" : "40929"
+      } ],
+      "smallest" : "F",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601968,
+    "name" : "TRANSIT_DISTRICT",
+    "dataTypeName" : "number",
+    "description" : "Transit district in which the offense occurred.\n",
+    "fieldName" : "transit_district",
+    "position" : 27,
+    "renderTypeName" : "number",
+    "tableColumnId" : 65775111,
+    "width" : 202,
+    "cachedContents" : {
+      "non_null" : "25326",
+      "largest" : "34",
+      "null" : "401712",
+      "top" : [ {
+        "item" : "33",
+        "count" : "3036"
+      }, {
+        "item" : "32",
+        "count" : "2909"
+      }, {
+        "item" : "12",
+        "count" : "2589"
+      }, {
+        "item" : "20",
+        "count" : "2560"
+      }, {
+        "item" : "4",
+        "count" : "2269"
+      }, {
+        "item" : "11",
+        "count" : "2202"
+      }, {
+        "item" : "1",
+        "count" : "2183"
+      }, {
+        "item" : "30",
+        "count" : "2082"
+      }, {
+        "item" : "2",
+        "count" : "1859"
+      }, {
+        "item" : "34",
+        "count" : "1697"
+      }, {
+        "item" : "3",
+        "count" : "1654"
+      }, {
+        "item" : "23",
+        "count" : "286"
+      } ],
+      "smallest" : "1",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601969,
+    "name" : "VIC_AGE_GROUP",
+    "dataTypeName" : "text",
+    "description" : "Victim’s Age Group",
+    "fieldName" : "vic_age_group",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 65775112,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "UNKNOWN",
+      "null" : "0",
+      "top" : [ {
+        "item" : "UNKNOWN",
+        "count" : "144106"
+      }, {
+        "item" : "25-44",
+        "count" : "142297"
+      }, {
+        "item" : "45-64",
+        "count" : "70631"
+      }, {
+        "item" : "18-24",
+        "count" : "32749"
+      }, {
+        "item" : "65+",
+        "count" : "22556"
+      }, {
+        "item" : "<18",
+        "count" : "14674"
+      }, {
+        "item" : "-47",
+        "count" : "2"
+      }, {
+        "item" : "-970",
+        "count" : "2"
+      }, {
+        "item" : "-1",
+        "count" : "1"
+      }, {
+        "item" : "-940",
+        "count" : "1"
+      }, {
+        "item" : "-941",
+        "count" : "1"
+      }, {
+        "item" : "945",
+        "count" : "1"
+      }, {
+        "item" : "949",
+        "count" : "1"
+      }, {
+        "item" : "-955",
+        "count" : "1"
+      }, {
+        "item" : "-957",
+        "count" : "1"
+      }, {
+        "item" : "959",
+        "count" : "1"
+      }, {
+        "item" : "-960",
+        "count" : "1"
+      }, {
+        "item" : "-963",
+        "count" : "1"
+      }, {
+        "item" : "968",
+        "count" : "1"
+      }, {
+        "item" : "-968",
+        "count" : "1"
+      } ],
+      "smallest" : "-1",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601970,
+    "name" : "VIC_RACE",
+    "dataTypeName" : "text",
+    "description" : "Victim’s Race Description",
+    "fieldName" : "vic_race",
+    "position" : 29,
+    "renderTypeName" : "text",
+    "tableColumnId" : 65775113,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "WHITE HISPANIC",
+      "null" : "0",
+      "top" : [ {
+        "item" : "UNKNOWN",
+        "count" : "153294"
+      }, {
+        "item" : "BLACK",
+        "count" : "100388"
+      }, {
+        "item" : "WHITE HISPANIC",
+        "count" : "66957"
+      }, {
+        "item" : "WHITE",
+        "count" : "52940"
+      }, {
+        "item" : "ASIAN / PACIFIC ISLANDER",
+        "count" : "31767"
+      }, {
+        "item" : "BLACK HISPANIC",
+        "count" : "19304"
+      }, {
+        "item" : "AMERICAN INDIAN/ALASKAN NATIVE",
+        "count" : "2165"
+      }, {
+        "item" : "(null)",
+        "count" : "223"
+      } ],
+      "smallest" : "AMERICAN INDIAN/ALASKAN NATIVE",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601971,
+    "name" : "VIC_SEX",
+    "dataTypeName" : "text",
+    "description" : "Victim’s Sex Description",
+    "fieldName" : "vic_sex",
+    "position" : 30,
+    "renderTypeName" : "text",
+    "tableColumnId" : 65775144,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "M",
+      "null" : "0",
+      "top" : [ {
+        "item" : "F",
+        "count" : "151313"
+      }, {
+        "item" : "M",
+        "count" : "135907"
+      }, {
+        "item" : "E",
+        "count" : "82797"
+      }, {
+        "item" : "D",
+        "count" : "54646"
+      }, {
+        "item" : "L",
+        "count" : "2375"
+      } ],
+      "smallest" : "D",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601972,
+    "name" : "X_COORD_CD",
+    "dataTypeName" : "number",
+    "description" : "X-coordinate for New York State Plane Coordinate System, Long Island Zone, NAD 83, units feet (FIPS 3104)",
+    "fieldName" : "x_coord_cd",
+    "position" : 31,
+    "renderTypeName" : "number",
+    "tableColumnId" : 39763965,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : "427036",
+      "largest" : "1067306",
+      "null" : "2",
+      "top" : [ {
+        "item" : "1042801",
+        "count" : "1029"
+      }, {
+        "item" : "990502",
+        "count" : "917"
+      }, {
+        "item" : "987220",
+        "count" : "889"
+      }, {
+        "item" : "989468",
+        "count" : "639"
+      }, {
+        "item" : "1030206",
+        "count" : "594"
+      }, {
+        "item" : "1009475",
+        "count" : "582"
+      }, {
+        "item" : "1020127",
+        "count" : "566"
+      }, {
+        "item" : "1010287",
+        "count" : "533"
+      }, {
+        "item" : "987961",
+        "count" : "523"
+      }, {
+        "item" : "998948",
+        "count" : "500"
+      }, {
+        "item" : "987078",
+        "count" : "496"
+      }, {
+        "item" : "995908",
+        "count" : "494"
+      }, {
+        "item" : "988837",
+        "count" : "494"
+      }, {
+        "item" : "987772",
+        "count" : "479"
+      }, {
+        "item" : "1003363",
+        "count" : "475"
+      }, {
+        "item" : "998241",
+        "count" : "464"
+      }, {
+        "item" : "989249",
+        "count" : "455"
+      }, {
+        "item" : "987048",
+        "count" : "441"
+      }, {
+        "item" : "1004749",
+        "count" : "428"
+      }, {
+        "item" : "1037664",
+        "count" : "420"
+      } ],
+      "smallest" : "-74",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : {
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 561601973,
+    "name" : "Y_COORD_CD",
+    "dataTypeName" : "number",
+    "description" : "Y-coordinate for New York State Plane Coordinate System, Long Island Zone, NAD 83, units feet (FIPS 3104)",
+    "fieldName" : "y_coord_cd",
+    "position" : 32,
+    "renderTypeName" : "number",
+    "tableColumnId" : 39763966,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : "427036",
+      "largest" : "271819",
+      "null" : "2",
+      "top" : [ {
+        "item" : "181715",
+        "count" : "1030"
+      }, {
+        "item" : "188496",
+        "count" : "918"
+      }, {
+        "item" : "212676",
+        "count" : "891"
+      }, {
+        "item" : "148972",
+        "count" : "638"
+      }, {
+        "item" : "215367",
+        "count" : "596"
+      }, {
+        "item" : "257692",
+        "count" : "577"
+      }, {
+        "item" : "176089",
+        "count" : "556"
+      }, {
+        "item" : "186518",
+        "count" : "534"
+      }, {
+        "item" : "208825",
+        "count" : "524"
+      }, {
+        "item" : "215157",
+        "count" : "496"
+      }, {
+        "item" : "183618",
+        "count" : "494"
+      }, {
+        "item" : "191028",
+        "count" : "491"
+      }, {
+        "item" : "233793",
+        "count" : "485"
+      }, {
+        "item" : "191473",
+        "count" : "479"
+      }, {
+        "item" : "238988",
+        "count" : "474"
+      }, {
+        "item" : "187165",
+        "count" : "466"
+      }, {
+        "item" : "206851",
+        "count" : "441"
+      }, {
+        "item" : "240880",
+        "count" : "428"
+      }, {
+        "item" : "194289",
+        "count" : "422"
+      }, {
+        "item" : "211379",
+        "count" : "413"
+      } ],
+      "smallest" : "121152",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : {
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 561601974,
+    "name" : "Latitude",
+    "dataTypeName" : "number",
+    "description" : "Midblock Latitude coordinate for Global Coordinate System, WGS 1984, decimal degrees (EPSG 4326) ",
+    "fieldName" : "latitude",
+    "position" : 33,
+    "renderTypeName" : "number",
+    "tableColumnId" : 39763967,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "40.912722",
+      "null" : "0",
+      "top" : [ {
+        "item" : "40.66524878",
+        "count" : "1028"
+      }, {
+        "item" : "40.68405249",
+        "count" : "914"
+      }, {
+        "item" : "40.750432",
+        "count" : "889"
+      }, {
+        "item" : "40.57556814",
+        "count" : "637"
+      }, {
+        "item" : "40.757699",
+        "count" : "594"
+      }, {
+        "item" : "40.873953",
+        "count" : "572"
+      }, {
+        "item" : "40.649939",
+        "count" : "556"
+      }, {
+        "item" : "40.67858725",
+        "count" : "533"
+      }, {
+        "item" : "40.739862",
+        "count" : "523"
+      }, {
+        "item" : "40.67065802",
+        "count" : "494"
+      }, {
+        "item" : "40.75723226",
+        "count" : "493"
+      }, {
+        "item" : "40.691013",
+        "count" : "491"
+      }, {
+        "item" : "40.808381",
+        "count" : "485"
+      }, {
+        "item" : "40.69222518",
+        "count" : "479"
+      }, {
+        "item" : "40.822631",
+        "count" : "473"
+      }, {
+        "item" : "40.68039035",
+        "count" : "463"
+      }, {
+        "item" : "40.73443438",
+        "count" : "441"
+      }, {
+        "item" : "40.699803",
+        "count" : "429"
+      }, {
+        "item" : "40.82781161",
+        "count" : "428"
+      }, {
+        "item" : "40.74681219",
+        "count" : "412"
+      } ],
+      "smallest" : "0.0",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601975,
+    "name" : "Longitude",
+    "dataTypeName" : "number",
+    "description" : "Midblock Longitude coordinate for Global Coordinate System, WGS 1984, decimal degrees (EPSG 4326)",
+    "fieldName" : "longitude",
+    "position" : 34,
+    "renderTypeName" : "number",
+    "tableColumnId" : 39763968,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "largest" : "40.83257544",
+      "null" : "0",
+      "top" : [ {
+        "item" : "-73.78894843",
+        "count" : "1028"
+      }, {
+        "item" : "-73.97745785",
+        "count" : "914"
+      }, {
+        "item" : "-73.989281",
+        "count" : "889"
+      }, {
+        "item" : "-73.98121659",
+        "count" : "637"
+      }, {
+        "item" : "-73.834116",
+        "count" : "594"
+      }, {
+        "item" : "-73.908789",
+        "count" : "578"
+      }, {
+        "item" : "-73.870708",
+        "count" : "564"
+      }, {
+        "item" : "-73.90612894",
+        "count" : "533"
+      }, {
+        "item" : "-73.986607",
+        "count" : "523"
+      }, {
+        "item" : "-73.95797447",
+        "count" : "494"
+      }, {
+        "item" : "-73.98979219",
+        "count" : "493"
+      }, {
+        "item" : "-73.983457",
+        "count" : "491"
+      }, {
+        "item" : "-73.946906",
+        "count" : "485"
+      }, {
+        "item" : "-73.98729955",
+        "count" : "479"
+      }, {
+        "item" : "-73.930944",
+        "count" : "473"
+      }, {
+        "item" : "-73.94955696",
+        "count" : "463"
+      }, {
+        "item" : "-73.98990393",
+        "count" : "441"
+      }, {
+        "item" : "-73.92592932",
+        "count" : "428"
+      }, {
+        "item" : "-73.807366",
+        "count" : "420"
+      }, {
+        "item" : "-73.89175204",
+        "count" : "412"
+      } ],
+      "smallest" : "-74.254439",
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601976,
+    "name" : "Lat_Lon",
+    "dataTypeName" : "location",
+    "fieldName" : "lat_lon",
+    "position" : 35,
+    "renderTypeName" : "location",
+    "tableColumnId" : 39763969,
+    "width" : 220,
+    "format" : {
+      "view" : "address_coords",
+      "align" : "left"
+    }
+  }, {
+    "id" : 561601978,
+    "name" : "New Georeferenced Column",
+    "dataTypeName" : "point",
+    "description" : "",
+    "fieldName" : "geocoded_column",
+    "position" : 36,
+    "renderTypeName" : "point",
+    "tableColumnId" : 109441135,
+    "cachedContents" : {
+      "non_null" : "427038",
+      "null" : "0",
+      "top" : [ {
+        "item" : {
+          "coordinates" : [ -73.78894843, 40.66524878 ],
+          "type" : "Point"
+        },
+        "count" : "1028"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.97745785, 40.68405249 ],
+          "type" : "Point"
+        },
+        "count" : "914"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.989281, 40.750432 ],
+          "type" : "Point"
+        },
+        "count" : "889"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.98121659, 40.57556814 ],
+          "type" : "Point"
+        },
+        "count" : "637"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.834116, 40.757699 ],
+          "type" : "Point"
+        },
+        "count" : "594"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.908789, 40.873953 ],
+          "type" : "Point"
+        },
+        "count" : "572"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.870708, 40.649939 ],
+          "type" : "Point"
+        },
+        "count" : "556"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.90612894, 40.67858725 ],
+          "type" : "Point"
+        },
+        "count" : "533"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.986607, 40.739862 ],
+          "type" : "Point"
+        },
+        "count" : "523"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.95797447, 40.67065802 ],
+          "type" : "Point"
+        },
+        "count" : "494"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.98979219, 40.75723226 ],
+          "type" : "Point"
+        },
+        "count" : "493"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.983457, 40.691013 ],
+          "type" : "Point"
+        },
+        "count" : "491"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.946906, 40.808381 ],
+          "type" : "Point"
+        },
+        "count" : "485"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.98729955, 40.69222518 ],
+          "type" : "Point"
+        },
+        "count" : "479"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.930944, 40.822631 ],
+          "type" : "Point"
+        },
+        "count" : "473"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.94955696, 40.68039035 ],
+          "type" : "Point"
+        },
+        "count" : "463"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.98990393, 40.73443438 ],
+          "type" : "Point"
+        },
+        "count" : "441"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.92592932, 40.82781161 ],
+          "type" : "Point"
+        },
+        "count" : "428"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.807366, 40.699803 ],
+          "type" : "Point"
+        },
+        "count" : "420"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.89175204, 40.74681219 ],
+          "type" : "Point"
+        },
+        "count" : "412"
+      } ],
+      "count" : "427038",
+      "cardinality" : "427038"
+    },
+    "format" : { }
+  }, {
+    "id" : 561601982,
+    "name" : "Zip Codes",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_efsh_h5xi",
+    "position" : 40,
+    "renderTypeName" : "number",
+    "tableColumnId" : 65777302,
+    "computationStrategy" : {
+      "source_columns" : [ "lat_lon" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_efsh-h5xi",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 561601983,
+    "name" : "Community Districts",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_f5dn_yrer",
+    "position" : 41,
+    "renderTypeName" : "number",
+    "tableColumnId" : 65777303,
+    "computationStrategy" : {
+      "source_columns" : [ "lat_lon" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_f5dn-yrer",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 561601984,
+    "name" : "Borough Boundaries",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_yeji_bk3q",
+    "position" : 42,
+    "renderTypeName" : "number",
+    "tableColumnId" : 65777304,
+    "computationStrategy" : {
+      "source_columns" : [ "lat_lon" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_yeji-bk3q",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 561601985,
+    "name" : "City Council Districts",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_92fq_4b7q",
+    "position" : 43,
+    "renderTypeName" : "number",
+    "tableColumnId" : 65777305,
+    "computationStrategy" : {
+      "source_columns" : [ "lat_lon" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_92fq-4b7q",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 561601986,
+    "name" : "Police Precincts",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_sbqj_enih",
+    "position" : 44,
+    "renderTypeName" : "number",
+    "tableColumnId" : 65777306,
+    "computationStrategy" : {
+      "source_columns" : [ "lat_lon" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_sbqj-enih",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rdfClass" : "",
+    "attachments" : [ {
+      "filename" : "PDCode_PenalLaw.xlsx",
+      "assetId" : "08255f41-9bb1-40f7-bb8f-e8621d3a8916",
+      "name" : "PDCode_PenalLaw.xlsx"
+    }, {
+      "filename" : "NYPD_Complaint_YTD_DataDictionary.xlsx",
+      "assetId" : "e5a74f73-983a-473b-a4f2-0f5ef6fbee08",
+      "name" : "NYPD_Complaint_YTD_DataDictionary.xlsx"
+    }, {
+      "filename" : "NYPD_Complaint_Incident_Level_Data_Footnotes.pdf",
+      "assetId" : "d21db73f-ca23-42d4-9767-2d32f2d46ecd",
+      "name" : "NYPD_Complaint_Incident_Level_Data_Footnotes.pdf"
+    } ],
+    "custom_fields" : {
+      "Update" : {
+        "Automation" : "No",
+        "Date Made Public" : "11/1/2018",
+        "Update Frequency" : "Quarterly"
+      },
+      "Dataset Information" : {
+        "Agency" : "Police Department (NYPD)"
+      }
+    },
+    "rowLabel" : "Complaint",
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "profileImageUrlLarge" : "/api/users/5fuc-pqz2/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/5fuc-pqz2/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/5fuc-pqz2/profile_images/TINY",
+    "screenName" : "NYC OpenData",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "query" : { },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "profileImageUrlLarge" : "/api/users/5fuc-pqz2/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/5fuc-pqz2/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/5fuc-pqz2/profile_images/TINY",
+    "screenName" : "NYC OpenData",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "tags" : [ "nypd", "incident", "crime", "nycopendata", "2018od4a-report" ],
+  "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+}

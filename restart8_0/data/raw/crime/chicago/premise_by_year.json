@@ -1,0 +1,3572 @@
+[{"yr":"2001","value":"ABANDONED BUILDING","n":"485"}
+,{"yr":"2001","value":"AIRPORT/AIRCRAFT","n":"2310"}
+,{"yr":"2001","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"1"}
+,{"yr":"2001","value":"AIRPORT PARKING LOT","n":"1"}
+,{"yr":"2001","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"1"}
+,{"yr":"2001","value":"ALLEY","n":"10814"}
+,{"yr":"2001","value":"APARTMENT","n":"28468"}
+,{"yr":"2001","value":"APPLIANCE STORE","n":"165"}
+,{"yr":"2001","value":"ATHLETIC CLUB","n":"224"}
+,{"yr":"2001","value":"AUTO","n":"111"}
+,{"yr":"2001","value":"BANK","n":"2152"}
+,{"yr":"2001","value":"BARBERSHOP","n":"448"}
+,{"yr":"2001","value":"BAR OR TAVERN","n":"1775"}
+,{"yr":"2001","value":"BASEMENT","n":"4"}
+,{"yr":"2001","value":"BOAT/WATERCRAFT","n":"51"}
+,{"yr":"2001","value":"BOWLING ALLEY","n":"46"}
+,{"yr":"2001","value":"BRIDGE","n":"12"}
+,{"yr":"2001","value":"CAR WASH","n":"205"}
+,{"yr":"2001","value":"CEMETARY","n":"18"}
+,{"yr":"2001","value":"CHA APARTMENT","n":"5951"}
+,{"yr":"2001","value":"CHA ELEVATOR","n":"1"}
+,{"yr":"2001","value":"CHA GROUNDS","n":"5"}
+,{"yr":"2001","value":"CHA HALLWAY","n":"5"}
+,{"yr":"2001","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"6"}
+,{"yr":"2001","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"3440"}
+,{"yr":"2001","value":"CHA PARKING LOT","n":"2"}
+,{"yr":"2001","value":"CHA PARKING LOT / GROUNDS","n":"1"}
+,{"yr":"2001","value":"CHA PARKING LOT/GROUNDS","n":"8691"}
+,{"yr":"2001","value":"CHA PLAY LOT","n":"1"}
+,{"yr":"2001","value":"CHA STAIRWELL","n":"3"}
+,{"yr":"2001","value":"CHURCH PROPERTY","n":"1"}
+,{"yr":"2001","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"2"}
+,{"yr":"2001","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"1030"}
+,{"yr":"2001","value":"CLEANING STORE","n":"536"}
+,{"yr":"2001","value":"CLUB","n":"4"}
+,{"yr":"2001","value":"COACH HOUSE","n":"2"}
+,{"yr":"2001","value":"COIN OPERATED MACHINE","n":"70"}
+,{"yr":"2001","value":"COLLEGE/UNIVERSITY GROUNDS","n":"342"}
+,{"yr":"2001","value":"COLLEGE / UNIVERSITY - RESIDENCE HALL","n":"1"}
+,{"yr":"2001","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"66"}
+,{"yr":"2001","value":"COMMERCIAL / BUSINESS OFFICE","n":"5595"}
+,{"yr":"2001","value":"CONSTRUCTION SITE","n":"839"}
+,{"yr":"2001","value":"COUNTY JAIL","n":"1"}
+,{"yr":"2001","value":"CREDIT UNION","n":"26"}
+,{"yr":"2001","value":"CTA BUS","n":"1202"}
+,{"yr":"2001","value":"CTA PLATFORM","n":"3192"}
+,{"yr":"2001","value":"CTA TRAIN","n":"917"}
+,{"yr":"2001","value":"CURRENCY EXCHANGE","n":"890"}
+,{"yr":"2001","value":"DAY CARE CENTER","n":"151"}
+,{"yr":"2001","value":"DELIVERY TRUCK","n":"105"}
+,{"yr":"2001","value":"DEPARTMENT STORE","n":"6501"}
+,{"yr":"2001","value":"DRIVEWAY - RESIDENTIAL","n":"1155"}
+,{"yr":"2001","value":"DRUG STORE","n":"2637"}
+,{"yr":"2001","value":"DUMPSTER","n":"3"}
+,{"yr":"2001","value":"FACTORY / MANUFACTURING BUILDING","n":"1"}
+,{"yr":"2001","value":"FACTORY/MANUFACTURING BUILDING","n":"683"}
+,{"yr":"2001","value":"FEDERAL BUILDING","n":"65"}
+,{"yr":"2001","value":"FIRE STATION","n":"75"}
+,{"yr":"2001","value":"FOREST PRESERVE","n":"46"}
+,{"yr":"2001","value":"GANGWAY","n":"12"}
+,{"yr":"2001","value":"GARAGE","n":"1"}
+,{"yr":"2001","value":"GAS STATION","n":"4542"}
+,{"yr":"2001","value":"GAS STATION DRIVE/PROP.","n":"4"}
+,{"yr":"2001","value":"GOVERNMENT BUILDING/PROPERTY","n":"1203"}
+,{"yr":"2001","value":"GROCERY FOOD STORE","n":"8601"}
+,{"yr":"2001","value":"HALLWAY","n":"5"}
+,{"yr":"2001","value":"HIGHWAY/EXPRESSWAY","n":"68"}
+,{"yr":"2001","value":"HOSPITAL","n":"1"}
+,{"yr":"2001","value":"HOSPITAL BUILDING / GROUNDS","n":"4"}
+,{"yr":"2001","value":"HOSPITAL BUILDING/GROUNDS","n":"1488"}
+,{"yr":"2001","value":"HOTEL","n":"1"}
+,{"yr":"2001","value":"HOTEL / MOTEL","n":"5"}
+,{"yr":"2001","value":"HOTEL/MOTEL","n":"2289"}
+,{"yr":"2001","value":"HOUSE","n":"30"}
+,{"yr":"2001","value":"LAKE","n":"1"}
+,{"yr":"2001","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"59"}
+,{"yr":"2001","value":"LIBRARY","n":"329"}
+,{"yr":"2001","value":"LOADING DOCK","n":"1"}
+,{"yr":"2001","value":"MEDICAL/DENTAL OFFICE","n":"569"}
+,{"yr":"2001","value":"MOVIE HOUSE/THEATER","n":"217"}
+,{"yr":"2001","value":"NEWSSTAND","n":"27"}
+,{"yr":"2001","value":"NURSING HOME/RETIREMENT HOME","n":"1117"}
+,{"yr":"2001","value":"OTHER","n":"21328"}
+,{"yr":"2001","value":"OTHER COMMERCIAL TRANSPORTATION","n":"207"}
+,{"yr":"2001","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"416"}
+,{"yr":"2001","value":"OTHER (SPECIFY)","n":"20"}
+,{"yr":"2001","value":"PARKING LOT","n":"19"}
+,{"yr":"2001","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"16113"}
+,{"yr":"2001","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"7"}
+,{"yr":"2001","value":"PARK PROPERTY","n":"3727"}
+,{"yr":"2001","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"1"}
+,{"yr":"2001","value":"POLICE FACILITY/VEH PARKING LOT","n":"758"}
+,{"yr":"2001","value":"POOL ROOM","n":"30"}
+,{"yr":"2001","value":"PORCH","n":"20"}
+,{"yr":"2001","value":"RAILROAD PROPERTY","n":"2"}
+,{"yr":"2001","value":"RESIDENCE","n":"94243"}
+,{"yr":"2001","value":"RESIDENCE - GARAGE","n":"49"}
+,{"yr":"2001","value":"RESIDENCE-GARAGE","n":"10214"}
+,{"yr":"2001","value":"RESIDENCE - PORCH / HALLWAY","n":"4"}
+,{"yr":"2001","value":"RESIDENCE PORCH/HALLWAY","n":"9006"}
+,{"yr":"2001","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"4"}
+,{"yr":"2001","value":"RESTAURANT","n":"6901"}
+,{"yr":"2001","value":"RETAIL STORE","n":"6"}
+,{"yr":"2001","value":"RIVER","n":"1"}
+,{"yr":"2001","value":"SAVINGS AND LOAN","n":"34"}
+,{"yr":"2001","value":"SCHOOL, PRIVATE, BUILDING","n":"1179"}
+,{"yr":"2001","value":"SCHOOL - PRIVATE GROUNDS","n":"1"}
+,{"yr":"2001","value":"SCHOOL, PRIVATE, GROUNDS","n":"300"}
+,{"yr":"2001","value":"SCHOOL - PUBLIC BUILDING","n":"5"}
+,{"yr":"2001","value":"SCHOOL, PUBLIC, BUILDING","n":"10376"}
+,{"yr":"2001","value":"SCHOOL - PUBLIC GROUNDS","n":"1"}
+,{"yr":"2001","value":"SCHOOL, PUBLIC, GROUNDS","n":"1761"}
+,{"yr":"2001","value":"SIDEWALK","n":"29284"}
+,{"yr":"2001","value":"SMALL RETAIL STORE","n":"7611"}
+,{"yr":"2001","value":"SPORTS ARENA/STADIUM","n":"257"}
+,{"yr":"2001","value":"STAIRWELL","n":"1"}
+,{"yr":"2001","value":"STREET","n":"150483"}
+,{"yr":"2001","value":"TAVERN","n":"6"}
+,{"yr":"2001","value":"TAVERN / LIQUOR STORE","n":"1"}
+,{"yr":"2001","value":"TAVERN/LIQUOR STORE","n":"2683"}
+,{"yr":"2001","value":"TAXICAB","n":"433"}
+,{"yr":"2001","value":"TRUCK","n":"3"}
+,{"yr":"2001","value":"VACANT LOT","n":"14"}
+,{"yr":"2001","value":"VACANT LOT / LAND","n":"1"}
+,{"yr":"2001","value":"VACANT LOT/LAND","n":"1327"}
+,{"yr":"2001","value":"VEHICLE-COMMERCIAL","n":"301"}
+,{"yr":"2001","value":"VEHICLE NON-COMMERCIAL","n":"3871"}
+,{"yr":"2001","value":"VESTIBULE","n":"1"}
+,{"yr":"2001","value":"WAREHOUSE","n":"843"}
+,{"yr":"2001","value":"WOODED AREA","n":"1"}
+,{"yr":"2001","value":"YARD","n":"11"}
+,{"yr":"2001","value":"YMCA","n":"1"}
+,{"yr":"2001","n":"5"}
+,{"yr":"2002","value":"ABANDONED BUILDING","n":"572"}
+,{"yr":"2002","value":"AIRPORT/AIRCRAFT","n":"1715"}
+,{"yr":"2002","value":"ALLEY","n":"10914"}
+,{"yr":"2002","value":"ANIMAL HOSPITAL","n":"17"}
+,{"yr":"2002","value":"APARTMENT","n":"35817"}
+,{"yr":"2002","value":"APPLIANCE STORE","n":"125"}
+,{"yr":"2002","value":"ATHLETIC CLUB","n":"262"}
+,{"yr":"2002","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"1"}
+,{"yr":"2002","value":"AUTO","n":"100"}
+,{"yr":"2002","value":"BANK","n":"2072"}
+,{"yr":"2002","value":"BARBERSHOP","n":"495"}
+,{"yr":"2002","value":"BAR OR TAVERN","n":"1804"}
+,{"yr":"2002","value":"BASEMENT","n":"5"}
+,{"yr":"2002","value":"BOAT/WATERCRAFT","n":"40"}
+,{"yr":"2002","value":"BOWLING ALLEY","n":"45"}
+,{"yr":"2002","value":"BRIDGE","n":"17"}
+,{"yr":"2002","value":"CAR WASH","n":"225"}
+,{"yr":"2002","value":"CEMETARY","n":"7"}
+,{"yr":"2002","value":"CHA APARTMENT","n":"5093"}
+,{"yr":"2002","value":"CHA BREEZEWAY","n":"1"}
+,{"yr":"2002","value":"CHA ELEVATOR","n":"1"}
+,{"yr":"2002","value":"CHA GROUNDS","n":"13"}
+,{"yr":"2002","value":"CHA HALLWAY","n":"8"}
+,{"yr":"2002","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"4"}
+,{"yr":"2002","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"2832"}
+,{"yr":"2002","value":"CHA LOBBY","n":"3"}
+,{"yr":"2002","value":"CHA PARKING LOT","n":"2"}
+,{"yr":"2002","value":"CHA PARKING LOT / GROUNDS","n":"1"}
+,{"yr":"2002","value":"CHA PARKING LOT/GROUNDS","n":"7754"}
+,{"yr":"2002","value":"CHA STAIRWELL","n":"2"}
+,{"yr":"2002","value":"CHURCH","n":"1"}
+,{"yr":"2002","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"3"}
+,{"yr":"2002","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"931"}
+,{"yr":"2002","value":"CLEANING STORE","n":"521"}
+,{"yr":"2002","value":"CLUB","n":"1"}
+,{"yr":"2002","value":"COIN OPERATED MACHINE","n":"91"}
+,{"yr":"2002","value":"COLLEGE/UNIVERSITY GROUNDS","n":"349"}
+,{"yr":"2002","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"66"}
+,{"yr":"2002","value":"COMMERCIAL / BUSINESS OFFICE","n":"4683"}
+,{"yr":"2002","value":"CONSTRUCTION SITE","n":"784"}
+,{"yr":"2002","value":"CONVENIENCE STORE","n":"1"}
+,{"yr":"2002","value":"COUNTY JAIL","n":"1"}
+,{"yr":"2002","value":"CREDIT UNION","n":"41"}
+,{"yr":"2002","value":"CTA BUS","n":"1248"}
+,{"yr":"2002","value":"CTA GARAGE / OTHER PROPERTY","n":"184"}
+,{"yr":"2002","value":"CTA PLATFORM","n":"2974"}
+,{"yr":"2002","value":"CTA TRAIN","n":"1013"}
+,{"yr":"2002","value":"CURRENCY EXCHANGE","n":"829"}
+,{"yr":"2002","value":"DAY CARE CENTER","n":"155"}
+,{"yr":"2002","value":"DELIVERY TRUCK","n":"122"}
+,{"yr":"2002","value":"DEPARTMENT STORE","n":"5582"}
+,{"yr":"2002","value":"DRIVEWAY","n":"2"}
+,{"yr":"2002","value":"DRIVEWAY - RESIDENTIAL","n":"1439"}
+,{"yr":"2002","value":"DRUG STORE","n":"2744"}
+,{"yr":"2002","value":"DUMPSTER","n":"1"}
+,{"yr":"2002","value":"FACTORY/MANUFACTURING BUILDING","n":"644"}
+,{"yr":"2002","value":"FEDERAL BUILDING","n":"65"}
+,{"yr":"2002","value":"FIRE STATION","n":"75"}
+,{"yr":"2002","value":"FOREST PRESERVE","n":"31"}
+,{"yr":"2002","value":"FUNERAL PARLOR","n":"1"}
+,{"yr":"2002","value":"GANGWAY","n":"10"}
+,{"yr":"2002","value":"GARAGE","n":"3"}
+,{"yr":"2002","value":"GARAGE/AUTO REPAIR","n":"2"}
+,{"yr":"2002","value":"GAS STATION","n":"4696"}
+,{"yr":"2002","value":"GOVERNMENT BUILDING/PROPERTY","n":"1099"}
+,{"yr":"2002","value":"GROCERY FOOD STORE","n":"7908"}
+,{"yr":"2002","value":"HALLWAY","n":"3"}
+,{"yr":"2002","value":"HIGHWAY/EXPRESSWAY","n":"85"}
+,{"yr":"2002","value":"HOSPITAL BUILDING/GROUNDS","n":"1341"}
+,{"yr":"2002","value":"HOTEL / MOTEL","n":"2"}
+,{"yr":"2002","value":"HOTEL/MOTEL","n":"2128"}
+,{"yr":"2002","value":"HOUSE","n":"35"}
+,{"yr":"2002","value":"JUNK YARD/GARBAGE DUMP","n":"1"}
+,{"yr":"2002","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"36"}
+,{"yr":"2002","value":"LIBRARY","n":"330"}
+,{"yr":"2002","value":"LIVERY STAND OFFICE","n":"2"}
+,{"yr":"2002","value":"MEDICAL / DENTAL OFFICE","n":"1"}
+,{"yr":"2002","value":"MEDICAL/DENTAL OFFICE","n":"545"}
+,{"yr":"2002","value":"MOVIE HOUSE/THEATER","n":"197"}
+,{"yr":"2002","value":"NEWSSTAND","n":"20"}
+,{"yr":"2002","value":"NURSING HOME/RETIREMENT HOME","n":"951"}
+,{"yr":"2002","value":"OFFICE","n":"1"}
+,{"yr":"2002","value":"OTHER","n":"20356"}
+,{"yr":"2002","value":"OTHER COMMERCIAL TRANSPORTATION","n":"256"}
+,{"yr":"2002","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"452"}
+,{"yr":"2002","value":"OTHER (SPECIFY)","n":"10"}
+,{"yr":"2002","value":"PARKING LOT","n":"17"}
+,{"yr":"2002","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"14790"}
+,{"yr":"2002","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"7"}
+,{"yr":"2002","value":"PARK PROPERTY","n":"3833"}
+,{"yr":"2002","value":"POLICE FACILITY/VEH PARKING LOT","n":"880"}
+,{"yr":"2002","value":"POOL ROOM","n":"22"}
+,{"yr":"2002","value":"PORCH","n":"20"}
+,{"yr":"2002","value":"PRAIRIE","n":"1"}
+,{"yr":"2002","value":"PUBLIC GRAMMAR SCHOOL","n":"1"}
+,{"yr":"2002","value":"RESIDENCE","n":"90480"}
+,{"yr":"2002","value":"RESIDENCE - GARAGE","n":"175"}
+,{"yr":"2002","value":"RESIDENCE-GARAGE","n":"9737"}
+,{"yr":"2002","value":"RESIDENCE - PORCH / HALLWAY","n":"6"}
+,{"yr":"2002","value":"RESIDENCE PORCH/HALLWAY","n":"9027"}
+,{"yr":"2002","value":"RESIDENCE - YARD (FRONT / BACK)","n":"1"}
+,{"yr":"2002","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"325"}
+,{"yr":"2002","value":"RESTAURANT","n":"6648"}
+,{"yr":"2002","value":"RETAIL STORE","n":"5"}
+,{"yr":"2002","value":"RIVER","n":"1"}
+,{"yr":"2002","value":"SAVINGS AND LOAN","n":"29"}
+,{"yr":"2002","value":"SCHOOL - PRIVATE BUILDING","n":"1"}
+,{"yr":"2002","value":"SCHOOL, PRIVATE, BUILDING","n":"1003"}
+,{"yr":"2002","value":"SCHOOL - PRIVATE GROUNDS","n":"2"}
+,{"yr":"2002","value":"SCHOOL, PRIVATE, GROUNDS","n":"263"}
+,{"yr":"2002","value":"SCHOOL - PUBLIC BUILDING","n":"1"}
+,{"yr":"2002","value":"SCHOOL, PUBLIC, BUILDING","n":"10934"}
+,{"yr":"2002","value":"SCHOOL - PUBLIC GROUNDS","n":"1"}
+,{"yr":"2002","value":"SCHOOL, PUBLIC, GROUNDS","n":"1967"}
+,{"yr":"2002","value":"SCHOOL YARD","n":"1"}
+,{"yr":"2002","value":"SEWER","n":"2"}
+,{"yr":"2002","value":"SIDEWALK","n":"34761"}
+,{"yr":"2002","value":"SMALL RETAIL STORE","n":"7729"}
+,{"yr":"2002","value":"SPORTS ARENA/STADIUM","n":"195"}
+,{"yr":"2002","value":"STAIRWELL","n":"3"}
+,{"yr":"2002","value":"STREET","n":"147962"}
+,{"yr":"2002","value":"TAVERN","n":"1"}
+,{"yr":"2002","value":"TAVERN / LIQUOR STORE","n":"1"}
+,{"yr":"2002","value":"TAVERN/LIQUOR STORE","n":"2270"}
+,{"yr":"2002","value":"TAXICAB","n":"482"}
+,{"yr":"2002","value":"TRUCK","n":"2"}
+,{"yr":"2002","value":"VACANT LOT","n":"11"}
+,{"yr":"2002","value":"VACANT LOT / LAND","n":"1"}
+,{"yr":"2002","value":"VACANT LOT/LAND","n":"1507"}
+,{"yr":"2002","value":"VEHICLE-COMMERCIAL","n":"360"}
+,{"yr":"2002","value":"VEHICLE NON-COMMERCIAL","n":"5572"}
+,{"yr":"2002","value":"VESTIBULE","n":"1"}
+,{"yr":"2002","value":"WAREHOUSE","n":"792"}
+,{"yr":"2002","value":"WOODED AREA","n":"1"}
+,{"yr":"2002","value":"YARD","n":"6"}
+,{"yr":"2002","n":"7"}
+,{"yr":"2003","value":"ABANDONED BUILDING","n":"386"}
+,{"yr":"2003","value":"AIRPORT/AIRCRAFT","n":"1470"}
+,{"yr":"2003","value":"ALLEY","n":"10900"}
+,{"yr":"2003","value":"ANIMAL HOSPITAL","n":"30"}
+,{"yr":"2003","value":"APARTMENT","n":"39661"}
+,{"yr":"2003","value":"APPLIANCE STORE","n":"118"}
+,{"yr":"2003","value":"ATHLETIC CLUB","n":"301"}
+,{"yr":"2003","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"61"}
+,{"yr":"2003","value":"AUTO","n":"105"}
+,{"yr":"2003","value":"BANK","n":"1863"}
+,{"yr":"2003","value":"BARBERSHOP","n":"600"}
+,{"yr":"2003","value":"BARBER SHOP/BEAUTY SALON","n":"2"}
+,{"yr":"2003","value":"BAR OR TAVERN","n":"1909"}
+,{"yr":"2003","value":"BASEMENT","n":"4"}
+,{"yr":"2003","value":"BOAT/WATERCRAFT","n":"37"}
+,{"yr":"2003","value":"BOWLING ALLEY","n":"47"}
+,{"yr":"2003","value":"BRIDGE","n":"13"}
+,{"yr":"2003","value":"CAR WASH","n":"225"}
+,{"yr":"2003","value":"CEMETARY","n":"18"}
+,{"yr":"2003","value":"CHA APARTMENT","n":"4157"}
+,{"yr":"2003","value":"CHA BREEZEWAY","n":"1"}
+,{"yr":"2003","value":"CHA GROUNDS","n":"5"}
+,{"yr":"2003","value":"CHA HALLWAY","n":"10"}
+,{"yr":"2003","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"4"}
+,{"yr":"2003","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"2719"}
+,{"yr":"2003","value":"CHA LOBBY","n":"1"}
+,{"yr":"2003","value":"CHA PARKING LOT","n":"2"}
+,{"yr":"2003","value":"CHA PARKING LOT / GROUNDS","n":"1"}
+,{"yr":"2003","value":"CHA PARKING LOT/GROUNDS","n":"6652"}
+,{"yr":"2003","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"2"}
+,{"yr":"2003","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"977"}
+,{"yr":"2003","value":"CLEANING STORE","n":"483"}
+,{"yr":"2003","value":"COIN OPERATED MACHINE","n":"114"}
+,{"yr":"2003","value":"COLLEGE/UNIVERSITY GROUNDS","n":"448"}
+,{"yr":"2003","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"78"}
+,{"yr":"2003","value":"COMMERCIAL / BUSINESS OFFICE","n":"4308"}
+,{"yr":"2003","value":"CONSTRUCTION SITE","n":"936"}
+,{"yr":"2003","value":"CONVENIENCE STORE","n":"92"}
+,{"yr":"2003","value":"CREDIT UNION","n":"47"}
+,{"yr":"2003","value":"CTA BUS","n":"1149"}
+,{"yr":"2003","value":"CTA GARAGE / OTHER PROPERTY","n":"376"}
+,{"yr":"2003","value":"CTA \"L\" TRAIN","n":"1"}
+,{"yr":"2003","value":"CTA PLATFORM","n":"2364"}
+,{"yr":"2003","value":"CTA TRAIN","n":"972"}
+,{"yr":"2003","value":"CURRENCY EXCHANGE","n":"760"}
+,{"yr":"2003","value":"DAY CARE CENTER","n":"142"}
+,{"yr":"2003","value":"DELIVERY TRUCK","n":"124"}
+,{"yr":"2003","value":"DEPARTMENT STORE","n":"5180"}
+,{"yr":"2003","value":"DRIVEWAY - RESIDENTIAL","n":"1471"}
+,{"yr":"2003","value":"DRUG STORE","n":"2593"}
+,{"yr":"2003","value":"FACTORY","n":"1"}
+,{"yr":"2003","value":"FACTORY/MANUFACTURING BUILDING","n":"668"}
+,{"yr":"2003","value":"FEDERAL BUILDING","n":"60"}
+,{"yr":"2003","value":"FIRE STATION","n":"66"}
+,{"yr":"2003","value":"FOREST PRESERVE","n":"38"}
+,{"yr":"2003","value":"GANGWAY","n":"7"}
+,{"yr":"2003","value":"GARAGE","n":"6"}
+,{"yr":"2003","value":"GARAGE/AUTO REPAIR","n":"4"}
+,{"yr":"2003","value":"GAS STATION","n":"4893"}
+,{"yr":"2003","value":"GAS STATION DRIVE/PROP.","n":"4"}
+,{"yr":"2003","value":"GOVERNMENT BUILDING/PROPERTY","n":"1053"}
+,{"yr":"2003","value":"GROCERY FOOD STORE","n":"7272"}
+,{"yr":"2003","value":"HALLWAY","n":"5"}
+,{"yr":"2003","value":"HIGHWAY/EXPRESSWAY","n":"57"}
+,{"yr":"2003","value":"HOSPITAL","n":"2"}
+,{"yr":"2003","value":"HOSPITAL BUILDING / GROUNDS","n":"5"}
+,{"yr":"2003","value":"HOSPITAL BUILDING/GROUNDS","n":"1238"}
+,{"yr":"2003","value":"HOTEL","n":"2"}
+,{"yr":"2003","value":"HOTEL / MOTEL","n":"5"}
+,{"yr":"2003","value":"HOTEL/MOTEL","n":"1894"}
+,{"yr":"2003","value":"HOUSE","n":"39"}
+,{"yr":"2003","value":"JAIL / LOCK-UP FACILITY","n":"30"}
+,{"yr":"2003","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"41"}
+,{"yr":"2003","value":"LIBRARY","n":"374"}
+,{"yr":"2003","value":"LIQUOR STORE","n":"2"}
+,{"yr":"2003","value":"MEDICAL/DENTAL OFFICE","n":"477"}
+,{"yr":"2003","value":"MOTEL","n":"1"}
+,{"yr":"2003","value":"MOVIE HOUSE/THEATER","n":"222"}
+,{"yr":"2003","value":"NEWSSTAND","n":"25"}
+,{"yr":"2003","value":"NURSING HOME/RETIREMENT HOME","n":"887"}
+,{"yr":"2003","value":"NURSING / RETIREMENT HOME","n":"1"}
+,{"yr":"2003","value":"OFFICE","n":"3"}
+,{"yr":"2003","value":"OTHER","n":"18063"}
+,{"yr":"2003","value":"OTHER COMMERCIAL TRANSPORTATION","n":"228"}
+,{"yr":"2003","value":"OTHER RAILROAD PROPERTY / TRAIN DEPOT","n":"1"}
+,{"yr":"2003","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"481"}
+,{"yr":"2003","value":"OTHER (SPECIFY)","n":"10"}
+,{"yr":"2003","value":"PARKING LOT","n":"7"}
+,{"yr":"2003","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"14165"}
+,{"yr":"2003","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"6"}
+,{"yr":"2003","value":"PARK PROPERTY","n":"3403"}
+,{"yr":"2003","value":"PAWN SHOP","n":"2"}
+,{"yr":"2003","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"2"}
+,{"yr":"2003","value":"POLICE FACILITY/VEH PARKING LOT","n":"1093"}
+,{"yr":"2003","value":"POOL ROOM","n":"19"}
+,{"yr":"2003","value":"PORCH","n":"22"}
+,{"yr":"2003","value":"PRAIRIE","n":"1"}
+,{"yr":"2003","value":"PUBLIC HIGH SCHOOL","n":"1"}
+,{"yr":"2003","value":"RAILROAD PROPERTY","n":"1"}
+,{"yr":"2003","value":"RESIDENCE","n":"81562"}
+,{"yr":"2003","value":"RESIDENCE - GARAGE","n":"74"}
+,{"yr":"2003","value":"RESIDENCE-GARAGE","n":"9972"}
+,{"yr":"2003","value":"RESIDENCE - PORCH / HALLWAY","n":"6"}
+,{"yr":"2003","value":"RESIDENCE PORCH/HALLWAY","n":"8567"}
+,{"yr":"2003","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"1282"}
+,{"yr":"2003","value":"RESTAURANT","n":"6737"}
+,{"yr":"2003","value":"RETAIL STORE","n":"5"}
+,{"yr":"2003","value":"SAVINGS AND LOAN","n":"26"}
+,{"yr":"2003","value":"SCHOOL, PRIVATE, BUILDING","n":"929"}
+,{"yr":"2003","value":"SCHOOL - PRIVATE GROUNDS","n":"1"}
+,{"yr":"2003","value":"SCHOOL, PRIVATE, GROUNDS","n":"257"}
+,{"yr":"2003","value":"SCHOOL, PUBLIC, BUILDING","n":"11789"}
+,{"yr":"2003","value":"SCHOOL - PUBLIC GROUNDS","n":"1"}
+,{"yr":"2003","value":"SCHOOL, PUBLIC, GROUNDS","n":"1871"}
+,{"yr":"2003","value":"SIDEWALK","n":"37649"}
+,{"yr":"2003","value":"SMALL RETAIL STORE","n":"7752"}
+,{"yr":"2003","value":"SPORTS ARENA / STADIUM","n":"1"}
+,{"yr":"2003","value":"SPORTS ARENA/STADIUM","n":"256"}
+,{"yr":"2003","value":"STAIRWELL","n":"1"}
+,{"yr":"2003","value":"STREET","n":"145650"}
+,{"yr":"2003","value":"TAVERN","n":"2"}
+,{"yr":"2003","value":"TAVERN / LIQUOR STORE","n":"2"}
+,{"yr":"2003","value":"TAVERN/LIQUOR STORE","n":"1950"}
+,{"yr":"2003","value":"TAXICAB","n":"380"}
+,{"yr":"2003","value":"TAXI CAB","n":"2"}
+,{"yr":"2003","value":"TRAILER","n":"1"}
+,{"yr":"2003","value":"TRUCK","n":"1"}
+,{"yr":"2003","value":"TRUCKING TERMINAL","n":"1"}
+,{"yr":"2003","value":"VACANT LOT","n":"5"}
+,{"yr":"2003","value":"VACANT LOT / LAND","n":"3"}
+,{"yr":"2003","value":"VACANT LOT/LAND","n":"1575"}
+,{"yr":"2003","value":"VEHICLE-COMMERCIAL","n":"363"}
+,{"yr":"2003","value":"VEHICLE NON-COMMERCIAL","n":"5630"}
+,{"yr":"2003","value":"VESTIBULE","n":"2"}
+,{"yr":"2003","value":"WAREHOUSE","n":"882"}
+,{"yr":"2003","value":"WOODED AREA","n":"2"}
+,{"yr":"2003","value":"YARD","n":"14"}
+,{"yr":"2003","n":"5"}
+,{"yr":"2004","value":"ABANDONED BUILDING","n":"417"}
+,{"yr":"2004","value":"AIRPORT/AIRCRAFT","n":"1350"}
+,{"yr":"2004","value":"ALLEY","n":"10912"}
+,{"yr":"2004","value":"ANIMAL HOSPITAL","n":"42"}
+,{"yr":"2004","value":"APARTMENT","n":"42218"}
+,{"yr":"2004","value":"APPLIANCE STORE","n":"124"}
+,{"yr":"2004","value":"ATHLETIC CLUB","n":"380"}
+,{"yr":"2004","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"198"}
+,{"yr":"2004","value":"AUTO","n":"51"}
+,{"yr":"2004","value":"BANK","n":"1862"}
+,{"yr":"2004","value":"BARBERSHOP","n":"652"}
+,{"yr":"2004","value":"BARBER SHOP/BEAUTY SALON","n":"1"}
+,{"yr":"2004","value":"BAR OR TAVERN","n":"1967"}
+,{"yr":"2004","value":"BASEMENT","n":"3"}
+,{"yr":"2004","value":"BOAT/WATERCRAFT","n":"48"}
+,{"yr":"2004","value":"BOWLING ALLEY","n":"46"}
+,{"yr":"2004","value":"BRIDGE","n":"27"}
+,{"yr":"2004","value":"CAR WASH","n":"208"}
+,{"yr":"2004","value":"CEMETARY","n":"37"}
+,{"yr":"2004","value":"CHA APARTMENT","n":"3517"}
+,{"yr":"2004","value":"CHA BREEZEWAY","n":"1"}
+,{"yr":"2004","value":"CHA GROUNDS","n":"8"}
+,{"yr":"2004","value":"CHA HALLWAY","n":"2"}
+,{"yr":"2004","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"3"}
+,{"yr":"2004","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"3289"}
+,{"yr":"2004","value":"CHA PARKING LOT","n":"2"}
+,{"yr":"2004","value":"CHA PARKING LOT / GROUNDS","n":"3"}
+,{"yr":"2004","value":"CHA PARKING LOT/GROUNDS","n":"6868"}
+,{"yr":"2004","value":"CHA PLAY LOT","n":"1"}
+,{"yr":"2004","value":"CHA STAIRWELL","n":"1"}
+,{"yr":"2004","value":"CHURCH","n":"3"}
+,{"yr":"2004","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"1080"}
+,{"yr":"2004","value":"CLEANING STORE","n":"485"}
+,{"yr":"2004","value":"CLUB","n":"3"}
+,{"yr":"2004","value":"COIN OPERATED MACHINE","n":"91"}
+,{"yr":"2004","value":"COLLEGE / UNIVERSITY - GROUNDS","n":"1"}
+,{"yr":"2004","value":"COLLEGE/UNIVERSITY GROUNDS","n":"454"}
+,{"yr":"2004","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"60"}
+,{"yr":"2004","value":"COMMERCIAL / BUSINESS OFFICE","n":"3947"}
+,{"yr":"2004","value":"CONSTRUCTION SITE","n":"1155"}
+,{"yr":"2004","value":"CONVENIENCE STORE","n":"272"}
+,{"yr":"2004","value":"CREDIT UNION","n":"28"}
+,{"yr":"2004","value":"CTA BUS","n":"1312"}
+,{"yr":"2004","value":"CTA GARAGE / OTHER PROPERTY","n":"514"}
+,{"yr":"2004","value":"CTA PARKING LOT / GARAGE / OTHER PROPERTY","n":"1"}
+,{"yr":"2004","value":"CTA PLATFORM","n":"2296"}
+,{"yr":"2004","value":"CTA PROPERTY","n":"1"}
+,{"yr":"2004","value":"CTA TRAIN","n":"1019"}
+,{"yr":"2004","value":"CURRENCY EXCHANGE","n":"661"}
+,{"yr":"2004","value":"DAY CARE CENTER","n":"150"}
+,{"yr":"2004","value":"DELIVERY TRUCK","n":"114"}
+,{"yr":"2004","value":"DEPARTMENT STORE","n":"4727"}
+,{"yr":"2004","value":"DRIVEWAY - RESIDENTIAL","n":"1447"}
+,{"yr":"2004","value":"DRUG STORE","n":"2745"}
+,{"yr":"2004","value":"DUMPSTER","n":"1"}
+,{"yr":"2004","value":"FACTORY/MANUFACTURING BUILDING","n":"590"}
+,{"yr":"2004","value":"FEDERAL BUILDING","n":"52"}
+,{"yr":"2004","value":"FIRE STATION","n":"84"}
+,{"yr":"2004","value":"FOREST PRESERVE","n":"35"}
+,{"yr":"2004","value":"GANGWAY","n":"5"}
+,{"yr":"2004","value":"GARAGE","n":"6"}
+,{"yr":"2004","value":"GARAGE/AUTO REPAIR","n":"1"}
+,{"yr":"2004","value":"GAS STATION","n":"5104"}
+,{"yr":"2004","value":"GAS STATION DRIVE/PROP.","n":"2"}
+,{"yr":"2004","value":"GOVERNMENT BUILDING / PROPERTY","n":"1"}
+,{"yr":"2004","value":"GOVERNMENT BUILDING/PROPERTY","n":"948"}
+,{"yr":"2004","value":"GROCERY FOOD STORE","n":"6855"}
+,{"yr":"2004","value":"HALLWAY","n":"6"}
+,{"yr":"2004","value":"HIGHWAY/EXPRESSWAY","n":"61"}
+,{"yr":"2004","value":"HOSPITAL","n":"1"}
+,{"yr":"2004","value":"HOSPITAL BUILDING / GROUNDS","n":"2"}
+,{"yr":"2004","value":"HOSPITAL BUILDING/GROUNDS","n":"1264"}
+,{"yr":"2004","value":"HOTEL","n":"2"}
+,{"yr":"2004","value":"HOTEL / MOTEL","n":"6"}
+,{"yr":"2004","value":"HOTEL/MOTEL","n":"2023"}
+,{"yr":"2004","value":"HOUSE","n":"22"}
+,{"yr":"2004","value":"JAIL / LOCK-UP FACILITY","n":"49"}
+,{"yr":"2004","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"39"}
+,{"yr":"2004","value":"LAUNDRY ROOM","n":"1"}
+,{"yr":"2004","value":"LIBRARY","n":"330"}
+,{"yr":"2004","value":"MEDICAL/DENTAL OFFICE","n":"487"}
+,{"yr":"2004","value":"MOVIE HOUSE/THEATER","n":"190"}
+,{"yr":"2004","value":"NEWSSTAND","n":"26"}
+,{"yr":"2004","value":"NURSING HOME/RETIREMENT HOME","n":"894"}
+,{"yr":"2004","value":"OTHER","n":"17833"}
+,{"yr":"2004","value":"OTHER COMMERCIAL TRANSPORTATION","n":"216"}
+,{"yr":"2004","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"488"}
+,{"yr":"2004","value":"OTHER (SPECIFY)","n":"10"}
+,{"yr":"2004","value":"PARKING LOT","n":"14"}
+,{"yr":"2004","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"13339"}
+,{"yr":"2004","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"7"}
+,{"yr":"2004","value":"PARK PROPERTY","n":"3390"}
+,{"yr":"2004","value":"PAWN SHOP","n":"17"}
+,{"yr":"2004","value":"POLICE FACILITY/VEH PARKING LOT","n":"1074"}
+,{"yr":"2004","value":"POOL ROOM","n":"34"}
+,{"yr":"2004","value":"PORCH","n":"14"}
+,{"yr":"2004","value":"RAILROAD PROPERTY","n":"1"}
+,{"yr":"2004","value":"RESIDENCE","n":"78143"}
+,{"yr":"2004","value":"RESIDENCE - GARAGE","n":"443"}
+,{"yr":"2004","value":"RESIDENCE-GARAGE","n":"8217"}
+,{"yr":"2004","value":"RESIDENCE - PORCH / HALLWAY","n":"6"}
+,{"yr":"2004","value":"RESIDENCE PORCH/HALLWAY","n":"8164"}
+,{"yr":"2004","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"1540"}
+,{"yr":"2004","value":"RESTAURANT","n":"6592"}
+,{"yr":"2004","value":"RETAIL STORE","n":"3"}
+,{"yr":"2004","value":"SAVINGS AND LOAN","n":"28"}
+,{"yr":"2004","value":"SCHOOL, PRIVATE, BUILDING","n":"894"}
+,{"yr":"2004","value":"SCHOOL, PRIVATE, GROUNDS","n":"252"}
+,{"yr":"2004","value":"SCHOOL - PUBLIC BUILDING","n":"1"}
+,{"yr":"2004","value":"SCHOOL, PUBLIC, BUILDING","n":"12039"}
+,{"yr":"2004","value":"SCHOOL, PUBLIC, GROUNDS","n":"1950"}
+,{"yr":"2004","value":"SCHOOL YARD","n":"1"}
+,{"yr":"2004","value":"SIDEWALK","n":"42331"}
+,{"yr":"2004","value":"SMALL RETAIL STORE","n":"7336"}
+,{"yr":"2004","value":"SPORTS ARENA/STADIUM","n":"193"}
+,{"yr":"2004","value":"STREET","n":"138379"}
+,{"yr":"2004","value":"TAVERN","n":"1"}
+,{"yr":"2004","value":"TAVERN/LIQUOR STORE","n":"1630"}
+,{"yr":"2004","value":"TAXICAB","n":"340"}
+,{"yr":"2004","value":"TAXI CAB","n":"2"}
+,{"yr":"2004","value":"TRAILER","n":"1"}
+,{"yr":"2004","value":"VACANT LOT","n":"7"}
+,{"yr":"2004","value":"VACANT LOT / LAND","n":"1"}
+,{"yr":"2004","value":"VACANT LOT/LAND","n":"1456"}
+,{"yr":"2004","value":"VEHICLE - COMMERCIAL","n":"1"}
+,{"yr":"2004","value":"VEHICLE-COMMERCIAL","n":"355"}
+,{"yr":"2004","value":"VEHICLE NON-COMMERCIAL","n":"6072"}
+,{"yr":"2004","value":"WAREHOUSE","n":"718"}
+,{"yr":"2004","value":"YARD","n":"5"}
+,{"yr":"2004","n":"19"}
+,{"yr":"2005","value":"ABANDONED BUILDING","n":"345"}
+,{"yr":"2005","value":"AIRPORT/AIRCRAFT","n":"1358"}
+,{"yr":"2005","value":"ALLEY","n":"10300"}
+,{"yr":"2005","value":"ANIMAL HOSPITAL","n":"35"}
+,{"yr":"2005","value":"APARTMENT","n":"41615"}
+,{"yr":"2005","value":"APPLIANCE STORE","n":"115"}
+,{"yr":"2005","value":"ATHLETIC CLUB","n":"388"}
+,{"yr":"2005","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"274"}
+,{"yr":"2005","value":"AUTO","n":"54"}
+,{"yr":"2005","value":"BANK","n":"2041"}
+,{"yr":"2005","value":"BARBERSHOP","n":"649"}
+,{"yr":"2005","value":"BARBER SHOP/BEAUTY SALON","n":"1"}
+,{"yr":"2005","value":"BAR OR TAVERN","n":"1871"}
+,{"yr":"2005","value":"BASEMENT","n":"1"}
+,{"yr":"2005","value":"BOAT/WATERCRAFT","n":"39"}
+,{"yr":"2005","value":"BOWLING ALLEY","n":"41"}
+,{"yr":"2005","value":"BRIDGE","n":"29"}
+,{"yr":"2005","value":"CAR WASH","n":"188"}
+,{"yr":"2005","value":"CEMETARY","n":"20"}
+,{"yr":"2005","value":"CHA APARTMENT","n":"2855"}
+,{"yr":"2005","value":"CHA GROUNDS","n":"2"}
+,{"yr":"2005","value":"CHA HALLWAY","n":"3"}
+,{"yr":"2005","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"3868"}
+,{"yr":"2005","value":"CHA LOBBY","n":"2"}
+,{"yr":"2005","value":"CHA PARKING LOT","n":"2"}
+,{"yr":"2005","value":"CHA PARKING LOT / GROUNDS","n":"2"}
+,{"yr":"2005","value":"CHA PARKING LOT/GROUNDS","n":"6107"}
+,{"yr":"2005","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"2"}
+,{"yr":"2005","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"968"}
+,{"yr":"2005","value":"CLEANING STORE","n":"387"}
+,{"yr":"2005","value":"CLUB","n":"3"}
+,{"yr":"2005","value":"COIN OPERATED MACHINE","n":"96"}
+,{"yr":"2005","value":"COLLEGE / UNIVERSITY - GROUNDS","n":"1"}
+,{"yr":"2005","value":"COLLEGE/UNIVERSITY GROUNDS","n":"440"}
+,{"yr":"2005","value":"COLLEGE / UNIVERSITY - RESIDENCE HALL","n":"1"}
+,{"yr":"2005","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"88"}
+,{"yr":"2005","value":"COMMERCIAL / BUSINESS OFFICE","n":"3317"}
+,{"yr":"2005","value":"CONSTRUCTION SITE","n":"1216"}
+,{"yr":"2005","value":"CONVENIENCE STORE","n":"330"}
+,{"yr":"2005","value":"CREDIT UNION","n":"25"}
+,{"yr":"2005","value":"CTA BUS","n":"1240"}
+,{"yr":"2005","value":"CTA GARAGE / OTHER PROPERTY","n":"518"}
+,{"yr":"2005","value":"CTA PARKING LOT / GARAGE / OTHER PROPERTY","n":"1"}
+,{"yr":"2005","value":"CTA PLATFORM","n":"2477"}
+,{"yr":"2005","value":"CTA TRAIN","n":"1171"}
+,{"yr":"2005","value":"CURRENCY EXCHANGE","n":"737"}
+,{"yr":"2005","value":"DAY CARE CENTER","n":"162"}
+,{"yr":"2005","value":"DELIVERY TRUCK","n":"97"}
+,{"yr":"2005","value":"DEPARTMENT STORE","n":"4600"}
+,{"yr":"2005","value":"DRIVEWAY - RESIDENTIAL","n":"1541"}
+,{"yr":"2005","value":"DRUG STORE","n":"2289"}
+,{"yr":"2005","value":"FACTORY / MANUFACTURING BUILDING","n":"1"}
+,{"yr":"2005","value":"FACTORY/MANUFACTURING BUILDING","n":"599"}
+,{"yr":"2005","value":"FEDERAL BUILDING","n":"58"}
+,{"yr":"2005","value":"FIRE STATION","n":"71"}
+,{"yr":"2005","value":"FOREST PRESERVE","n":"25"}
+,{"yr":"2005","value":"GANGWAY","n":"2"}
+,{"yr":"2005","value":"GARAGE","n":"2"}
+,{"yr":"2005","value":"GAS STATION","n":"5277"}
+,{"yr":"2005","value":"GAS STATION DRIVE/PROP.","n":"1"}
+,{"yr":"2005","value":"GOVERNMENT BUILDING / PROPERTY","n":"1"}
+,{"yr":"2005","value":"GOVERNMENT BUILDING/PROPERTY","n":"855"}
+,{"yr":"2005","value":"GROCERY FOOD STORE","n":"6354"}
+,{"yr":"2005","value":"HALLWAY","n":"12"}
+,{"yr":"2005","value":"HIGHWAY/EXPRESSWAY","n":"89"}
+,{"yr":"2005","value":"HOSPITAL BUILDING / GROUNDS","n":"5"}
+,{"yr":"2005","value":"HOSPITAL BUILDING/GROUNDS","n":"1209"}
+,{"yr":"2005","value":"HOTEL / MOTEL","n":"1"}
+,{"yr":"2005","value":"HOTEL/MOTEL","n":"1864"}
+,{"yr":"2005","value":"HOUSE","n":"26"}
+,{"yr":"2005","value":"JAIL / LOCK-UP FACILITY","n":"62"}
+,{"yr":"2005","value":"LAKEFRONT / WATERFRONT / RIVERBANK","n":"1"}
+,{"yr":"2005","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"60"}
+,{"yr":"2005","value":"LIBRARY","n":"387"}
+,{"yr":"2005","value":"MEDICAL/DENTAL OFFICE","n":"443"}
+,{"yr":"2005","value":"MOVIE HOUSE/THEATER","n":"173"}
+,{"yr":"2005","value":"NEWSSTAND","n":"21"}
+,{"yr":"2005","value":"NURSING HOME/RETIREMENT HOME","n":"898"}
+,{"yr":"2005","value":"OTHER","n":"16987"}
+,{"yr":"2005","value":"OTHER COMMERCIAL TRANSPORTATION","n":"181"}
+,{"yr":"2005","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"355"}
+,{"yr":"2005","value":"OTHER (SPECIFY)","n":"8"}
+,{"yr":"2005","value":"PARKING LOT","n":"8"}
+,{"yr":"2005","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"12282"}
+,{"yr":"2005","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"3"}
+,{"yr":"2005","value":"PARK PROPERTY","n":"3450"}
+,{"yr":"2005","value":"PAWN SHOP","n":"15"}
+,{"yr":"2005","value":"POLICE FACILITY/VEH PARKING LOT","n":"1083"}
+,{"yr":"2005","value":"POOL ROOM","n":"31"}
+,{"yr":"2005","value":"PORCH","n":"12"}
+,{"yr":"2005","value":"RAILROAD PROPERTY","n":"1"}
+,{"yr":"2005","value":"RESIDENCE","n":"75949"}
+,{"yr":"2005","value":"RESIDENCE - GARAGE","n":"60"}
+,{"yr":"2005","value":"RESIDENCE-GARAGE","n":"9280"}
+,{"yr":"2005","value":"RESIDENCE - PORCH / HALLWAY","n":"2"}
+,{"yr":"2005","value":"RESIDENCE PORCH/HALLWAY","n":"7867"}
+,{"yr":"2005","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"1220"}
+,{"yr":"2005","value":"RESTAURANT","n":"5995"}
+,{"yr":"2005","value":"RETAIL STORE","n":"8"}
+,{"yr":"2005","value":"RIVER","n":"1"}
+,{"yr":"2005","value":"SAVINGS AND LOAN","n":"25"}
+,{"yr":"2005","value":"SCHOOL, PRIVATE, BUILDING","n":"847"}
+,{"yr":"2005","value":"SCHOOL - PRIVATE GROUNDS","n":"1"}
+,{"yr":"2005","value":"SCHOOL, PRIVATE, GROUNDS","n":"228"}
+,{"yr":"2005","value":"SCHOOL, PUBLIC, BUILDING","n":"11684"}
+,{"yr":"2005","value":"SCHOOL, PUBLIC, GROUNDS","n":"1946"}
+,{"yr":"2005","value":"SCHOOL YARD","n":"1"}
+,{"yr":"2005","value":"SIDEWALK","n":"46136"}
+,{"yr":"2005","value":"SMALL RETAIL STORE","n":"7156"}
+,{"yr":"2005","value":"SPORTS ARENA/STADIUM","n":"267"}
+,{"yr":"2005","value":"STREET","n":"123676"}
+,{"yr":"2005","value":"TAVERN / LIQUOR STORE","n":"1"}
+,{"yr":"2005","value":"TAVERN/LIQUOR STORE","n":"1579"}
+,{"yr":"2005","value":"TAXICAB","n":"329"}
+,{"yr":"2005","value":"VACANT LOT","n":"10"}
+,{"yr":"2005","value":"VACANT LOT/LAND","n":"1432"}
+,{"yr":"2005","value":"VEHICLE-COMMERCIAL","n":"360"}
+,{"yr":"2005","value":"VEHICLE NON-COMMERCIAL","n":"10188"}
+,{"yr":"2005","value":"VESTIBULE","n":"4"}
+,{"yr":"2005","value":"WAREHOUSE","n":"699"}
+,{"yr":"2005","value":"YARD","n":"5"}
+,{"yr":"2005","value":"YMCA","n":"1"}
+,{"yr":"2005","n":"21"}
+,{"yr":"2006","value":"ABANDONED BUILDING","n":"420"}
+,{"yr":"2006","value":"AIRPORT/AIRCRAFT","n":"2009"}
+,{"yr":"2006","value":"ALLEY","n":"10471"}
+,{"yr":"2006","value":"ANIMAL HOSPITAL","n":"35"}
+,{"yr":"2006","value":"APARTMENT","n":"42265"}
+,{"yr":"2006","value":"APPLIANCE STORE","n":"120"}
+,{"yr":"2006","value":"ATHLETIC CLUB","n":"467"}
+,{"yr":"2006","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"373"}
+,{"yr":"2006","value":"AUTO","n":"40"}
+,{"yr":"2006","value":"BANK","n":"2139"}
+,{"yr":"2006","value":"BARBERSHOP","n":"654"}
+,{"yr":"2006","value":"BARBER SHOP/BEAUTY SALON","n":"1"}
+,{"yr":"2006","value":"BAR OR TAVERN","n":"1908"}
+,{"yr":"2006","value":"BASEMENT","n":"2"}
+,{"yr":"2006","value":"BOAT/WATERCRAFT","n":"30"}
+,{"yr":"2006","value":"BOWLING ALLEY","n":"62"}
+,{"yr":"2006","value":"BRIDGE","n":"19"}
+,{"yr":"2006","value":"CAR WASH","n":"199"}
+,{"yr":"2006","value":"CEMETARY","n":"29"}
+,{"yr":"2006","value":"CHA APARTMENT","n":"2274"}
+,{"yr":"2006","value":"CHA GROUNDS","n":"2"}
+,{"yr":"2006","value":"CHA HALLWAY","n":"3"}
+,{"yr":"2006","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"2498"}
+,{"yr":"2006","value":"CHA PARKING LOT","n":"5"}
+,{"yr":"2006","value":"CHA PARKING LOT / GROUNDS","n":"2"}
+,{"yr":"2006","value":"CHA PARKING LOT/GROUNDS","n":"4600"}
+,{"yr":"2006","value":"CHA STAIRWELL","n":"1"}
+,{"yr":"2006","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"1"}
+,{"yr":"2006","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"1014"}
+,{"yr":"2006","value":"CLEANING STORE","n":"349"}
+,{"yr":"2006","value":"COACH HOUSE","n":"1"}
+,{"yr":"2006","value":"COIN OPERATED MACHINE","n":"91"}
+,{"yr":"2006","value":"COLLEGE/UNIVERSITY GROUNDS","n":"348"}
+,{"yr":"2006","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"83"}
+,{"yr":"2006","value":"COMMERCIAL / BUSINESS OFFICE","n":"3319"}
+,{"yr":"2006","value":"CONSTRUCTION SITE","n":"1598"}
+,{"yr":"2006","value":"CONVENIENCE STORE","n":"388"}
+,{"yr":"2006","value":"CREDIT UNION","n":"28"}
+,{"yr":"2006","value":"CTA BUS","n":"1182"}
+,{"yr":"2006","value":"CTA GARAGE / OTHER PROPERTY","n":"698"}
+,{"yr":"2006","value":"CTA PLATFORM","n":"2654"}
+,{"yr":"2006","value":"CTA TRAIN","n":"1135"}
+,{"yr":"2006","value":"CURRENCY EXCHANGE","n":"723"}
+,{"yr":"2006","value":"DAY CARE CENTER","n":"157"}
+,{"yr":"2006","value":"DELIVERY TRUCK","n":"103"}
+,{"yr":"2006","value":"DEPARTMENT STORE","n":"4531"}
+,{"yr":"2006","value":"DRIVEWAY","n":"1"}
+,{"yr":"2006","value":"DRIVEWAY - RESIDENTIAL","n":"1480"}
+,{"yr":"2006","value":"DRUG STORE","n":"2101"}
+,{"yr":"2006","value":"FACTORY / MANUFACTURING BUILDING","n":"2"}
+,{"yr":"2006","value":"FACTORY/MANUFACTURING BUILDING","n":"602"}
+,{"yr":"2006","value":"FEDERAL BUILDING","n":"65"}
+,{"yr":"2006","value":"FIRE STATION","n":"55"}
+,{"yr":"2006","value":"FOREST PRESERVE","n":"59"}
+,{"yr":"2006","value":"GANGWAY","n":"1"}
+,{"yr":"2006","value":"GARAGE","n":"3"}
+,{"yr":"2006","value":"GAS STATION","n":"5134"}
+,{"yr":"2006","value":"GAS STATION DRIVE/PROP.","n":"4"}
+,{"yr":"2006","value":"GOVERNMENT BUILDING/PROPERTY","n":"903"}
+,{"yr":"2006","value":"GROCERY FOOD STORE","n":"5455"}
+,{"yr":"2006","value":"HALLWAY","n":"5"}
+,{"yr":"2006","value":"HIGHWAY/EXPRESSWAY","n":"52"}
+,{"yr":"2006","value":"HOSPITAL BUILDING / GROUNDS","n":"2"}
+,{"yr":"2006","value":"HOSPITAL BUILDING/GROUNDS","n":"1189"}
+,{"yr":"2006","value":"HOTEL","n":"2"}
+,{"yr":"2006","value":"HOTEL / MOTEL","n":"5"}
+,{"yr":"2006","value":"HOTEL/MOTEL","n":"1670"}
+,{"yr":"2006","value":"HOUSE","n":"23"}
+,{"yr":"2006","value":"JAIL / LOCK-UP FACILITY","n":"69"}
+,{"yr":"2006","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"35"}
+,{"yr":"2006","value":"LIBRARY","n":"387"}
+,{"yr":"2006","value":"LIVERY AUTO","n":"1"}
+,{"yr":"2006","value":"MEDICAL/DENTAL OFFICE","n":"522"}
+,{"yr":"2006","value":"MOVIE HOUSE/THEATER","n":"167"}
+,{"yr":"2006","value":"NEWSSTAND","n":"16"}
+,{"yr":"2006","value":"NURSING HOME/RETIREMENT HOME","n":"766"}
+,{"yr":"2006","value":"OFFICE","n":"7"}
+,{"yr":"2006","value":"OTHER","n":"16864"}
+,{"yr":"2006","value":"OTHER COMMERCIAL TRANSPORTATION","n":"149"}
+,{"yr":"2006","value":"OTHER RAILROAD PROPERTY / TRAIN DEPOT","n":"1"}
+,{"yr":"2006","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"351"}
+,{"yr":"2006","value":"OTHER (SPECIFY)","n":"9"}
+,{"yr":"2006","value":"PARKING LOT","n":"10"}
+,{"yr":"2006","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"11233"}
+,{"yr":"2006","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"3"}
+,{"yr":"2006","value":"PARK PROPERTY","n":"3302"}
+,{"yr":"2006","value":"PAWN SHOP","n":"16"}
+,{"yr":"2006","value":"POLICE FACILITY/VEH PARKING LOT","n":"999"}
+,{"yr":"2006","value":"POOL ROOM","n":"20"}
+,{"yr":"2006","value":"PORCH","n":"7"}
+,{"yr":"2006","value":"RAILROAD PROPERTY","n":"3"}
+,{"yr":"2006","value":"RESIDENCE","n":"73824"}
+,{"yr":"2006","value":"RESIDENCE - GARAGE","n":"24"}
+,{"yr":"2006","value":"RESIDENCE-GARAGE","n":"9210"}
+,{"yr":"2006","value":"RESIDENCE - PORCH / HALLWAY","n":"5"}
+,{"yr":"2006","value":"RESIDENCE PORCH/HALLWAY","n":"7667"}
+,{"yr":"2006","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"1634"}
+,{"yr":"2006","value":"RESTAURANT","n":"6272"}
+,{"yr":"2006","value":"SAVINGS AND LOAN","n":"33"}
+,{"yr":"2006","value":"SCHOOL, PRIVATE, BUILDING","n":"794"}
+,{"yr":"2006","value":"SCHOOL, PRIVATE, GROUNDS","n":"226"}
+,{"yr":"2006","value":"SCHOOL - PUBLIC BUILDING","n":"4"}
+,{"yr":"2006","value":"SCHOOL, PUBLIC, BUILDING","n":"10357"}
+,{"yr":"2006","value":"SCHOOL, PUBLIC, GROUNDS","n":"2052"}
+,{"yr":"2006","value":"SIDEWALK","n":"49968"}
+,{"yr":"2006","value":"SMALL RETAIL STORE","n":"7378"}
+,{"yr":"2006","value":"SPORTS ARENA/STADIUM","n":"215"}
+,{"yr":"2006","value":"STAIRWELL","n":"2"}
+,{"yr":"2006","value":"STREET","n":"118769"}
+,{"yr":"2006","value":"TAVERN","n":"2"}
+,{"yr":"2006","value":"TAVERN/LIQUOR STORE","n":"1660"}
+,{"yr":"2006","value":"TAXICAB","n":"351"}
+,{"yr":"2006","value":"TRUCK","n":"1"}
+,{"yr":"2006","value":"VACANT LOT / LAND","n":"2"}
+,{"yr":"2006","value":"VACANT LOT/LAND","n":"1311"}
+,{"yr":"2006","value":"VEHICLE - COMMERCIAL","n":"2"}
+,{"yr":"2006","value":"VEHICLE-COMMERCIAL","n":"334"}
+,{"yr":"2006","value":"VEHICLE - DELIVERY TRUCK","n":"1"}
+,{"yr":"2006","value":"VEHICLE NON-COMMERCIAL","n":"12637"}
+,{"yr":"2006","value":"VESTIBULE","n":"2"}
+,{"yr":"2006","value":"WAREHOUSE","n":"672"}
+,{"yr":"2006","value":"WOODED AREA","n":"1"}
+,{"yr":"2006","value":"YARD","n":"3"}
+,{"yr":"2006","n":"21"}
+,{"yr":"2007","value":"ABANDONED BUILDING","n":"585"}
+,{"yr":"2007","value":"AIRPORT/AIRCRAFT","n":"1898"}
+,{"yr":"2007","value":"AIRPORT PARKING LOT","n":"1"}
+,{"yr":"2007","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"1"}
+,{"yr":"2007","value":"ALLEY","n":"10520"}
+,{"yr":"2007","value":"ANIMAL HOSPITAL","n":"27"}
+,{"yr":"2007","value":"APARTMENT","n":"44309"}
+,{"yr":"2007","value":"APPLIANCE STORE","n":"97"}
+,{"yr":"2007","value":"ATHLETIC CLUB","n":"355"}
+,{"yr":"2007","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"426"}
+,{"yr":"2007","value":"AUTO","n":"52"}
+,{"yr":"2007","value":"BANK","n":"1935"}
+,{"yr":"2007","value":"BANQUET HALL","n":"1"}
+,{"yr":"2007","value":"BARBERSHOP","n":"621"}
+,{"yr":"2007","value":"BAR OR TAVERN","n":"2136"}
+,{"yr":"2007","value":"BASEMENT","n":"3"}
+,{"yr":"2007","value":"BOAT/WATERCRAFT","n":"51"}
+,{"yr":"2007","value":"BOWLING ALLEY","n":"51"}
+,{"yr":"2007","value":"BRIDGE","n":"27"}
+,{"yr":"2007","value":"CAR WASH","n":"150"}
+,{"yr":"2007","value":"CEMETARY","n":"32"}
+,{"yr":"2007","value":"CHA APARTMENT","n":"1771"}
+,{"yr":"2007","value":"CHA GROUNDS","n":"1"}
+,{"yr":"2007","value":"CHA HALLWAY","n":"2"}
+,{"yr":"2007","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"2004"}
+,{"yr":"2007","value":"CHA PARKING LOT","n":"2"}
+,{"yr":"2007","value":"CHA PARKING LOT / GROUNDS","n":"3"}
+,{"yr":"2007","value":"CHA PARKING LOT/GROUNDS","n":"3278"}
+,{"yr":"2007","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"1"}
+,{"yr":"2007","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"1048"}
+,{"yr":"2007","value":"CLEANING STORE","n":"336"}
+,{"yr":"2007","value":"COIN OPERATED MACHINE","n":"99"}
+,{"yr":"2007","value":"COLLEGE/UNIVERSITY GROUNDS","n":"416"}
+,{"yr":"2007","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"88"}
+,{"yr":"2007","value":"COMMERCIAL / BUSINESS OFFICE","n":"3675"}
+,{"yr":"2007","value":"CONSTRUCTION SITE","n":"1478"}
+,{"yr":"2007","value":"CONVENIENCE STORE","n":"554"}
+,{"yr":"2007","value":"CREDIT UNION","n":"44"}
+,{"yr":"2007","value":"CTA BUS","n":"1198"}
+,{"yr":"2007","value":"CTA GARAGE / OTHER PROPERTY","n":"752"}
+,{"yr":"2007","value":"CTA PLATFORM","n":"2616"}
+,{"yr":"2007","value":"CTA TRAIN","n":"1389"}
+,{"yr":"2007","value":"CURRENCY EXCHANGE","n":"751"}
+,{"yr":"2007","value":"DAY CARE CENTER","n":"166"}
+,{"yr":"2007","value":"DELIVERY TRUCK","n":"72"}
+,{"yr":"2007","value":"DEPARTMENT STORE","n":"4682"}
+,{"yr":"2007","value":"DRIVEWAY - RESIDENTIAL","n":"1626"}
+,{"yr":"2007","value":"DRUG STORE","n":"2004"}
+,{"yr":"2007","value":"DUMPSTER","n":"1"}
+,{"yr":"2007","value":"FACTORY / MANUFACTURING BUILDING","n":"1"}
+,{"yr":"2007","value":"FACTORY/MANUFACTURING BUILDING","n":"544"}
+,{"yr":"2007","value":"FEDERAL BUILDING","n":"34"}
+,{"yr":"2007","value":"FIRE STATION","n":"74"}
+,{"yr":"2007","value":"FOREST PRESERVE","n":"24"}
+,{"yr":"2007","value":"GANGWAY","n":"1"}
+,{"yr":"2007","value":"GARAGE","n":"2"}
+,{"yr":"2007","value":"GARAGE/AUTO REPAIR","n":"1"}
+,{"yr":"2007","value":"GAS STATION","n":"4952"}
+,{"yr":"2007","value":"GAS STATION DRIVE/PROP.","n":"2"}
+,{"yr":"2007","value":"GOVERNMENT BUILDING / PROPERTY","n":"1"}
+,{"yr":"2007","value":"GOVERNMENT BUILDING/PROPERTY","n":"871"}
+,{"yr":"2007","value":"GROCERY FOOD STORE","n":"5156"}
+,{"yr":"2007","value":"HALLWAY","n":"2"}
+,{"yr":"2007","value":"HIGHWAY/EXPRESSWAY","n":"45"}
+,{"yr":"2007","value":"HOSPITAL BUILDING / GROUNDS","n":"1"}
+,{"yr":"2007","value":"HOSPITAL BUILDING/GROUNDS","n":"1225"}
+,{"yr":"2007","value":"HOTEL / MOTEL","n":"3"}
+,{"yr":"2007","value":"HOTEL/MOTEL","n":"1497"}
+,{"yr":"2007","value":"HOUSE","n":"23"}
+,{"yr":"2007","value":"JAIL / LOCK-UP FACILITY","n":"62"}
+,{"yr":"2007","value":"LAKE","n":"1"}
+,{"yr":"2007","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"38"}
+,{"yr":"2007","value":"LIBRARY","n":"498"}
+,{"yr":"2007","value":"MEDICAL/DENTAL OFFICE","n":"464"}
+,{"yr":"2007","value":"MOTEL","n":"1"}
+,{"yr":"2007","value":"MOVIE HOUSE/THEATER","n":"179"}
+,{"yr":"2007","value":"NEWSSTAND","n":"14"}
+,{"yr":"2007","value":"NURSING HOME/RETIREMENT HOME","n":"730"}
+,{"yr":"2007","value":"OFFICE","n":"1"}
+,{"yr":"2007","value":"OTHER","n":"16000"}
+,{"yr":"2007","value":"OTHER COMMERCIAL TRANSPORTATION","n":"152"}
+,{"yr":"2007","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"334"}
+,{"yr":"2007","value":"OTHER (SPECIFY)","n":"14"}
+,{"yr":"2007","value":"PARKING LOT","n":"3"}
+,{"yr":"2007","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"11344"}
+,{"yr":"2007","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"6"}
+,{"yr":"2007","value":"PARK PROPERTY","n":"3577"}
+,{"yr":"2007","value":"PAWN SHOP","n":"26"}
+,{"yr":"2007","value":"POLICE FACILITY/VEH PARKING LOT","n":"1047"}
+,{"yr":"2007","value":"POOL ROOM","n":"29"}
+,{"yr":"2007","value":"PORCH","n":"10"}
+,{"yr":"2007","value":"RESIDENCE","n":"73246"}
+,{"yr":"2007","value":"RESIDENCE - GARAGE","n":"6"}
+,{"yr":"2007","value":"RESIDENCE-GARAGE","n":"9117"}
+,{"yr":"2007","value":"RESIDENCE - PORCH / HALLWAY","n":"1"}
+,{"yr":"2007","value":"RESIDENCE PORCH/HALLWAY","n":"7632"}
+,{"yr":"2007","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"1603"}
+,{"yr":"2007","value":"RESTAURANT","n":"6005"}
+,{"yr":"2007","value":"RETAIL STORE","n":"4"}
+,{"yr":"2007","value":"RIVER BANK","n":"1"}
+,{"yr":"2007","value":"SAVINGS AND LOAN","n":"21"}
+,{"yr":"2007","value":"SCHOOL - PRIVATE BUILDING","n":"1"}
+,{"yr":"2007","value":"SCHOOL, PRIVATE, BUILDING","n":"777"}
+,{"yr":"2007","value":"SCHOOL, PRIVATE, GROUNDS","n":"244"}
+,{"yr":"2007","value":"SCHOOL - PUBLIC BUILDING","n":"5"}
+,{"yr":"2007","value":"SCHOOL, PUBLIC, BUILDING","n":"9838"}
+,{"yr":"2007","value":"SCHOOL - PUBLIC GROUNDS","n":"2"}
+,{"yr":"2007","value":"SCHOOL, PUBLIC, GROUNDS","n":"1890"}
+,{"yr":"2007","value":"SCHOOL YARD","n":"1"}
+,{"yr":"2007","value":"SIDEWALK","n":"49504"}
+,{"yr":"2007","value":"SMALL RETAIL STORE","n":"6875"}
+,{"yr":"2007","value":"SPORTS ARENA/STADIUM","n":"227"}
+,{"yr":"2007","value":"STAIRWELL","n":"1"}
+,{"yr":"2007","value":"STREET","n":"117778"}
+,{"yr":"2007","value":"TAVERN","n":"2"}
+,{"yr":"2007","value":"TAVERN / LIQUOR STORE","n":"2"}
+,{"yr":"2007","value":"TAVERN/LIQUOR STORE","n":"1444"}
+,{"yr":"2007","value":"TAXICAB","n":"327"}
+,{"yr":"2007","value":"TRAILER","n":"1"}
+,{"yr":"2007","value":"VACANT LOT","n":"5"}
+,{"yr":"2007","value":"VACANT LOT/LAND","n":"1321"}
+,{"yr":"2007","value":"VEHICLE-COMMERCIAL","n":"276"}
+,{"yr":"2007","value":"VEHICLE NON-COMMERCIAL","n":"5913"}
+,{"yr":"2007","value":"WAREHOUSE","n":"690"}
+,{"yr":"2007","value":"YARD","n":"7"}
+,{"yr":"2007","n":"27"}
+,{"yr":"2008","value":"ABANDONED BUILDING","n":"755"}
+,{"yr":"2008","value":"AIRPORT/AIRCRAFT","n":"1698"}
+,{"yr":"2008","value":"ALLEY","n":"9793"}
+,{"yr":"2008","value":"ANIMAL HOSPITAL","n":"29"}
+,{"yr":"2008","value":"APARTMENT","n":"45989"}
+,{"yr":"2008","value":"APPLIANCE STORE","n":"134"}
+,{"yr":"2008","value":"ATHLETIC CLUB","n":"363"}
+,{"yr":"2008","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"465"}
+,{"yr":"2008","value":"AUTO","n":"58"}
+,{"yr":"2008","value":"BANK","n":"1933"}
+,{"yr":"2008","value":"BARBERSHOP","n":"571"}
+,{"yr":"2008","value":"BARBER SHOP/BEAUTY SALON","n":"1"}
+,{"yr":"2008","value":"BAR OR TAVERN","n":"2274"}
+,{"yr":"2008","value":"BASEMENT","n":"2"}
+,{"yr":"2008","value":"BOAT/WATERCRAFT","n":"28"}
+,{"yr":"2008","value":"BOWLING ALLEY","n":"40"}
+,{"yr":"2008","value":"BRIDGE","n":"12"}
+,{"yr":"2008","value":"CAR WASH","n":"139"}
+,{"yr":"2008","value":"CEMETARY","n":"14"}
+,{"yr":"2008","value":"CHA APARTMENT","n":"1538"}
+,{"yr":"2008","value":"CHA GROUNDS","n":"1"}
+,{"yr":"2008","value":"CHA HALLWAY","n":"1"}
+,{"yr":"2008","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"1"}
+,{"yr":"2008","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"1783"}
+,{"yr":"2008","value":"CHA PARKING LOT","n":"2"}
+,{"yr":"2008","value":"CHA PARKING LOT / GROUNDS","n":"1"}
+,{"yr":"2008","value":"CHA PARKING LOT/GROUNDS","n":"2480"}
+,{"yr":"2008","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"4"}
+,{"yr":"2008","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"1047"}
+,{"yr":"2008","value":"CLEANING STORE","n":"340"}
+,{"yr":"2008","value":"COIN OPERATED MACHINE","n":"53"}
+,{"yr":"2008","value":"COLLEGE/UNIVERSITY GROUNDS","n":"467"}
+,{"yr":"2008","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"91"}
+,{"yr":"2008","value":"COMMERCIAL / BUSINESS OFFICE","n":"3202"}
+,{"yr":"2008","value":"CONSTRUCTION SITE","n":"1126"}
+,{"yr":"2008","value":"CONVENIENCE STORE","n":"863"}
+,{"yr":"2008","value":"CREDIT UNION","n":"41"}
+,{"yr":"2008","value":"CTA BUS","n":"1310"}
+,{"yr":"2008","value":"CTA BUS STOP","n":"22"}
+,{"yr":"2008","value":"CTA GARAGE / OTHER PROPERTY","n":"736"}
+,{"yr":"2008","value":"CTA \"L\" PLATFORM","n":"1"}
+,{"yr":"2008","value":"CTA PLATFORM","n":"2534"}
+,{"yr":"2008","value":"CTA TRAIN","n":"1278"}
+,{"yr":"2008","value":"CURRENCY EXCHANGE","n":"691"}
+,{"yr":"2008","value":"DAY CARE CENTER","n":"167"}
+,{"yr":"2008","value":"DELIVERY TRUCK","n":"59"}
+,{"yr":"2008","value":"DEPARTMENT STORE","n":"5208"}
+,{"yr":"2008","value":"DRIVEWAY","n":"2"}
+,{"yr":"2008","value":"DRIVEWAY - RESIDENTIAL","n":"1561"}
+,{"yr":"2008","value":"DRUG STORE","n":"1983"}
+,{"yr":"2008","value":"DUMPSTER","n":"1"}
+,{"yr":"2008","value":"FACTORY","n":"1"}
+,{"yr":"2008","value":"FACTORY / MANUFACTURING BUILDING","n":"1"}
+,{"yr":"2008","value":"FACTORY/MANUFACTURING BUILDING","n":"473"}
+,{"yr":"2008","value":"FEDERAL BUILDING","n":"35"}
+,{"yr":"2008","value":"FIRE STATION","n":"68"}
+,{"yr":"2008","value":"FOREST PRESERVE","n":"19"}
+,{"yr":"2008","value":"GANGWAY","n":"2"}
+,{"yr":"2008","value":"GARAGE","n":"4"}
+,{"yr":"2008","value":"GAS STATION","n":"4494"}
+,{"yr":"2008","value":"GAS STATION DRIVE/PROP.","n":"5"}
+,{"yr":"2008","value":"GOVERNMENT BUILDING/PROPERTY","n":"818"}
+,{"yr":"2008","value":"GROCERY FOOD STORE","n":"4998"}
+,{"yr":"2008","value":"HALLWAY","n":"6"}
+,{"yr":"2008","value":"HIGHWAY/EXPRESSWAY","n":"57"}
+,{"yr":"2008","value":"HOSPITAL BUILDING / GROUNDS","n":"2"}
+,{"yr":"2008","value":"HOSPITAL BUILDING/GROUNDS","n":"1162"}
+,{"yr":"2008","value":"HOTEL","n":"1"}
+,{"yr":"2008","value":"HOTEL / MOTEL","n":"6"}
+,{"yr":"2008","value":"HOTEL/MOTEL","n":"1668"}
+,{"yr":"2008","value":"HOUSE","n":"41"}
+,{"yr":"2008","value":"JAIL / LOCK-UP FACILITY","n":"81"}
+,{"yr":"2008","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"58"}
+,{"yr":"2008","value":"LIBRARY","n":"436"}
+,{"yr":"2008","value":"LIQUOR STORE","n":"1"}
+,{"yr":"2008","value":"MEDICAL / DENTAL OFFICE","n":"1"}
+,{"yr":"2008","value":"MEDICAL/DENTAL OFFICE","n":"493"}
+,{"yr":"2008","value":"MOTEL","n":"1"}
+,{"yr":"2008","value":"MOVIE HOUSE/THEATER","n":"153"}
+,{"yr":"2008","value":"NEWSSTAND","n":"6"}
+,{"yr":"2008","value":"NURSING HOME","n":"1"}
+,{"yr":"2008","value":"NURSING HOME/RETIREMENT HOME","n":"744"}
+,{"yr":"2008","value":"NURSING / RETIREMENT HOME","n":"1"}
+,{"yr":"2008","value":"OTHER","n":"15112"}
+,{"yr":"2008","value":"OTHER COMMERCIAL TRANSPORTATION","n":"146"}
+,{"yr":"2008","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"314"}
+,{"yr":"2008","value":"OTHER (SPECIFY)","n":"23"}
+,{"yr":"2008","value":"PARKING LOT","n":"7"}
+,{"yr":"2008","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"11909"}
+,{"yr":"2008","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"9"}
+,{"yr":"2008","value":"PARK PROPERTY","n":"3125"}
+,{"yr":"2008","value":"PAWN SHOP","n":"15"}
+,{"yr":"2008","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"1"}
+,{"yr":"2008","value":"POLICE FACILITY/VEH PARKING LOT","n":"1318"}
+,{"yr":"2008","value":"POOL ROOM","n":"33"}
+,{"yr":"2008","value":"PORCH","n":"17"}
+,{"yr":"2008","value":"RAILROAD PROPERTY","n":"2"}
+,{"yr":"2008","value":"RESIDENCE","n":"72753"}
+,{"yr":"2008","value":"RESIDENCE - GARAGE","n":"8"}
+,{"yr":"2008","value":"RESIDENCE-GARAGE","n":"8675"}
+,{"yr":"2008","value":"RESIDENCE - PORCH / HALLWAY","n":"7"}
+,{"yr":"2008","value":"RESIDENCE PORCH/HALLWAY","n":"7345"}
+,{"yr":"2008","value":"RESIDENCE - YARD (FRONT / BACK)","n":"2"}
+,{"yr":"2008","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"2720"}
+,{"yr":"2008","value":"RESTAURANT","n":"5884"}
+,{"yr":"2008","value":"RETAIL STORE","n":"7"}
+,{"yr":"2008","value":"SAVINGS AND LOAN","n":"30"}
+,{"yr":"2008","value":"SCHOOL - PRIVATE BUILDING","n":"2"}
+,{"yr":"2008","value":"SCHOOL, PRIVATE, BUILDING","n":"702"}
+,{"yr":"2008","value":"SCHOOL, PRIVATE, GROUNDS","n":"224"}
+,{"yr":"2008","value":"SCHOOL - PUBLIC BUILDING","n":"9"}
+,{"yr":"2008","value":"SCHOOL, PUBLIC, BUILDING","n":"9609"}
+,{"yr":"2008","value":"SCHOOL - PUBLIC GROUNDS","n":"2"}
+,{"yr":"2008","value":"SCHOOL, PUBLIC, GROUNDS","n":"1844"}
+,{"yr":"2008","value":"SCHOOL YARD","n":"2"}
+,{"yr":"2008","value":"SIDEWALK","n":"46149"}
+,{"yr":"2008","value":"SMALL RETAIL STORE","n":"7012"}
+,{"yr":"2008","value":"SPORTS ARENA/STADIUM","n":"275"}
+,{"yr":"2008","value":"STAIRWELL","n":"2"}
+,{"yr":"2008","value":"STREET","n":"112949"}
+,{"yr":"2008","value":"TAVERN","n":"3"}
+,{"yr":"2008","value":"TAVERN / LIQUOR STORE","n":"1"}
+,{"yr":"2008","value":"TAVERN/LIQUOR STORE","n":"1563"}
+,{"yr":"2008","value":"TAXICAB","n":"394"}
+,{"yr":"2008","value":"VACANT LOT","n":"7"}
+,{"yr":"2008","value":"VACANT LOT / LAND","n":"1"}
+,{"yr":"2008","value":"VACANT LOT/LAND","n":"1307"}
+,{"yr":"2008","value":"VEHICLE-COMMERCIAL","n":"290"}
+,{"yr":"2008","value":"VEHICLE NON-COMMERCIAL","n":"6060"}
+,{"yr":"2008","value":"WAREHOUSE","n":"543"}
+,{"yr":"2008","value":"YARD","n":"6"}
+,{"yr":"2008","n":"85"}
+,{"yr":"2009","value":"ABANDONED BUILDING","n":"841"}
+,{"yr":"2009","value":"AIRPORT/AIRCRAFT","n":"1445"}
+,{"yr":"2009","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"4"}
+,{"yr":"2009","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"8"}
+,{"yr":"2009","value":"AIRPORT EXTERIOR - SECURE AREA","n":"2"}
+,{"yr":"2009","value":"AIRPORT PARKING LOT","n":"3"}
+,{"yr":"2009","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"2"}
+,{"yr":"2009","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"2"}
+,{"yr":"2009","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"1"}
+,{"yr":"2009","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"4"}
+,{"yr":"2009","value":"AIRPORT VENDING ESTABLISHMENT","n":"1"}
+,{"yr":"2009","value":"ALLEY","n":"8829"}
+,{"yr":"2009","value":"ANIMAL HOSPITAL","n":"51"}
+,{"yr":"2009","value":"APARTMENT","n":"45062"}
+,{"yr":"2009","value":"APPLIANCE STORE","n":"126"}
+,{"yr":"2009","value":"ATHLETIC CLUB","n":"601"}
+,{"yr":"2009","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"773"}
+,{"yr":"2009","value":"AUTO","n":"55"}
+,{"yr":"2009","value":"BANK","n":"1511"}
+,{"yr":"2009","value":"BARBERSHOP","n":"546"}
+,{"yr":"2009","value":"BAR OR TAVERN","n":"2285"}
+,{"yr":"2009","value":"BASEMENT","n":"2"}
+,{"yr":"2009","value":"BOAT/WATERCRAFT","n":"53"}
+,{"yr":"2009","value":"BOWLING ALLEY","n":"46"}
+,{"yr":"2009","value":"BRIDGE","n":"25"}
+,{"yr":"2009","value":"CAR WASH","n":"137"}
+,{"yr":"2009","value":"CEMETARY","n":"19"}
+,{"yr":"2009","value":"CHA APARTMENT","n":"1391"}
+,{"yr":"2009","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"608"}
+,{"yr":"2009","value":"CHA PARKING LOT","n":"3"}
+,{"yr":"2009","value":"CHA PARKING LOT/GROUNDS","n":"1628"}
+,{"yr":"2009","value":"CHA STAIRWELL","n":"1"}
+,{"yr":"2009","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"3"}
+,{"yr":"2009","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"792"}
+,{"yr":"2009","value":"CLEANING STORE","n":"273"}
+,{"yr":"2009","value":"COIN OPERATED MACHINE","n":"55"}
+,{"yr":"2009","value":"COLLEGE/UNIVERSITY GROUNDS","n":"339"}
+,{"yr":"2009","value":"COLLEGE / UNIVERSITY - RESIDENCE HALL","n":"1"}
+,{"yr":"2009","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"114"}
+,{"yr":"2009","value":"COMMERCIAL / BUSINESS OFFICE","n":"2607"}
+,{"yr":"2009","value":"CONSTRUCTION SITE","n":"536"}
+,{"yr":"2009","value":"CONVENIENCE STORE","n":"1034"}
+,{"yr":"2009","value":"CREDIT UNION","n":"30"}
+,{"yr":"2009","value":"CTA BUS","n":"1335"}
+,{"yr":"2009","value":"CTA BUS STOP","n":"125"}
+,{"yr":"2009","value":"CTA GARAGE / OTHER PROPERTY","n":"888"}
+,{"yr":"2009","value":"CTA PLATFORM","n":"2182"}
+,{"yr":"2009","value":"CTA PROPERTY","n":"1"}
+,{"yr":"2009","value":"CTA TRAIN","n":"1331"}
+,{"yr":"2009","value":"CURRENCY EXCHANGE","n":"687"}
+,{"yr":"2009","value":"DAY CARE CENTER","n":"164"}
+,{"yr":"2009","value":"DELIVERY TRUCK","n":"49"}
+,{"yr":"2009","value":"DEPARTMENT STORE","n":"4923"}
+,{"yr":"2009","value":"DRIVEWAY","n":"1"}
+,{"yr":"2009","value":"DRIVEWAY - RESIDENTIAL","n":"1155"}
+,{"yr":"2009","value":"DRUG STORE","n":"1587"}
+,{"yr":"2009","value":"FACTORY/MANUFACTURING BUILDING","n":"331"}
+,{"yr":"2009","value":"FEDERAL BUILDING","n":"34"}
+,{"yr":"2009","value":"FIRE STATION","n":"61"}
+,{"yr":"2009","value":"FOREST PRESERVE","n":"16"}
+,{"yr":"2009","value":"GANGWAY","n":"1"}
+,{"yr":"2009","value":"GARAGE","n":"1"}
+,{"yr":"2009","value":"GAS STATION","n":"3846"}
+,{"yr":"2009","value":"GAS STATION DRIVE/PROP.","n":"4"}
+,{"yr":"2009","value":"GOVERNMENT BUILDING / PROPERTY","n":"1"}
+,{"yr":"2009","value":"GOVERNMENT BUILDING/PROPERTY","n":"806"}
+,{"yr":"2009","value":"GROCERY FOOD STORE","n":"4660"}
+,{"yr":"2009","value":"HALLWAY","n":"3"}
+,{"yr":"2009","value":"HIGHWAY/EXPRESSWAY","n":"73"}
+,{"yr":"2009","value":"HOSPITAL BUILDING / GROUNDS","n":"1"}
+,{"yr":"2009","value":"HOSPITAL BUILDING/GROUNDS","n":"1092"}
+,{"yr":"2009","value":"HOTEL","n":"1"}
+,{"yr":"2009","value":"HOTEL / MOTEL","n":"3"}
+,{"yr":"2009","value":"HOTEL/MOTEL","n":"1449"}
+,{"yr":"2009","value":"HOUSE","n":"29"}
+,{"yr":"2009","value":"JAIL / LOCK-UP FACILITY","n":"72"}
+,{"yr":"2009","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"75"}
+,{"yr":"2009","value":"LIBRARY","n":"407"}
+,{"yr":"2009","value":"MEDICAL / DENTAL OFFICE","n":"2"}
+,{"yr":"2009","value":"MEDICAL/DENTAL OFFICE","n":"413"}
+,{"yr":"2009","value":"MOVIE HOUSE/THEATER","n":"134"}
+,{"yr":"2009","value":"NEWSSTAND","n":"10"}
+,{"yr":"2009","value":"NURSING HOME","n":"1"}
+,{"yr":"2009","value":"NURSING HOME/RETIREMENT HOME","n":"716"}
+,{"yr":"2009","value":"NURSING / RETIREMENT HOME","n":"1"}
+,{"yr":"2009","value":"OTHER","n":"13279"}
+,{"yr":"2009","value":"OTHER COMMERCIAL TRANSPORTATION","n":"144"}
+,{"yr":"2009","value":"OTHER RAILROAD PROPERTY / TRAIN DEPOT","n":"3"}
+,{"yr":"2009","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"353"}
+,{"yr":"2009","value":"OTHER (SPECIFY)","n":"19"}
+,{"yr":"2009","value":"PARKING LOT","n":"7"}
+,{"yr":"2009","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"11262"}
+,{"yr":"2009","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"4"}
+,{"yr":"2009","value":"PARK PROPERTY","n":"2802"}
+,{"yr":"2009","value":"PAWN SHOP","n":"31"}
+,{"yr":"2009","value":"POLICE FACILITY/VEH PARKING LOT","n":"1124"}
+,{"yr":"2009","value":"POOL ROOM","n":"78"}
+,{"yr":"2009","value":"PORCH","n":"13"}
+,{"yr":"2009","value":"RESIDENCE","n":"66095"}
+,{"yr":"2009","value":"RESIDENCE - GARAGE","n":"5"}
+,{"yr":"2009","value":"RESIDENCE-GARAGE","n":"8353"}
+,{"yr":"2009","value":"RESIDENCE - PORCH / HALLWAY","n":"6"}
+,{"yr":"2009","value":"RESIDENCE PORCH/HALLWAY","n":"6807"}
+,{"yr":"2009","value":"RESIDENCE - YARD (FRONT / BACK)","n":"2"}
+,{"yr":"2009","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"5584"}
+,{"yr":"2009","value":"RESTAURANT","n":"5538"}
+,{"yr":"2009","value":"RETAIL STORE","n":"3"}
+,{"yr":"2009","value":"RIVER BANK","n":"1"}
+,{"yr":"2009","value":"ROOMING HOUSE","n":"1"}
+,{"yr":"2009","value":"SAVINGS AND LOAN","n":"23"}
+,{"yr":"2009","value":"SCHOOL - PRIVATE BUILDING","n":"1"}
+,{"yr":"2009","value":"SCHOOL, PRIVATE, BUILDING","n":"697"}
+,{"yr":"2009","value":"SCHOOL, PRIVATE, GROUNDS","n":"213"}
+,{"yr":"2009","value":"SCHOOL - PUBLIC BUILDING","n":"3"}
+,{"yr":"2009","value":"SCHOOL, PUBLIC, BUILDING","n":"8446"}
+,{"yr":"2009","value":"SCHOOL, PUBLIC, GROUNDS","n":"1717"}
+,{"yr":"2009","value":"SCHOOL YARD","n":"1"}
+,{"yr":"2009","value":"SIDEWALK","n":"44306"}
+,{"yr":"2009","value":"SMALL RETAIL STORE","n":"6613"}
+,{"yr":"2009","value":"SPORTS ARENA/STADIUM","n":"360"}
+,{"yr":"2009","value":"STAIRWELL","n":"1"}
+,{"yr":"2009","value":"STREET","n":"98586"}
+,{"yr":"2009","value":"TAVERN","n":"4"}
+,{"yr":"2009","value":"TAVERN / LIQUOR STORE","n":"1"}
+,{"yr":"2009","value":"TAVERN/LIQUOR STORE","n":"1201"}
+,{"yr":"2009","value":"TAXICAB","n":"433"}
+,{"yr":"2009","value":"VACANT LOT","n":"2"}
+,{"yr":"2009","value":"VACANT LOT / LAND","n":"2"}
+,{"yr":"2009","value":"VACANT LOT/LAND","n":"1307"}
+,{"yr":"2009","value":"VEHICLE-COMMERCIAL","n":"324"}
+,{"yr":"2009","value":"VEHICLE NON-COMMERCIAL","n":"6046"}
+,{"yr":"2009","value":"WAREHOUSE","n":"444"}
+,{"yr":"2009","value":"YARD","n":"13"}
+,{"yr":"2009","n":"101"}
+,{"yr":"2010","value":"ABANDONED BUILDING","n":"1025"}
+,{"yr":"2010","value":"AIRCRAFT","n":"43"}
+,{"yr":"2010","value":"AIRPORT/AIRCRAFT","n":"159"}
+,{"yr":"2010","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"68"}
+,{"yr":"2010","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"31"}
+,{"yr":"2010","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"119"}
+,{"yr":"2010","value":"AIRPORT EXTERIOR - SECURE AREA","n":"23"}
+,{"yr":"2010","value":"AIRPORT PARKING LOT","n":"66"}
+,{"yr":"2010","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"184"}
+,{"yr":"2010","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"71"}
+,{"yr":"2010","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"11"}
+,{"yr":"2010","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"89"}
+,{"yr":"2010","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"425"}
+,{"yr":"2010","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"11"}
+,{"yr":"2010","value":"AIRPORT VENDING ESTABLISHMENT","n":"20"}
+,{"yr":"2010","value":"ALLEY","n":"8517"}
+,{"yr":"2010","value":"ANIMAL HOSPITAL","n":"58"}
+,{"yr":"2010","value":"APARTMENT","n":"42736"}
+,{"yr":"2010","value":"APPLIANCE STORE","n":"85"}
+,{"yr":"2010","value":"ATHLETIC CLUB","n":"538"}
+,{"yr":"2010","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"757"}
+,{"yr":"2010","value":"AUTO","n":"61"}
+,{"yr":"2010","value":"BANK","n":"1414"}
+,{"yr":"2010","value":"BARBERSHOP","n":"386"}
+,{"yr":"2010","value":"BARBER SHOP/BEAUTY SALON","n":"1"}
+,{"yr":"2010","value":"BAR OR TAVERN","n":"2233"}
+,{"yr":"2010","value":"BOAT/WATERCRAFT","n":"28"}
+,{"yr":"2010","value":"BOWLING ALLEY","n":"27"}
+,{"yr":"2010","value":"BRIDGE","n":"20"}
+,{"yr":"2010","value":"CAR WASH","n":"139"}
+,{"yr":"2010","value":"CEMETARY","n":"19"}
+,{"yr":"2010","value":"CHA APARTMENT","n":"1017"}
+,{"yr":"2010","value":"CHA GROUNDS","n":"1"}
+,{"yr":"2010","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"318"}
+,{"yr":"2010","value":"CHA PARKING LOT","n":"1"}
+,{"yr":"2010","value":"CHA PARKING LOT/GROUNDS","n":"1253"}
+,{"yr":"2010","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"3"}
+,{"yr":"2010","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"872"}
+,{"yr":"2010","value":"CLEANING STORE","n":"193"}
+,{"yr":"2010","value":"COIN OPERATED MACHINE","n":"35"}
+,{"yr":"2010","value":"COLLEGE/UNIVERSITY GROUNDS","n":"338"}
+,{"yr":"2010","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"103"}
+,{"yr":"2010","value":"COMMERCIAL / BUSINESS OFFICE","n":"1941"}
+,{"yr":"2010","value":"CONSTRUCTION SITE","n":"415"}
+,{"yr":"2010","value":"CONVENIENCE STORE","n":"1076"}
+,{"yr":"2010","value":"CREDIT UNION","n":"27"}
+,{"yr":"2010","value":"CTA BUS","n":"1253"}
+,{"yr":"2010","value":"CTA BUS STOP","n":"658"}
+,{"yr":"2010","value":"CTA GARAGE / OTHER PROPERTY","n":"747"}
+,{"yr":"2010","value":"CTA PLATFORM","n":"2031"}
+,{"yr":"2010","value":"CTA TRAIN","n":"1485"}
+,{"yr":"2010","value":"CURRENCY EXCHANGE","n":"511"}
+,{"yr":"2010","value":"DAY CARE CENTER","n":"133"}
+,{"yr":"2010","value":"DELIVERY TRUCK","n":"29"}
+,{"yr":"2010","value":"DEPARTMENT STORE","n":"4456"}
+,{"yr":"2010","value":"DRIVEWAY","n":"1"}
+,{"yr":"2010","value":"DRIVEWAY - RESIDENTIAL","n":"887"}
+,{"yr":"2010","value":"DRUG STORE","n":"1253"}
+,{"yr":"2010","value":"FACTORY / MANUFACTURING BUILDING","n":"1"}
+,{"yr":"2010","value":"FACTORY/MANUFACTURING BUILDING","n":"269"}
+,{"yr":"2010","value":"FEDERAL BUILDING","n":"30"}
+,{"yr":"2010","value":"FIRE STATION","n":"52"}
+,{"yr":"2010","value":"FOREST PRESERVE","n":"7"}
+,{"yr":"2010","value":"GANGWAY","n":"2"}
+,{"yr":"2010","value":"GARAGE","n":"6"}
+,{"yr":"2010","value":"GAS STATION","n":"3302"}
+,{"yr":"2010","value":"GOVERNMENT BUILDING/PROPERTY","n":"700"}
+,{"yr":"2010","value":"GROCERY FOOD STORE","n":"3948"}
+,{"yr":"2010","value":"HALLWAY","n":"6"}
+,{"yr":"2010","value":"HIGHWAY/EXPRESSWAY","n":"68"}
+,{"yr":"2010","value":"HOSPITAL BUILDING / GROUNDS","n":"2"}
+,{"yr":"2010","value":"HOSPITAL BUILDING/GROUNDS","n":"983"}
+,{"yr":"2010","value":"HOTEL","n":"2"}
+,{"yr":"2010","value":"HOTEL / MOTEL","n":"3"}
+,{"yr":"2010","value":"HOTEL/MOTEL","n":"1130"}
+,{"yr":"2010","value":"HOUSE","n":"36"}
+,{"yr":"2010","value":"JAIL / LOCK-UP FACILITY","n":"59"}
+,{"yr":"2010","value":"LAKE","n":"1"}
+,{"yr":"2010","value":"LAKEFRONT / WATERFRONT / RIVERBANK","n":"1"}
+,{"yr":"2010","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"103"}
+,{"yr":"2010","value":"LIBRARY","n":"323"}
+,{"yr":"2010","value":"LIQUOR STORE","n":"1"}
+,{"yr":"2010","value":"MEDICAL/DENTAL OFFICE","n":"380"}
+,{"yr":"2010","value":"MOTEL","n":"1"}
+,{"yr":"2010","value":"MOVIE HOUSE/THEATER","n":"138"}
+,{"yr":"2010","value":"NEWSSTAND","n":"12"}
+,{"yr":"2010","value":"NURSING HOME/RETIREMENT HOME","n":"601"}
+,{"yr":"2010","value":"OTHER","n":"12398"}
+,{"yr":"2010","value":"OTHER COMMERCIAL TRANSPORTATION","n":"163"}
+,{"yr":"2010","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"335"}
+,{"yr":"2010","value":"OTHER (SPECIFY)","n":"14"}
+,{"yr":"2010","value":"PARKING LOT","n":"6"}
+,{"yr":"2010","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"10278"}
+,{"yr":"2010","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"6"}
+,{"yr":"2010","value":"PARK PROPERTY","n":"2982"}
+,{"yr":"2010","value":"PAWN SHOP","n":"39"}
+,{"yr":"2010","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"2"}
+,{"yr":"2010","value":"POLICE FACILITY/VEH PARKING LOT","n":"1077"}
+,{"yr":"2010","value":"POOL ROOM","n":"79"}
+,{"yr":"2010","value":"PORCH","n":"11"}
+,{"yr":"2010","value":"RAILROAD PROPERTY","n":"2"}
+,{"yr":"2010","value":"RESIDENCE","n":"61191"}
+,{"yr":"2010","value":"RESIDENCE - GARAGE","n":"5"}
+,{"yr":"2010","value":"RESIDENCE-GARAGE","n":"7137"}
+,{"yr":"2010","value":"RESIDENCE - PORCH / HALLWAY","n":"5"}
+,{"yr":"2010","value":"RESIDENCE PORCH/HALLWAY","n":"6000"}
+,{"yr":"2010","value":"RESIDENCE - YARD (FRONT / BACK)","n":"4"}
+,{"yr":"2010","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"6083"}
+,{"yr":"2010","value":"RESTAURANT","n":"5165"}
+,{"yr":"2010","value":"RETAIL STORE","n":"4"}
+,{"yr":"2010","value":"RIVER","n":"1"}
+,{"yr":"2010","value":"SAVINGS AND LOAN","n":"11"}
+,{"yr":"2010","value":"SCHOOL, PRIVATE, BUILDING","n":"751"}
+,{"yr":"2010","value":"SCHOOL - PRIVATE GROUNDS","n":"1"}
+,{"yr":"2010","value":"SCHOOL, PRIVATE, GROUNDS","n":"264"}
+,{"yr":"2010","value":"SCHOOL - PUBLIC BUILDING","n":"7"}
+,{"yr":"2010","value":"SCHOOL, PUBLIC, BUILDING","n":"8066"}
+,{"yr":"2010","value":"SCHOOL - PUBLIC GROUNDS","n":"3"}
+,{"yr":"2010","value":"SCHOOL, PUBLIC, GROUNDS","n":"1908"}
+,{"yr":"2010","value":"SIDEWALK","n":"43952"}
+,{"yr":"2010","value":"SMALL RETAIL STORE","n":"6147"}
+,{"yr":"2010","value":"SPORTS ARENA/STADIUM","n":"406"}
+,{"yr":"2010","value":"STAIRWELL","n":"1"}
+,{"yr":"2010","value":"STREET","n":"93050"}
+,{"yr":"2010","value":"TAVERN","n":"3"}
+,{"yr":"2010","value":"TAVERN / LIQUOR STORE","n":"1"}
+,{"yr":"2010","value":"TAVERN/LIQUOR STORE","n":"994"}
+,{"yr":"2010","value":"TAXICAB","n":"454"}
+,{"yr":"2010","value":"VACANT LOT","n":"6"}
+,{"yr":"2010","value":"VACANT LOT/LAND","n":"1665"}
+,{"yr":"2010","value":"VEHICLE-COMMERCIAL","n":"348"}
+,{"yr":"2010","value":"VEHICLE NON-COMMERCIAL","n":"6466"}
+,{"yr":"2010","value":"WAREHOUSE","n":"433"}
+,{"yr":"2010","value":"YARD","n":"13"}
+,{"yr":"2010","n":"84"}
+,{"yr":"2011","value":"ABANDONED BUILDING","n":"1040"}
+,{"yr":"2011","value":"AIRCRAFT","n":"46"}
+,{"yr":"2011","value":"AIRPORT/AIRCRAFT","n":"115"}
+,{"yr":"2011","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"75"}
+,{"yr":"2011","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"42"}
+,{"yr":"2011","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"68"}
+,{"yr":"2011","value":"AIRPORT EXTERIOR - SECURE AREA","n":"24"}
+,{"yr":"2011","value":"AIRPORT PARKING LOT","n":"68"}
+,{"yr":"2011","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"227"}
+,{"yr":"2011","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"70"}
+,{"yr":"2011","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"8"}
+,{"yr":"2011","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"84"}
+,{"yr":"2011","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"510"}
+,{"yr":"2011","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"7"}
+,{"yr":"2011","value":"AIRPORT VENDING ESTABLISHMENT","n":"28"}
+,{"yr":"2011","value":"ALLEY","n":"7647"}
+,{"yr":"2011","value":"ANIMAL HOSPITAL","n":"63"}
+,{"yr":"2011","value":"APARTMENT","n":"42695"}
+,{"yr":"2011","value":"APPLIANCE STORE","n":"72"}
+,{"yr":"2011","value":"ATHLETIC CLUB","n":"453"}
+,{"yr":"2011","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"725"}
+,{"yr":"2011","value":"AUTO","n":"52"}
+,{"yr":"2011","value":"BANK","n":"1280"}
+,{"yr":"2011","value":"BARBERSHOP","n":"346"}
+,{"yr":"2011","value":"BARBER SHOP/BEAUTY SALON","n":"1"}
+,{"yr":"2011","value":"BAR OR TAVERN","n":"2189"}
+,{"yr":"2011","value":"BASEMENT","n":"1"}
+,{"yr":"2011","value":"BOAT/WATERCRAFT","n":"17"}
+,{"yr":"2011","value":"BOWLING ALLEY","n":"23"}
+,{"yr":"2011","value":"BRIDGE","n":"19"}
+,{"yr":"2011","value":"CAR WASH","n":"140"}
+,{"yr":"2011","value":"CEMETARY","n":"23"}
+,{"yr":"2011","value":"CHA APARTMENT","n":"995"}
+,{"yr":"2011","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"230"}
+,{"yr":"2011","value":"CHA PARKING LOT","n":"1"}
+,{"yr":"2011","value":"CHA PARKING LOT / GROUNDS","n":"1"}
+,{"yr":"2011","value":"CHA PARKING LOT/GROUNDS","n":"901"}
+,{"yr":"2011","value":"CHA PLAY LOT","n":"1"}
+,{"yr":"2011","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"2"}
+,{"yr":"2011","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"884"}
+,{"yr":"2011","value":"CLEANING STORE","n":"141"}
+,{"yr":"2011","value":"CLUB","n":"2"}
+,{"yr":"2011","value":"COIN OPERATED MACHINE","n":"40"}
+,{"yr":"2011","value":"COLLEGE/UNIVERSITY GROUNDS","n":"312"}
+,{"yr":"2011","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"112"}
+,{"yr":"2011","value":"COMMERCIAL / BUSINESS OFFICE","n":"1799"}
+,{"yr":"2011","value":"CONSTRUCTION SITE","n":"448"}
+,{"yr":"2011","value":"CONVENIENCE STORE","n":"1104"}
+,{"yr":"2011","value":"CREDIT UNION","n":"20"}
+,{"yr":"2011","value":"CTA BUS","n":"1391"}
+,{"yr":"2011","value":"CTA BUS STOP","n":"693"}
+,{"yr":"2011","value":"CTA GARAGE / OTHER PROPERTY","n":"952"}
+,{"yr":"2011","value":"CTA \"L\" PLATFORM","n":"1"}
+,{"yr":"2011","value":"CTA PLATFORM","n":"2066"}
+,{"yr":"2011","value":"CTA TRAIN","n":"1668"}
+,{"yr":"2011","value":"CURRENCY EXCHANGE","n":"513"}
+,{"yr":"2011","value":"DAY CARE CENTER","n":"134"}
+,{"yr":"2011","value":"DELIVERY TRUCK","n":"22"}
+,{"yr":"2011","value":"DEPARTMENT STORE","n":"4187"}
+,{"yr":"2011","value":"DRIVEWAY","n":"1"}
+,{"yr":"2011","value":"DRIVEWAY - RESIDENTIAL","n":"874"}
+,{"yr":"2011","value":"DRUG STORE","n":"1103"}
+,{"yr":"2011","value":"FACTORY/MANUFACTURING BUILDING","n":"261"}
+,{"yr":"2011","value":"FEDERAL BUILDING","n":"34"}
+,{"yr":"2011","value":"FIRE STATION","n":"60"}
+,{"yr":"2011","value":"FOREST PRESERVE","n":"12"}
+,{"yr":"2011","value":"GANGWAY","n":"6"}
+,{"yr":"2011","value":"GARAGE","n":"1"}
+,{"yr":"2011","value":"GAS STATION","n":"3419"}
+,{"yr":"2011","value":"GAS STATION DRIVE/PROP.","n":"3"}
+,{"yr":"2011","value":"GOVERNMENT BUILDING/PROPERTY","n":"689"}
+,{"yr":"2011","value":"GROCERY FOOD STORE","n":"3697"}
+,{"yr":"2011","value":"HALLWAY","n":"2"}
+,{"yr":"2011","value":"HIGHWAY/EXPRESSWAY","n":"60"}
+,{"yr":"2011","value":"HOSPITAL BUILDING / GROUNDS","n":"5"}
+,{"yr":"2011","value":"HOSPITAL BUILDING/GROUNDS","n":"998"}
+,{"yr":"2011","value":"HOTEL","n":"1"}
+,{"yr":"2011","value":"HOTEL / MOTEL","n":"1"}
+,{"yr":"2011","value":"HOTEL/MOTEL","n":"1268"}
+,{"yr":"2011","value":"HOUSE","n":"20"}
+,{"yr":"2011","value":"JAIL / LOCK-UP FACILITY","n":"50"}
+,{"yr":"2011","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"83"}
+,{"yr":"2011","value":"LIBRARY","n":"316"}
+,{"yr":"2011","value":"MEDICAL/DENTAL OFFICE","n":"315"}
+,{"yr":"2011","value":"MOVIE HOUSE/THEATER","n":"100"}
+,{"yr":"2011","value":"NEWSSTAND","n":"10"}
+,{"yr":"2011","value":"NURSING HOME/RETIREMENT HOME","n":"543"}
+,{"yr":"2011","value":"NURSING / RETIREMENT HOME","n":"1"}
+,{"yr":"2011","value":"OTHER","n":"11847"}
+,{"yr":"2011","value":"OTHER COMMERCIAL TRANSPORTATION","n":"128"}
+,{"yr":"2011","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"328"}
+,{"yr":"2011","value":"OTHER (SPECIFY)","n":"21"}
+,{"yr":"2011","value":"PARKING LOT","n":"4"}
+,{"yr":"2011","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"10596"}
+,{"yr":"2011","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"2"}
+,{"yr":"2011","value":"PARK PROPERTY","n":"2741"}
+,{"yr":"2011","value":"PAWN SHOP","n":"41"}
+,{"yr":"2011","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"1"}
+,{"yr":"2011","value":"POLICE FACILITY/VEH PARKING LOT","n":"979"}
+,{"yr":"2011","value":"POOL ROOM","n":"72"}
+,{"yr":"2011","value":"PORCH","n":"15"}
+,{"yr":"2011","value":"RESIDENCE","n":"58351"}
+,{"yr":"2011","value":"RESIDENCE - GARAGE","n":"7"}
+,{"yr":"2011","value":"RESIDENCE-GARAGE","n":"7281"}
+,{"yr":"2011","value":"RESIDENCE - PORCH / HALLWAY","n":"6"}
+,{"yr":"2011","value":"RESIDENCE PORCH/HALLWAY","n":"5868"}
+,{"yr":"2011","value":"RESIDENCE - YARD (FRONT / BACK)","n":"4"}
+,{"yr":"2011","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"7091"}
+,{"yr":"2011","value":"RESTAURANT","n":"5046"}
+,{"yr":"2011","value":"RETAIL STORE","n":"7"}
+,{"yr":"2011","value":"SAVINGS AND LOAN","n":"13"}
+,{"yr":"2011","value":"SCHOOL, PRIVATE, BUILDING","n":"724"}
+,{"yr":"2011","value":"SCHOOL - PRIVATE GROUNDS","n":"1"}
+,{"yr":"2011","value":"SCHOOL, PRIVATE, GROUNDS","n":"250"}
+,{"yr":"2011","value":"SCHOOL - PUBLIC BUILDING","n":"4"}
+,{"yr":"2011","value":"SCHOOL, PUBLIC, BUILDING","n":"6856"}
+,{"yr":"2011","value":"SCHOOL - PUBLIC GROUNDS","n":"2"}
+,{"yr":"2011","value":"SCHOOL, PUBLIC, GROUNDS","n":"1738"}
+,{"yr":"2011","value":"SEWER","n":"1"}
+,{"yr":"2011","value":"SIDEWALK","n":"41239"}
+,{"yr":"2011","value":"SMALL RETAIL STORE","n":"5950"}
+,{"yr":"2011","value":"SPORTS ARENA/STADIUM","n":"341"}
+,{"yr":"2011","value":"STREET","n":"84233"}
+,{"yr":"2011","value":"TAVERN","n":"1"}
+,{"yr":"2011","value":"TAVERN/LIQUOR STORE","n":"830"}
+,{"yr":"2011","value":"TAXICAB","n":"454"}
+,{"yr":"2011","value":"VACANT LOT","n":"4"}
+,{"yr":"2011","value":"VACANT LOT / LAND","n":"1"}
+,{"yr":"2011","value":"VACANT LOT/LAND","n":"1631"}
+,{"yr":"2011","value":"VEHICLE-COMMERCIAL","n":"290"}
+,{"yr":"2011","value":"VEHICLE NON-COMMERCIAL","n":"5598"}
+,{"yr":"2011","value":"WAREHOUSE","n":"436"}
+,{"yr":"2011","value":"YARD","n":"15"}
+,{"yr":"2011","n":"326"}
+,{"yr":"2012","value":"ABANDONED BUILDING","n":"1036"}
+,{"yr":"2012","value":"AIRCRAFT","n":"46"}
+,{"yr":"2012","value":"AIRPORT/AIRCRAFT","n":"118"}
+,{"yr":"2012","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"102"}
+,{"yr":"2012","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"54"}
+,{"yr":"2012","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"92"}
+,{"yr":"2012","value":"AIRPORT EXTERIOR - SECURE AREA","n":"26"}
+,{"yr":"2012","value":"AIRPORT PARKING LOT","n":"65"}
+,{"yr":"2012","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"148"}
+,{"yr":"2012","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"74"}
+,{"yr":"2012","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"7"}
+,{"yr":"2012","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"76"}
+,{"yr":"2012","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"412"}
+,{"yr":"2012","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"11"}
+,{"yr":"2012","value":"AIRPORT VENDING ESTABLISHMENT","n":"77"}
+,{"yr":"2012","value":"ALLEY","n":"7768"}
+,{"yr":"2012","value":"ANIMAL HOSPITAL","n":"61"}
+,{"yr":"2012","value":"APARTMENT","n":"41444"}
+,{"yr":"2012","value":"APPLIANCE STORE","n":"82"}
+,{"yr":"2012","value":"ATHLETIC CLUB","n":"656"}
+,{"yr":"2012","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"639"}
+,{"yr":"2012","value":"AUTO","n":"56"}
+,{"yr":"2012","value":"BANK","n":"1363"}
+,{"yr":"2012","value":"BARBERSHOP","n":"312"}
+,{"yr":"2012","value":"BARBER SHOP/BEAUTY SALON","n":"1"}
+,{"yr":"2012","value":"BAR OR TAVERN","n":"2222"}
+,{"yr":"2012","value":"BASEMENT","n":"1"}
+,{"yr":"2012","value":"BOAT / WATERCRAFT","n":"1"}
+,{"yr":"2012","value":"BOAT/WATERCRAFT","n":"35"}
+,{"yr":"2012","value":"BOWLING ALLEY","n":"29"}
+,{"yr":"2012","value":"BRIDGE","n":"28"}
+,{"yr":"2012","value":"CAR WASH","n":"131"}
+,{"yr":"2012","value":"CEMETARY","n":"20"}
+,{"yr":"2012","value":"CHA APARTMENT","n":"940"}
+,{"yr":"2012","value":"CHA GROUNDS","n":"1"}
+,{"yr":"2012","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"2"}
+,{"yr":"2012","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"180"}
+,{"yr":"2012","value":"CHA PARKING LOT","n":"1"}
+,{"yr":"2012","value":"CHA PARKING LOT / GROUNDS","n":"1"}
+,{"yr":"2012","value":"CHA PARKING LOT/GROUNDS","n":"1017"}
+,{"yr":"2012","value":"CHURCH PROPERTY","n":"1"}
+,{"yr":"2012","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"2"}
+,{"yr":"2012","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"843"}
+,{"yr":"2012","value":"CLEANING STORE","n":"128"}
+,{"yr":"2012","value":"COIN OPERATED MACHINE","n":"22"}
+,{"yr":"2012","value":"COLLEGE/UNIVERSITY GROUNDS","n":"262"}
+,{"yr":"2012","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"98"}
+,{"yr":"2012","value":"COMMERCIAL / BUSINESS OFFICE","n":"1830"}
+,{"yr":"2012","value":"CONSTRUCTION SITE","n":"387"}
+,{"yr":"2012","value":"CONVENIENCE STORE","n":"1213"}
+,{"yr":"2012","value":"CREDIT UNION","n":"28"}
+,{"yr":"2012","value":"CTA BUS","n":"1452"}
+,{"yr":"2012","value":"CTA BUS STOP","n":"811"}
+,{"yr":"2012","value":"CTA GARAGE / OTHER PROPERTY","n":"1063"}
+,{"yr":"2012","value":"CTA PLATFORM","n":"2701"}
+,{"yr":"2012","value":"CTA TRAIN","n":"1708"}
+,{"yr":"2012","value":"CURRENCY EXCHANGE","n":"517"}
+,{"yr":"2012","value":"DAY CARE CENTER","n":"142"}
+,{"yr":"2012","value":"DELIVERY TRUCK","n":"26"}
+,{"yr":"2012","value":"DEPARTMENT STORE","n":"4154"}
+,{"yr":"2012","value":"DRIVEWAY - RESIDENTIAL","n":"688"}
+,{"yr":"2012","value":"DRUG STORE","n":"1132"}
+,{"yr":"2012","value":"FACTORY/MANUFACTURING BUILDING","n":"269"}
+,{"yr":"2012","value":"FEDERAL BUILDING","n":"30"}
+,{"yr":"2012","value":"FIRE STATION","n":"30"}
+,{"yr":"2012","value":"FOREST PRESERVE","n":"11"}
+,{"yr":"2012","value":"GANGWAY","n":"3"}
+,{"yr":"2012","value":"GARAGE","n":"3"}
+,{"yr":"2012","value":"GAS STATION","n":"3194"}
+,{"yr":"2012","value":"GAS STATION DRIVE/PROP.","n":"6"}
+,{"yr":"2012","value":"GOVERNMENT BUILDING / PROPERTY","n":"1"}
+,{"yr":"2012","value":"GOVERNMENT BUILDING/PROPERTY","n":"769"}
+,{"yr":"2012","value":"GROCERY FOOD STORE","n":"3557"}
+,{"yr":"2012","value":"HALLWAY","n":"5"}
+,{"yr":"2012","value":"HIGHWAY/EXPRESSWAY","n":"50"}
+,{"yr":"2012","value":"HOSPITAL BUILDING / GROUNDS","n":"4"}
+,{"yr":"2012","value":"HOSPITAL BUILDING/GROUNDS","n":"901"}
+,{"yr":"2012","value":"HOTEL","n":"1"}
+,{"yr":"2012","value":"HOTEL / MOTEL","n":"3"}
+,{"yr":"2012","value":"HOTEL/MOTEL","n":"1291"}
+,{"yr":"2012","value":"HOUSE","n":"22"}
+,{"yr":"2012","value":"JAIL / LOCK-UP FACILITY","n":"55"}
+,{"yr":"2012","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"77"}
+,{"yr":"2012","value":"LIBRARY","n":"278"}
+,{"yr":"2012","value":"LIQUOR STORE","n":"1"}
+,{"yr":"2012","value":"MEDICAL / DENTAL OFFICE","n":"1"}
+,{"yr":"2012","value":"MEDICAL/DENTAL OFFICE","n":"352"}
+,{"yr":"2012","value":"MOVIE HOUSE/THEATER","n":"101"}
+,{"yr":"2012","value":"NEWSSTAND","n":"5"}
+,{"yr":"2012","value":"NURSING HOME/RETIREMENT HOME","n":"526"}
+,{"yr":"2012","value":"OTHER","n":"11671"}
+,{"yr":"2012","value":"OTHER COMMERCIAL TRANSPORTATION","n":"143"}
+,{"yr":"2012","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"302"}
+,{"yr":"2012","value":"OTHER (SPECIFY)","n":"27"}
+,{"yr":"2012","value":"PARKING LOT","n":"4"}
+,{"yr":"2012","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"9838"}
+,{"yr":"2012","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"4"}
+,{"yr":"2012","value":"PARK PROPERTY","n":"2864"}
+,{"yr":"2012","value":"PAWN SHOP","n":"32"}
+,{"yr":"2012","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"1"}
+,{"yr":"2012","value":"POLICE FACILITY/VEH PARKING LOT","n":"939"}
+,{"yr":"2012","value":"POOL ROOM","n":"84"}
+,{"yr":"2012","value":"PORCH","n":"23"}
+,{"yr":"2012","value":"PUBLIC HIGH SCHOOL","n":"1"}
+,{"yr":"2012","value":"RESIDENCE","n":"53863"}
+,{"yr":"2012","value":"RESIDENCE - GARAGE","n":"3"}
+,{"yr":"2012","value":"RESIDENCE-GARAGE","n":"6237"}
+,{"yr":"2012","value":"RESIDENCE - PORCH / HALLWAY","n":"3"}
+,{"yr":"2012","value":"RESIDENCE PORCH/HALLWAY","n":"5876"}
+,{"yr":"2012","value":"RESIDENCE - YARD (FRONT / BACK)","n":"9"}
+,{"yr":"2012","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"7531"}
+,{"yr":"2012","value":"RESTAURANT","n":"5191"}
+,{"yr":"2012","value":"RETAIL STORE","n":"3"}
+,{"yr":"2012","value":"SAVINGS AND LOAN","n":"12"}
+,{"yr":"2012","value":"SCHOOL - PRIVATE BUILDING","n":"3"}
+,{"yr":"2012","value":"SCHOOL, PRIVATE, BUILDING","n":"703"}
+,{"yr":"2012","value":"SCHOOL - PRIVATE GROUNDS","n":"1"}
+,{"yr":"2012","value":"SCHOOL, PRIVATE, GROUNDS","n":"234"}
+,{"yr":"2012","value":"SCHOOL - PUBLIC BUILDING","n":"7"}
+,{"yr":"2012","value":"SCHOOL, PUBLIC, BUILDING","n":"6198"}
+,{"yr":"2012","value":"SCHOOL, PUBLIC, GROUNDS","n":"1524"}
+,{"yr":"2012","value":"SCHOOL YARD","n":"1"}
+,{"yr":"2012","value":"SIDEWALK","n":"40885"}
+,{"yr":"2012","value":"SMALL RETAIL STORE","n":"6080"}
+,{"yr":"2012","value":"SPORTS ARENA / STADIUM","n":"1"}
+,{"yr":"2012","value":"SPORTS ARENA/STADIUM","n":"310"}
+,{"yr":"2012","value":"STREET","n":"76194"}
+,{"yr":"2012","value":"TAVERN / LIQUOR STORE","n":"1"}
+,{"yr":"2012","value":"TAVERN/LIQUOR STORE","n":"780"}
+,{"yr":"2012","value":"TAXICAB","n":"424"}
+,{"yr":"2012","value":"TAXI CAB","n":"1"}
+,{"yr":"2012","value":"VACANT LOT","n":"4"}
+,{"yr":"2012","value":"VACANT LOT / LAND","n":"2"}
+,{"yr":"2012","value":"VACANT LOT/LAND","n":"1621"}
+,{"yr":"2012","value":"VEHICLE-COMMERCIAL","n":"294"}
+,{"yr":"2012","value":"VEHICLE NON-COMMERCIAL","n":"5492"}
+,{"yr":"2012","value":"VEHICLE - OTHER RIDE SERVICE","n":"1"}
+,{"yr":"2012","value":"VESTIBULE","n":"1"}
+,{"yr":"2012","value":"WAREHOUSE","n":"404"}
+,{"yr":"2012","value":"YARD","n":"11"}
+,{"yr":"2012","n":"481"}
+,{"yr":"2013","value":"ABANDONED BUILDING","n":"977"}
+,{"yr":"2013","value":"AIRCRAFT","n":"60"}
+,{"yr":"2013","value":"AIRPORT/AIRCRAFT","n":"65"}
+,{"yr":"2013","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"67"}
+,{"yr":"2013","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"59"}
+,{"yr":"2013","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"41"}
+,{"yr":"2013","value":"AIRPORT EXTERIOR - SECURE AREA","n":"37"}
+,{"yr":"2013","value":"AIRPORT PARKING LOT","n":"76"}
+,{"yr":"2013","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"122"}
+,{"yr":"2013","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"58"}
+,{"yr":"2013","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"10"}
+,{"yr":"2013","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"40"}
+,{"yr":"2013","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"753"}
+,{"yr":"2013","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"10"}
+,{"yr":"2013","value":"AIRPORT VENDING ESTABLISHMENT","n":"121"}
+,{"yr":"2013","value":"ALLEY","n":"6839"}
+,{"yr":"2013","value":"ANIMAL HOSPITAL","n":"52"}
+,{"yr":"2013","value":"APARTMENT","n":"38627"}
+,{"yr":"2013","value":"APPLIANCE STORE","n":"56"}
+,{"yr":"2013","value":"ATHLETIC CLUB","n":"519"}
+,{"yr":"2013","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"559"}
+,{"yr":"2013","value":"AUTO","n":"31"}
+,{"yr":"2013","value":"BANK","n":"1075"}
+,{"yr":"2013","value":"BARBERSHOP","n":"303"}
+,{"yr":"2013","value":"BAR OR TAVERN","n":"2174"}
+,{"yr":"2013","value":"BOAT/WATERCRAFT","n":"35"}
+,{"yr":"2013","value":"BOWLING ALLEY","n":"24"}
+,{"yr":"2013","value":"BRIDGE","n":"20"}
+,{"yr":"2013","value":"CAR WASH","n":"102"}
+,{"yr":"2013","value":"CEMETARY","n":"16"}
+,{"yr":"2013","value":"CHA APARTMENT","n":"850"}
+,{"yr":"2013","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"217"}
+,{"yr":"2013","value":"CHA PARKING LOT","n":"4"}
+,{"yr":"2013","value":"CHA PARKING LOT/GROUNDS","n":"996"}
+,{"yr":"2013","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"663"}
+,{"yr":"2013","value":"CLEANING STORE","n":"116"}
+,{"yr":"2013","value":"CLUB","n":"1"}
+,{"yr":"2013","value":"COIN OPERATED MACHINE","n":"35"}
+,{"yr":"2013","value":"COLLEGE/UNIVERSITY GROUNDS","n":"253"}
+,{"yr":"2013","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"81"}
+,{"yr":"2013","value":"COMMERCIAL / BUSINESS OFFICE","n":"1691"}
+,{"yr":"2013","value":"CONSTRUCTION SITE","n":"336"}
+,{"yr":"2013","value":"CONVENIENCE STORE","n":"1213"}
+,{"yr":"2013","value":"CREDIT UNION","n":"9"}
+,{"yr":"2013","value":"CTA BUS","n":"1559"}
+,{"yr":"2013","value":"CTA BUS STOP","n":"955"}
+,{"yr":"2013","value":"CTA GARAGE / OTHER PROPERTY","n":"1101"}
+,{"yr":"2013","value":"CTA \"L\" PLATFORM","n":"1"}
+,{"yr":"2013","value":"CTA PLATFORM","n":"2092"}
+,{"yr":"2013","value":"CTA TRAIN","n":"1705"}
+,{"yr":"2013","value":"CURRENCY EXCHANGE","n":"472"}
+,{"yr":"2013","value":"DAY CARE CENTER","n":"130"}
+,{"yr":"2013","value":"DELIVERY TRUCK","n":"25"}
+,{"yr":"2013","value":"DEPARTMENT STORE","n":"4085"}
+,{"yr":"2013","value":"DRIVEWAY - RESIDENTIAL","n":"651"}
+,{"yr":"2013","value":"DRUG STORE","n":"1071"}
+,{"yr":"2013","value":"FACTORY / MANUFACTURING BUILDING","n":"2"}
+,{"yr":"2013","value":"FACTORY/MANUFACTURING BUILDING","n":"179"}
+,{"yr":"2013","value":"FEDERAL BUILDING","n":"27"}
+,{"yr":"2013","value":"FIRE STATION","n":"43"}
+,{"yr":"2013","value":"FOREST PRESERVE","n":"16"}
+,{"yr":"2013","value":"GANGWAY","n":"4"}
+,{"yr":"2013","value":"GARAGE","n":"3"}
+,{"yr":"2013","value":"GARAGE/AUTO REPAIR","n":"1"}
+,{"yr":"2013","value":"GAS STATION","n":"3122"}
+,{"yr":"2013","value":"GAS STATION DRIVE/PROP.","n":"3"}
+,{"yr":"2013","value":"GOVERNMENT BUILDING/PROPERTY","n":"711"}
+,{"yr":"2013","value":"GROCERY FOOD STORE","n":"3261"}
+,{"yr":"2013","value":"HALLWAY","n":"8"}
+,{"yr":"2013","value":"HIGHWAY/EXPRESSWAY","n":"38"}
+,{"yr":"2013","value":"HOSPITAL BUILDING / GROUNDS","n":"1"}
+,{"yr":"2013","value":"HOSPITAL BUILDING/GROUNDS","n":"1008"}
+,{"yr":"2013","value":"HOTEL","n":"1"}
+,{"yr":"2013","value":"HOTEL / MOTEL","n":"2"}
+,{"yr":"2013","value":"HOTEL/MOTEL","n":"1278"}
+,{"yr":"2013","value":"HOUSE","n":"19"}
+,{"yr":"2013","value":"JAIL / LOCK-UP FACILITY","n":"60"}
+,{"yr":"2013","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"69"}
+,{"yr":"2013","value":"LIBRARY","n":"309"}
+,{"yr":"2013","value":"MEDICAL / DENTAL OFFICE","n":"1"}
+,{"yr":"2013","value":"MEDICAL/DENTAL OFFICE","n":"312"}
+,{"yr":"2013","value":"MOTEL","n":"1"}
+,{"yr":"2013","value":"MOVIE HOUSE/THEATER","n":"90"}
+,{"yr":"2013","value":"NEWSSTAND","n":"8"}
+,{"yr":"2013","value":"NURSING HOME/RETIREMENT HOME","n":"519"}
+,{"yr":"2013","value":"OTHER","n":"11421"}
+,{"yr":"2013","value":"OTHER COMMERCIAL TRANSPORTATION","n":"166"}
+,{"yr":"2013","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"227"}
+,{"yr":"2013","value":"OTHER (SPECIFY)","n":"19"}
+,{"yr":"2013","value":"PARKING LOT","n":"8"}
+,{"yr":"2013","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"8532"}
+,{"yr":"2013","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"7"}
+,{"yr":"2013","value":"PARK PROPERTY","n":"2722"}
+,{"yr":"2013","value":"PAWN SHOP","n":"47"}
+,{"yr":"2013","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"1"}
+,{"yr":"2013","value":"POLICE FACILITY/VEH PARKING LOT","n":"891"}
+,{"yr":"2013","value":"POOL ROOM","n":"63"}
+,{"yr":"2013","value":"PORCH","n":"11"}
+,{"yr":"2013","value":"RESIDENCE","n":"49498"}
+,{"yr":"2013","value":"RESIDENCE - GARAGE","n":"1"}
+,{"yr":"2013","value":"RESIDENCE-GARAGE","n":"5162"}
+,{"yr":"2013","value":"RESIDENCE - PORCH / HALLWAY","n":"8"}
+,{"yr":"2013","value":"RESIDENCE PORCH/HALLWAY","n":"5292"}
+,{"yr":"2013","value":"RESIDENCE - YARD (FRONT / BACK)","n":"2"}
+,{"yr":"2013","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"6426"}
+,{"yr":"2013","value":"RESTAURANT","n":"4832"}
+,{"yr":"2013","value":"RETAIL STORE","n":"2"}
+,{"yr":"2013","value":"SAVINGS AND LOAN","n":"11"}
+,{"yr":"2013","value":"SCHOOL - PRIVATE BUILDING","n":"2"}
+,{"yr":"2013","value":"SCHOOL, PRIVATE, BUILDING","n":"680"}
+,{"yr":"2013","value":"SCHOOL, PRIVATE, GROUNDS","n":"213"}
+,{"yr":"2013","value":"SCHOOL - PUBLIC BUILDING","n":"3"}
+,{"yr":"2013","value":"SCHOOL, PUBLIC, BUILDING","n":"6527"}
+,{"yr":"2013","value":"SCHOOL, PUBLIC, GROUNDS","n":"1461"}
+,{"yr":"2013","value":"SIDEWALK","n":"37270"}
+,{"yr":"2013","value":"SMALL RETAIL STORE","n":"5662"}
+,{"yr":"2013","value":"SPORTS ARENA / STADIUM","n":"1"}
+,{"yr":"2013","value":"SPORTS ARENA/STADIUM","n":"307"}
+,{"yr":"2013","value":"STAIRWELL","n":"1"}
+,{"yr":"2013","value":"STREET","n":"66917"}
+,{"yr":"2013","value":"TAVERN","n":"1"}
+,{"yr":"2013","value":"TAVERN/LIQUOR STORE","n":"648"}
+,{"yr":"2013","value":"TAXICAB","n":"404"}
+,{"yr":"2013","value":"TAXI CAB","n":"1"}
+,{"yr":"2013","value":"VACANT LOT","n":"5"}
+,{"yr":"2013","value":"VACANT LOT / LAND","n":"3"}
+,{"yr":"2013","value":"VACANT LOT/LAND","n":"1670"}
+,{"yr":"2013","value":"VEHICLE-COMMERCIAL","n":"263"}
+,{"yr":"2013","value":"VEHICLE NON-COMMERCIAL","n":"5333"}
+,{"yr":"2013","value":"VESTIBULE","n":"3"}
+,{"yr":"2013","value":"WAREHOUSE","n":"332"}
+,{"yr":"2013","value":"YARD","n":"18"}
+,{"yr":"2013","n":"236"}
+,{"yr":"2014","value":"ABANDONED BUILDING","n":"680"}
+,{"yr":"2014","value":"AIRCRAFT","n":"74"}
+,{"yr":"2014","value":"AIRPORT/AIRCRAFT","n":"103"}
+,{"yr":"2014","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"73"}
+,{"yr":"2014","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"50"}
+,{"yr":"2014","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"60"}
+,{"yr":"2014","value":"AIRPORT EXTERIOR - SECURE AREA","n":"26"}
+,{"yr":"2014","value":"AIRPORT PARKING LOT","n":"64"}
+,{"yr":"2014","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"163"}
+,{"yr":"2014","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"57"}
+,{"yr":"2014","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"3"}
+,{"yr":"2014","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"52"}
+,{"yr":"2014","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"662"}
+,{"yr":"2014","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"9"}
+,{"yr":"2014","value":"AIRPORT VENDING ESTABLISHMENT","n":"164"}
+,{"yr":"2014","value":"ALLEY","n":"6064"}
+,{"yr":"2014","value":"ANIMAL HOSPITAL","n":"46"}
+,{"yr":"2014","value":"APARTMENT","n":"35341"}
+,{"yr":"2014","value":"APPLIANCE STORE","n":"51"}
+,{"yr":"2014","value":"ATHLETIC CLUB","n":"534"}
+,{"yr":"2014","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"398"}
+,{"yr":"2014","value":"AUTO","n":"23"}
+,{"yr":"2014","value":"BANK","n":"968"}
+,{"yr":"2014","value":"BARBERSHOP","n":"202"}
+,{"yr":"2014","value":"BARBER SHOP/BEAUTY SALON","n":"2"}
+,{"yr":"2014","value":"BAR OR TAVERN","n":"1827"}
+,{"yr":"2014","value":"BASEMENT","n":"1"}
+,{"yr":"2014","value":"BOAT/WATERCRAFT","n":"45"}
+,{"yr":"2014","value":"BOWLING ALLEY","n":"18"}
+,{"yr":"2014","value":"BRIDGE","n":"21"}
+,{"yr":"2014","value":"CAR WASH","n":"99"}
+,{"yr":"2014","value":"CEMETARY","n":"23"}
+,{"yr":"2014","value":"CHA APARTMENT","n":"760"}
+,{"yr":"2014","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"192"}
+,{"yr":"2014","value":"CHA PARKING LOT","n":"2"}
+,{"yr":"2014","value":"CHA PARKING LOT/GROUNDS","n":"795"}
+,{"yr":"2014","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"2"}
+,{"yr":"2014","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"545"}
+,{"yr":"2014","value":"CLEANING STORE","n":"101"}
+,{"yr":"2014","value":"COIN OPERATED MACHINE","n":"24"}
+,{"yr":"2014","value":"COLLEGE/UNIVERSITY GROUNDS","n":"217"}
+,{"yr":"2014","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"58"}
+,{"yr":"2014","value":"COMMERCIAL / BUSINESS OFFICE","n":"1372"}
+,{"yr":"2014","value":"CONSTRUCTION SITE","n":"297"}
+,{"yr":"2014","value":"CONVENIENCE STORE","n":"1204"}
+,{"yr":"2014","value":"CREDIT UNION","n":"17"}
+,{"yr":"2014","value":"CTA BUS","n":"1218"}
+,{"yr":"2014","value":"CTA BUS STOP","n":"673"}
+,{"yr":"2014","value":"CTA GARAGE / OTHER PROPERTY","n":"459"}
+,{"yr":"2014","value":"CTA PARKING LOT / GARAGE / OTHER PROPERTY","n":"1"}
+,{"yr":"2014","value":"CTA PLATFORM","n":"1138"}
+,{"yr":"2014","value":"CTA STATION","n":"559"}
+,{"yr":"2014","value":"CTA TRACKS - RIGHT OF WAY","n":"13"}
+,{"yr":"2014","value":"CTA TRAIN","n":"1305"}
+,{"yr":"2014","value":"CURRENCY EXCHANGE","n":"460"}
+,{"yr":"2014","value":"DAY CARE CENTER","n":"125"}
+,{"yr":"2014","value":"DELIVERY TRUCK","n":"14"}
+,{"yr":"2014","value":"DEPARTMENT STORE","n":"3996"}
+,{"yr":"2014","value":"DRIVEWAY","n":"3"}
+,{"yr":"2014","value":"DRIVEWAY - RESIDENTIAL","n":"708"}
+,{"yr":"2014","value":"DRUG STORE","n":"1010"}
+,{"yr":"2014","value":"FACTORY / MANUFACTURING BUILDING","n":"1"}
+,{"yr":"2014","value":"FACTORY/MANUFACTURING BUILDING","n":"161"}
+,{"yr":"2014","value":"FEDERAL BUILDING","n":"35"}
+,{"yr":"2014","value":"FIRE STATION","n":"34"}
+,{"yr":"2014","value":"FOREST PRESERVE","n":"9"}
+,{"yr":"2014","value":"GANGWAY","n":"3"}
+,{"yr":"2014","value":"GARAGE","n":"2"}
+,{"yr":"2014","value":"GAS STATION","n":"2847"}
+,{"yr":"2014","value":"GAS STATION DRIVE/PROP.","n":"1"}
+,{"yr":"2014","value":"GOVERNMENT BUILDING","n":"1"}
+,{"yr":"2014","value":"GOVERNMENT BUILDING / PROPERTY","n":"2"}
+,{"yr":"2014","value":"GOVERNMENT BUILDING/PROPERTY","n":"638"}
+,{"yr":"2014","value":"GROCERY FOOD STORE","n":"2938"}
+,{"yr":"2014","value":"HALLWAY","n":"4"}
+,{"yr":"2014","value":"HIGHWAY/EXPRESSWAY","n":"40"}
+,{"yr":"2014","value":"HOSPITAL BUILDING / GROUNDS","n":"1"}
+,{"yr":"2014","value":"HOSPITAL BUILDING/GROUNDS","n":"890"}
+,{"yr":"2014","value":"HOTEL / MOTEL","n":"7"}
+,{"yr":"2014","value":"HOTEL/MOTEL","n":"1241"}
+,{"yr":"2014","value":"HOUSE","n":"27"}
+,{"yr":"2014","value":"JAIL / LOCK-UP FACILITY","n":"87"}
+,{"yr":"2014","value":"LAKEFRONT / WATERFRONT / RIVERBANK","n":"1"}
+,{"yr":"2014","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"51"}
+,{"yr":"2014","value":"LIBRARY","n":"305"}
+,{"yr":"2014","value":"MEDICAL / DENTAL OFFICE","n":"1"}
+,{"yr":"2014","value":"MEDICAL/DENTAL OFFICE","n":"265"}
+,{"yr":"2014","value":"MOVIE HOUSE / THEATER","n":"1"}
+,{"yr":"2014","value":"MOVIE HOUSE/THEATER","n":"70"}
+,{"yr":"2014","value":"NEWSSTAND","n":"6"}
+,{"yr":"2014","value":"NURSING HOME","n":"1"}
+,{"yr":"2014","value":"NURSING HOME/RETIREMENT HOME","n":"582"}
+,{"yr":"2014","value":"OTHER","n":"10801"}
+,{"yr":"2014","value":"OTHER COMMERCIAL TRANSPORTATION","n":"137"}
+,{"yr":"2014","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"236"}
+,{"yr":"2014","value":"OTHER (SPECIFY)","n":"16"}
+,{"yr":"2014","value":"PARKING LOT","n":"5"}
+,{"yr":"2014","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"7452"}
+,{"yr":"2014","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"7"}
+,{"yr":"2014","value":"PARK PROPERTY","n":"2356"}
+,{"yr":"2014","value":"PAWN SHOP","n":"50"}
+,{"yr":"2014","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"3"}
+,{"yr":"2014","value":"POLICE FACILITY/VEH PARKING LOT","n":"830"}
+,{"yr":"2014","value":"POOL ROOM","n":"59"}
+,{"yr":"2014","value":"PORCH","n":"21"}
+,{"yr":"2014","value":"RESIDENCE","n":"43786"}
+,{"yr":"2014","value":"RESIDENCE - GARAGE","n":"2"}
+,{"yr":"2014","value":"RESIDENCE-GARAGE","n":"4440"}
+,{"yr":"2014","value":"RESIDENCE - PORCH / HALLWAY","n":"5"}
+,{"yr":"2014","value":"RESIDENCE PORCH/HALLWAY","n":"4860"}
+,{"yr":"2014","value":"RESIDENCE - YARD (FRONT / BACK)","n":"4"}
+,{"yr":"2014","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"5455"}
+,{"yr":"2014","value":"RESTAURANT","n":"4916"}
+,{"yr":"2014","value":"RETAIL STORE","n":"5"}
+,{"yr":"2014","value":"SAVINGS AND LOAN","n":"9"}
+,{"yr":"2014","value":"SCHOOL - PRIVATE BUILDING","n":"3"}
+,{"yr":"2014","value":"SCHOOL, PRIVATE, BUILDING","n":"497"}
+,{"yr":"2014","value":"SCHOOL, PRIVATE, GROUNDS","n":"208"}
+,{"yr":"2014","value":"SCHOOL - PUBLIC BUILDING","n":"3"}
+,{"yr":"2014","value":"SCHOOL, PUBLIC, BUILDING","n":"5245"}
+,{"yr":"2014","value":"SCHOOL - PUBLIC GROUNDS","n":"1"}
+,{"yr":"2014","value":"SCHOOL, PUBLIC, GROUNDS","n":"1223"}
+,{"yr":"2014","value":"SIDEWALK","n":"30948"}
+,{"yr":"2014","value":"SMALL RETAIL STORE","n":"5468"}
+,{"yr":"2014","value":"SPORTS ARENA/STADIUM","n":"248"}
+,{"yr":"2014","value":"STREET","n":"63084"}
+,{"yr":"2014","value":"TAVERN","n":"2"}
+,{"yr":"2014","value":"TAVERN/LIQUOR STORE","n":"573"}
+,{"yr":"2014","value":"TAXICAB","n":"429"}
+,{"yr":"2014","value":"VACANT LOT","n":"3"}
+,{"yr":"2014","value":"VACANT LOT / LAND","n":"1"}
+,{"yr":"2014","value":"VACANT LOT/LAND","n":"1299"}
+,{"yr":"2014","value":"VEHICLE-COMMERCIAL","n":"252"}
+,{"yr":"2014","value":"VEHICLE - DELIVERY TRUCK","n":"2"}
+,{"yr":"2014","value":"VEHICLE NON-COMMERCIAL","n":"4843"}
+,{"yr":"2014","value":"VEHICLE - OTHER RIDE SHARE SERVICE (E.G., UBER, LYFT)","n":"1"}
+,{"yr":"2014","value":"VESTIBULE","n":"1"}
+,{"yr":"2014","value":"WAREHOUSE","n":"273"}
+,{"yr":"2014","value":"YARD","n":"11"}
+,{"yr":"2014","n":"420"}
+,{"yr":"2015","value":"ABANDONED BUILDING","n":"527"}
+,{"yr":"2015","value":"AIRCRAFT","n":"107"}
+,{"yr":"2015","value":"AIRPORT/AIRCRAFT","n":"125"}
+,{"yr":"2015","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"78"}
+,{"yr":"2015","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"68"}
+,{"yr":"2015","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"60"}
+,{"yr":"2015","value":"AIRPORT EXTERIOR - SECURE AREA","n":"44"}
+,{"yr":"2015","value":"AIRPORT PARKING LOT","n":"86"}
+,{"yr":"2015","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"207"}
+,{"yr":"2015","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"71"}
+,{"yr":"2015","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"10"}
+,{"yr":"2015","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"70"}
+,{"yr":"2015","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"343"}
+,{"yr":"2015","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"11"}
+,{"yr":"2015","value":"AIRPORT VENDING ESTABLISHMENT","n":"151"}
+,{"yr":"2015","value":"ALLEY","n":"5617"}
+,{"yr":"2015","value":"ANIMAL HOSPITAL","n":"63"}
+,{"yr":"2015","value":"APARTMENT","n":"35115"}
+,{"yr":"2015","value":"APPLIANCE STORE","n":"61"}
+,{"yr":"2015","value":"ATHLETIC CLUB","n":"485"}
+,{"yr":"2015","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"324"}
+,{"yr":"2015","value":"AUTO","n":"54"}
+,{"yr":"2015","value":"AUTO / BOAT / RV DEALERSHIP","n":"4"}
+,{"yr":"2015","value":"BANK","n":"914"}
+,{"yr":"2015","value":"BARBERSHOP","n":"236"}
+,{"yr":"2015","value":"BAR OR TAVERN","n":"1727"}
+,{"yr":"2015","value":"BOAT / WATERCRAFT","n":"1"}
+,{"yr":"2015","value":"BOAT/WATERCRAFT","n":"33"}
+,{"yr":"2015","value":"BOWLING ALLEY","n":"26"}
+,{"yr":"2015","value":"BRIDGE","n":"23"}
+,{"yr":"2015","value":"CAR WASH","n":"119"}
+,{"yr":"2015","value":"CEMETARY","n":"6"}
+,{"yr":"2015","value":"CHA APARTMENT","n":"809"}
+,{"yr":"2015","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"160"}
+,{"yr":"2015","value":"CHA PARKING LOT","n":"3"}
+,{"yr":"2015","value":"CHA PARKING LOT / GROUNDS","n":"2"}
+,{"yr":"2015","value":"CHA PARKING LOT/GROUNDS","n":"751"}
+,{"yr":"2015","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"6"}
+,{"yr":"2015","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"544"}
+,{"yr":"2015","value":"CLEANING STORE","n":"83"}
+,{"yr":"2015","value":"COIN OPERATED MACHINE","n":"10"}
+,{"yr":"2015","value":"COLLEGE/UNIVERSITY GROUNDS","n":"179"}
+,{"yr":"2015","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"51"}
+,{"yr":"2015","value":"COMMERCIAL / BUSINESS OFFICE","n":"1196"}
+,{"yr":"2015","value":"CONSTRUCTION SITE","n":"268"}
+,{"yr":"2015","value":"CONVENIENCE STORE","n":"1375"}
+,{"yr":"2015","value":"CREDIT UNION","n":"22"}
+,{"yr":"2015","value":"CTA BUS","n":"958"}
+,{"yr":"2015","value":"CTA BUS STOP","n":"599"}
+,{"yr":"2015","value":"CTA GARAGE / OTHER PROPERTY","n":"248"}
+,{"yr":"2015","value":"CTA PARKING LOT / GARAGE / OTHER PROPERTY","n":"1"}
+,{"yr":"2015","value":"CTA PLATFORM","n":"608"}
+,{"yr":"2015","value":"CTA STATION","n":"661"}
+,{"yr":"2015","value":"CTA TRACKS - RIGHT OF WAY","n":"24"}
+,{"yr":"2015","value":"CTA TRAIN","n":"1018"}
+,{"yr":"2015","value":"CURRENCY EXCHANGE","n":"454"}
+,{"yr":"2015","value":"DAY CARE CENTER","n":"152"}
+,{"yr":"2015","value":"DELIVERY TRUCK","n":"1"}
+,{"yr":"2015","value":"DEPARTMENT STORE","n":"4127"}
+,{"yr":"2015","value":"DRIVEWAY","n":"1"}
+,{"yr":"2015","value":"DRIVEWAY - RESIDENTIAL","n":"714"}
+,{"yr":"2015","value":"DRUG STORE","n":"920"}
+,{"yr":"2015","value":"FACTORY / MANUFACTURING BUILDING","n":"1"}
+,{"yr":"2015","value":"FACTORY/MANUFACTURING BUILDING","n":"125"}
+,{"yr":"2015","value":"FEDERAL BUILDING","n":"47"}
+,{"yr":"2015","value":"FIRE STATION","n":"40"}
+,{"yr":"2015","value":"FOREST PRESERVE","n":"13"}
+,{"yr":"2015","value":"GANGWAY","n":"2"}
+,{"yr":"2015","value":"GAS STATION","n":"2987"}
+,{"yr":"2015","value":"GAS STATION DRIVE/PROP.","n":"1"}
+,{"yr":"2015","value":"GOVERNMENT BUILDING / PROPERTY","n":"1"}
+,{"yr":"2015","value":"GOVERNMENT BUILDING/PROPERTY","n":"498"}
+,{"yr":"2015","value":"GROCERY FOOD STORE","n":"2947"}
+,{"yr":"2015","value":"HALLWAY","n":"3"}
+,{"yr":"2015","value":"HIGHWAY/EXPRESSWAY","n":"41"}
+,{"yr":"2015","value":"HOSPITAL","n":"1"}
+,{"yr":"2015","value":"HOSPITAL BUILDING / GROUNDS","n":"3"}
+,{"yr":"2015","value":"HOSPITAL BUILDING/GROUNDS","n":"1026"}
+,{"yr":"2015","value":"HOTEL / MOTEL","n":"11"}
+,{"yr":"2015","value":"HOTEL/MOTEL","n":"1263"}
+,{"yr":"2015","value":"HOUSE","n":"41"}
+,{"yr":"2015","value":"JAIL / LOCK-UP FACILITY","n":"82"}
+,{"yr":"2015","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"59"}
+,{"yr":"2015","value":"LIBRARY","n":"224"}
+,{"yr":"2015","value":"LIQUOR STORE","n":"1"}
+,{"yr":"2015","value":"MEDICAL/DENTAL OFFICE","n":"257"}
+,{"yr":"2015","value":"MOVIE HOUSE/THEATER","n":"90"}
+,{"yr":"2015","value":"NEWSSTAND","n":"10"}
+,{"yr":"2015","value":"NURSING HOME/RETIREMENT HOME","n":"711"}
+,{"yr":"2015","value":"NURSING / RETIREMENT HOME","n":"1"}
+,{"yr":"2015","value":"OFFICE","n":"1"}
+,{"yr":"2015","value":"OTHER","n":"10597"}
+,{"yr":"2015","value":"OTHER COMMERCIAL TRANSPORTATION","n":"110"}
+,{"yr":"2015","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"220"}
+,{"yr":"2015","value":"OTHER (SPECIFY)","n":"33"}
+,{"yr":"2015","value":"PARKING LOT","n":"7"}
+,{"yr":"2015","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"7428"}
+,{"yr":"2015","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"10"}
+,{"yr":"2015","value":"PARK PROPERTY","n":"2205"}
+,{"yr":"2015","value":"PAWN SHOP","n":"47"}
+,{"yr":"2015","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"1"}
+,{"yr":"2015","value":"POLICE FACILITY/VEH PARKING LOT","n":"860"}
+,{"yr":"2015","value":"POOL ROOM","n":"62"}
+,{"yr":"2015","value":"PORCH","n":"14"}
+,{"yr":"2015","value":"RESIDENCE","n":"41944"}
+,{"yr":"2015","value":"RESIDENCE - GARAGE","n":"9"}
+,{"yr":"2015","value":"RESIDENCE-GARAGE","n":"4475"}
+,{"yr":"2015","value":"RESIDENCE - PORCH / HALLWAY","n":"10"}
+,{"yr":"2015","value":"RESIDENCE PORCH/HALLWAY","n":"4770"}
+,{"yr":"2015","value":"RESIDENCE - YARD (FRONT / BACK)","n":"4"}
+,{"yr":"2015","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"5509"}
+,{"yr":"2015","value":"RESTAURANT","n":"5008"}
+,{"yr":"2015","value":"SAVINGS AND LOAN","n":"12"}
+,{"yr":"2015","value":"SCHOOL - PRIVATE BUILDING","n":"3"}
+,{"yr":"2015","value":"SCHOOL, PRIVATE, BUILDING","n":"573"}
+,{"yr":"2015","value":"SCHOOL - PRIVATE GROUNDS","n":"2"}
+,{"yr":"2015","value":"SCHOOL, PRIVATE, GROUNDS","n":"175"}
+,{"yr":"2015","value":"SCHOOL - PUBLIC BUILDING","n":"12"}
+,{"yr":"2015","value":"SCHOOL, PUBLIC, BUILDING","n":"4164"}
+,{"yr":"2015","value":"SCHOOL - PUBLIC GROUNDS","n":"1"}
+,{"yr":"2015","value":"SCHOOL, PUBLIC, GROUNDS","n":"1083"}
+,{"yr":"2015","value":"SIDEWALK","n":"27875"}
+,{"yr":"2015","value":"SMALL RETAIL STORE","n":"5488"}
+,{"yr":"2015","value":"SPORTS ARENA/STADIUM","n":"326"}
+,{"yr":"2015","value":"STAIRWELL","n":"1"}
+,{"yr":"2015","value":"STREET","n":"60755"}
+,{"yr":"2015","value":"TAVERN","n":"2"}
+,{"yr":"2015","value":"TAVERN/LIQUOR STORE","n":"517"}
+,{"yr":"2015","value":"TAXICAB","n":"409"}
+,{"yr":"2015","value":"TRUCK","n":"1"}
+,{"yr":"2015","value":"VACANT LOT / LAND","n":"1"}
+,{"yr":"2015","value":"VACANT LOT/LAND","n":"1126"}
+,{"yr":"2015","value":"VEHICLE - COMMERCIAL","n":"1"}
+,{"yr":"2015","value":"VEHICLE-COMMERCIAL","n":"241"}
+,{"yr":"2015","value":"VEHICLE - DELIVERY TRUCK","n":"21"}
+,{"yr":"2015","value":"VEHICLE NON-COMMERCIAL","n":"4694"}
+,{"yr":"2015","value":"VEHICLE - OTHER RIDE SERVICE","n":"64"}
+,{"yr":"2015","value":"VEHICLE - OTHER RIDE SHARE SERVICE (E.G., UBER, LYFT)","n":"1"}
+,{"yr":"2015","value":"WAREHOUSE","n":"248"}
+,{"yr":"2015","value":"YARD","n":"14"}
+,{"yr":"2015","n":"623"}
+,{"yr":"2016","value":"ABANDONED BUILDING","n":"478"}
+,{"yr":"2016","value":"AIRCRAFT","n":"103"}
+,{"yr":"2016","value":"AIRPORT/AIRCRAFT","n":"76"}
+,{"yr":"2016","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"104"}
+,{"yr":"2016","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"70"}
+,{"yr":"2016","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"95"}
+,{"yr":"2016","value":"AIRPORT EXTERIOR - SECURE AREA","n":"33"}
+,{"yr":"2016","value":"AIRPORT PARKING LOT","n":"85"}
+,{"yr":"2016","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"186"}
+,{"yr":"2016","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"60"}
+,{"yr":"2016","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"8"}
+,{"yr":"2016","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"69"}
+,{"yr":"2016","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"261"}
+,{"yr":"2016","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"12"}
+,{"yr":"2016","value":"AIRPORT VENDING ESTABLISHMENT","n":"137"}
+,{"yr":"2016","value":"ALLEY","n":"5299"}
+,{"yr":"2016","value":"ANIMAL HOSPITAL","n":"59"}
+,{"yr":"2016","value":"APARTMENT","n":"34593"}
+,{"yr":"2016","value":"APPLIANCE STORE","n":"81"}
+,{"yr":"2016","value":"ATHLETIC CLUB","n":"602"}
+,{"yr":"2016","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"659"}
+,{"yr":"2016","value":"AUTO","n":"87"}
+,{"yr":"2016","value":"AUTO / BOAT / RV DEALERSHIP","n":"6"}
+,{"yr":"2016","value":"BANK","n":"1059"}
+,{"yr":"2016","value":"BARBERSHOP","n":"236"}
+,{"yr":"2016","value":"BARBER SHOP/BEAUTY SALON","n":"1"}
+,{"yr":"2016","value":"BAR OR TAVERN","n":"1831"}
+,{"yr":"2016","value":"BOAT/WATERCRAFT","n":"35"}
+,{"yr":"2016","value":"BOWLING ALLEY","n":"30"}
+,{"yr":"2016","value":"BRIDGE","n":"27"}
+,{"yr":"2016","value":"CAR WASH","n":"114"}
+,{"yr":"2016","value":"CEMETARY","n":"13"}
+,{"yr":"2016","value":"CHA APARTMENT","n":"744"}
+,{"yr":"2016","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"1"}
+,{"yr":"2016","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"128"}
+,{"yr":"2016","value":"CHA PARKING LOT","n":"2"}
+,{"yr":"2016","value":"CHA PARKING LOT / GROUNDS","n":"1"}
+,{"yr":"2016","value":"CHA PARKING LOT/GROUNDS","n":"596"}
+,{"yr":"2016","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"3"}
+,{"yr":"2016","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"560"}
+,{"yr":"2016","value":"CLEANERS/LAUNDROMAT","n":"1"}
+,{"yr":"2016","value":"CLEANING STORE","n":"92"}
+,{"yr":"2016","value":"COIN OPERATED MACHINE","n":"36"}
+,{"yr":"2016","value":"COLLEGE/UNIVERSITY GROUNDS","n":"165"}
+,{"yr":"2016","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"52"}
+,{"yr":"2016","value":"COMMERCIAL / BUSINESS OFFICE","n":"1616"}
+,{"yr":"2016","value":"CONSTRUCTION SITE","n":"343"}
+,{"yr":"2016","value":"CONVENIENCE STORE","n":"1649"}
+,{"yr":"2016","value":"CREDIT UNION","n":"23"}
+,{"yr":"2016","value":"CTA BUS","n":"937"}
+,{"yr":"2016","value":"CTA BUS STOP","n":"546"}
+,{"yr":"2016","value":"CTA GARAGE / OTHER PROPERTY","n":"223"}
+,{"yr":"2016","value":"CTA \"L\" TRAIN","n":"1"}
+,{"yr":"2016","value":"CTA PLATFORM","n":"673"}
+,{"yr":"2016","value":"CTA STATION","n":"726"}
+,{"yr":"2016","value":"CTA TRACKS - RIGHT OF WAY","n":"15"}
+,{"yr":"2016","value":"CTA TRAIN","n":"1321"}
+,{"yr":"2016","value":"CURRENCY EXCHANGE","n":"411"}
+,{"yr":"2016","value":"DAY CARE CENTER","n":"164"}
+,{"yr":"2016","value":"DEPARTMENT STORE","n":"4198"}
+,{"yr":"2016","value":"DRIVEWAY","n":"1"}
+,{"yr":"2016","value":"DRIVEWAY - RESIDENTIAL","n":"815"}
+,{"yr":"2016","value":"DRUG STORE","n":"1171"}
+,{"yr":"2016","value":"ELEVATOR","n":"1"}
+,{"yr":"2016","value":"EXPRESSWAY EMBANKMENT","n":"1"}
+,{"yr":"2016","value":"FACTORY/MANUFACTURING BUILDING","n":"128"}
+,{"yr":"2016","value":"FEDERAL BUILDING","n":"38"}
+,{"yr":"2016","value":"FIRE STATION","n":"52"}
+,{"yr":"2016","value":"FOREST PRESERVE","n":"5"}
+,{"yr":"2016","value":"GANGWAY","n":"2"}
+,{"yr":"2016","value":"GARAGE","n":"5"}
+,{"yr":"2016","value":"GAS STATION","n":"3054"}
+,{"yr":"2016","value":"GAS STATION DRIVE/PROP.","n":"2"}
+,{"yr":"2016","value":"GOVERNMENT BUILDING / PROPERTY","n":"1"}
+,{"yr":"2016","value":"GOVERNMENT BUILDING/PROPERTY","n":"523"}
+,{"yr":"2016","value":"GROCERY FOOD STORE","n":"3180"}
+,{"yr":"2016","value":"HALLWAY","n":"5"}
+,{"yr":"2016","value":"HIGHWAY/EXPRESSWAY","n":"45"}
+,{"yr":"2016","value":"HOSPITAL","n":"1"}
+,{"yr":"2016","value":"HOSPITAL BUILDING / GROUNDS","n":"5"}
+,{"yr":"2016","value":"HOSPITAL BUILDING/GROUNDS","n":"1115"}
+,{"yr":"2016","value":"HOTEL","n":"1"}
+,{"yr":"2016","value":"HOTEL / MOTEL","n":"13"}
+,{"yr":"2016","value":"HOTEL/MOTEL","n":"1243"}
+,{"yr":"2016","value":"HOUSE","n":"47"}
+,{"yr":"2016","value":"JAIL / LOCK-UP FACILITY","n":"87"}
+,{"yr":"2016","value":"LAGOON","n":"1"}
+,{"yr":"2016","value":"LAKEFRONT / WATERFRONT / RIVERBANK","n":"1"}
+,{"yr":"2016","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"80"}
+,{"yr":"2016","value":"LAUNDRY ROOM","n":"1"}
+,{"yr":"2016","value":"LIBRARY","n":"247"}
+,{"yr":"2016","value":"MEDICAL / DENTAL OFFICE","n":"1"}
+,{"yr":"2016","value":"MEDICAL/DENTAL OFFICE","n":"286"}
+,{"yr":"2016","value":"MOVIE HOUSE / THEATER","n":"1"}
+,{"yr":"2016","value":"MOVIE HOUSE/THEATER","n":"101"}
+,{"yr":"2016","value":"NEWSSTAND","n":"2"}
+,{"yr":"2016","value":"NURSING HOME","n":"1"}
+,{"yr":"2016","value":"NURSING HOME/RETIREMENT HOME","n":"687"}
+,{"yr":"2016","value":"OFFICE","n":"1"}
+,{"yr":"2016","value":"OTHER","n":"11322"}
+,{"yr":"2016","value":"OTHER COMMERCIAL TRANSPORTATION","n":"129"}
+,{"yr":"2016","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"190"}
+,{"yr":"2016","value":"OTHER (SPECIFY)","n":"58"}
+,{"yr":"2016","value":"PARKING LOT","n":"12"}
+,{"yr":"2016","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"8132"}
+,{"yr":"2016","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"24"}
+,{"yr":"2016","value":"PARK PROPERTY","n":"2115"}
+,{"yr":"2016","value":"PAWN SHOP","n":"56"}
+,{"yr":"2016","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"2"}
+,{"yr":"2016","value":"POLICE FACILITY/VEH PARKING LOT","n":"853"}
+,{"yr":"2016","value":"POOLROOM","n":"1"}
+,{"yr":"2016","value":"POOL ROOM","n":"72"}
+,{"yr":"2016","value":"PORCH","n":"19"}
+,{"yr":"2016","value":"RAILROAD PROPERTY","n":"1"}
+,{"yr":"2016","value":"RESIDENCE","n":"46371"}
+,{"yr":"2016","value":"RESIDENCE - GARAGE","n":"13"}
+,{"yr":"2016","value":"RESIDENCE-GARAGE","n":"5180"}
+,{"yr":"2016","value":"RESIDENCE - PORCH / HALLWAY","n":"18"}
+,{"yr":"2016","value":"RESIDENCE PORCH/HALLWAY","n":"4543"}
+,{"yr":"2016","value":"RESIDENCE - YARD (FRONT / BACK)","n":"13"}
+,{"yr":"2016","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"5554"}
+,{"yr":"2016","value":"RESTAURANT","n":"5675"}
+,{"yr":"2016","value":"RETAIL STORE","n":"5"}
+,{"yr":"2016","value":"SAVINGS AND LOAN","n":"14"}
+,{"yr":"2016","value":"SCHOOL, PRIVATE, BUILDING","n":"585"}
+,{"yr":"2016","value":"SCHOOL, PRIVATE, GROUNDS","n":"190"}
+,{"yr":"2016","value":"SCHOOL - PUBLIC BUILDING","n":"9"}
+,{"yr":"2016","value":"SCHOOL, PUBLIC, BUILDING","n":"3745"}
+,{"yr":"2016","value":"SCHOOL - PUBLIC GROUNDS","n":"4"}
+,{"yr":"2016","value":"SCHOOL, PUBLIC, GROUNDS","n":"1103"}
+,{"yr":"2016","value":"SCHOOL YARD","n":"1"}
+,{"yr":"2016","value":"SIDEWALK","n":"23492"}
+,{"yr":"2016","value":"SMALL RETAIL STORE","n":"5869"}
+,{"yr":"2016","value":"SPORTS ARENA / STADIUM","n":"1"}
+,{"yr":"2016","value":"SPORTS ARENA/STADIUM","n":"332"}
+,{"yr":"2016","value":"STREET","n":"60941"}
+,{"yr":"2016","value":"TAVERN","n":"2"}
+,{"yr":"2016","value":"TAVERN / LIQUOR STORE","n":"3"}
+,{"yr":"2016","value":"TAVERN/LIQUOR STORE","n":"489"}
+,{"yr":"2016","value":"TAXICAB","n":"454"}
+,{"yr":"2016","value":"VACANT LOT","n":"10"}
+,{"yr":"2016","value":"VACANT LOT / LAND","n":"2"}
+,{"yr":"2016","value":"VACANT LOT/LAND","n":"927"}
+,{"yr":"2016","value":"VEHICLE-COMMERCIAL","n":"229"}
+,{"yr":"2016","value":"VEHICLE - DELIVERY TRUCK","n":"19"}
+,{"yr":"2016","value":"VEHICLE NON-COMMERCIAL","n":"4828"}
+,{"yr":"2016","value":"VEHICLE - OTHER RIDE SERVICE","n":"117"}
+,{"yr":"2016","value":"VEHICLE - OTHER RIDE SHARE SERVICE (E.G., UBER, LYFT)","n":"3"}
+,{"yr":"2016","value":"VEHICLE - OTHER RIDE SHARE SERVICE (LYFT, UBER, ETC.)","n":"1"}
+,{"yr":"2016","value":"VESTIBULE","n":"1"}
+,{"yr":"2016","value":"WAREHOUSE","n":"257"}
+,{"yr":"2016","value":"YARD","n":"15"}
+,{"yr":"2016","n":"1351"}
+,{"yr":"2017","value":"ABANDONED BUILDING","n":"330"}
+,{"yr":"2017","value":"AIRCRAFT","n":"74"}
+,{"yr":"2017","value":"AIRPORT/AIRCRAFT","n":"74"}
+,{"yr":"2017","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"99"}
+,{"yr":"2017","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"79"}
+,{"yr":"2017","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"91"}
+,{"yr":"2017","value":"AIRPORT EXTERIOR - SECURE AREA","n":"25"}
+,{"yr":"2017","value":"AIRPORT PARKING LOT","n":"86"}
+,{"yr":"2017","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"212"}
+,{"yr":"2017","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"56"}
+,{"yr":"2017","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"11"}
+,{"yr":"2017","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"79"}
+,{"yr":"2017","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"229"}
+,{"yr":"2017","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"9"}
+,{"yr":"2017","value":"AIRPORT VENDING ESTABLISHMENT","n":"118"}
+,{"yr":"2017","value":"ALLEY","n":"5286"}
+,{"yr":"2017","value":"ANIMAL HOSPITAL","n":"48"}
+,{"yr":"2017","value":"APARTMENT","n":"33718"}
+,{"yr":"2017","value":"APPLIANCE STORE","n":"92"}
+,{"yr":"2017","value":"ATHLETIC CLUB","n":"532"}
+,{"yr":"2017","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"534"}
+,{"yr":"2017","value":"AUTO","n":"82"}
+,{"yr":"2017","value":"AUTO / BOAT / RV DEALERSHIP","n":"14"}
+,{"yr":"2017","value":"BANK","n":"1036"}
+,{"yr":"2017","value":"BARBERSHOP","n":"232"}
+,{"yr":"2017","value":"BAR OR TAVERN","n":"1969"}
+,{"yr":"2017","value":"BASEMENT","n":"1"}
+,{"yr":"2017","value":"BOAT / WATERCRAFT","n":"1"}
+,{"yr":"2017","value":"BOAT/WATERCRAFT","n":"25"}
+,{"yr":"2017","value":"BOWLING ALLEY","n":"37"}
+,{"yr":"2017","value":"BRIDGE","n":"25"}
+,{"yr":"2017","value":"CAR WASH","n":"137"}
+,{"yr":"2017","value":"CEMETARY","n":"20"}
+,{"yr":"2017","value":"CHA APARTMENT","n":"747"}
+,{"yr":"2017","value":"CHA HALLWAY","n":"1"}
+,{"yr":"2017","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"1"}
+,{"yr":"2017","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"208"}
+,{"yr":"2017","value":"CHA PARKING LOT","n":"4"}
+,{"yr":"2017","value":"CHA PARKING LOT / GROUNDS","n":"5"}
+,{"yr":"2017","value":"CHA PARKING LOT/GROUNDS","n":"595"}
+,{"yr":"2017","value":"CHURCH","n":"2"}
+,{"yr":"2017","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"10"}
+,{"yr":"2017","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"578"}
+,{"yr":"2017","value":"CLEANING STORE","n":"90"}
+,{"yr":"2017","value":"CLUB","n":"1"}
+,{"yr":"2017","value":"COIN OPERATED MACHINE","n":"48"}
+,{"yr":"2017","value":"COLLEGE/UNIVERSITY GROUNDS","n":"161"}
+,{"yr":"2017","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"37"}
+,{"yr":"2017","value":"COMMERCIAL / BUSINESS OFFICE","n":"1655"}
+,{"yr":"2017","value":"CONSTRUCTION SITE","n":"384"}
+,{"yr":"2017","value":"CONVENIENCE STORE","n":"1822"}
+,{"yr":"2017","value":"CREDIT UNION","n":"16"}
+,{"yr":"2017","value":"CTA BUS","n":"863"}
+,{"yr":"2017","value":"CTA BUS STOP","n":"554"}
+,{"yr":"2017","value":"CTA GARAGE / OTHER PROPERTY","n":"221"}
+,{"yr":"2017","value":"CTA \"L\" PLATFORM","n":"1"}
+,{"yr":"2017","value":"CTA PARKING LOT / GARAGE / OTHER PROPERTY","n":"2"}
+,{"yr":"2017","value":"CTA PLATFORM","n":"832"}
+,{"yr":"2017","value":"CTA PROPERTY","n":"1"}
+,{"yr":"2017","value":"CTA STATION","n":"925"}
+,{"yr":"2017","value":"CTA TRACKS - RIGHT OF WAY","n":"23"}
+,{"yr":"2017","value":"CTA TRAIN","n":"1715"}
+,{"yr":"2017","value":"CURRENCY EXCHANGE","n":"388"}
+,{"yr":"2017","value":"DAY CARE CENTER","n":"188"}
+,{"yr":"2017","value":"DEPARTMENT STORE","n":"4534"}
+,{"yr":"2017","value":"DRIVEWAY","n":"3"}
+,{"yr":"2017","value":"DRIVEWAY - RESIDENTIAL","n":"782"}
+,{"yr":"2017","value":"DRUG STORE","n":"1270"}
+,{"yr":"2017","value":"FACTORY / MANUFACTURING BUILDING","n":"3"}
+,{"yr":"2017","value":"FACTORY/MANUFACTURING BUILDING","n":"114"}
+,{"yr":"2017","value":"FEDERAL BUILDING","n":"33"}
+,{"yr":"2017","value":"FIRE STATION","n":"35"}
+,{"yr":"2017","value":"FOREST PRESERVE","n":"11"}
+,{"yr":"2017","value":"GANGWAY","n":"2"}
+,{"yr":"2017","value":"GARAGE","n":"3"}
+,{"yr":"2017","value":"GAS STATION","n":"3885"}
+,{"yr":"2017","value":"GAS STATION DRIVE/PROP.","n":"1"}
+,{"yr":"2017","value":"GOVERNMENT BUILDING / PROPERTY","n":"1"}
+,{"yr":"2017","value":"GOVERNMENT BUILDING/PROPERTY","n":"567"}
+,{"yr":"2017","value":"GROCERY FOOD STORE","n":"3508"}
+,{"yr":"2017","value":"HALLWAY","n":"2"}
+,{"yr":"2017","value":"HIGHWAY / EXPRESSWAY","n":"1"}
+,{"yr":"2017","value":"HIGHWAY/EXPRESSWAY","n":"39"}
+,{"yr":"2017","value":"HOSPITAL BUILDING / GROUNDS","n":"9"}
+,{"yr":"2017","value":"HOSPITAL BUILDING/GROUNDS","n":"1151"}
+,{"yr":"2017","value":"HOTEL / MOTEL","n":"17"}
+,{"yr":"2017","value":"HOTEL/MOTEL","n":"1424"}
+,{"yr":"2017","value":"HOUSE","n":"22"}
+,{"yr":"2017","value":"JAIL / LOCK-UP FACILITY","n":"95"}
+,{"yr":"2017","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"83"}
+,{"yr":"2017","value":"LIBRARY","n":"267"}
+,{"yr":"2017","value":"MEDICAL / DENTAL OFFICE","n":"1"}
+,{"yr":"2017","value":"MEDICAL/DENTAL OFFICE","n":"303"}
+,{"yr":"2017","value":"MOVIE HOUSE/THEATER","n":"109"}
+,{"yr":"2017","value":"NEWSSTAND","n":"7"}
+,{"yr":"2017","value":"NURSING HOME","n":"1"}
+,{"yr":"2017","value":"NURSING HOME/RETIREMENT HOME","n":"805"}
+,{"yr":"2017","value":"NURSING / RETIREMENT HOME","n":"4"}
+,{"yr":"2017","value":"OTHER","n":"11310"}
+,{"yr":"2017","value":"OTHER COMMERCIAL TRANSPORTATION","n":"146"}
+,{"yr":"2017","value":"OTHER RAILROAD PROPERTY / TRAIN DEPOT","n":"2"}
+,{"yr":"2017","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"190"}
+,{"yr":"2017","value":"OTHER (SPECIFY)","n":"63"}
+,{"yr":"2017","value":"PARKING LOT","n":"8"}
+,{"yr":"2017","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"8215"}
+,{"yr":"2017","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"33"}
+,{"yr":"2017","value":"PARK PROPERTY","n":"2085"}
+,{"yr":"2017","value":"PAWN SHOP","n":"48"}
+,{"yr":"2017","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"8"}
+,{"yr":"2017","value":"POLICE FACILITY/VEH PARKING LOT","n":"893"}
+,{"yr":"2017","value":"POOL ROOM","n":"50"}
+,{"yr":"2017","value":"PORCH","n":"24"}
+,{"yr":"2017","value":"RESIDENCE","n":"46282"}
+,{"yr":"2017","value":"RESIDENCE - GARAGE","n":"11"}
+,{"yr":"2017","value":"RESIDENCE-GARAGE","n":"4578"}
+,{"yr":"2017","value":"RESIDENCE - PORCH / HALLWAY","n":"22"}
+,{"yr":"2017","value":"RESIDENCE PORCH/HALLWAY","n":"4608"}
+,{"yr":"2017","value":"RESIDENCE - YARD (FRONT / BACK)","n":"20"}
+,{"yr":"2017","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"5291"}
+,{"yr":"2017","value":"RESTAURANT","n":"6899"}
+,{"yr":"2017","value":"RETAIL STORE","n":"2"}
+,{"yr":"2017","value":"RIVER BANK","n":"1"}
+,{"yr":"2017","value":"ROOMING HOUSE","n":"1"}
+,{"yr":"2017","value":"SAVINGS AND LOAN","n":"8"}
+,{"yr":"2017","value":"SCHOOL - PRIVATE BUILDING","n":"1"}
+,{"yr":"2017","value":"SCHOOL, PRIVATE, BUILDING","n":"531"}
+,{"yr":"2017","value":"SCHOOL - PRIVATE GROUNDS","n":"1"}
+,{"yr":"2017","value":"SCHOOL, PRIVATE, GROUNDS","n":"193"}
+,{"yr":"2017","value":"SCHOOL - PUBLIC BUILDING","n":"9"}
+,{"yr":"2017","value":"SCHOOL, PUBLIC, BUILDING","n":"3411"}
+,{"yr":"2017","value":"SCHOOL - PUBLIC GROUNDS","n":"8"}
+,{"yr":"2017","value":"SCHOOL, PUBLIC, GROUNDS","n":"1049"}
+,{"yr":"2017","value":"SCHOOL YARD","n":"2"}
+,{"yr":"2017","value":"SIDEWALK","n":"21008"}
+,{"yr":"2017","value":"SMALL RETAIL STORE","n":"6832"}
+,{"yr":"2017","value":"SPORTS ARENA/STADIUM","n":"251"}
+,{"yr":"2017","value":"STAIRWELL","n":"3"}
+,{"yr":"2017","value":"STREET","n":"59977"}
+,{"yr":"2017","value":"TAVERN","n":"2"}
+,{"yr":"2017","value":"TAVERN / LIQUOR STORE","n":"2"}
+,{"yr":"2017","value":"TAVERN/LIQUOR STORE","n":"534"}
+,{"yr":"2017","value":"TAXICAB","n":"420"}
+,{"yr":"2017","value":"VACANT LOT","n":"3"}
+,{"yr":"2017","value":"VACANT LOT / LAND","n":"3"}
+,{"yr":"2017","value":"VACANT LOT/LAND","n":"868"}
+,{"yr":"2017","value":"VEHICLE - COMMERCIAL","n":"3"}
+,{"yr":"2017","value":"VEHICLE-COMMERCIAL","n":"280"}
+,{"yr":"2017","value":"VEHICLE - DELIVERY TRUCK","n":"20"}
+,{"yr":"2017","value":"VEHICLE NON-COMMERCIAL","n":"4732"}
+,{"yr":"2017","value":"VEHICLE - OTHER RIDE SERVICE","n":"148"}
+,{"yr":"2017","value":"VEHICLE - OTHER RIDE SHARE SERVICE (E.G., UBER, LYFT)","n":"15"}
+,{"yr":"2017","value":"VESTIBULE","n":"1"}
+,{"yr":"2017","value":"WAREHOUSE","n":"315"}
+,{"yr":"2017","value":"YARD","n":"22"}
+,{"yr":"2017","n":"1376"}
+,{"yr":"2018","value":"ABANDONED BUILDING","n":"313"}
+,{"yr":"2018","value":"AIRCRAFT","n":"67"}
+,{"yr":"2018","value":"AIRPORT/AIRCRAFT","n":"27"}
+,{"yr":"2018","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"123"}
+,{"yr":"2018","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"86"}
+,{"yr":"2018","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"107"}
+,{"yr":"2018","value":"AIRPORT EXTERIOR - SECURE AREA","n":"32"}
+,{"yr":"2018","value":"AIRPORT PARKING LOT","n":"97"}
+,{"yr":"2018","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"169"}
+,{"yr":"2018","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"91"}
+,{"yr":"2018","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"10"}
+,{"yr":"2018","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"87"}
+,{"yr":"2018","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"269"}
+,{"yr":"2018","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"7"}
+,{"yr":"2018","value":"AIRPORT VENDING ESTABLISHMENT","n":"65"}
+,{"yr":"2018","value":"ALLEY","n":"5001"}
+,{"yr":"2018","value":"ANIMAL HOSPITAL","n":"53"}
+,{"yr":"2018","value":"APARTMENT","n":"35004"}
+,{"yr":"2018","value":"APPLIANCE STORE","n":"101"}
+,{"yr":"2018","value":"ATHLETIC CLUB","n":"438"}
+,{"yr":"2018","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"461"}
+,{"yr":"2018","value":"AUTO","n":"49"}
+,{"yr":"2018","value":"AUTO / BOAT / RV DEALERSHIP","n":"239"}
+,{"yr":"2018","value":"BANK","n":"1049"}
+,{"yr":"2018","value":"BARBERSHOP","n":"247"}
+,{"yr":"2018","value":"BARBER SHOP/BEAUTY SALON","n":"1"}
+,{"yr":"2018","value":"BAR OR TAVERN","n":"2199"}
+,{"yr":"2018","value":"BOAT/WATERCRAFT","n":"33"}
+,{"yr":"2018","value":"BOWLING ALLEY","n":"35"}
+,{"yr":"2018","value":"BRIDGE","n":"18"}
+,{"yr":"2018","value":"CAR WASH","n":"138"}
+,{"yr":"2018","value":"CEMETARY","n":"18"}
+,{"yr":"2018","value":"CHA APARTMENT","n":"694"}
+,{"yr":"2018","value":"CHA GROUNDS","n":"3"}
+,{"yr":"2018","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"156"}
+,{"yr":"2018","value":"CHA PARKING LOT","n":"1"}
+,{"yr":"2018","value":"CHA PARKING LOT / GROUNDS","n":"6"}
+,{"yr":"2018","value":"CHA PARKING LOT/GROUNDS","n":"519"}
+,{"yr":"2018","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"13"}
+,{"yr":"2018","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"570"}
+,{"yr":"2018","value":"CLEANING STORE","n":"95"}
+,{"yr":"2018","value":"COIN OPERATED MACHINE","n":"30"}
+,{"yr":"2018","value":"COLLEGE/UNIVERSITY GROUNDS","n":"148"}
+,{"yr":"2018","value":"COLLEGE / UNIVERSITY - RESIDENCE HALL","n":"2"}
+,{"yr":"2018","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"31"}
+,{"yr":"2018","value":"COMMERCIAL / BUSINESS OFFICE","n":"1730"}
+,{"yr":"2018","value":"CONSTRUCTION SITE","n":"409"}
+,{"yr":"2018","value":"CONVENIENCE STORE","n":"2103"}
+,{"yr":"2018","value":"CREDIT UNION","n":"21"}
+,{"yr":"2018","value":"CTA BUS","n":"890"}
+,{"yr":"2018","value":"CTA BUS STOP","n":"533"}
+,{"yr":"2018","value":"CTA GARAGE / OTHER PROPERTY","n":"292"}
+,{"yr":"2018","value":"CTA PLATFORM","n":"987"}
+,{"yr":"2018","value":"CTA PROPERTY","n":"1"}
+,{"yr":"2018","value":"CTA STATION","n":"1183"}
+,{"yr":"2018","value":"CTA TRACKS - RIGHT OF WAY","n":"39"}
+,{"yr":"2018","value":"CTA TRAIN","n":"2181"}
+,{"yr":"2018","value":"CURRENCY EXCHANGE","n":"347"}
+,{"yr":"2018","value":"DAY CARE CENTER","n":"192"}
+,{"yr":"2018","value":"DEPARTMENT STORE","n":"4723"}
+,{"yr":"2018","value":"DRIVEWAY","n":"1"}
+,{"yr":"2018","value":"DRIVEWAY - RESIDENTIAL","n":"707"}
+,{"yr":"2018","value":"DRUG STORE","n":"1122"}
+,{"yr":"2018","value":"FACTORY / MANUFACTURING BUILDING","n":"5"}
+,{"yr":"2018","value":"FACTORY/MANUFACTURING BUILDING","n":"119"}
+,{"yr":"2018","value":"FARM","n":"2"}
+,{"yr":"2018","value":"FEDERAL BUILDING","n":"46"}
+,{"yr":"2018","value":"FIRE STATION","n":"38"}
+,{"yr":"2018","value":"FOREST PRESERVE","n":"4"}
+,{"yr":"2018","value":"GANGWAY","n":"2"}
+,{"yr":"2018","value":"GARAGE","n":"4"}
+,{"yr":"2018","value":"GARAGE/AUTO REPAIR","n":"2"}
+,{"yr":"2018","value":"GAS STATION","n":"3737"}
+,{"yr":"2018","value":"GAS STATION DRIVE/PROP.","n":"1"}
+,{"yr":"2018","value":"GOVERNMENT BUILDING","n":"1"}
+,{"yr":"2018","value":"GOVERNMENT BUILDING / PROPERTY","n":"9"}
+,{"yr":"2018","value":"GOVERNMENT BUILDING/PROPERTY","n":"557"}
+,{"yr":"2018","value":"GROCERY FOOD STORE","n":"3478"}
+,{"yr":"2018","value":"HALLWAY","n":"2"}
+,{"yr":"2018","value":"HIGHWAY/EXPRESSWAY","n":"49"}
+,{"yr":"2018","value":"HORSE STABLE","n":"2"}
+,{"yr":"2018","value":"HOSPITAL","n":"3"}
+,{"yr":"2018","value":"HOSPITAL BUILDING / GROUNDS","n":"18"}
+,{"yr":"2018","value":"HOSPITAL BUILDING/GROUNDS","n":"1341"}
+,{"yr":"2018","value":"HOTEL","n":"3"}
+,{"yr":"2018","value":"HOTEL / MOTEL","n":"22"}
+,{"yr":"2018","value":"HOTEL/MOTEL","n":"1508"}
+,{"yr":"2018","value":"HOUSE","n":"25"}
+,{"yr":"2018","value":"JAIL / LOCK-UP FACILITY","n":"53"}
+,{"yr":"2018","value":"KENNEL","n":"1"}
+,{"yr":"2018","value":"LAKEFRONT / WATERFRONT / RIVERBANK","n":"1"}
+,{"yr":"2018","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"69"}
+,{"yr":"2018","value":"LIBRARY","n":"217"}
+,{"yr":"2018","value":"LIQUOR STORE","n":"1"}
+,{"yr":"2018","value":"MEDICAL / DENTAL OFFICE","n":"5"}
+,{"yr":"2018","value":"MEDICAL/DENTAL OFFICE","n":"255"}
+,{"yr":"2018","value":"MOVIE HOUSE/THEATER","n":"158"}
+,{"yr":"2018","value":"NEWSSTAND","n":"4"}
+,{"yr":"2018","value":"NURSING HOME/RETIREMENT HOME","n":"890"}
+,{"yr":"2018","value":"NURSING / RETIREMENT HOME","n":"4"}
+,{"yr":"2018","value":"OFFICE","n":"1"}
+,{"yr":"2018","value":"OTHER","n":"10856"}
+,{"yr":"2018","value":"OTHER COMMERCIAL TRANSPORTATION","n":"133"}
+,{"yr":"2018","value":"OTHER RAILROAD PROPERTY / TRAIN DEPOT","n":"3"}
+,{"yr":"2018","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"212"}
+,{"yr":"2018","value":"OTHER (SPECIFY)","n":"127"}
+,{"yr":"2018","value":"PARKING LOT","n":"11"}
+,{"yr":"2018","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"7620"}
+,{"yr":"2018","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"51"}
+,{"yr":"2018","value":"PARK PROPERTY","n":"1768"}
+,{"yr":"2018","value":"PAWN SHOP","n":"51"}
+,{"yr":"2018","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"12"}
+,{"yr":"2018","value":"POLICE FACILITY/VEH PARKING LOT","n":"985"}
+,{"yr":"2018","value":"POOL ROOM","n":"43"}
+,{"yr":"2018","value":"PORCH","n":"18"}
+,{"yr":"2018","value":"RESIDENCE","n":"45502"}
+,{"yr":"2018","value":"RESIDENCE - GARAGE","n":"28"}
+,{"yr":"2018","value":"RESIDENCE-GARAGE","n":"3864"}
+,{"yr":"2018","value":"RESIDENCE - PORCH / HALLWAY","n":"31"}
+,{"yr":"2018","value":"RESIDENCE PORCH/HALLWAY","n":"4673"}
+,{"yr":"2018","value":"RESIDENCE - YARD (FRONT / BACK)","n":"43"}
+,{"yr":"2018","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"5107"}
+,{"yr":"2018","value":"RESTAURANT","n":"7343"}
+,{"yr":"2018","value":"RETAIL STORE","n":"1"}
+,{"yr":"2018","value":"RIVER BANK","n":"1"}
+,{"yr":"2018","value":"SAVINGS AND LOAN","n":"19"}
+,{"yr":"2018","value":"SCHOOL - PRIVATE BUILDING","n":"9"}
+,{"yr":"2018","value":"SCHOOL, PRIVATE, BUILDING","n":"613"}
+,{"yr":"2018","value":"SCHOOL - PRIVATE GROUNDS","n":"3"}
+,{"yr":"2018","value":"SCHOOL, PRIVATE, GROUNDS","n":"157"}
+,{"yr":"2018","value":"SCHOOL - PUBLIC BUILDING","n":"30"}
+,{"yr":"2018","value":"SCHOOL, PUBLIC, BUILDING","n":"3461"}
+,{"yr":"2018","value":"SCHOOL - PUBLIC GROUNDS","n":"12"}
+,{"yr":"2018","value":"SCHOOL, PUBLIC, GROUNDS","n":"1028"}
+,{"yr":"2018","value":"SIDEWALK","n":"21162"}
+,{"yr":"2018","value":"SMALL RETAIL STORE","n":"7282"}
+,{"yr":"2018","value":"SPORTS ARENA/STADIUM","n":"269"}
+,{"yr":"2018","value":"STAIRWELL","n":"2"}
+,{"yr":"2018","value":"STREET","n":"59068"}
+,{"yr":"2018","value":"TAVERN/LIQUOR STORE","n":"518"}
+,{"yr":"2018","value":"TAXICAB","n":"329"}
+,{"yr":"2018","value":"VACANT LOT","n":"7"}
+,{"yr":"2018","value":"VACANT LOT / LAND","n":"5"}
+,{"yr":"2018","value":"VACANT LOT/LAND","n":"625"}
+,{"yr":"2018","value":"VEHICLE - COMMERCIAL","n":"4"}
+,{"yr":"2018","value":"VEHICLE-COMMERCIAL","n":"231"}
+,{"yr":"2018","value":"VEHICLE-COMMERCIAL - ENTERTAINMENT/PARTY BUS","n":"8"}
+,{"yr":"2018","value":"VEHICLE-COMMERCIAL - TROLLEY BUS","n":"6"}
+,{"yr":"2018","value":"VEHICLE - DELIVERY TRUCK","n":"49"}
+,{"yr":"2018","value":"VEHICLE NON-COMMERCIAL","n":"5187"}
+,{"yr":"2018","value":"VEHICLE - OTHER RIDE SHARE SERVICE (E.G., UBER, LYFT)","n":"199"}
+,{"yr":"2018","value":"VEHICLE - OTHER RIDE SHARE SERVICE (LYFT, UBER, ETC.)","n":"3"}
+,{"yr":"2018","value":"WAREHOUSE","n":"297"}
+,{"yr":"2018","value":"WOODED AREA","n":"2"}
+,{"yr":"2018","value":"YARD","n":"17"}
+,{"yr":"2018","value":"YMCA","n":"1"}
+,{"yr":"2018","n":"1166"}
+,{"yr":"2019","value":"ABANDONED BUILDING","n":"265"}
+,{"yr":"2019","value":"AIRCRAFT","n":"74"}
+,{"yr":"2019","value":"AIRPORT/AIRCRAFT","n":"54"}
+,{"yr":"2019","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"160"}
+,{"yr":"2019","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"81"}
+,{"yr":"2019","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"90"}
+,{"yr":"2019","value":"AIRPORT EXTERIOR - SECURE AREA","n":"40"}
+,{"yr":"2019","value":"AIRPORT PARKING LOT","n":"78"}
+,{"yr":"2019","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"143"}
+,{"yr":"2019","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"65"}
+,{"yr":"2019","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"8"}
+,{"yr":"2019","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"111"}
+,{"yr":"2019","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"229"}
+,{"yr":"2019","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"8"}
+,{"yr":"2019","value":"AIRPORT VENDING ESTABLISHMENT","n":"23"}
+,{"yr":"2019","value":"ALLEY","n":"5126"}
+,{"yr":"2019","value":"ANIMAL HOSPITAL","n":"38"}
+,{"yr":"2019","value":"APARTMENT","n":"35213"}
+,{"yr":"2019","value":"APPLIANCE STORE","n":"98"}
+,{"yr":"2019","value":"ATHLETIC CLUB","n":"497"}
+,{"yr":"2019","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"320"}
+,{"yr":"2019","value":"AUTO","n":"33"}
+,{"yr":"2019","value":"AUTO / BOAT / RV DEALERSHIP","n":"223"}
+,{"yr":"2019","value":"BANK","n":"1041"}
+,{"yr":"2019","value":"BARBERSHOP","n":"233"}
+,{"yr":"2019","value":"BARBER SHOP/BEAUTY SALON","n":"2"}
+,{"yr":"2019","value":"BAR OR TAVERN","n":"2235"}
+,{"yr":"2019","value":"BASEMENT","n":"1"}
+,{"yr":"2019","value":"BOAT / WATERCRAFT","n":"1"}
+,{"yr":"2019","value":"BOAT/WATERCRAFT","n":"34"}
+,{"yr":"2019","value":"BOWLING ALLEY","n":"30"}
+,{"yr":"2019","value":"BRIDGE","n":"24"}
+,{"yr":"2019","value":"CAR WASH","n":"115"}
+,{"yr":"2019","value":"CEMETARY","n":"6"}
+,{"yr":"2019","value":"CHA APARTMENT","n":"754"}
+,{"yr":"2019","value":"CHA GROUNDS","n":"1"}
+,{"yr":"2019","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"154"}
+,{"yr":"2019","value":"CHA PARKING LOT","n":"3"}
+,{"yr":"2019","value":"CHA PARKING LOT / GROUNDS","n":"12"}
+,{"yr":"2019","value":"CHA PARKING LOT/GROUNDS","n":"550"}
+,{"yr":"2019","value":"CHA PLAY LOT","n":"1"}
+,{"yr":"2019","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"15"}
+,{"yr":"2019","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"478"}
+,{"yr":"2019","value":"CLEANING STORE","n":"73"}
+,{"yr":"2019","value":"COIN OPERATED MACHINE","n":"25"}
+,{"yr":"2019","value":"COLLEGE / UNIVERSITY - GROUNDS","n":"5"}
+,{"yr":"2019","value":"COLLEGE/UNIVERSITY GROUNDS","n":"131"}
+,{"yr":"2019","value":"COLLEGE / UNIVERSITY - RESIDENCE HALL","n":"4"}
+,{"yr":"2019","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"35"}
+,{"yr":"2019","value":"COMMERCIAL / BUSINESS OFFICE","n":"1725"}
+,{"yr":"2019","value":"CONSTRUCTION SITE","n":"311"}
+,{"yr":"2019","value":"CONVENIENCE STORE","n":"2187"}
+,{"yr":"2019","value":"CREDIT UNION","n":"25"}
+,{"yr":"2019","value":"CTA BUS","n":"1059"}
+,{"yr":"2019","value":"CTA BUS STOP","n":"574"}
+,{"yr":"2019","value":"CTA GARAGE / OTHER PROPERTY","n":"251"}
+,{"yr":"2019","value":"CTA \"L\" PLATFORM","n":"1"}
+,{"yr":"2019","value":"CTA PARKING LOT / GARAGE / OTHER PROPERTY","n":"4"}
+,{"yr":"2019","value":"CTA PLATFORM","n":"1176"}
+,{"yr":"2019","value":"CTA STATION","n":"1138"}
+,{"yr":"2019","value":"CTA SUBWAY STATION","n":"1"}
+,{"yr":"2019","value":"CTA TRACKS - RIGHT OF WAY","n":"34"}
+,{"yr":"2019","value":"CTA TRAIN","n":"2151"}
+,{"yr":"2019","value":"CURRENCY EXCHANGE","n":"351"}
+,{"yr":"2019","value":"DAY CARE CENTER","n":"206"}
+,{"yr":"2019","value":"DEPARTMENT STORE","n":"4872"}
+,{"yr":"2019","value":"DRIVEWAY - RESIDENTIAL","n":"629"}
+,{"yr":"2019","value":"DRUG STORE","n":"1161"}
+,{"yr":"2019","value":"FACTORY / MANUFACTURING BUILDING","n":"5"}
+,{"yr":"2019","value":"FACTORY/MANUFACTURING BUILDING","n":"119"}
+,{"yr":"2019","value":"FARM","n":"3"}
+,{"yr":"2019","value":"FEDERAL BUILDING","n":"49"}
+,{"yr":"2019","value":"FIRE STATION","n":"40"}
+,{"yr":"2019","value":"FOREST PRESERVE","n":"11"}
+,{"yr":"2019","value":"GANGWAY","n":"1"}
+,{"yr":"2019","value":"GARAGE","n":"2"}
+,{"yr":"2019","value":"GAS STATION","n":"3720"}
+,{"yr":"2019","value":"GOVERNMENT BUILDING / PROPERTY","n":"54"}
+,{"yr":"2019","value":"GOVERNMENT BUILDING/PROPERTY","n":"487"}
+,{"yr":"2019","value":"GROCERY FOOD STORE","n":"3391"}
+,{"yr":"2019","value":"HIGHWAY / EXPRESSWAY","n":"1"}
+,{"yr":"2019","value":"HIGHWAY/EXPRESSWAY","n":"57"}
+,{"yr":"2019","value":"HORSE STABLE","n":"1"}
+,{"yr":"2019","value":"HOSPITAL BUILDING / GROUNDS","n":"56"}
+,{"yr":"2019","value":"HOSPITAL BUILDING/GROUNDS","n":"1341"}
+,{"yr":"2019","value":"HOTEL","n":"2"}
+,{"yr":"2019","value":"HOTEL / MOTEL","n":"55"}
+,{"yr":"2019","value":"HOTEL/MOTEL","n":"1396"}
+,{"yr":"2019","value":"HOUSE","n":"20"}
+,{"yr":"2019","value":"JAIL / LOCK-UP FACILITY","n":"48"}
+,{"yr":"2019","value":"KENNEL","n":"6"}
+,{"yr":"2019","value":"LAKEFRONT / WATERFRONT / RIVERBANK","n":"3"}
+,{"yr":"2019","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"63"}
+,{"yr":"2019","value":"LIBRARY","n":"236"}
+,{"yr":"2019","value":"MEDICAL / DENTAL OFFICE","n":"9"}
+,{"yr":"2019","value":"MEDICAL/DENTAL OFFICE","n":"254"}
+,{"yr":"2019","value":"MOVIE HOUSE/THEATER","n":"125"}
+,{"yr":"2019","value":"NEWSSTAND","n":"6"}
+,{"yr":"2019","value":"NURSING HOME/RETIREMENT HOME","n":"938"}
+,{"yr":"2019","value":"NURSING / RETIREMENT HOME","n":"27"}
+,{"yr":"2019","value":"OTHER","n":"10517"}
+,{"yr":"2019","value":"OTHER COMMERCIAL TRANSPORTATION","n":"138"}
+,{"yr":"2019","value":"OTHER RAILROAD PROPERTY / TRAIN DEPOT","n":"19"}
+,{"yr":"2019","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"131"}
+,{"yr":"2019","value":"OTHER (SPECIFY)","n":"334"}
+,{"yr":"2019","value":"PARKING LOT","n":"11"}
+,{"yr":"2019","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"7451"}
+,{"yr":"2019","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"132"}
+,{"yr":"2019","value":"PARK PROPERTY","n":"1760"}
+,{"yr":"2019","value":"PAWN SHOP","n":"61"}
+,{"yr":"2019","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"193"}
+,{"yr":"2019","value":"POLICE FACILITY/VEH PARKING LOT","n":"752"}
+,{"yr":"2019","value":"POOL ROOM","n":"54"}
+,{"yr":"2019","value":"PORCH","n":"17"}
+,{"yr":"2019","value":"RAILROAD PROPERTY","n":"1"}
+,{"yr":"2019","value":"RESIDENCE","n":"43591"}
+,{"yr":"2019","value":"RESIDENCE - GARAGE","n":"59"}
+,{"yr":"2019","value":"RESIDENCE-GARAGE","n":"3221"}
+,{"yr":"2019","value":"RESIDENCE - PORCH / HALLWAY","n":"93"}
+,{"yr":"2019","value":"RESIDENCE PORCH/HALLWAY","n":"4883"}
+,{"yr":"2019","value":"RESIDENCE - YARD (FRONT / BACK)","n":"59"}
+,{"yr":"2019","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"4692"}
+,{"yr":"2019","value":"RESTAURANT","n":"6985"}
+,{"yr":"2019","value":"RETAIL STORE","n":"2"}
+,{"yr":"2019","value":"SAVINGS AND LOAN","n":"12"}
+,{"yr":"2019","value":"SCHOOL - PRIVATE BUILDING","n":"12"}
+,{"yr":"2019","value":"SCHOOL, PRIVATE, BUILDING","n":"602"}
+,{"yr":"2019","value":"SCHOOL - PRIVATE GROUNDS","n":"4"}
+,{"yr":"2019","value":"SCHOOL, PRIVATE, GROUNDS","n":"170"}
+,{"yr":"2019","value":"SCHOOL - PUBLIC BUILDING","n":"71"}
+,{"yr":"2019","value":"SCHOOL, PUBLIC, BUILDING","n":"2994"}
+,{"yr":"2019","value":"SCHOOL - PUBLIC GROUNDS","n":"21"}
+,{"yr":"2019","value":"SCHOOL, PUBLIC, GROUNDS","n":"982"}
+,{"yr":"2019","value":"SIDEWALK","n":"20357"}
+,{"yr":"2019","value":"SMALL RETAIL STORE","n":"7041"}
+,{"yr":"2019","value":"SPORTS ARENA / STADIUM","n":"2"}
+,{"yr":"2019","value":"SPORTS ARENA/STADIUM","n":"220"}
+,{"yr":"2019","value":"STAIRWELL","n":"1"}
+,{"yr":"2019","value":"STREET","n":"56515"}
+,{"yr":"2019","value":"TAVERN / LIQUOR STORE","n":"5"}
+,{"yr":"2019","value":"TAVERN/LIQUOR STORE","n":"499"}
+,{"yr":"2019","value":"TAXICAB","n":"288"}
+,{"yr":"2019","value":"TRAILER","n":"1"}
+,{"yr":"2019","value":"VACANT LOT","n":"2"}
+,{"yr":"2019","value":"VACANT LOT / LAND","n":"35"}
+,{"yr":"2019","value":"VACANT LOT/LAND","n":"617"}
+,{"yr":"2019","value":"VEHICLE - COMMERCIAL","n":"6"}
+,{"yr":"2019","value":"VEHICLE-COMMERCIAL","n":"200"}
+,{"yr":"2019","value":"VEHICLE-COMMERCIAL - ENTERTAINMENT/PARTY BUS","n":"2"}
+,{"yr":"2019","value":"VEHICLE-COMMERCIAL - TROLLEY BUS","n":"4"}
+,{"yr":"2019","value":"VEHICLE - DELIVERY TRUCK","n":"54"}
+,{"yr":"2019","value":"VEHICLE NON-COMMERCIAL","n":"4793"}
+,{"yr":"2019","value":"VEHICLE - OTHER RIDE SHARE SERVICE (E.G., UBER, LYFT)","n":"225"}
+,{"yr":"2019","value":"VEHICLE - OTHER RIDE SHARE SERVICE (LYFT, UBER, ETC.)","n":"11"}
+,{"yr":"2019","value":"WAREHOUSE","n":"311"}
+,{"yr":"2019","value":"YARD","n":"9"}
+,{"yr":"2019","n":"1400"}
+,{"yr":"2020","value":"ABANDONED BUILDING","n":"129"}
+,{"yr":"2020","value":"AIRCRAFT","n":"24"}
+,{"yr":"2020","value":"AIRPORT/AIRCRAFT","n":"41"}
+,{"yr":"2020","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"108"}
+,{"yr":"2020","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"46"}
+,{"yr":"2020","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"62"}
+,{"yr":"2020","value":"AIRPORT EXTERIOR - SECURE AREA","n":"26"}
+,{"yr":"2020","value":"AIRPORT PARKING LOT","n":"62"}
+,{"yr":"2020","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"89"}
+,{"yr":"2020","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"35"}
+,{"yr":"2020","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"6"}
+,{"yr":"2020","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"56"}
+,{"yr":"2020","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"109"}
+,{"yr":"2020","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"4"}
+,{"yr":"2020","value":"AIRPORT VENDING ESTABLISHMENT","n":"31"}
+,{"yr":"2020","value":"ALLEY","n":"4727"}
+,{"yr":"2020","value":"ANIMAL HOSPITAL","n":"31"}
+,{"yr":"2020","value":"APARTMENT","n":"36178"}
+,{"yr":"2020","value":"APPLIANCE STORE","n":"121"}
+,{"yr":"2020","value":"ATHLETIC CLUB","n":"185"}
+,{"yr":"2020","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"241"}
+,{"yr":"2020","value":"AUTO","n":"83"}
+,{"yr":"2020","value":"AUTO / BOAT / RV DEALERSHIP","n":"262"}
+,{"yr":"2020","value":"BANK","n":"881"}
+,{"yr":"2020","value":"BARBERSHOP","n":"167"}
+,{"yr":"2020","value":"BARBER SHOP/BEAUTY SALON","n":"1"}
+,{"yr":"2020","value":"BAR OR TAVERN","n":"683"}
+,{"yr":"2020","value":"BOAT / WATERCRAFT","n":"23"}
+,{"yr":"2020","value":"BOWLING ALLEY","n":"6"}
+,{"yr":"2020","value":"BRIDGE","n":"12"}
+,{"yr":"2020","value":"CAR WASH","n":"103"}
+,{"yr":"2020","value":"CASINO/GAMBLING ESTABLISHMENT","n":"1"}
+,{"yr":"2020","value":"CEMETARY","n":"16"}
+,{"yr":"2020","value":"CHA APARTMENT","n":"672"}
+,{"yr":"2020","value":"CHA GROUNDS","n":"1"}
+,{"yr":"2020","value":"CHA HALLWAY","n":"1"}
+,{"yr":"2020","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"118"}
+,{"yr":"2020","value":"CHA HALLWAY/STAIRWELL/ELEVATOR","n":"37"}
+,{"yr":"2020","value":"CHA PARKING LOT","n":"6"}
+,{"yr":"2020","value":"CHA PARKING LOT / GROUNDS","n":"353"}
+,{"yr":"2020","value":"CHA PARKING LOT/GROUNDS","n":"59"}
+,{"yr":"2020","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"267"}
+,{"yr":"2020","value":"CHURCH/SYNAGOGUE/PLACE OF WORSHIP","n":"62"}
+,{"yr":"2020","value":"CLEANING STORE","n":"87"}
+,{"yr":"2020","value":"CLUB","n":"1"}
+,{"yr":"2020","value":"COIN OPERATED MACHINE","n":"19"}
+,{"yr":"2020","value":"COLLEGE / UNIVERSITY - GROUNDS","n":"41"}
+,{"yr":"2020","value":"COLLEGE/UNIVERSITY GROUNDS","n":"17"}
+,{"yr":"2020","value":"COLLEGE / UNIVERSITY - RESIDENCE HALL","n":"11"}
+,{"yr":"2020","value":"COLLEGE/UNIVERSITY RESIDENCE HALL","n":"7"}
+,{"yr":"2020","value":"COMMERCIAL / BUSINESS OFFICE","n":"1589"}
+,{"yr":"2020","value":"CONSTRUCTION SITE","n":"240"}
+,{"yr":"2020","value":"CONVENIENCE STORE","n":"1976"}
+,{"yr":"2020","value":"CREDIT UNION","n":"13"}
+,{"yr":"2020","value":"CTA BUS","n":"738"}
+,{"yr":"2020","value":"CTA BUS STOP","n":"394"}
+,{"yr":"2020","value":"CTA GARAGE / OTHER PROPERTY","n":"52"}
+,{"yr":"2020","value":"CTA \"L\" PLATFORM","n":"2"}
+,{"yr":"2020","value":"CTA \"L\" TRAIN","n":"1"}
+,{"yr":"2020","value":"CTA PARKING LOT / GARAGE / OTHER PROPERTY","n":"130"}
+,{"yr":"2020","value":"CTA PLATFORM","n":"520"}
+,{"yr":"2020","value":"CTA PROPERTY","n":"1"}
+,{"yr":"2020","value":"CTA STATION","n":"575"}
+,{"yr":"2020","value":"CTA TRACKS - RIGHT OF WAY","n":"20"}
+,{"yr":"2020","value":"CTA TRAIN","n":"1139"}
+,{"yr":"2020","value":"CURRENCY EXCHANGE","n":"278"}
+,{"yr":"2020","value":"DAY CARE CENTER","n":"103"}
+,{"yr":"2020","value":"DEPARTMENT STORE","n":"2325"}
+,{"yr":"2020","value":"DRIVEWAY - RESIDENTIAL","n":"609"}
+,{"yr":"2020","value":"DRUG STORE","n":"1082"}
+,{"yr":"2020","value":"FACTORY / MANUFACTURING BUILDING","n":"89"}
+,{"yr":"2020","value":"FACTORY/MANUFACTURING BUILDING","n":"14"}
+,{"yr":"2020","value":"FARM","n":"1"}
+,{"yr":"2020","value":"FEDERAL BUILDING","n":"28"}
+,{"yr":"2020","value":"FIRE STATION","n":"48"}
+,{"yr":"2020","value":"FOREST PRESERVE","n":"18"}
+,{"yr":"2020","value":"GANGWAY","n":"2"}
+,{"yr":"2020","value":"GARAGE","n":"2"}
+,{"yr":"2020","value":"GAS STATION","n":"3440"}
+,{"yr":"2020","value":"GAS STATION DRIVE/PROP.","n":"7"}
+,{"yr":"2020","value":"GOVERNMENT BUILDING / PROPERTY","n":"363"}
+,{"yr":"2020","value":"GOVERNMENT BUILDING/PROPERTY","n":"58"}
+,{"yr":"2020","value":"GROCERY FOOD STORE","n":"2556"}
+,{"yr":"2020","value":"HALLWAY","n":"6"}
+,{"yr":"2020","value":"HIGHWAY / EXPRESSWAY","n":"46"}
+,{"yr":"2020","value":"HIGHWAY/EXPRESSWAY","n":"11"}
+,{"yr":"2020","value":"HOSPITAL","n":"3"}
+,{"yr":"2020","value":"HOSPITAL BUILDING / GROUNDS","n":"863"}
+,{"yr":"2020","value":"HOSPITAL BUILDING/GROUNDS","n":"226"}
+,{"yr":"2020","value":"HOTEL","n":"3"}
+,{"yr":"2020","value":"HOTEL / MOTEL","n":"781"}
+,{"yr":"2020","value":"HOTEL/MOTEL","n":"192"}
+,{"yr":"2020","value":"HOUSE","n":"24"}
+,{"yr":"2020","value":"JAIL / LOCK-UP FACILITY","n":"41"}
+,{"yr":"2020","value":"KENNEL","n":"3"}
+,{"yr":"2020","value":"LAKE","n":"1"}
+,{"yr":"2020","value":"LAKEFRONT / WATERFRONT / RIVERBANK","n":"33"}
+,{"yr":"2020","value":"LAKEFRONT/WATERFRONT/RIVERBANK","n":"3"}
+,{"yr":"2020","value":"LIBRARY","n":"113"}
+,{"yr":"2020","value":"LIQUOR STORE","n":"1"}
+,{"yr":"2020","value":"MEDICAL / DENTAL OFFICE","n":"243"}
+,{"yr":"2020","value":"MEDICAL/DENTAL OFFICE","n":"37"}
+,{"yr":"2020","value":"MOTEL","n":"1"}
+,{"yr":"2020","value":"MOVIE HOUSE / THEATER","n":"14"}
+,{"yr":"2020","value":"MOVIE HOUSE/THEATER","n":"18"}
+,{"yr":"2020","value":"NEWSSTAND","n":"4"}
+,{"yr":"2020","value":"NURSING HOME","n":"1"}
+,{"yr":"2020","value":"NURSING HOME/RETIREMENT HOME","n":"149"}
+,{"yr":"2020","value":"NURSING / RETIREMENT HOME","n":"535"}
+,{"yr":"2020","value":"OFFICE","n":"1"}
+,{"yr":"2020","value":"OTHER","n":"1392"}
+,{"yr":"2020","value":"OTHER COMMERCIAL TRANSPORTATION","n":"79"}
+,{"yr":"2020","value":"OTHER RAILROAD PROPERTY / TRAIN DEPOT","n":"104"}
+,{"yr":"2020","value":"OTHER RAILROAD PROP / TRAIN DEPOT","n":"14"}
+,{"yr":"2020","value":"OTHER (SPECIFY)","n":"5086"}
+,{"yr":"2020","value":"PARKING LOT","n":"19"}
+,{"yr":"2020","value":"PARKING LOT/GARAGE(NON.RESID.)","n":"929"}
+,{"yr":"2020","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"4638"}
+,{"yr":"2020","value":"PARK PROPERTY","n":"875"}
+,{"yr":"2020","value":"PAWN SHOP","n":"53"}
+,{"yr":"2020","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"648"}
+,{"yr":"2020","value":"POLICE FACILITY/VEH PARKING LOT","n":"94"}
+,{"yr":"2020","value":"POOL ROOM","n":"35"}
+,{"yr":"2020","value":"PORCH","n":"19"}
+,{"yr":"2020","value":"RESIDENCE","n":"39203"}
+,{"yr":"2020","value":"RESIDENCE - GARAGE","n":"2442"}
+,{"yr":"2020","value":"RESIDENCE-GARAGE","n":"336"}
+,{"yr":"2020","value":"RESIDENCE - PORCH / HALLWAY","n":"3261"}
+,{"yr":"2020","value":"RESIDENCE PORCH/HALLWAY","n":"687"}
+,{"yr":"2020","value":"RESIDENCE - YARD (FRONT / BACK)","n":"3390"}
+,{"yr":"2020","value":"RESIDENTIAL YARD (FRONT/BACK)","n":"475"}
+,{"yr":"2020","value":"RESTAURANT","n":"3540"}
+,{"yr":"2020","value":"RETAIL STORE","n":"9"}
+,{"yr":"2020","value":"SAVINGS AND LOAN","n":"16"}
+,{"yr":"2020","value":"SCHOOL - PRIVATE BUILDING","n":"147"}
+,{"yr":"2020","value":"SCHOOL, PRIVATE, BUILDING","n":"96"}
+,{"yr":"2020","value":"SCHOOL - PRIVATE GROUNDS","n":"50"}
+,{"yr":"2020","value":"SCHOOL, PRIVATE, GROUNDS","n":"30"}
+,{"yr":"2020","value":"SCHOOL - PUBLIC BUILDING","n":"415"}
+,{"yr":"2020","value":"SCHOOL, PUBLIC, BUILDING","n":"622"}
+,{"yr":"2020","value":"SCHOOL - PUBLIC GROUNDS","n":"208"}
+,{"yr":"2020","value":"SCHOOL, PUBLIC, GROUNDS","n":"150"}
+,{"yr":"2020","value":"SCHOOL YARD","n":"1"}
+,{"yr":"2020","value":"SIDEWALK","n":"13424"}
+,{"yr":"2020","value":"SMALL RETAIL STORE","n":"5274"}
+,{"yr":"2020","value":"SPORTS ARENA / STADIUM","n":"54"}
+,{"yr":"2020","value":"SPORTS ARENA/STADIUM","n":"33"}
+,{"yr":"2020","value":"STAIRWELL","n":"1"}
+,{"yr":"2020","value":"STREET","n":"50545"}
+,{"yr":"2020","value":"TAVERN / LIQUOR STORE","n":"305"}
+,{"yr":"2020","value":"TAVERN/LIQUOR STORE","n":"94"}
+,{"yr":"2020","value":"TAXICAB","n":"74"}
+,{"yr":"2020","value":"VACANT LOT","n":"10"}
+,{"yr":"2020","value":"VACANT LOT / LAND","n":"468"}
+,{"yr":"2020","value":"VACANT LOT/LAND","n":"84"}
+,{"yr":"2020","value":"VEHICLE - COMMERCIAL","n":"109"}
+,{"yr":"2020","value":"VEHICLE-COMMERCIAL","n":"23"}
+,{"yr":"2020","value":"VEHICLE - COMMERCIAL: ENTERTAINMENT / PARTY BUS","n":"5"}
+,{"yr":"2020","value":"VEHICLE - COMMERCIAL: TROLLEY BUS","n":"2"}
+,{"yr":"2020","value":"VEHICLE - DELIVERY TRUCK","n":"55"}
+,{"yr":"2020","value":"VEHICLE NON-COMMERCIAL","n":"3170"}
+,{"yr":"2020","value":"VEHICLE - OTHER RIDE SHARE SERVICE (E.G., UBER, LYFT)","n":"24"}
+,{"yr":"2020","value":"VEHICLE - OTHER RIDE SHARE SERVICE (LYFT, UBER, ETC.)","n":"107"}
+,{"yr":"2020","value":"VESTIBULE","n":"4"}
+,{"yr":"2020","value":"WAREHOUSE","n":"224"}
+,{"yr":"2020","value":"YARD","n":"28"}
+,{"yr":"2020","n":"1838"}
+,{"yr":"2021","value":"ABANDONED BUILDING","n":"96"}
+,{"yr":"2021","value":"AIRCRAFT","n":"44"}
+,{"yr":"2021","value":"AIRPORT/AIRCRAFT","n":"36"}
+,{"yr":"2021","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"76"}
+,{"yr":"2021","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"47"}
+,{"yr":"2021","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"64"}
+,{"yr":"2021","value":"AIRPORT EXTERIOR - SECURE AREA","n":"41"}
+,{"yr":"2021","value":"AIRPORT PARKING LOT","n":"75"}
+,{"yr":"2021","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"175"}
+,{"yr":"2021","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"62"}
+,{"yr":"2021","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"5"}
+,{"yr":"2021","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"106"}
+,{"yr":"2021","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"272"}
+,{"yr":"2021","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"15"}
+,{"yr":"2021","value":"AIRPORT VENDING ESTABLISHMENT","n":"14"}
+,{"yr":"2021","value":"ALLEY","n":"4909"}
+,{"yr":"2021","value":"ANIMAL HOSPITAL","n":"13"}
+,{"yr":"2021","value":"APARTMENT","n":"44756"}
+,{"yr":"2021","value":"APPLIANCE STORE","n":"88"}
+,{"yr":"2021","value":"ATHLETIC CLUB","n":"260"}
+,{"yr":"2021","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"116"}
+,{"yr":"2021","value":"AUTO","n":"90"}
+,{"yr":"2021","value":"AUTO / BOAT / RV DEALERSHIP","n":"193"}
+,{"yr":"2021","value":"BANK","n":"605"}
+,{"yr":"2021","value":"BARBERSHOP","n":"156"}
+,{"yr":"2021","value":"BARBER SHOP/BEAUTY SALON","n":"7"}
+,{"yr":"2021","value":"BAR OR TAVERN","n":"1151"}
+,{"yr":"2021","value":"BOAT / WATERCRAFT","n":"31"}
+,{"yr":"2021","value":"BOWLING ALLEY","n":"21"}
+,{"yr":"2021","value":"BRIDGE","n":"16"}
+,{"yr":"2021","value":"CAR WASH","n":"141"}
+,{"yr":"2021","value":"CEMETARY","n":"8"}
+,{"yr":"2021","value":"CHA APARTMENT","n":"532"}
+,{"yr":"2021","value":"CHA ELEVATOR","n":"1"}
+,{"yr":"2021","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"139"}
+,{"yr":"2021","value":"CHA LOBBY","n":"1"}
+,{"yr":"2021","value":"CHA PARKING LOT","n":"1"}
+,{"yr":"2021","value":"CHA PARKING LOT / GROUNDS","n":"431"}
+,{"yr":"2021","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"408"}
+,{"yr":"2021","value":"CLEANING STORE","n":"116"}
+,{"yr":"2021","value":"CLUB","n":"2"}
+,{"yr":"2021","value":"COIN OPERATED MACHINE","n":"20"}
+,{"yr":"2021","value":"COLLEGE / UNIVERSITY - GROUNDS","n":"51"}
+,{"yr":"2021","value":"COLLEGE / UNIVERSITY - RESIDENCE HALL","n":"26"}
+,{"yr":"2021","value":"COMMERCIAL / BUSINESS OFFICE","n":"2932"}
+,{"yr":"2021","value":"CONSTRUCTION SITE","n":"153"}
+,{"yr":"2021","value":"CONVENIENCE STORE","n":"1148"}
+,{"yr":"2021","value":"CREDIT UNION","n":"15"}
+,{"yr":"2021","value":"CTA BUS","n":"636"}
+,{"yr":"2021","value":"CTA BUS STOP","n":"303"}
+,{"yr":"2021","value":"CTA \"L\" PLATFORM","n":"1"}
+,{"yr":"2021","value":"CTA \"L\" TRAIN","n":"3"}
+,{"yr":"2021","value":"CTA PARKING LOT / GARAGE / OTHER PROPERTY","n":"142"}
+,{"yr":"2021","value":"CTA PLATFORM","n":"476"}
+,{"yr":"2021","value":"CTA STATION","n":"310"}
+,{"yr":"2021","value":"CTA TRACKS - RIGHT OF WAY","n":"6"}
+,{"yr":"2021","value":"CTA TRAIN","n":"1084"}
+,{"yr":"2021","value":"CURRENCY EXCHANGE","n":"167"}
+,{"yr":"2021","value":"DAY CARE CENTER","n":"121"}
+,{"yr":"2021","value":"DEPARTMENT STORE","n":"2454"}
+,{"yr":"2021","value":"DRIVEWAY","n":"1"}
+,{"yr":"2021","value":"DRIVEWAY - RESIDENTIAL","n":"630"}
+,{"yr":"2021","value":"DRUG STORE","n":"1069"}
+,{"yr":"2021","value":"ELEVATOR","n":"1"}
+,{"yr":"2021","value":"FACTORY / MANUFACTURING BUILDING","n":"124"}
+,{"yr":"2021","value":"FARM","n":"1"}
+,{"yr":"2021","value":"FEDERAL BUILDING","n":"38"}
+,{"yr":"2021","value":"FIRE STATION","n":"59"}
+,{"yr":"2021","value":"FOREST PRESERVE","n":"12"}
+,{"yr":"2021","value":"GANGWAY","n":"2"}
+,{"yr":"2021","value":"GARAGE","n":"4"}
+,{"yr":"2021","value":"GAS STATION","n":"2967"}
+,{"yr":"2021","value":"GAS STATION DRIVE/PROP.","n":"8"}
+,{"yr":"2021","value":"GOVERNMENT BUILDING / PROPERTY","n":"321"}
+,{"yr":"2021","value":"GROCERY FOOD STORE","n":"1975"}
+,{"yr":"2021","value":"HALLWAY","n":"3"}
+,{"yr":"2021","value":"HIGHWAY / EXPRESSWAY","n":"59"}
+,{"yr":"2021","value":"HOSPITAL BUILDING / GROUNDS","n":"1161"}
+,{"yr":"2021","value":"HOTEL / MOTEL","n":"1227"}
+,{"yr":"2021","value":"HOUSE","n":"27"}
+,{"yr":"2021","value":"JAIL / LOCK-UP FACILITY","n":"43"}
+,{"yr":"2021","value":"KENNEL","n":"5"}
+,{"yr":"2021","value":"LAKEFRONT / WATERFRONT / RIVERBANK","n":"75"}
+,{"yr":"2021","value":"LIBRARY","n":"126"}
+,{"yr":"2021","value":"LIQUOR STORE","n":"2"}
+,{"yr":"2021","value":"MEDICAL / DENTAL OFFICE","n":"259"}
+,{"yr":"2021","value":"MOTEL","n":"1"}
+,{"yr":"2021","value":"MOVIE HOUSE / THEATER","n":"46"}
+,{"yr":"2021","value":"NEWSSTAND","n":"4"}
+,{"yr":"2021","value":"NURSING / RETIREMENT HOME","n":"694"}
+,{"yr":"2021","value":"OTHER COMMERCIAL TRANSPORTATION","n":"72"}
+,{"yr":"2021","value":"OTHER RAILROAD PROPERTY / TRAIN DEPOT","n":"81"}
+,{"yr":"2021","value":"OTHER (SPECIFY)","n":"2982"}
+,{"yr":"2021","value":"PARKING LOT","n":"21"}
+,{"yr":"2021","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"6489"}
+,{"yr":"2021","value":"PARK PROPERTY","n":"1501"}
+,{"yr":"2021","value":"PAWN SHOP","n":"20"}
+,{"yr":"2021","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"880"}
+,{"yr":"2021","value":"POOL ROOM","n":"7"}
+,{"yr":"2021","value":"PORCH","n":"32"}
+,{"yr":"2021","value":"RESIDENCE","n":"32643"}
+,{"yr":"2021","value":"RESIDENCE - GARAGE","n":"2366"}
+,{"yr":"2021","value":"RESIDENCE - PORCH / HALLWAY","n":"3030"}
+,{"yr":"2021","value":"RESIDENCE - YARD (FRONT / BACK)","n":"2430"}
+,{"yr":"2021","value":"RESTAURANT","n":"3720"}
+,{"yr":"2021","value":"RETAIL STORE","n":"6"}
+,{"yr":"2021","value":"SAVINGS AND LOAN","n":"1"}
+,{"yr":"2021","value":"SCHOOL - PRIVATE BUILDING","n":"153"}
+,{"yr":"2021","value":"SCHOOL - PRIVATE GROUNDS","n":"184"}
+,{"yr":"2021","value":"SCHOOL - PUBLIC BUILDING","n":"910"}
+,{"yr":"2021","value":"SCHOOL - PUBLIC GROUNDS","n":"675"}
+,{"yr":"2021","value":"SCHOOL YARD","n":"1"}
+,{"yr":"2021","value":"SIDEWALK","n":"12178"}
+,{"yr":"2021","value":"SMALL RETAIL STORE","n":"5403"}
+,{"yr":"2021","value":"SPORTS ARENA / STADIUM","n":"98"}
+,{"yr":"2021","value":"STREET","n":"52146"}
+,{"yr":"2021","value":"TAVERN / LIQUOR STORE","n":"440"}
+,{"yr":"2021","value":"TAXICAB","n":"40"}
+,{"yr":"2021","value":"VACANT LOT","n":"9"}
+,{"yr":"2021","value":"VACANT LOT / LAND","n":"638"}
+,{"yr":"2021","value":"VEHICLE - COMMERCIAL","n":"161"}
+,{"yr":"2021","value":"VEHICLE - COMMERCIAL: ENTERTAINMENT / PARTY BUS","n":"5"}
+,{"yr":"2021","value":"VEHICLE - COMMERCIAL: TROLLEY BUS","n":"1"}
+,{"yr":"2021","value":"VEHICLE - DELIVERY TRUCK","n":"35"}
+,{"yr":"2021","value":"VEHICLE NON-COMMERCIAL","n":"2778"}
+,{"yr":"2021","value":"VEHICLE - OTHER RIDE SHARE SERVICE (LYFT, UBER, ETC.)","n":"97"}
+,{"yr":"2021","value":"VESTIBULE","n":"3"}
+,{"yr":"2021","value":"WAREHOUSE","n":"120"}
+,{"yr":"2021","value":"YARD","n":"17"}
+,{"yr":"2021","n":"1348"}
+,{"yr":"2022","value":"ABANDONED BUILDING","n":"120"}
+,{"yr":"2022","value":"AIRCRAFT","n":"55"}
+,{"yr":"2022","value":"AIRPORT/AIRCRAFT","n":"25"}
+,{"yr":"2022","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"101"}
+,{"yr":"2022","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"60"}
+,{"yr":"2022","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"85"}
+,{"yr":"2022","value":"AIRPORT EXTERIOR - SECURE AREA","n":"51"}
+,{"yr":"2022","value":"AIRPORT PARKING LOT","n":"244"}
+,{"yr":"2022","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"209"}
+,{"yr":"2022","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"102"}
+,{"yr":"2022","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"12"}
+,{"yr":"2022","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"136"}
+,{"yr":"2022","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"248"}
+,{"yr":"2022","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"24"}
+,{"yr":"2022","value":"AIRPORT VENDING ESTABLISHMENT","n":"19"}
+,{"yr":"2022","value":"ALLEY","n":"5026"}
+,{"yr":"2022","value":"ANIMAL HOSPITAL","n":"17"}
+,{"yr":"2022","value":"APARTMENT","n":"45964"}
+,{"yr":"2022","value":"APPLIANCE STORE","n":"136"}
+,{"yr":"2022","value":"ATHLETIC CLUB","n":"305"}
+,{"yr":"2022","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"100"}
+,{"yr":"2022","value":"AUTO","n":"25"}
+,{"yr":"2022","value":"AUTO / BOAT / RV DEALERSHIP","n":"250"}
+,{"yr":"2022","value":"BANK","n":"757"}
+,{"yr":"2022","value":"BANQUET HALL","n":"1"}
+,{"yr":"2022","value":"BARBERSHOP","n":"135"}
+,{"yr":"2022","value":"BARBER SHOP/BEAUTY SALON","n":"2"}
+,{"yr":"2022","value":"BAR OR TAVERN","n":"1610"}
+,{"yr":"2022","value":"BASEMENT","n":"1"}
+,{"yr":"2022","value":"BOAT / WATERCRAFT","n":"26"}
+,{"yr":"2022","value":"BOWLING ALLEY","n":"31"}
+,{"yr":"2022","value":"BRIDGE","n":"23"}
+,{"yr":"2022","value":"CAR WASH","n":"143"}
+,{"yr":"2022","value":"CEMETARY","n":"14"}
+,{"yr":"2022","value":"CHA APARTMENT","n":"642"}
+,{"yr":"2022","value":"CHA GROUNDS","n":"1"}
+,{"yr":"2022","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"150"}
+,{"yr":"2022","value":"CHA LOBBY","n":"1"}
+,{"yr":"2022","value":"CHA PARKING LOT","n":"3"}
+,{"yr":"2022","value":"CHA PARKING LOT / GROUNDS","n":"439"}
+,{"yr":"2022","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"415"}
+,{"yr":"2022","value":"CLEANING STORE","n":"79"}
+,{"yr":"2022","value":"COIN OPERATED MACHINE","n":"16"}
+,{"yr":"2022","value":"COLLEGE / UNIVERSITY - GROUNDS","n":"84"}
+,{"yr":"2022","value":"COLLEGE / UNIVERSITY - RESIDENCE HALL","n":"22"}
+,{"yr":"2022","value":"COMMERCIAL / BUSINESS OFFICE","n":"3618"}
+,{"yr":"2022","value":"CONSTRUCTION SITE","n":"192"}
+,{"yr":"2022","value":"CONVENIENCE STORE","n":"1362"}
+,{"yr":"2022","value":"CREDIT UNION","n":"15"}
+,{"yr":"2022","value":"CTA BUS","n":"737"}
+,{"yr":"2022","value":"CTA BUS STOP","n":"338"}
+,{"yr":"2022","value":"CTA \"L\" PLATFORM","n":"1"}
+,{"yr":"2022","value":"CTA \"L\" TRAIN","n":"4"}
+,{"yr":"2022","value":"CTA PARKING LOT / GARAGE / OTHER PROPERTY","n":"140"}
+,{"yr":"2022","value":"CTA PLATFORM","n":"599"}
+,{"yr":"2022","value":"CTA PROPERTY","n":"4"}
+,{"yr":"2022","value":"CTA STATION","n":"428"}
+,{"yr":"2022","value":"CTA TRACKS - RIGHT OF WAY","n":"9"}
+,{"yr":"2022","value":"CTA TRAIN","n":"1406"}
+,{"yr":"2022","value":"CURRENCY EXCHANGE","n":"246"}
+,{"yr":"2022","value":"DAY CARE CENTER","n":"177"}
+,{"yr":"2022","value":"DEPARTMENT STORE","n":"3446"}
+,{"yr":"2022","value":"DRIVEWAY","n":"2"}
+,{"yr":"2022","value":"DRIVEWAY - RESIDENTIAL","n":"875"}
+,{"yr":"2022","value":"DRUG STORE","n":"1233"}
+,{"yr":"2022","value":"FACTORY / MANUFACTURING BUILDING","n":"144"}
+,{"yr":"2022","value":"FARM","n":"1"}
+,{"yr":"2022","value":"FEDERAL BUILDING","n":"36"}
+,{"yr":"2022","value":"FIRE STATION","n":"51"}
+,{"yr":"2022","value":"FOREST PRESERVE","n":"12"}
+,{"yr":"2022","value":"GARAGE","n":"5"}
+,{"yr":"2022","value":"GAS STATION","n":"3069"}
+,{"yr":"2022","value":"GAS STATION DRIVE/PROP.","n":"4"}
+,{"yr":"2022","value":"GOVERNMENT BUILDING / PROPERTY","n":"541"}
+,{"yr":"2022","value":"GROCERY FOOD STORE","n":"2281"}
+,{"yr":"2022","value":"HALLWAY","n":"5"}
+,{"yr":"2022","value":"HIGHWAY / EXPRESSWAY","n":"50"}
+,{"yr":"2022","value":"HOSPITAL BUILDING / GROUNDS","n":"1385"}
+,{"yr":"2022","value":"HOTEL","n":"2"}
+,{"yr":"2022","value":"HOTEL / MOTEL","n":"1268"}
+,{"yr":"2022","value":"HOUSE","n":"38"}
+,{"yr":"2022","value":"JAIL / LOCK-UP FACILITY","n":"22"}
+,{"yr":"2022","value":"LAKEFRONT / WATERFRONT / RIVERBANK","n":"83"}
+,{"yr":"2022","value":"LIBRARY","n":"204"}
+,{"yr":"2022","value":"LIQUOR STORE","n":"2"}
+,{"yr":"2022","value":"MEDICAL / DENTAL OFFICE","n":"324"}
+,{"yr":"2022","value":"MOVIE HOUSE / THEATER","n":"91"}
+,{"yr":"2022","value":"NURSING / RETIREMENT HOME","n":"802"}
+,{"yr":"2022","value":"OFFICE","n":"2"}
+,{"yr":"2022","value":"OTHER COMMERCIAL TRANSPORTATION","n":"118"}
+,{"yr":"2022","value":"OTHER RAILROAD PROPERTY / TRAIN DEPOT","n":"103"}
+,{"yr":"2022","value":"OTHER (SPECIFY)","n":"3712"}
+,{"yr":"2022","value":"PARKING LOT","n":"21"}
+,{"yr":"2022","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"9335"}
+,{"yr":"2022","value":"PARK PROPERTY","n":"1838"}
+,{"yr":"2022","value":"PAWN SHOP","n":"21"}
+,{"yr":"2022","value":"POLICE FACILITY","n":"1"}
+,{"yr":"2022","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"716"}
+,{"yr":"2022","value":"POOL ROOM","n":"9"}
+,{"yr":"2022","value":"PORCH","n":"21"}
+,{"yr":"2022","value":"PUBLIC GRAMMAR SCHOOL","n":"1"}
+,{"yr":"2022","value":"RAILROAD PROPERTY","n":"1"}
+,{"yr":"2022","value":"RESIDENCE","n":"30920"}
+,{"yr":"2022","value":"RESIDENCE - GARAGE","n":"2777"}
+,{"yr":"2022","value":"RESIDENCE - PORCH / HALLWAY","n":"3140"}
+,{"yr":"2022","value":"RESIDENCE - YARD (FRONT / BACK)","n":"2497"}
+,{"yr":"2022","value":"RESTAURANT","n":"4868"}
+,{"yr":"2022","value":"RETAIL STORE","n":"8"}
+,{"yr":"2022","value":"RIVER BANK","n":"1"}
+,{"yr":"2022","value":"SAVINGS AND LOAN","n":"4"}
+,{"yr":"2022","value":"SCHOOL - PRIVATE BUILDING","n":"241"}
+,{"yr":"2022","value":"SCHOOL - PRIVATE GROUNDS","n":"354"}
+,{"yr":"2022","value":"SCHOOL - PUBLIC BUILDING","n":"1796"}
+,{"yr":"2022","value":"SCHOOL - PUBLIC GROUNDS","n":"1490"}
+,{"yr":"2022","value":"SCHOOL YARD","n":"2"}
+,{"yr":"2022","value":"SIDEWALK","n":"12065"}
+,{"yr":"2022","value":"SMALL RETAIL STORE","n":"7265"}
+,{"yr":"2022","value":"SPORTS ARENA / STADIUM","n":"158"}
+,{"yr":"2022","value":"STAIRWELL","n":"1"}
+,{"yr":"2022","value":"STREET","n":"67685"}
+,{"yr":"2022","value":"TAVERN","n":"1"}
+,{"yr":"2022","value":"TAVERN / LIQUOR STORE","n":"526"}
+,{"yr":"2022","value":"TAXICAB","n":"45"}
+,{"yr":"2022","value":"TRUCK","n":"1"}
+,{"yr":"2022","value":"VACANT LOT","n":"4"}
+,{"yr":"2022","value":"VACANT LOT / LAND","n":"682"}
+,{"yr":"2022","value":"VEHICLE - COMMERCIAL","n":"230"}
+,{"yr":"2022","value":"VEHICLE - COMMERCIAL: ENTERTAINMENT / PARTY BUS","n":"2"}
+,{"yr":"2022","value":"VEHICLE - COMMERCIAL: TROLLEY BUS","n":"7"}
+,{"yr":"2022","value":"VEHICLE - DELIVERY TRUCK","n":"52"}
+,{"yr":"2022","value":"VEHICLE NON-COMMERCIAL","n":"3241"}
+,{"yr":"2022","value":"VEHICLE - OTHER RIDE SHARE SERVICE (LYFT, UBER, ETC.)","n":"88"}
+,{"yr":"2022","value":"VESTIBULE","n":"2"}
+,{"yr":"2022","value":"WAREHOUSE","n":"188"}
+,{"yr":"2022","value":"YARD","n":"27"}
+,{"yr":"2022","n":"1099"}
+,{"yr":"2023","value":"ABANDONED BUILDING","n":"134"}
+,{"yr":"2023","value":"AIRCRAFT","n":"70"}
+,{"yr":"2023","value":"AIRPORT/AIRCRAFT","n":"25"}
+,{"yr":"2023","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"113"}
+,{"yr":"2023","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"53"}
+,{"yr":"2023","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"85"}
+,{"yr":"2023","value":"AIRPORT EXTERIOR - SECURE AREA","n":"54"}
+,{"yr":"2023","value":"AIRPORT PARKING LOT","n":"240"}
+,{"yr":"2023","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"211"}
+,{"yr":"2023","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"112"}
+,{"yr":"2023","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"16"}
+,{"yr":"2023","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"131"}
+,{"yr":"2023","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"319"}
+,{"yr":"2023","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"19"}
+,{"yr":"2023","value":"AIRPORT VENDING ESTABLISHMENT","n":"9"}
+,{"yr":"2023","value":"ALLEY","n":"6133"}
+,{"yr":"2023","value":"ANIMAL HOSPITAL","n":"24"}
+,{"yr":"2023","value":"APARTMENT","n":"49547"}
+,{"yr":"2023","value":"APPLIANCE STORE","n":"130"}
+,{"yr":"2023","value":"ATHLETIC CLUB","n":"339"}
+,{"yr":"2023","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"131"}
+,{"yr":"2023","value":"AUTO","n":"18"}
+,{"yr":"2023","value":"AUTO / BOAT / RV DEALERSHIP","n":"196"}
+,{"yr":"2023","value":"BANK","n":"912"}
+,{"yr":"2023","value":"BARBERSHOP","n":"129"}
+,{"yr":"2023","value":"BARBER SHOP/BEAUTY SALON","n":"1"}
+,{"yr":"2023","value":"BAR OR TAVERN","n":"2026"}
+,{"yr":"2023","value":"BEACH","n":"1"}
+,{"yr":"2023","value":"BOAT / WATERCRAFT","n":"24"}
+,{"yr":"2023","value":"BOWLING ALLEY","n":"24"}
+,{"yr":"2023","value":"BRIDGE","n":"24"}
+,{"yr":"2023","value":"CAR WASH","n":"134"}
+,{"yr":"2023","value":"CEMETARY","n":"20"}
+,{"yr":"2023","value":"CHA APARTMENT","n":"633"}
+,{"yr":"2023","value":"CHA GROUNDS","n":"1"}
+,{"yr":"2023","value":"CHA HALLWAY","n":"1"}
+,{"yr":"2023","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"167"}
+,{"yr":"2023","value":"CHA LOBBY","n":"1"}
+,{"yr":"2023","value":"CHA PARKING LOT","n":"4"}
+,{"yr":"2023","value":"CHA PARKING LOT / GROUNDS","n":"456"}
+,{"yr":"2023","value":"CHA STAIRWELL","n":"1"}
+,{"yr":"2023","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"474"}
+,{"yr":"2023","value":"CLEANING STORE","n":"80"}
+,{"yr":"2023","value":"COIN OPERATED MACHINE","n":"18"}
+,{"yr":"2023","value":"COLLEGE / UNIVERSITY - GROUNDS","n":"84"}
+,{"yr":"2023","value":"COLLEGE / UNIVERSITY - RESIDENCE HALL","n":"21"}
+,{"yr":"2023","value":"COMMERCIAL / BUSINESS OFFICE","n":"3744"}
+,{"yr":"2023","value":"CONSTRUCTION SITE","n":"216"}
+,{"yr":"2023","value":"CONVENIENCE STORE","n":"1733"}
+,{"yr":"2023","value":"CREDIT UNION","n":"12"}
+,{"yr":"2023","value":"CTA BUS","n":"876"}
+,{"yr":"2023","value":"CTA BUS STOP","n":"392"}
+,{"yr":"2023","value":"CTA \"L\" PLATFORM","n":"1"}
+,{"yr":"2023","value":"CTA PARKING LOT / GARAGE / OTHER PROPERTY","n":"234"}
+,{"yr":"2023","value":"CTA PLATFORM","n":"825"}
+,{"yr":"2023","value":"CTA STATION","n":"521"}
+,{"yr":"2023","value":"CTA SUBWAY STATION","n":"1"}
+,{"yr":"2023","value":"CTA TRACKS - RIGHT OF WAY","n":"7"}
+,{"yr":"2023","value":"CTA TRAIN","n":"1462"}
+,{"yr":"2023","value":"CURRENCY EXCHANGE","n":"216"}
+,{"yr":"2023","value":"DAY CARE CENTER","n":"155"}
+,{"yr":"2023","value":"DEPARTMENT STORE","n":"4110"}
+,{"yr":"2023","value":"DRIVEWAY","n":"4"}
+,{"yr":"2023","value":"DRIVEWAY - RESIDENTIAL","n":"994"}
+,{"yr":"2023","value":"DRUG STORE","n":"1497"}
+,{"yr":"2023","value":"FACTORY / MANUFACTURING BUILDING","n":"148"}
+,{"yr":"2023","value":"FEDERAL BUILDING","n":"50"}
+,{"yr":"2023","value":"FIRE STATION","n":"49"}
+,{"yr":"2023","value":"FOREST PRESERVE","n":"14"}
+,{"yr":"2023","value":"GANGWAY","n":"2"}
+,{"yr":"2023","value":"GARAGE","n":"5"}
+,{"yr":"2023","value":"GAS STATION","n":"3038"}
+,{"yr":"2023","value":"GAS STATION DRIVE/PROP.","n":"8"}
+,{"yr":"2023","value":"GOVERNMENT BUILDING / PROPERTY","n":"559"}
+,{"yr":"2023","value":"GROCERY FOOD STORE","n":"2457"}
+,{"yr":"2023","value":"HALLWAY","n":"7"}
+,{"yr":"2023","value":"HIGHWAY / EXPRESSWAY","n":"43"}
+,{"yr":"2023","value":"HOSPITAL","n":"1"}
+,{"yr":"2023","value":"HOSPITAL BUILDING / GROUNDS","n":"1504"}
+,{"yr":"2023","value":"HOTEL","n":"1"}
+,{"yr":"2023","value":"HOTEL / MOTEL","n":"1301"}
+,{"yr":"2023","value":"HOUSE","n":"28"}
+,{"yr":"2023","value":"JAIL / LOCK-UP FACILITY","n":"31"}
+,{"yr":"2023","value":"KENNEL","n":"3"}
+,{"yr":"2023","value":"LAKEFRONT / WATERFRONT / RIVERBANK","n":"99"}
+,{"yr":"2023","value":"LIBRARY","n":"241"}
+,{"yr":"2023","value":"MEDICAL / DENTAL OFFICE","n":"300"}
+,{"yr":"2023","value":"MOVIE HOUSE / THEATER","n":"99"}
+,{"yr":"2023","value":"NURSING / RETIREMENT HOME","n":"849"}
+,{"yr":"2023","value":"OFFICE","n":"1"}
+,{"yr":"2023","value":"OTHER COMMERCIAL TRANSPORTATION","n":"97"}
+,{"yr":"2023","value":"OTHER RAILROAD PROPERTY / TRAIN DEPOT","n":"127"}
+,{"yr":"2023","value":"OTHER (SPECIFY)","n":"4023"}
+,{"yr":"2023","value":"PARKING LOT","n":"23"}
+,{"yr":"2023","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"9973"}
+,{"yr":"2023","value":"PARK PROPERTY","n":"1835"}
+,{"yr":"2023","value":"PAWN SHOP","n":"32"}
+,{"yr":"2023","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"767"}
+,{"yr":"2023","value":"POOL ROOM","n":"8"}
+,{"yr":"2023","value":"PORCH","n":"13"}
+,{"yr":"2023","value":"RESIDENCE","n":"32097"}
+,{"yr":"2023","value":"RESIDENCE - GARAGE","n":"2623"}
+,{"yr":"2023","value":"RESIDENCE - PORCH / HALLWAY","n":"3121"}
+,{"yr":"2023","value":"RESIDENCE - YARD (FRONT / BACK)","n":"2622"}
+,{"yr":"2023","value":"RESTAURANT","n":"5403"}
+,{"yr":"2023","value":"RETAIL STORE","n":"2"}
+,{"yr":"2023","value":"ROOF","n":"1"}
+,{"yr":"2023","value":"SAVINGS AND LOAN","n":"4"}
+,{"yr":"2023","value":"SCHOOL - PRIVATE BUILDING","n":"252"}
+,{"yr":"2023","value":"SCHOOL - PRIVATE GROUNDS","n":"357"}
+,{"yr":"2023","value":"SCHOOL - PUBLIC BUILDING","n":"1891"}
+,{"yr":"2023","value":"SCHOOL - PUBLIC GROUNDS","n":"1682"}
+,{"yr":"2023","value":"SCHOOL YARD","n":"2"}
+,{"yr":"2023","value":"SIDEWALK","n":"13062"}
+,{"yr":"2023","value":"SMALL RETAIL STORE","n":"7269"}
+,{"yr":"2023","value":"SPORTS ARENA / STADIUM","n":"174"}
+,{"yr":"2023","value":"STAIRWELL","n":"2"}
+,{"yr":"2023","value":"STREET","n":"77717"}
+,{"yr":"2023","value":"TAVERN","n":"2"}
+,{"yr":"2023","value":"TAVERN / LIQUOR STORE","n":"607"}
+,{"yr":"2023","value":"TAXICAB","n":"54"}
+,{"yr":"2023","value":"VACANT LOT","n":"5"}
+,{"yr":"2023","value":"VACANT LOT / LAND","n":"877"}
+,{"yr":"2023","value":"VEHICLE - COMMERCIAL","n":"269"}
+,{"yr":"2023","value":"VEHICLE - COMMERCIAL: ENTERTAINMENT / PARTY BUS","n":"3"}
+,{"yr":"2023","value":"VEHICLE - COMMERCIAL: TROLLEY BUS","n":"5"}
+,{"yr":"2023","value":"VEHICLE - DELIVERY TRUCK","n":"51"}
+,{"yr":"2023","value":"VEHICLE NON-COMMERCIAL","n":"3722"}
+,{"yr":"2023","value":"VEHICLE - OTHER RIDE SHARE SERVICE (LYFT, UBER, ETC.)","n":"104"}
+,{"yr":"2023","value":"VESTIBULE","n":"2"}
+,{"yr":"2023","value":"WAREHOUSE","n":"242"}
+,{"yr":"2023","value":"YARD","n":"21"}
+,{"yr":"2023","n":"1557"}
+,{"yr":"2024","value":"ABANDONED BUILDING","n":"150"}
+,{"yr":"2024","value":"AIRCRAFT","n":"58"}
+,{"yr":"2024","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"105"}
+,{"yr":"2024","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"60"}
+,{"yr":"2024","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"105"}
+,{"yr":"2024","value":"AIRPORT EXTERIOR - SECURE AREA","n":"63"}
+,{"yr":"2024","value":"AIRPORT PARKING LOT","n":"343"}
+,{"yr":"2024","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"151"}
+,{"yr":"2024","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"113"}
+,{"yr":"2024","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"17"}
+,{"yr":"2024","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"80"}
+,{"yr":"2024","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"345"}
+,{"yr":"2024","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"14"}
+,{"yr":"2024","value":"AIRPORT VENDING ESTABLISHMENT","n":"23"}
+,{"yr":"2024","value":"ALLEY","n":"5933"}
+,{"yr":"2024","value":"ANIMAL HOSPITAL","n":"12"}
+,{"yr":"2024","value":"APARTMENT","n":"49610"}
+,{"yr":"2024","value":"APPLIANCE STORE","n":"151"}
+,{"yr":"2024","value":"ATHLETIC CLUB","n":"377"}
+,{"yr":"2024","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"130"}
+,{"yr":"2024","value":"AUTO","n":"14"}
+,{"yr":"2024","value":"AUTO / BOAT / RV DEALERSHIP","n":"175"}
+,{"yr":"2024","value":"BANK","n":"854"}
+,{"yr":"2024","value":"BARBERSHOP","n":"129"}
+,{"yr":"2024","value":"BARBER SHOP/BEAUTY SALON","n":"1"}
+,{"yr":"2024","value":"BAR OR TAVERN","n":"1940"}
+,{"yr":"2024","value":"BASEMENT","n":"2"}
+,{"yr":"2024","value":"BOAT / WATERCRAFT","n":"34"}
+,{"yr":"2024","value":"BOWLING ALLEY","n":"30"}
+,{"yr":"2024","value":"BRIDGE","n":"26"}
+,{"yr":"2024","value":"CAR WASH","n":"103"}
+,{"yr":"2024","value":"CASINO/GAMBLING ESTABLISHMENT","n":"36"}
+,{"yr":"2024","value":"CEMETARY","n":"17"}
+,{"yr":"2024","value":"CHA APARTMENT","n":"662"}
+,{"yr":"2024","value":"CHA GROUNDS","n":"4"}
+,{"yr":"2024","value":"CHA HALLWAY","n":"3"}
+,{"yr":"2024","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"194"}
+,{"yr":"2024","value":"CHA PARKING LOT / GROUNDS","n":"406"}
+,{"yr":"2024","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"484"}
+,{"yr":"2024","value":"CLEANING STORE","n":"106"}
+,{"yr":"2024","value":"COIN OPERATED MACHINE","n":"21"}
+,{"yr":"2024","value":"COLLEGE / UNIVERSITY - GROUNDS","n":"100"}
+,{"yr":"2024","value":"COLLEGE / UNIVERSITY - RESIDENCE HALL","n":"29"}
+,{"yr":"2024","value":"COMMERCIAL / BUSINESS OFFICE","n":"3953"}
+,{"yr":"2024","value":"CONSTRUCTION SITE","n":"186"}
+,{"yr":"2024","value":"CONVENIENCE STORE","n":"1857"}
+,{"yr":"2024","value":"CREDIT UNION","n":"12"}
+,{"yr":"2024","value":"CTA BUS","n":"1000"}
+,{"yr":"2024","value":"CTA BUS STOP","n":"420"}
+,{"yr":"2024","value":"CTA \"L\" PLATFORM","n":"1"}
+,{"yr":"2024","value":"CTA \"L\" TRAIN","n":"1"}
+,{"yr":"2024","value":"CTA PARKING LOT / GARAGE / OTHER PROPERTY","n":"171"}
+,{"yr":"2024","value":"CTA PLATFORM","n":"776"}
+,{"yr":"2024","value":"CTA PROPERTY","n":"1"}
+,{"yr":"2024","value":"CTA STATION","n":"525"}
+,{"yr":"2024","value":"CTA TRACKS - RIGHT OF WAY","n":"6"}
+,{"yr":"2024","value":"CTA TRAIN","n":"1763"}
+,{"yr":"2024","value":"CURRENCY EXCHANGE","n":"235"}
+,{"yr":"2024","value":"DAY CARE CENTER","n":"155"}
+,{"yr":"2024","value":"DEPARTMENT STORE","n":"5682"}
+,{"yr":"2024","value":"DRIVEWAY","n":"3"}
+,{"yr":"2024","value":"DRIVEWAY - RESIDENTIAL","n":"764"}
+,{"yr":"2024","value":"DRUG STORE","n":"1817"}
+,{"yr":"2024","value":"FACTORY / MANUFACTURING BUILDING","n":"125"}
+,{"yr":"2024","value":"FARM","n":"1"}
+,{"yr":"2024","value":"FEDERAL BUILDING","n":"57"}
+,{"yr":"2024","value":"FIRE STATION","n":"35"}
+,{"yr":"2024","value":"FOREST PRESERVE","n":"15"}
+,{"yr":"2024","value":"GANGWAY","n":"1"}
+,{"yr":"2024","value":"GARAGE","n":"1"}
+,{"yr":"2024","value":"GAS STATION","n":"3159"}
+,{"yr":"2024","value":"GOVERNMENT BUILDING / PROPERTY","n":"526"}
+,{"yr":"2024","value":"GROCERY FOOD STORE","n":"2661"}
+,{"yr":"2024","value":"HALLWAY","n":"2"}
+,{"yr":"2024","value":"HIGHWAY / EXPRESSWAY","n":"44"}
+,{"yr":"2024","value":"HOSPITAL","n":"5"}
+,{"yr":"2024","value":"HOSPITAL BUILDING / GROUNDS","n":"1498"}
+,{"yr":"2024","value":"HOTEL / MOTEL","n":"1260"}
+,{"yr":"2024","value":"HOUSE","n":"32"}
+,{"yr":"2024","value":"JAIL / LOCK-UP FACILITY","n":"43"}
+,{"yr":"2024","value":"KENNEL","n":"2"}
+,{"yr":"2024","value":"LAKEFRONT / WATERFRONT / RIVERBANK","n":"143"}
+,{"yr":"2024","value":"LIBRARY","n":"343"}
+,{"yr":"2024","value":"LIQUOR STORE","n":"1"}
+,{"yr":"2024","value":"MEDICAL / DENTAL OFFICE","n":"345"}
+,{"yr":"2024","value":"MOVIE HOUSE / THEATER","n":"81"}
+,{"yr":"2024","value":"NEWSSTAND","n":"1"}
+,{"yr":"2024","value":"NURSING / RETIREMENT HOME","n":"713"}
+,{"yr":"2024","value":"OFFICE","n":"3"}
+,{"yr":"2024","value":"OTHER COMMERCIAL TRANSPORTATION","n":"80"}
+,{"yr":"2024","value":"OTHER RAILROAD PROPERTY / TRAIN DEPOT","n":"174"}
+,{"yr":"2024","value":"OTHER (SPECIFY)","n":"4266"}
+,{"yr":"2024","value":"PARKING LOT","n":"26"}
+,{"yr":"2024","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"8836"}
+,{"yr":"2024","value":"PARK PROPERTY","n":"1872"}
+,{"yr":"2024","value":"PAWN SHOP","n":"29"}
+,{"yr":"2024","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"567"}
+,{"yr":"2024","value":"POOL ROOM","n":"7"}
+,{"yr":"2024","value":"PORCH","n":"10"}
+,{"yr":"2024","value":"RAILROAD PROPERTY","n":"1"}
+,{"yr":"2024","value":"RESIDENCE","n":"31248"}
+,{"yr":"2024","value":"RESIDENCE - GARAGE","n":"2546"}
+,{"yr":"2024","value":"RESIDENCE - PORCH / HALLWAY","n":"3171"}
+,{"yr":"2024","value":"RESIDENCE - YARD (FRONT / BACK)","n":"2683"}
+,{"yr":"2024","value":"RESTAURANT","n":"6253"}
+,{"yr":"2024","value":"RETAIL STORE","n":"4"}
+,{"yr":"2024","value":"SAVINGS AND LOAN","n":"1"}
+,{"yr":"2024","value":"SCHOOL - PRIVATE BUILDING","n":"215"}
+,{"yr":"2024","value":"SCHOOL - PRIVATE GROUNDS","n":"335"}
+,{"yr":"2024","value":"SCHOOL - PUBLIC BUILDING","n":"1569"}
+,{"yr":"2024","value":"SCHOOL - PUBLIC GROUNDS","n":"1717"}
+,{"yr":"2024","value":"SIDEWALK","n":"13824"}
+,{"yr":"2024","value":"SMALL RETAIL STORE","n":"9778"}
+,{"yr":"2024","value":"SPORTS ARENA / STADIUM","n":"157"}
+,{"yr":"2024","value":"STAIRWELL","n":"2"}
+,{"yr":"2024","value":"STREET","n":"69666"}
+,{"yr":"2024","value":"TAVERN","n":"2"}
+,{"yr":"2024","value":"TAVERN / LIQUOR STORE","n":"630"}
+,{"yr":"2024","value":"TAXICAB","n":"45"}
+,{"yr":"2024","value":"VACANT LOT","n":"9"}
+,{"yr":"2024","value":"VACANT LOT / LAND","n":"739"}
+,{"yr":"2024","value":"VEHICLE - COMMERCIAL","n":"319"}
+,{"yr":"2024","value":"VEHICLE - COMMERCIAL: ENTERTAINMENT / PARTY BUS","n":"1"}
+,{"yr":"2024","value":"VEHICLE - COMMERCIAL: TROLLEY BUS","n":"3"}
+,{"yr":"2024","value":"VEHICLE - DELIVERY TRUCK","n":"49"}
+,{"yr":"2024","value":"VEHICLE NON-COMMERCIAL","n":"3684"}
+,{"yr":"2024","value":"VEHICLE - OTHER RIDE SHARE SERVICE (LYFT, UBER, ETC.)","n":"126"}
+,{"yr":"2024","value":"WAREHOUSE","n":"215"}
+,{"yr":"2024","value":"YARD","n":"14"}
+,{"yr":"2024","n":"1182"}
+,{"yr":"2025","value":"ABANDONED BUILDING","n":"126"}
+,{"yr":"2025","value":"AIRCRAFT","n":"64"}
+,{"yr":"2025","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"120"}
+,{"yr":"2025","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"47"}
+,{"yr":"2025","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"100"}
+,{"yr":"2025","value":"AIRPORT EXTERIOR - SECURE AREA","n":"78"}
+,{"yr":"2025","value":"AIRPORT PARKING LOT","n":"190"}
+,{"yr":"2025","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"137"}
+,{"yr":"2025","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"85"}
+,{"yr":"2025","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"14"}
+,{"yr":"2025","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"94"}
+,{"yr":"2025","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"377"}
+,{"yr":"2025","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"12"}
+,{"yr":"2025","value":"AIRPORT VENDING ESTABLISHMENT","n":"17"}
+,{"yr":"2025","value":"ALLEY","n":"5295"}
+,{"yr":"2025","value":"ANIMAL HOSPITAL","n":"10"}
+,{"yr":"2025","value":"APARTMENT","n":"46882"}
+,{"yr":"2025","value":"APPLIANCE STORE","n":"124"}
+,{"yr":"2025","value":"ATHLETIC CLUB","n":"312"}
+,{"yr":"2025","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"82"}
+,{"yr":"2025","value":"AUTO","n":"9"}
+,{"yr":"2025","value":"AUTO / BOAT / RV DEALERSHIP","n":"144"}
+,{"yr":"2025","value":"BANK","n":"616"}
+,{"yr":"2025","value":"BARBERSHOP","n":"136"}
+,{"yr":"2025","value":"BARBER SHOP/BEAUTY SALON","n":"1"}
+,{"yr":"2025","value":"BAR OR TAVERN","n":"1703"}
+,{"yr":"2025","value":"BASEMENT","n":"1"}
+,{"yr":"2025","value":"BOAT / WATERCRAFT","n":"40"}
+,{"yr":"2025","value":"BOWLING ALLEY","n":"13"}
+,{"yr":"2025","value":"BRIDGE","n":"27"}
+,{"yr":"2025","value":"CAR WASH","n":"104"}
+,{"yr":"2025","value":"CASINO/GAMBLING ESTABLISHMENT","n":"70"}
+,{"yr":"2025","value":"CEMETARY","n":"7"}
+,{"yr":"2025","value":"CHA APARTMENT","n":"643"}
+,{"yr":"2025","value":"CHA GROUNDS","n":"2"}
+,{"yr":"2025","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"169"}
+,{"yr":"2025","value":"CHA PARKING LOT","n":"3"}
+,{"yr":"2025","value":"CHA PARKING LOT / GROUNDS","n":"437"}
+,{"yr":"2025","value":"CHA STAIRWELL","n":"1"}
+,{"yr":"2025","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"393"}
+,{"yr":"2025","value":"CLEANING STORE","n":"74"}
+,{"yr":"2025","value":"COIN OPERATED MACHINE","n":"17"}
+,{"yr":"2025","value":"COLLEGE / UNIVERSITY - GROUNDS","n":"77"}
+,{"yr":"2025","value":"COLLEGE / UNIVERSITY - RESIDENCE HALL","n":"17"}
+,{"yr":"2025","value":"COMMERCIAL / BUSINESS OFFICE","n":"3344"}
+,{"yr":"2025","value":"CONSTRUCTION SITE","n":"136"}
+,{"yr":"2025","value":"CONVENIENCE STORE","n":"1674"}
+,{"yr":"2025","value":"CREDIT UNION","n":"11"}
+,{"yr":"2025","value":"CTA BUS","n":"1017"}
+,{"yr":"2025","value":"CTA BUS STOP","n":"365"}
+,{"yr":"2025","value":"CTA \"L\" PLATFORM","n":"3"}
+,{"yr":"2025","value":"CTA \"L\" TRAIN","n":"2"}
+,{"yr":"2025","value":"CTA PARKING LOT / GARAGE / OTHER PROPERTY","n":"164"}
+,{"yr":"2025","value":"CTA PLATFORM","n":"746"}
+,{"yr":"2025","value":"CTA PROPERTY","n":"3"}
+,{"yr":"2025","value":"CTA STATION","n":"456"}
+,{"yr":"2025","value":"CTA TRACKS - RIGHT OF WAY","n":"7"}
+,{"yr":"2025","value":"CTA TRAIN","n":"1672"}
+,{"yr":"2025","value":"CURRENCY EXCHANGE","n":"198"}
+,{"yr":"2025","value":"DAY CARE CENTER","n":"120"}
+,{"yr":"2025","value":"DEPARTMENT STORE","n":"5746"}
+,{"yr":"2025","value":"DRIVEWAY","n":"2"}
+,{"yr":"2025","value":"DRIVEWAY - RESIDENTIAL","n":"729"}
+,{"yr":"2025","value":"DRUG STORE","n":"1586"}
+,{"yr":"2025","value":"FACTORY / MANUFACTURING BUILDING","n":"107"}
+,{"yr":"2025","value":"FARM","n":"3"}
+,{"yr":"2025","value":"FEDERAL BUILDING","n":"58"}
+,{"yr":"2025","value":"FIRE STATION","n":"30"}
+,{"yr":"2025","value":"FOREST PRESERVE","n":"12"}
+,{"yr":"2025","value":"GANGWAY","n":"1"}
+,{"yr":"2025","value":"GARAGE","n":"2"}
+,{"yr":"2025","value":"GAS STATION","n":"2795"}
+,{"yr":"2025","value":"GOVERNMENT BUILDING / PROPERTY","n":"488"}
+,{"yr":"2025","value":"GROCERY FOOD STORE","n":"2559"}
+,{"yr":"2025","value":"HALLWAY","n":"4"}
+,{"yr":"2025","value":"HIGHWAY / EXPRESSWAY","n":"53"}
+,{"yr":"2025","value":"HOSPITAL","n":"1"}
+,{"yr":"2025","value":"HOSPITAL BUILDING / GROUNDS","n":"1549"}
+,{"yr":"2025","value":"HOTEL","n":"2"}
+,{"yr":"2025","value":"HOTEL / MOTEL","n":"1228"}
+,{"yr":"2025","value":"HOUSE","n":"25"}
+,{"yr":"2025","value":"JAIL / LOCK-UP FACILITY","n":"44"}
+,{"yr":"2025","value":"LAKE","n":"4"}
+,{"yr":"2025","value":"LAKEFRONT / WATERFRONT / RIVERBANK","n":"118"}
+,{"yr":"2025","value":"LIBRARY","n":"405"}
+,{"yr":"2025","value":"MEDICAL / DENTAL OFFICE","n":"277"}
+,{"yr":"2025","value":"MOVIE HOUSE / THEATER","n":"78"}
+,{"yr":"2025","value":"NEWSSTAND","n":"1"}
+,{"yr":"2025","value":"NURSING / RETIREMENT HOME","n":"742"}
+,{"yr":"2025","value":"OTHER COMMERCIAL TRANSPORTATION","n":"91"}
+,{"yr":"2025","value":"OTHER RAILROAD PROPERTY / TRAIN DEPOT","n":"190"}
+,{"yr":"2025","value":"OTHER (SPECIFY)","n":"4464"}
+,{"yr":"2025","value":"PARKING LOT","n":"17"}
+,{"yr":"2025","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"8387"}
+,{"yr":"2025","value":"PARK PROPERTY","n":"1746"}
+,{"yr":"2025","value":"PAWN SHOP","n":"20"}
+,{"yr":"2025","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"758"}
+,{"yr":"2025","value":"POOL ROOM","n":"7"}
+,{"yr":"2025","value":"PORCH","n":"7"}
+,{"yr":"2025","value":"RAILROAD PROPERTY","n":"3"}
+,{"yr":"2025","value":"RESIDENCE","n":"28534"}
+,{"yr":"2025","value":"RESIDENCE - GARAGE","n":"2084"}
+,{"yr":"2025","value":"RESIDENCE - PORCH / HALLWAY","n":"2850"}
+,{"yr":"2025","value":"RESIDENCE - YARD (FRONT / BACK)","n":"2391"}
+,{"yr":"2025","value":"RESTAURANT","n":"5392"}
+,{"yr":"2025","value":"RETAIL STORE","n":"2"}
+,{"yr":"2025","value":"RIVER BANK","n":"1"}
+,{"yr":"2025","value":"SAVINGS AND LOAN","n":"2"}
+,{"yr":"2025","value":"SCHOOL - PRIVATE BUILDING","n":"186"}
+,{"yr":"2025","value":"SCHOOL - PRIVATE GROUNDS","n":"341"}
+,{"yr":"2025","value":"SCHOOL - PUBLIC BUILDING","n":"1359"}
+,{"yr":"2025","value":"SCHOOL - PUBLIC GROUNDS","n":"1535"}
+,{"yr":"2025","value":"SIDEWALK","n":"12053"}
+,{"yr":"2025","value":"SMALL RETAIL STORE","n":"9026"}
+,{"yr":"2025","value":"SPORTS ARENA / STADIUM","n":"184"}
+,{"yr":"2025","value":"STAIRWELL","n":"2"}
+,{"yr":"2025","value":"STREET","n":"62367"}
+,{"yr":"2025","value":"TAVERN","n":"1"}
+,{"yr":"2025","value":"TAVERN / LIQUOR STORE","n":"447"}
+,{"yr":"2025","value":"TAXICAB","n":"35"}
+,{"yr":"2025","value":"VACANT LOT","n":"4"}
+,{"yr":"2025","value":"VACANT LOT / LAND","n":"677"}
+,{"yr":"2025","value":"VEHICLE - COMMERCIAL","n":"307"}
+,{"yr":"2025","value":"VEHICLE - COMMERCIAL: ENTERTAINMENT / PARTY BUS","n":"2"}
+,{"yr":"2025","value":"VEHICLE - COMMERCIAL: TROLLEY BUS","n":"6"}
+,{"yr":"2025","value":"VEHICLE - DELIVERY TRUCK","n":"46"}
+,{"yr":"2025","value":"VEHICLE NON-COMMERCIAL","n":"3704"}
+,{"yr":"2025","value":"VEHICLE - OTHER RIDE SHARE SERVICE (LYFT, UBER, ETC.)","n":"105"}
+,{"yr":"2025","value":"WAREHOUSE","n":"201"}
+,{"yr":"2025","value":"YARD","n":"13"}
+,{"yr":"2025","n":"1241"}
+,{"yr":"2026","value":"ABANDONED BUILDING","n":"123"}
+,{"yr":"2026","value":"AIRCRAFT","n":"67"}
+,{"yr":"2026","value":"AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA","n":"64"}
+,{"yr":"2026","value":"AIRPORT BUILDING NON-TERMINAL - SECURE AREA","n":"36"}
+,{"yr":"2026","value":"AIRPORT EXTERIOR - NON-SECURE AREA","n":"88"}
+,{"yr":"2026","value":"AIRPORT EXTERIOR - SECURE AREA","n":"62"}
+,{"yr":"2026","value":"AIRPORT PARKING LOT","n":"144"}
+,{"yr":"2026","value":"AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA","n":"114"}
+,{"yr":"2026","value":"AIRPORT TERMINAL LOWER LEVEL - SECURE AREA","n":"53"}
+,{"yr":"2026","value":"AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA","n":"8"}
+,{"yr":"2026","value":"AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA","n":"66"}
+,{"yr":"2026","value":"AIRPORT TERMINAL UPPER LEVEL - SECURE AREA","n":"300"}
+,{"yr":"2026","value":"AIRPORT TRANSPORTATION SYSTEM (ATS)","n":"13"}
+,{"yr":"2026","value":"AIRPORT VENDING ESTABLISHMENT","n":"11"}
+,{"yr":"2026","value":"ALLEY","n":"4154"}
+,{"yr":"2026","value":"ANIMAL HOSPITAL","n":"9"}
+,{"yr":"2026","value":"APARTMENT","n":"38648"}
+,{"yr":"2026","value":"APPLIANCE STORE","n":"124"}
+,{"yr":"2026","value":"ATHLETIC CLUB","n":"253"}
+,{"yr":"2026","value":"ATM (AUTOMATIC TELLER MACHINE)","n":"88"}
+,{"yr":"2026","value":"AUTO","n":"11"}
+,{"yr":"2026","value":"AUTO / BOAT / RV DEALERSHIP","n":"100"}
+,{"yr":"2026","value":"BANK","n":"529"}
+,{"yr":"2026","value":"BARBERSHOP","n":"102"}
+,{"yr":"2026","value":"BAR OR TAVERN","n":"1561"}
+,{"yr":"2026","value":"BASEMENT","n":"2"}
+,{"yr":"2026","value":"BOAT / WATERCRAFT","n":"31"}
+,{"yr":"2026","value":"BOWLING ALLEY","n":"10"}
+,{"yr":"2026","value":"BRIDGE","n":"23"}
+,{"yr":"2026","value":"CAR WASH","n":"108"}
+,{"yr":"2026","value":"CASINO/GAMBLING ESTABLISHMENT","n":"61"}
+,{"yr":"2026","value":"CEMETARY","n":"6"}
+,{"yr":"2026","value":"CHA APARTMENT","n":"553"}
+,{"yr":"2026","value":"CHA HALLWAY","n":"1"}
+,{"yr":"2026","value":"CHA HALLWAY / STAIRWELL / ELEVATOR","n":"142"}
+,{"yr":"2026","value":"CHA PARKING LOT","n":"2"}
+,{"yr":"2026","value":"CHA PARKING LOT / GROUNDS","n":"403"}
+,{"yr":"2026","value":"CHA STAIRWELL","n":"1"}
+,{"yr":"2026","value":"CHURCH / SYNAGOGUE / PLACE OF WORSHIP","n":"373"}
+,{"yr":"2026","value":"CLEANING STORE","n":"77"}
+,{"yr":"2026","value":"COIN OPERATED MACHINE","n":"11"}
+,{"yr":"2026","value":"COLLEGE / UNIVERSITY - GROUNDS","n":"97"}
+,{"yr":"2026","value":"COLLEGE / UNIVERSITY - RESIDENCE HALL","n":"36"}
+,{"yr":"2026","value":"COMMERCIAL / BUSINESS OFFICE","n":"2962"}
+,{"yr":"2026","value":"CONSTRUCTION SITE","n":"124"}
+,{"yr":"2026","value":"CONVENIENCE STORE","n":"1482"}
+,{"yr":"2026","value":"CREDIT UNION","n":"7"}
+,{"yr":"2026","value":"CTA BUS","n":"861"}
+,{"yr":"2026","value":"CTA BUS STOP","n":"333"}
+,{"yr":"2026","value":"CTA \"L\" TRAIN","n":"2"}
+,{"yr":"2026","value":"CTA PARKING LOT / GARAGE / OTHER PROPERTY","n":"138"}
+,{"yr":"2026","value":"CTA PLATFORM","n":"529"}
+,{"yr":"2026","value":"CTA PROPERTY","n":"1"}
+,{"yr":"2026","value":"CTA STATION","n":"359"}
+,{"yr":"2026","value":"CTA TRACKS - RIGHT OF WAY","n":"5"}
+,{"yr":"2026","value":"CTA TRAIN","n":"998"}
+,{"yr":"2026","value":"CURRENCY EXCHANGE","n":"123"}
+,{"yr":"2026","value":"DAY CARE CENTER","n":"132"}
+,{"yr":"2026","value":"DEPARTMENT STORE","n":"4259"}
+,{"yr":"2026","value":"DRIVEWAY","n":"2"}
+,{"yr":"2026","value":"DRIVEWAY - RESIDENTIAL","n":"554"}
+,{"yr":"2026","value":"DRUG STORE","n":"1176"}
+,{"yr":"2026","value":"FACTORY / MANUFACTURING BUILDING","n":"89"}
+,{"yr":"2026","value":"FARM","n":"2"}
+,{"yr":"2026","value":"FEDERAL BUILDING","n":"66"}
+,{"yr":"2026","value":"FIRE STATION","n":"35"}
+,{"yr":"2026","value":"FOREST PRESERVE","n":"9"}
+,{"yr":"2026","value":"GARAGE/AUTO REPAIR","n":"1"}
+,{"yr":"2026","value":"GAS STATION","n":"2550"}
+,{"yr":"2026","value":"GOVERNMENT BUILDING / PROPERTY","n":"318"}
+,{"yr":"2026","value":"GROCERY FOOD STORE","n":"2175"}
+,{"yr":"2026","value":"HIGHWAY / EXPRESSWAY","n":"34"}
+,{"yr":"2026","value":"HOSPITAL","n":"2"}
+,{"yr":"2026","value":"HOSPITAL BUILDING / GROUNDS","n":"1285"}
+,{"yr":"2026","value":"HOTEL / MOTEL","n":"968"}
+,{"yr":"2026","value":"HOUSE","n":"32"}
+,{"yr":"2026","value":"JAIL / LOCK-UP FACILITY","n":"41"}
+,{"yr":"2026","value":"KENNEL","n":"3"}
+,{"yr":"2026","value":"LAKEFRONT / WATERFRONT / RIVERBANK","n":"118"}
+,{"yr":"2026","value":"LIBRARY","n":"384"}
+,{"yr":"2026","value":"MEDICAL / DENTAL OFFICE","n":"232"}
+,{"yr":"2026","value":"MOVIE HOUSE / THEATER","n":"73"}
+,{"yr":"2026","value":"NURSING / RETIREMENT HOME","n":"615"}
+,{"yr":"2026","value":"OTHER COMMERCIAL TRANSPORTATION","n":"90"}
+,{"yr":"2026","value":"OTHER RAILROAD PROPERTY / TRAIN DEPOT","n":"111"}
+,{"yr":"2026","value":"OTHER (SPECIFY)","n":"3629"}
+,{"yr":"2026","value":"PARKING LOT","n":"13"}
+,{"yr":"2026","value":"PARKING LOT / GARAGE (NON RESIDENTIAL)","n":"7068"}
+,{"yr":"2026","value":"PARK PROPERTY","n":"1639"}
+,{"yr":"2026","value":"PAWN SHOP","n":"17"}
+,{"yr":"2026","value":"POLICE FACILITY / VEHICLE PARKING LOT","n":"545"}
+,{"yr":"2026","value":"POOL ROOM","n":"2"}
+,{"yr":"2026","value":"PORCH","n":"13"}
+,{"yr":"2026","value":"PUBLIC GRAMMAR SCHOOL","n":"1"}
+,{"yr":"2026","value":"RESIDENCE","n":"23005"}
+,{"yr":"2026","value":"RESIDENCE - GARAGE","n":"1529"}
+,{"yr":"2026","value":"RESIDENCE - PORCH / HALLWAY","n":"2292"}
+,{"yr":"2026","value":"RESIDENCE - YARD (FRONT / BACK)","n":"1910"}
+,{"yr":"2026","value":"RESTAURANT","n":"4288"}
+,{"yr":"2026","value":"RETAIL STORE","n":"1"}
+,{"yr":"2026","value":"SAVINGS AND LOAN","n":"4"}
+,{"yr":"2026","value":"SCHOOL - PRIVATE BUILDING","n":"201"}
+,{"yr":"2026","value":"SCHOOL - PRIVATE GROUNDS","n":"290"}
+,{"yr":"2026","value":"SCHOOL - PUBLIC BUILDING","n":"1071"}
+,{"yr":"2026","value":"SCHOOL - PUBLIC GROUNDS","n":"1164"}
+,{"yr":"2026","value":"SIDEWALK","n":"10052"}
+,{"yr":"2026","value":"SMALL RETAIL STORE","n":"6758"}
+,{"yr":"2026","value":"SPORTS ARENA / STADIUM","n":"212"}
+,{"yr":"2026","value":"STREET","n":"54840"}
+,{"yr":"2026","value":"TAVERN","n":"1"}
+,{"yr":"2026","value":"TAVERN / LIQUOR STORE","n":"342"}
+,{"yr":"2026","value":"TAXICAB","n":"27"}
+,{"yr":"2026","value":"VACANT LOT","n":"3"}
+,{"yr":"2026","value":"VACANT LOT / LAND","n":"527"}
+,{"yr":"2026","value":"VEHICLE - COMMERCIAL","n":"237"}
+,{"yr":"2026","value":"VEHICLE - COMMERCIAL: ENTERTAINMENT / PARTY BUS","n":"6"}
+,{"yr":"2026","value":"VEHICLE - COMMERCIAL: TROLLEY BUS","n":"6"}
+,{"yr":"2026","value":"VEHICLE - DELIVERY TRUCK","n":"33"}
+,{"yr":"2026","value":"VEHICLE NON-COMMERCIAL","n":"3067"}
+,{"yr":"2026","value":"VEHICLE - OTHER RIDE SHARE SERVICE (LYFT, UBER, ETC.)","n":"79"}
+,{"yr":"2026","value":"WAREHOUSE","n":"162"}
+,{"yr":"2026","value":"YARD","n":"11"}
+,{"yr":"2026","n":"904"}]

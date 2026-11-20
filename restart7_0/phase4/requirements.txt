@@ -1,0 +1,4 @@
+-r ../requirements.txt
+scikit-learn>=1.7
+joblib>=1.4
+threadpoolctl>=3.5

@@ -1,0 +1,88 @@
+{
+  "completed": [
+    {
+      "source": "nyc_historic",
+      "host": "data.cityofnewyork.us",
+      "dataset": "qgea-i56i",
+      "atm_rows": 7537,
+      "premise_by_year_cells": 2682,
+      "offence_by_year_cells": 2070
+    },
+    {
+      "source": "nyc_current_ytd",
+      "host": "data.cityofnewyork.us",
+      "dataset": "5uac-w243",
+      "atm_rows": 161,
+      "premise_by_year_cells": 502,
+      "offence_by_year_cells": 389
+    },
+    {
+      "source": "chicago",
+      "host": "data.cityofchicago.org",
+      "dataset": "ijzp-q8t2",
+      "atm_rows": 8835,
+      "premise_by_year_cells": 3572,
+      "offence_by_year_cells": 805
+    },
+    {
+      "source": "la_2010_2019",
+      "host": "data.lacity.org",
+      "dataset": "63jg-8b9z",
+      "atm_rows": 967,
+      "premise_by_year_cells": 2298,
+      "offence_by_year_cells": 1304
+    },
+    {
+      "source": "la_2020_2024",
+      "host": "data.lacity.org",
+      "dataset": "2nrs-mtv8",
+      "atm_rows": 2476,
+      "premise_by_year_cells": 1462,
+      "offence_by_year_cells": 659
+    },
+    {
+      "source": "la_nibrs",
+      "host": "data.lacity.org",
+      "dataset": "k7nn-b2ep",
+      "atm_rows": 622,
+      "premise_by_year_cells": 2358,
+      "offence_by_year_cells": 6841
+    },
+    {
+      "source": "fdic_sod_36005",
+      "area": "nyc",
+      "branch_year_rows": 4373
+    },
+    {
+      "source": "fdic_sod_36047",
+      "area": "nyc",
+      "branch_year_rows": 10392
+    },
+    {
+      "source": "fdic_sod_36061",
+      "area": "nyc",
+      "branch_year_rows": 19572
+    },
+    {
+      "source": "fdic_sod_36081",
+      "area": "nyc",
+      "branch_year_rows": 12737
+    },
+    {
+      "source": "fdic_sod_36085",
+      "area": "nyc",
+      "branch_year_rows": 3138
+    },
+    {
+      "source": "fdic_sod_17031",
+      "area": "chicago_cook",
+      "branch_year_rows": 44212
+    },
+    {
+      "source": "fdic_sod_06037",
+      "area": "la_county",
+      "branch_year_rows": 54382
+    }
+  ],
+  "failed": []
+}

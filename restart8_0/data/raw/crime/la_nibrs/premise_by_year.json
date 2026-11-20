@@ -1,0 +1,2358 @@
+[{"yr":"1800","value":"Parking Lot / Garage / Drop Lot","n":"1"}
+,{"yr":"1800","value":"Street/Parkway","n":"1"}
+,{"yr":"1826","value":"Apartment/Condominium/Townhouse","n":"1"}
+,{"yr":"1900","value":"Residence / Home / Driveway","n":"1"}
+,{"yr":"1920","value":"Street/Parkway","n":"1"}
+,{"yr":"1925","value":"Condominium/Townhouse","n":"1"}
+,{"yr":"1930","value":"Residence / Home / Driveway","n":"1"}
+,{"yr":"1945","value":"Sidewalk","n":"1"}
+,{"yr":"1950","value":"Street/Parkway","n":"1"}
+,{"yr":"1966","value":"Clothing Store","n":"1"}
+,{"yr":"1968","value":"Residence / Home / Driveway","n":"1"}
+,{"yr":"1969","value":"Victim's Residence","n":"1"}
+,{"yr":"1971","value":"Residence / Home / Driveway","n":"1"}
+,{"yr":"1971","value":"Single Family Home","n":"1"}
+,{"yr":"1972","value":"Church / Synagogue / Temple / Religious Facility","n":"1"}
+,{"yr":"1973","value":"Residence / Home / Driveway","n":"1"}
+,{"yr":"1974","value":"Apartment/Condo Common Laundry Room","n":"1"}
+,{"yr":"1974","value":"Parking Lot / Garage / Drop Lot","n":"1"}
+,{"yr":"1974","value":"Vehicle, Passenger/Truck","n":"1"}
+,{"yr":"1976","value":"Aircraft","n":"1"}
+,{"yr":"1976","value":"Parking Lot / Garage / Drop Lot","n":"1"}
+,{"yr":"1978","value":"MTA E Expo Line - Pico","n":"1"}
+,{"yr":"1979","value":"Alley","n":"1"}
+,{"yr":"1979","value":"Single Family Home","n":"1"}
+,{"yr":"1979","value":"Victim's Residence","n":"1"}
+,{"yr":"1980","value":"Apartment/Condominium/Townhouse","n":"3"}
+,{"yr":"1980","value":"Offender's Residence","n":"1"}
+,{"yr":"1980","value":"Residence / Home / Driveway","n":"2"}
+,{"yr":"1980","value":"Single Family Home","n":"1"}
+,{"yr":"1981","value":"Residence / Home / Driveway","n":"2"}
+,{"yr":"1981","value":"Single Family Home","n":"1"}
+,{"yr":"1982","value":"Restaurant","n":"1"}
+,{"yr":"1983","value":"Residence / Home / Driveway","n":"1"}
+,{"yr":"1984","value":"Residence / Home / Driveway","n":"2"}
+,{"yr":"1985","value":"501 - SINGLE FAMILY DWELLING","n":"1"}
+,{"yr":"1985","value":"Police Facility","n":"1"}
+,{"yr":"1985","value":"Residence / Home / Driveway","n":"2"}
+,{"yr":"1985","value":"Victim's Residence","n":"1"}
+,{"yr":"1986","value":"Residence / Home / Driveway","n":"2"}
+,{"yr":"1987","value":"Offender's Residence","n":"1"}
+,{"yr":"1987","value":"Parking Lot / Garage / Drop Lot","n":"1"}
+,{"yr":"1988","value":"MTA B Red Line -Vermont/Sunset","n":"1"}
+,{"yr":"1988","value":"Pool/Public/Indoor or outdoor","n":"1"}
+,{"yr":"1988","value":"Residence / Home / Driveway","n":"2"}
+,{"yr":"1989","value":"Apartment/Condo Common Laundry Room","n":"1"}
+,{"yr":"1989","value":"Residence / Home / Driveway","n":"1"}
+,{"yr":"1989","value":"Single Family Home","n":"1"}
+,{"yr":"1989","value":"Victim's Residence","n":"1"}
+,{"yr":"1990","value":"Apartment/Condominium/Townhouse","n":"2"}
+,{"yr":"1990","value":"Commercial / Office Building / Other Commerical","n":"1"}
+,{"yr":"1990","value":"Other","n":"1"}
+,{"yr":"1990","value":"Police Facility","n":"1"}
+,{"yr":"1990","value":"Residence / Home / Driveway","n":"2"}
+,{"yr":"1990","value":"Single Residence Occupancy (SRO's) Locations","n":"1"}
+,{"yr":"1990","value":"Victim's Residence","n":"1"}
+,{"yr":"1991","value":"203 - OTHER BUSINESS","n":"1"}
+,{"yr":"1991","value":"501 - SINGLE FAMILY DWELLING","n":"1"}
+,{"yr":"1991","value":"Apartment/Condominium/Townhouse","n":"1"}
+,{"yr":"1991","value":"Location Unknown","n":"1"}
+,{"yr":"1991","value":"MTA B Red Line -Hollywood/Vine","n":"1"}
+,{"yr":"1991","value":"Offender's Residence","n":"1"}
+,{"yr":"1991","value":"Residence / Home / Driveway","n":"6"}
+,{"yr":"1991","value":"Victim's Residence","n":"1"}
+,{"yr":"1991","n":"2"}
+,{"yr":"1992","value":"Apartment/Condominium/Townhouse","n":"1"}
+,{"yr":"1992","value":"Patio (Residential)","n":"1"}
+,{"yr":"1992","value":"School / College","n":"1"}
+,{"yr":"1993","value":"Apartment/Condominium/Townhouse","n":"2"}
+,{"yr":"1993","value":"Church / Synagogue / Temple / Religious Facility","n":"1"}
+,{"yr":"1993","value":"Commercial / Office Building / Other Commerical","n":"1"}
+,{"yr":"1993","value":"Driveway (Residential)","n":"1"}
+,{"yr":"1993","value":"Hotel/Motel","n":"1"}
+,{"yr":"1993","value":"Other Residence","n":"1"}
+,{"yr":"1993","value":"Residence / Home / Driveway","n":"3"}
+,{"yr":"1993","value":"Street/Parkway","n":"1"}
+,{"yr":"1993","value":"Victim's Residence","n":"2"}
+,{"yr":"1994","value":"Residence / Home / Driveway","n":"3"}
+,{"yr":"1994","value":"Street/Parkway","n":"1"}
+,{"yr":"1995","value":"501 - SINGLE FAMILY DWELLING","n":"2"}
+,{"yr":"1995","value":"Apartment/Condominium/Townhouse","n":"2"}
+,{"yr":"1995","value":"Church / Synagogue / Temple / Religious Facility","n":"1"}
+,{"yr":"1995","value":"Detention/Jail Facility","n":"1"}
+,{"yr":"1995","value":"Residence / Home / Driveway","n":"7"}
+,{"yr":"1995","value":"Shared Residence","n":"1"}
+,{"yr":"1995","value":"Single Family Home","n":"2"}
+,{"yr":"1995","value":"Victim's Residence","n":"4"}
+,{"yr":"1996","value":"117 - BEACH","n":"1"}
+,{"yr":"1996","value":"721 - HIGH SCHOOL","n":"1"}
+,{"yr":"1996","value":"Church / Synagogue / Temple / Religious Facility","n":"1"}
+,{"yr":"1996","value":"Residence / Home / Driveway","n":"7"}
+,{"yr":"1996","value":"Street/Parkway","n":"1"}
+,{"yr":"1996","value":"Victim's Residence","n":"1"}
+,{"yr":"1996","n":"1"}
+,{"yr":"1997","value":"406 - OTHER STORE","n":"1"}
+,{"yr":"1997","value":"Driveway (other)","n":"1"}
+,{"yr":"1997","value":"Offender's Residence","n":"1"}
+,{"yr":"1997","value":"Residence / Home / Driveway","n":"1"}
+,{"yr":"1997","value":"Street/Parkway","n":"3"}
+,{"yr":"1997","n":"1"}
+,{"yr":"1998","value":"103 - ALLEY","n":"1"}
+,{"yr":"1998","value":"109 - PARK/PLAYGROUND","n":"1"}
+,{"yr":"1998","value":"501 - SINGLE FAMILY DWELLING","n":"2"}
+,{"yr":"1998","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"1"}
+,{"yr":"1998","value":"726 - POLICE FACILITY","n":"1"}
+,{"yr":"1998","value":"Abortion Clinic or Facility","n":"1"}
+,{"yr":"1998","value":"Apartment/Condo Common Laundry Room","n":"1"}
+,{"yr":"1998","value":"Apartment/Condominium/Townhouse","n":"1"}
+,{"yr":"1998","value":"Hotel/Motel","n":"2"}
+,{"yr":"1998","value":"Police Facility","n":"1"}
+,{"yr":"1998","value":"Residence / Home / Driveway","n":"4"}
+,{"yr":"1998","value":"Single Family Home","n":"2"}
+,{"yr":"1999","value":"210 - RESTAURANT/FAST FOOD","n":"1"}
+,{"yr":"1999","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"1"}
+,{"yr":"1999","value":"Apartment/Condominium/Townhouse","n":"1"}
+,{"yr":"1999","value":"Hospital","n":"1"}
+,{"yr":"1999","value":"Residence / Home / Driveway","n":"4"}
+,{"yr":"1999","value":"School - High School","n":"1"}
+,{"yr":"1999","value":"Single Family Home","n":"2"}
+,{"yr":"1999","value":"Victim's Residence","n":"3"}
+,{"yr":"1999","n":"1"}
+,{"yr":"2000","value":"101 - STREET","n":"1"}
+,{"yr":"2000","value":"108 - PARKING LOT","n":"3"}
+,{"yr":"2000","value":"501 - SINGLE FAMILY DWELLING","n":"1"}
+,{"yr":"2000","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"3"}
+,{"yr":"2000","value":"710 - OTHER PREMISE","n":"1"}
+,{"yr":"2000","value":"Apartment/Condo Common Laundry Room","n":"1"}
+,{"yr":"2000","value":"Apartment/Condominium/Townhouse","n":"4"}
+,{"yr":"2000","value":"Bank / Savings and Loan","n":"1"}
+,{"yr":"2000","value":"Location Unknown","n":"1"}
+,{"yr":"2000","value":"Offender's Residence","n":"4"}
+,{"yr":"2000","value":"Other Residence","n":"1"}
+,{"yr":"2000","value":"Parking Lot / Garage / Drop Lot","n":"3"}
+,{"yr":"2000","value":"Residence / Home / Driveway","n":"7"}
+,{"yr":"2000","value":"Shared Residence","n":"1"}
+,{"yr":"2000","value":"Sidewalk","n":"1"}
+,{"yr":"2000","value":"Single Family Home","n":"3"}
+,{"yr":"2000","value":"Street/Parkway","n":"1"}
+,{"yr":"2000","value":"Vehicle, Passenger/Truck","n":"1"}
+,{"yr":"2000","n":"1"}
+,{"yr":"2001","value":"101 - STREET","n":"3"}
+,{"yr":"2001","value":"501 - SINGLE FAMILY DWELLING","n":"1"}
+,{"yr":"2001","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"1"}
+,{"yr":"2001","value":"507 - CONDOMINIUM/TOWNHOUSE","n":"1"}
+,{"yr":"2001","value":"726 - POLICE FACILITY","n":"1"}
+,{"yr":"2001","value":"Apartment/Condominium/Townhouse","n":"1"}
+,{"yr":"2001","value":"Bank / Savings and Loan","n":"1"}
+,{"yr":"2001","value":"Fire Station","n":"2"}
+,{"yr":"2001","value":"Hospital","n":"1"}
+,{"yr":"2001","value":"Other Business","n":"1"}
+,{"yr":"2001","value":"Residence / Home / Driveway","n":"4"}
+,{"yr":"2001","value":"Restaurant","n":"1"}
+,{"yr":"2001","value":"Vehicle, Passenger/Truck","n":"3"}
+,{"yr":"2001","value":"Victim's Residence","n":"1"}
+,{"yr":"2001","value":"Website","n":"1"}
+,{"yr":"2001","n":"1"}
+,{"yr":"2002","value":"501 - SINGLE FAMILY DWELLING","n":"1"}
+,{"yr":"2002","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"2"}
+,{"yr":"2002","value":"726 - POLICE FACILITY","n":"1"}
+,{"yr":"2002","value":"Apartment/Condominium/Townhouse","n":"2"}
+,{"yr":"2002","value":"Department / Discount Store","n":"1"}
+,{"yr":"2002","value":"Highway / Road / Alley / Street","n":"1"}
+,{"yr":"2002","value":"Market","n":"1"}
+,{"yr":"2002","value":"Multiple Family Dwelling","n":"2"}
+,{"yr":"2002","value":"Offender's Residence","n":"1"}
+,{"yr":"2002","value":"Other Business","n":"1"}
+,{"yr":"2002","value":"Parking Lot / Garage / Drop Lot","n":"1"}
+,{"yr":"2002","value":"Park / Playground","n":"1"}
+,{"yr":"2002","value":"Public Restroom","n":"1"}
+,{"yr":"2002","value":"Residence / Home / Driveway","n":"5"}
+,{"yr":"2002","value":"Restaurant","n":"1"}
+,{"yr":"2002","value":"Sidewalk","n":"1"}
+,{"yr":"2002","value":"Single Family Home","n":"1"}
+,{"yr":"2002","value":"Street/Parkway","n":"1"}
+,{"yr":"2002","value":"Website","n":"1"}
+,{"yr":"2002","n":"1"}
+,{"yr":"2003","value":"203 - OTHER BUSINESS","n":"1"}
+,{"yr":"2003","value":"210 - RESTAURANT/FAST FOOD","n":"1"}
+,{"yr":"2003","value":"501 - SINGLE FAMILY DWELLING","n":"1"}
+,{"yr":"2003","value":"Church / Synagogue / Temple / Religious Facility","n":"1"}
+,{"yr":"2003","value":"Cyber Space","n":"1"}
+,{"yr":"2003","value":"Hotel/Motel","n":"2"}
+,{"yr":"2003","value":"Loan / Cash Advance","n":"1"}
+,{"yr":"2003","value":"Offender's Residence","n":"3"}
+,{"yr":"2003","value":"Residence / Home / Driveway","n":"4"}
+,{"yr":"2003","value":"Sidewalk","n":"1"}
+,{"yr":"2003","value":"Single Family Home","n":"1"}
+,{"yr":"2003","value":"Street/Parkway","n":"3"}
+,{"yr":"2003","value":"Vehicle, Passenger/Truck","n":"1"}
+,{"yr":"2003","value":"Victim's Residence","n":"4"}
+,{"yr":"2004","value":"122 - VEHICLE, PASSENGER/TRUCK","n":"1"}
+,{"yr":"2004","value":"124 - BUS STOP","n":"1"}
+,{"yr":"2004","value":"501 - SINGLE FAMILY DWELLING","n":"3"}
+,{"yr":"2004","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"1"}
+,{"yr":"2004","value":"726 - POLICE FACILITY","n":"3"}
+,{"yr":"2004","value":"Apartment/Condominium/Townhouse","n":"4"}
+,{"yr":"2004","value":"Auto Dealership New / Used","n":"1"}
+,{"yr":"2004","value":"Government / Public Building","n":"1"}
+,{"yr":"2004","value":"Group Home","n":"1"}
+,{"yr":"2004","value":"Loan / Cash Advance","n":"1"}
+,{"yr":"2004","value":"MTA Parking Lot","n":"1"}
+,{"yr":"2004","value":"Offender's Residence","n":"2"}
+,{"yr":"2004","value":"Other Business","n":"1"}
+,{"yr":"2004","value":"Residence / Home / Driveway","n":"14"}
+,{"yr":"2004","value":"Residential Facility","n":"1"}
+,{"yr":"2004","value":"Shared Residence","n":"1"}
+,{"yr":"2004","value":"Single Family Home","n":"5"}
+,{"yr":"2004","value":"Single Residence Occupancy (SRO's) Locations","n":"1"}
+,{"yr":"2004","value":"Street/Parkway","n":"5"}
+,{"yr":"2004","value":"Studio (film/photo, music)","n":"1"}
+,{"yr":"2004","value":"Vehicle, Passenger/Truck","n":"1"}
+,{"yr":"2004","value":"Victim's Residence","n":"4"}
+,{"yr":"2005","value":"101 - STREET","n":"1"}
+,{"yr":"2005","value":"203 - OTHER BUSINESS","n":"1"}
+,{"yr":"2005","value":"210 - RESTAURANT/FAST FOOD","n":"1"}
+,{"yr":"2005","value":"501 - SINGLE FAMILY DWELLING","n":"3"}
+,{"yr":"2005","value":"507 - CONDOMINIUM/TOWNHOUSE","n":"1"}
+,{"yr":"2005","value":"726 - POLICE FACILITY","n":"1"}
+,{"yr":"2005","value":"Airports/Transportation Facility","n":"2"}
+,{"yr":"2005","value":"Apartment/Condo Common Laundry Room","n":"2"}
+,{"yr":"2005","value":"Apartment/Condominium/Townhouse","n":"4"}
+,{"yr":"2005","value":"Church / Synagogue / Temple / Religious Facility","n":"1"}
+,{"yr":"2005","value":"Health Spa/Gym","n":"1"}
+,{"yr":"2005","value":"Highway / Road / Alley / Street","n":"4"}
+,{"yr":"2005","value":"Market","n":"1"}
+,{"yr":"2005","value":"MTA Bus","n":"1"}
+,{"yr":"2005","value":"Other Business","n":"1"}
+,{"yr":"2005","value":"Other Residence","n":"1"}
+,{"yr":"2005","value":"Parking Lot / Garage / Drop Lot","n":"5"}
+,{"yr":"2005","value":"Police Facility","n":"1"}
+,{"yr":"2005","value":"Residence / Home / Driveway","n":"8"}
+,{"yr":"2005","value":"School / College","n":"1"}
+,{"yr":"2005","value":"Sidewalk","n":"4"}
+,{"yr":"2005","value":"Single Family Home","n":"2"}
+,{"yr":"2005","value":"Single Residence Occupancy (SRO's) Locations","n":"1"}
+,{"yr":"2005","value":"Street/Parkway","n":"6"}
+,{"yr":"2005","value":"Vehicle, Passenger/Truck","n":"1"}
+,{"yr":"2005","value":"Victim's Residence","n":"2"}
+,{"yr":"2005","value":"Water Facility","n":"1"}
+,{"yr":"2005","n":"1"}
+,{"yr":"2006","value":"101 - STREET","n":"2"}
+,{"yr":"2006","value":"501 - SINGLE FAMILY DWELLING","n":"3"}
+,{"yr":"2006","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"4"}
+,{"yr":"2006","value":"504 - OTHER RESIDENCE","n":"1"}
+,{"yr":"2006","value":"726 - POLICE FACILITY","n":"1"}
+,{"yr":"2006","value":"Apartment/Condo Common Laundry Room","n":"1"}
+,{"yr":"2006","value":"Apartment/Condominium/Townhouse","n":"3"}
+,{"yr":"2006","value":"Bank / Savings and Loan","n":"2"}
+,{"yr":"2006","value":"Commercial / Office Building / Other Commerical","n":"1"}
+,{"yr":"2006","value":"DIY Center (Lowe's, Home Depot, etc.)","n":"1"}
+,{"yr":"2006","value":"Hotel/Motel","n":"2"}
+,{"yr":"2006","value":"LA Union Station (not line specific)","n":"1"}
+,{"yr":"2006","value":"MTA L Gold Line - Chinatown","n":"1"}
+,{"yr":"2006","value":"Multiple Family Dwelling","n":"1"}
+,{"yr":"2006","value":"Offender's Residence","n":"6"}
+,{"yr":"2006","value":"Other Residence","n":"2"}
+,{"yr":"2006","value":"Parking Lot / Garage / Drop Lot","n":"2"}
+,{"yr":"2006","value":"Residence / Home / Driveway","n":"9"}
+,{"yr":"2006","value":"Restaurant","n":"1"}
+,{"yr":"2006","value":"Sidewalk","n":"1"}
+,{"yr":"2006","value":"Single Family Home","n":"1"}
+,{"yr":"2006","value":"Street/Parkway","n":"11"}
+,{"yr":"2006","value":"Vehicle, Passenger/Truck","n":"1"}
+,{"yr":"2006","value":"Victim's Residence","n":"1"}
+,{"yr":"2006","value":"Yard (adjacent to Residential Location)","n":"1"}
+,{"yr":"2006","n":"2"}
+,{"yr":"2007","value":"101 - STREET","n":"2"}
+,{"yr":"2007","value":"501 - SINGLE FAMILY DWELLING","n":"3"}
+,{"yr":"2007","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"1"}
+,{"yr":"2007","value":"Apartment/Condo Common Laundry Room","n":"2"}
+,{"yr":"2007","value":"Apartment/Condominium/Townhouse","n":"4"}
+,{"yr":"2007","value":"Bank / Savings and Loan","n":"5"}
+,{"yr":"2007","value":"Cyber Space","n":"2"}
+,{"yr":"2007","value":"Golf Course","n":"1"}
+,{"yr":"2007","value":"Location Unknown","n":"1"}
+,{"yr":"2007","value":"Other Business","n":"1"}
+,{"yr":"2007","value":"Other Residence","n":"1"}
+,{"yr":"2007","value":"Residence / Home / Driveway","n":"4"}
+,{"yr":"2007","value":"Single Family Home","n":"2"}
+,{"yr":"2007","value":"Victim's Residence","n":"2"}
+,{"yr":"2007","n":"2"}
+,{"yr":"2008","value":"101 - STREET","n":"1"}
+,{"yr":"2008","value":"102 - SIDEWALK","n":"1"}
+,{"yr":"2008","value":"501 - SINGLE FAMILY DWELLING","n":"3"}
+,{"yr":"2008","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"1"}
+,{"yr":"2008","value":"510 - NURSING/CONVALESCENT/RETIREMENT HOME","n":"1"}
+,{"yr":"2008","value":"726 - POLICE FACILITY","n":"2"}
+,{"yr":"2008","value":"Apartment/Condo Common Laundry Room","n":"1"}
+,{"yr":"2008","value":"Apartment/Condominium/Townhouse","n":"1"}
+,{"yr":"2008","value":"Bank / Savings and Loan","n":"1"}
+,{"yr":"2008","value":"Cyber Space","n":"1"}
+,{"yr":"2008","value":"Other Business","n":"1"}
+,{"yr":"2008","value":"Other place of worship","n":"1"}
+,{"yr":"2008","value":"Other Residence","n":"2"}
+,{"yr":"2008","value":"Parking Lot / Garage / Drop Lot","n":"2"}
+,{"yr":"2008","value":"Police Facility","n":"1"}
+,{"yr":"2008","value":"Residence / Home / Driveway","n":"5"}
+,{"yr":"2008","value":"School - Elementary","n":"1"}
+,{"yr":"2008","value":"Shared Residence","n":"1"}
+,{"yr":"2008","value":"Single Family Home","n":"5"}
+,{"yr":"2008","value":"Street/Parkway","n":"1"}
+,{"yr":"2008","value":"Vehicle, Passenger/Truck","n":"1"}
+,{"yr":"2008","value":"Victim's Residence","n":"4"}
+,{"yr":"2009","value":"101 - STREET","n":"1"}
+,{"yr":"2009","value":"203 - OTHER BUSINESS","n":"1"}
+,{"yr":"2009","value":"501 - SINGLE FAMILY DWELLING","n":"1"}
+,{"yr":"2009","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"1"}
+,{"yr":"2009","value":"710 - OTHER PREMISE","n":"2"}
+,{"yr":"2009","value":"726 - POLICE FACILITY","n":"3"}
+,{"yr":"2009","value":"Apartment/Condominium/Townhouse","n":"1"}
+,{"yr":"2009","value":"Bank / Savings and Loan","n":"1"}
+,{"yr":"2009","value":"Bar, Cocktail Lounge, Restaurant","n":"1"}
+,{"yr":"2009","value":"Clothing Store","n":"1"}
+,{"yr":"2009","value":"Cyber Space","n":"1"}
+,{"yr":"2009","value":"Doctor's Office","n":"1"}
+,{"yr":"2009","value":"Driveway (other)","n":"1"}
+,{"yr":"2009","value":"Government Facility (Federal, State, County and City)","n":"1"}
+,{"yr":"2009","value":"Movie Theater","n":"2"}
+,{"yr":"2009","value":"Offender's Residence","n":"3"}
+,{"yr":"2009","value":"Other Business","n":"1"}
+,{"yr":"2009","value":"Parking Lot / Garage / Drop Lot","n":"3"}
+,{"yr":"2009","value":"Police Facility","n":"2"}
+,{"yr":"2009","value":"Residence / Home / Driveway","n":"14"}
+,{"yr":"2009","value":"School / College","n":"1"}
+,{"yr":"2009","value":"School - Junior High","n":"1"}
+,{"yr":"2009","value":"Single Family Home","n":"4"}
+,{"yr":"2009","value":"Street/Parkway","n":"6"}
+,{"yr":"2009","value":"Victim's Residence","n":"4"}
+,{"yr":"2010","value":"101 - STREET","n":"2"}
+,{"yr":"2010","value":"501 - SINGLE FAMILY DWELLING","n":"1"}
+,{"yr":"2010","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"3"}
+,{"yr":"2010","value":"725 - GOVERNMENT FACILITY (FEDERAL,STATE, COUNTY & CITY)","n":"1"}
+,{"yr":"2010","value":"Abatement Location","n":"1"}
+,{"yr":"2010","value":"Apartment/Condominium/Townhouse","n":"3"}
+,{"yr":"2010","value":"Bank / Savings and Loan","n":"2"}
+,{"yr":"2010","value":"Cell Phone Store","n":"1"}
+,{"yr":"2010","value":"Cyber Space","n":"1"}
+,{"yr":"2010","value":"Electronics Store (Best Buy, etc.)","n":"1"}
+,{"yr":"2010","value":"Government Facility (Federal, State, County and City)","n":"1"}
+,{"yr":"2010","value":"Location Unknown","n":"1"}
+,{"yr":"2010","value":"Manufacturing Company","n":"1"}
+,{"yr":"2010","value":"Multiple Family Dwelling","n":"1"}
+,{"yr":"2010","value":"Offender's Residence","n":"2"}
+,{"yr":"2010","value":"Other Business","n":"2"}
+,{"yr":"2010","value":"Other Residence","n":"1"}
+,{"yr":"2010","value":"Parking Lot / Garage / Drop Lot","n":"2"}
+,{"yr":"2010","value":"Residence / Home / Driveway","n":"15"}
+,{"yr":"2010","value":"Restaurant","n":"1"}
+,{"yr":"2010","value":"School / College","n":"1"}
+,{"yr":"2010","value":"Single Family Home","n":"4"}
+,{"yr":"2010","value":"Sport Venue, other","n":"1"}
+,{"yr":"2010","value":"Street/Parkway","n":"2"}
+,{"yr":"2010","value":"Vehicle, Passenger/Truck","n":"2"}
+,{"yr":"2010","value":"Victim's Residence","n":"2"}
+,{"yr":"2011","value":"101 - STREET","n":"4"}
+,{"yr":"2011","value":"102 - SIDEWALK","n":"2"}
+,{"yr":"2011","value":"122 - VEHICLE, PASSENGER/TRUCK","n":"1"}
+,{"yr":"2011","value":"251 - RECYCLING CENTER","n":"1"}
+,{"yr":"2011","value":"501 - SINGLE FAMILY DWELLING","n":"3"}
+,{"yr":"2011","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"1"}
+,{"yr":"2011","value":"707 - GARAGE/CARPORT","n":"1"}
+,{"yr":"2011","value":"Alley","n":"1"}
+,{"yr":"2011","value":"Any Vehicle","n":"1"}
+,{"yr":"2011","value":"Apartment/Condo Common Laundry Room","n":"1"}
+,{"yr":"2011","value":"Apartment/Condominium/Townhouse","n":"3"}
+,{"yr":"2011","value":"Bank / Savings and Loan","n":"2"}
+,{"yr":"2011","value":"Credit Union","n":"1"}
+,{"yr":"2011","value":"Driveway (Residential)","n":"1"}
+,{"yr":"2011","value":"Furniture Store","n":"1"}
+,{"yr":"2011","value":"Hotel/Motel","n":"1"}
+,{"yr":"2011","value":"Medical Clinic","n":"1"}
+,{"yr":"2011","value":"Offender's Residence","n":"4"}
+,{"yr":"2011","value":"Other","n":"3"}
+,{"yr":"2011","value":"Other Business","n":"1"}
+,{"yr":"2011","value":"Other place of worship","n":"1"}
+,{"yr":"2011","value":"Other Residence","n":"2"}
+,{"yr":"2011","value":"Park / Playground","n":"1"}
+,{"yr":"2011","value":"Public Use Area","n":"1"}
+,{"yr":"2011","value":"Residence / Home / Driveway","n":"8"}
+,{"yr":"2011","value":"School / College","n":"1"}
+,{"yr":"2011","value":"Shared Residence","n":"2"}
+,{"yr":"2011","value":"Single Family Home","n":"4"}
+,{"yr":"2011","value":"Street/Parkway","n":"1"}
+,{"yr":"2011","value":"Victim's Residence","n":"3"}
+,{"yr":"2011","value":"Website","n":"1"}
+,{"yr":"2011","n":"4"}
+,{"yr":"2012","value":"101 - STREET","n":"4"}
+,{"yr":"2012","value":"102 - SIDEWALK","n":"1"}
+,{"yr":"2012","value":"210 - RESTAURANT/FAST FOOD","n":"1"}
+,{"yr":"2012","value":"501 - SINGLE FAMILY DWELLING","n":"2"}
+,{"yr":"2012","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"2"}
+,{"yr":"2012","value":"725 - GOVERNMENT FACILITY (FEDERAL,STATE, COUNTY & CITY)","n":"1"}
+,{"yr":"2012","value":"728 - ELEVATOR","n":"1"}
+,{"yr":"2012","value":"Apartment/Condo Common Laundry Room","n":"3"}
+,{"yr":"2012","value":"Apartment/Condominium/Townhouse","n":"5"}
+,{"yr":"2012","value":"ATM Separate from Bank","n":"1"}
+,{"yr":"2012","value":"Auto Dealership New / Used","n":"1"}
+,{"yr":"2012","value":"Bank / Savings and Loan","n":"4"}
+,{"yr":"2012","value":"Commercial / Office Building / Other Commerical","n":"1"}
+,{"yr":"2012","value":"Furniture Store","n":"1"}
+,{"yr":"2012","value":"Health Spa/Gym","n":"1"}
+,{"yr":"2012","value":"Highway / Road / Alley / Street","n":"1"}
+,{"yr":"2012","value":"Hospital","n":"1"}
+,{"yr":"2012","value":"Location Unknown","n":"2"}
+,{"yr":"2012","value":"Mail Box","n":"1"}
+,{"yr":"2012","value":"Mobile Home/Trailers/Construction Trailers/RV's/Motorhome","n":"1"}
+,{"yr":"2012","value":"Offender's Residence","n":"5"}
+,{"yr":"2012","value":"Other Business","n":"4"}
+,{"yr":"2012","value":"Other Residence","n":"1"}
+,{"yr":"2012","value":"Residence / Home / Driveway","n":"14"}
+,{"yr":"2012","value":"School - High School","n":"1"}
+,{"yr":"2012","value":"Single Family Home","n":"7"}
+,{"yr":"2012","value":"Single Residence Occupancy (SRO's) Locations","n":"1"}
+,{"yr":"2012","value":"Street/Parkway","n":"2"}
+,{"yr":"2012","value":"Victim's Residence","n":"9"}
+,{"yr":"2013","value":"101 - STREET","n":"1"}
+,{"yr":"2013","value":"104 - DRIVEWAY","n":"1"}
+,{"yr":"2013","value":"122 - VEHICLE, PASSENGER/TRUCK","n":"1"}
+,{"yr":"2013","value":"210 - RESTAURANT/FAST FOOD","n":"1"}
+,{"yr":"2013","value":"501 - SINGLE FAMILY DWELLING","n":"3"}
+,{"yr":"2013","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"5"}
+,{"yr":"2013","value":"725 - GOVERNMENT FACILITY (FEDERAL,STATE, COUNTY & CITY)","n":"1"}
+,{"yr":"2013","value":"726 - POLICE FACILITY","n":"3"}
+,{"yr":"2013","value":"Apartment/Condo Common Laundry Room","n":"1"}
+,{"yr":"2013","value":"Apartment/Condominium/Townhouse","n":"10"}
+,{"yr":"2013","value":"Banking inside supermarket (or other facility)","n":"1"}
+,{"yr":"2013","value":"Bank / Savings and Loan","n":"2"}
+,{"yr":"2013","value":"Cell Phone Store","n":"1"}
+,{"yr":"2013","value":"Check Cashing","n":"1"}
+,{"yr":"2013","value":"Children Daycare Facility","n":"1"}
+,{"yr":"2013","value":"Cyber Space","n":"2"}
+,{"yr":"2013","value":"Driveway (Residential)","n":"1"}
+,{"yr":"2013","value":"Factory","n":"1"}
+,{"yr":"2013","value":"Government Facility (Federal, State, County and City)","n":"3"}
+,{"yr":"2013","value":"Location Unknown","n":"4"}
+,{"yr":"2013","value":"Offender's Residence","n":"3"}
+,{"yr":"2013","value":"Other Business","n":"2"}
+,{"yr":"2013","value":"Other Residence","n":"2"}
+,{"yr":"2013","value":"Parking Lot / Garage / Drop Lot","n":"2"}
+,{"yr":"2013","value":"Residence / Home / Driveway","n":"30"}
+,{"yr":"2013","value":"Shared Residence","n":"1"}
+,{"yr":"2013","value":"Single Family Home","n":"9"}
+,{"yr":"2013","value":"Street/Parkway","n":"2"}
+,{"yr":"2013","value":"TV/Radio/Appliance","n":"1"}
+,{"yr":"2013","value":"Vehicle, Passenger/Truck","n":"1"}
+,{"yr":"2013","value":"Victim's Residence","n":"8"}
+,{"yr":"2013","value":"Website","n":"1"}
+,{"yr":"2013","n":"4"}
+,{"yr":"2014","value":"101 - STREET","n":"2"}
+,{"yr":"2014","value":"107 - VACANT LOT","n":"1"}
+,{"yr":"2014","value":"122 - VEHICLE, PASSENGER/TRUCK","n":"2"}
+,{"yr":"2014","value":"501 - SINGLE FAMILY DWELLING","n":"6"}
+,{"yr":"2014","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"4"}
+,{"yr":"2014","value":"726 - POLICE FACILITY","n":"3"}
+,{"yr":"2014","value":"Airports/Transportation Facility","n":"1"}
+,{"yr":"2014","value":"Any Vehicle","n":"1"}
+,{"yr":"2014","value":"Apartment/Condo Common Laundry Room","n":"5"}
+,{"yr":"2014","value":"Apartment/Condominium/Townhouse","n":"11"}
+,{"yr":"2014","value":"Auto Dealership New / Used","n":"1"}
+,{"yr":"2014","value":"Bank / Savings and Loan","n":"6"}
+,{"yr":"2014","value":"Cell Phone Store","n":"1"}
+,{"yr":"2014","value":"Check Cashing","n":"1"}
+,{"yr":"2014","value":"Credit Union","n":"2"}
+,{"yr":"2014","value":"Driveway (Residential)","n":"1"}
+,{"yr":"2014","value":"Farm Facility","n":"1"}
+,{"yr":"2014","value":"Government / Public Building","n":"1"}
+,{"yr":"2014","value":"Hotel/Motel","n":"1"}
+,{"yr":"2014","value":"Medical Office/Dental Office","n":"1"}
+,{"yr":"2014","value":"Multiple Family Dwelling","n":"1"}
+,{"yr":"2014","value":"Offender's Residence","n":"1"}
+,{"yr":"2014","value":"Other Business","n":"6"}
+,{"yr":"2014","value":"Other place of worship","n":"1"}
+,{"yr":"2014","value":"Other Residence","n":"2"}
+,{"yr":"2014","value":"Other Store","n":"1"}
+,{"yr":"2014","value":"Parking Lot / Garage / Drop Lot","n":"1"}
+,{"yr":"2014","value":"Police Facility","n":"3"}
+,{"yr":"2014","value":"Residence / Home / Driveway","n":"22"}
+,{"yr":"2014","value":"Residential Facility","n":"2"}
+,{"yr":"2014","value":"School / College","n":"2"}
+,{"yr":"2014","value":"School - Elementary","n":"1"}
+,{"yr":"2014","value":"School - High School","n":"1"}
+,{"yr":"2014","value":"Shared Residence","n":"2"}
+,{"yr":"2014","value":"Sidewalk","n":"1"}
+,{"yr":"2014","value":"Single Family Home","n":"15"}
+,{"yr":"2014","value":"Storage Shed (Residential)","n":"1"}
+,{"yr":"2014","value":"Street/Parkway","n":"7"}
+,{"yr":"2014","value":"Swap Meet","n":"1"}
+,{"yr":"2014","value":"Uninhabited Residence","n":"2"}
+,{"yr":"2014","value":"Vehicle, Passenger/Truck","n":"2"}
+,{"yr":"2014","value":"Victim's Residence","n":"6"}
+,{"yr":"2014","value":"Warehouse","n":"1"}
+,{"yr":"2014","value":"Website","n":"3"}
+,{"yr":"2014","n":"3"}
+,{"yr":"2015","value":"101 - STREET","n":"9"}
+,{"yr":"2015","value":"102 - SIDEWALK","n":"2"}
+,{"yr":"2015","value":"121 - YARD (RESIDENTIAL/BUSINESS)","n":"1"}
+,{"yr":"2015","value":"122 - VEHICLE, PASSENGER/TRUCK","n":"1"}
+,{"yr":"2015","value":"501 - SINGLE FAMILY DWELLING","n":"7"}
+,{"yr":"2015","value":"726 - POLICE FACILITY","n":"2"}
+,{"yr":"2015","value":"7th and Metro Center (not line specific)","n":"1"}
+,{"yr":"2015","value":"Abatement Location","n":"1"}
+,{"yr":"2015","value":"Air / Bus / Train Terminal","n":"2"}
+,{"yr":"2015","value":"Airports/Transportation Facility","n":"1"}
+,{"yr":"2015","value":"Any Vehicle","n":"1"}
+,{"yr":"2015","value":"Apartment/Condo Common Laundry Room","n":"3"}
+,{"yr":"2015","value":"Apartment/Condominium/Townhouse","n":"20"}
+,{"yr":"2015","value":"Bank / Savings and Loan","n":"15"}
+,{"yr":"2015","value":"Church / Synagogue / Temple / Religious Facility","n":"2"}
+,{"yr":"2015","value":"Commercial / Office Building / Other Commerical","n":"3"}
+,{"yr":"2015","value":"Convenience Store","n":"1"}
+,{"yr":"2015","value":"Cyber Space","n":"3"}
+,{"yr":"2015","value":"Department / Discount Store","n":"1"}
+,{"yr":"2015","value":"Detention/Jail Facility","n":"1"}
+,{"yr":"2015","value":"Financial Institutuion","n":"3"}
+,{"yr":"2015","value":"Highway / Road / Alley / Street","n":"1"}
+,{"yr":"2015","value":"Hotel/Motel","n":"1"}
+,{"yr":"2015","value":"Location Unknown","n":"7"}
+,{"yr":"2015","value":"Mail Box","n":"1"}
+,{"yr":"2015","value":"Medical Clinic","n":"1"}
+,{"yr":"2015","value":"Mobile Home/Trailers/Construction Trailers/RV's/Motorhome","n":"3"}
+,{"yr":"2015","value":"MTA Bus","n":"1"}
+,{"yr":"2015","value":"Multiple Family Dwelling","n":"2"}
+,{"yr":"2015","value":"Night Club (open evenings only)","n":"1"}
+,{"yr":"2015","value":"Offender's Residence","n":"3"}
+,{"yr":"2015","value":"Other","n":"1"}
+,{"yr":"2015","value":"Other Business","n":"5"}
+,{"yr":"2015","value":"Other place of worship","n":"1"}
+,{"yr":"2015","value":"Other Residence","n":"4"}
+,{"yr":"2015","value":"Other Store","n":"1"}
+,{"yr":"2015","value":"Parking Lot / Garage / Drop Lot","n":"3"}
+,{"yr":"2015","value":"Police Facility","n":"3"}
+,{"yr":"2015","value":"Rental Storage Facility","n":"1"}
+,{"yr":"2015","value":"Residence / Home / Driveway","n":"35"}
+,{"yr":"2015","value":"Residential Facility","n":"2"}
+,{"yr":"2015","value":"School / College","n":"3"}
+,{"yr":"2015","value":"School - Elementary","n":"1"}
+,{"yr":"2015","value":"School - High School","n":"1"}
+,{"yr":"2015","value":"Shared Residence","n":"3"}
+,{"yr":"2015","value":"Shelter - Mission / Homeless","n":"3"}
+,{"yr":"2015","value":"Sidewalk","n":"2"}
+,{"yr":"2015","value":"Single Family Home","n":"18"}
+,{"yr":"2015","value":"Single Residence Occupancy (SRO's) Locations","n":"1"}
+,{"yr":"2015","value":"Street/Parkway","n":"22"}
+,{"yr":"2015","value":"Vehicle, Passenger/Truck","n":"1"}
+,{"yr":"2015","value":"Victim's Residence","n":"7"}
+,{"yr":"2015","value":"Website","n":"2"}
+,{"yr":"2015","value":"Yard (adjacent to Residential Location)","n":"1"}
+,{"yr":"2015","value":"Yard (Business)","n":"1"}
+,{"yr":"2015","n":"6"}
+,{"yr":"2016","value":"101 - STREET","n":"12"}
+,{"yr":"2016","value":"102 - SIDEWALK","n":"4"}
+,{"yr":"2016","value":"108 - PARKING LOT","n":"4"}
+,{"yr":"2016","value":"121 - YARD (RESIDENTIAL/BUSINESS)","n":"1"}
+,{"yr":"2016","value":"203 - OTHER BUSINESS","n":"1"}
+,{"yr":"2016","value":"501 - SINGLE FAMILY DWELLING","n":"9"}
+,{"yr":"2016","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"4"}
+,{"yr":"2016","value":"511 - PROJECT/TENEMENT/PUBLIC HOUSING","n":"1"}
+,{"yr":"2016","value":"707 - GARAGE/CARPORT","n":"1"}
+,{"yr":"2016","value":"726 - POLICE FACILITY","n":"2"}
+,{"yr":"2016","value":"Abandoned / Condemned Structure","n":"1"}
+,{"yr":"2016","value":"Alley","n":"3"}
+,{"yr":"2016","value":"Any Vehicle","n":"3"}
+,{"yr":"2016","value":"Apartment/Condo Common Laundry Room","n":"3"}
+,{"yr":"2016","value":"Apartment/Condominium/Townhouse","n":"15"}
+,{"yr":"2016","value":"Auto Dealership New / Used","n":"1"}
+,{"yr":"2016","value":"Bank Drop Box/Money Drop (outside bank)","n":"1"}
+,{"yr":"2016","value":"Bank / Savings and Loan","n":"9"}
+,{"yr":"2016","value":"Bar, Cocktail Lounge, Restaurant","n":"1"}
+,{"yr":"2016","value":"Cell Phone Store","n":"1"}
+,{"yr":"2016","value":"Common Laundry Room","n":"1"}
+,{"yr":"2016","value":"Condominium/Townhouse","n":"1"}
+,{"yr":"2016","value":"Cyber Space","n":"6"}
+,{"yr":"2016","value":"Daycare Facility","n":"1"}
+,{"yr":"2016","value":"Driveway (other)","n":"2"}
+,{"yr":"2016","value":"Electronics Store (Best Buy, etc.)","n":"1"}
+,{"yr":"2016","value":"Farm Facility","n":"1"}
+,{"yr":"2016","value":"Financial Institutuion","n":"1"}
+,{"yr":"2016","value":"Furniture Store","n":"1"}
+,{"yr":"2016","value":"Highway / Road / Alley / Street","n":"1"}
+,{"yr":"2016","value":"Hotel/Motel","n":"1"}
+,{"yr":"2016","value":"Location Unknown","n":"3"}
+,{"yr":"2016","value":"MTA D Purple Line -Westlake/Macarthur Park","n":"1"}
+,{"yr":"2016","value":"MTA E Expo Line - Expo/Western","n":"1"}
+,{"yr":"2016","value":"Offender's Residence","n":"8"}
+,{"yr":"2016","value":"Other","n":"2"}
+,{"yr":"2016","value":"Other Business","n":"4"}
+,{"yr":"2016","value":"Other place of worship","n":"5"}
+,{"yr":"2016","value":"Other Residence","n":"12"}
+,{"yr":"2016","value":"Parking Lot / Garage / Drop Lot","n":"7"}
+,{"yr":"2016","value":"Park / Playground","n":"2"}
+,{"yr":"2016","value":"Patio (Residential)","n":"1"}
+,{"yr":"2016","value":"Police Facility","n":"1"}
+,{"yr":"2016","value":"Residence / Home / Driveway","n":"48"}
+,{"yr":"2016","value":"Residential Facility","n":"3"}
+,{"yr":"2016","value":"School / College","n":"4"}
+,{"yr":"2016","value":"School - High School","n":"1"}
+,{"yr":"2016","value":"Shared Residence","n":"1"}
+,{"yr":"2016","value":"Shelter - Mission / Homeless","n":"1"}
+,{"yr":"2016","value":"Sidewalk","n":"2"}
+,{"yr":"2016","value":"Single Family Home","n":"17"}
+,{"yr":"2016","value":"Storage Shed (Residential)","n":"2"}
+,{"yr":"2016","value":"Street/Parkway","n":"7"}
+,{"yr":"2016","value":"Victim's Residence","n":"14"}
+,{"yr":"2016","value":"Website","n":"3"}
+,{"yr":"2016","n":"5"}
+,{"yr":"2017","value":"101 - STREET","n":"20"}
+,{"yr":"2017","value":"102 - SIDEWALK","n":"5"}
+,{"yr":"2017","value":"104 - DRIVEWAY","n":"2"}
+,{"yr":"2017","value":"108 - PARKING LOT","n":"3"}
+,{"yr":"2017","value":"119 - PORCH, RESIDENTIAL","n":"1"}
+,{"yr":"2017","value":"122 - VEHICLE, PASSENGER/TRUCK","n":"1"}
+,{"yr":"2017","value":"203 - OTHER BUSINESS","n":"1"}
+,{"yr":"2017","value":"210 - RESTAURANT/FAST FOOD","n":"1"}
+,{"yr":"2017","value":"301 - GAS STATION","n":"1"}
+,{"yr":"2017","value":"501 - SINGLE FAMILY DWELLING","n":"5"}
+,{"yr":"2017","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"1"}
+,{"yr":"2017","value":"504 - OTHER RESIDENCE","n":"1"}
+,{"yr":"2017","value":"511 - PROJECT/TENEMENT/PUBLIC HOUSING","n":"1"}
+,{"yr":"2017","value":"710 - OTHER PREMISE","n":"1"}
+,{"yr":"2017","value":"726 - POLICE FACILITY","n":"3"}
+,{"yr":"2017","value":"Alley","n":"1"}
+,{"yr":"2017","value":"Amtrak Train","n":"1"}
+,{"yr":"2017","value":"Apartment/Condo Common Laundry Room","n":"9"}
+,{"yr":"2017","value":"Apartment/Condominium/Townhouse","n":"20"}
+,{"yr":"2017","value":"Arena / Stadium / Fairgrounds /Coliseum","n":"1"}
+,{"yr":"2017","value":"Bank Drop Box/Money Drop (outside bank)","n":"1"}
+,{"yr":"2017","value":"Bank / Savings and Loan","n":"7"}
+,{"yr":"2017","value":"Beach","n":"1"}
+,{"yr":"2017","value":"Church / Synagogue / Temple / Religious Facility","n":"1"}
+,{"yr":"2017","value":"Commercial / Office Building / Other Commerical","n":"2"}
+,{"yr":"2017","value":"Condominium/Townhouse","n":"1"}
+,{"yr":"2017","value":"Credit Union","n":"2"}
+,{"yr":"2017","value":"Cyber Space","n":"8"}
+,{"yr":"2017","value":"Delivery Service/FedEx, UPS, Couriers","n":"1"}
+,{"yr":"2017","value":"Dodger Stadium","n":"1"}
+,{"yr":"2017","value":"Driveway (Residential)","n":"1"}
+,{"yr":"2017","value":"Electronics Store (Best Buy, etc.)","n":"2"}
+,{"yr":"2017","value":"Financial Institutuion","n":"1"}
+,{"yr":"2017","value":"Government Facility (Federal, State, County and City)","n":"1"}
+,{"yr":"2017","value":"Highway / Road / Alley / Street","n":"1"}
+,{"yr":"2017","value":"Hospital","n":"1"}
+,{"yr":"2017","value":"Hotel/Motel","n":"1"}
+,{"yr":"2017","value":"Location Unknown","n":"2"}
+,{"yr":"2017","value":"Mobile Home/Trailers/Construction Trailers/RV's/Motorhome","n":"1"}
+,{"yr":"2017","value":"Multiple Family Dwelling","n":"2"}
+,{"yr":"2017","value":"Offender's Residence","n":"9"}
+,{"yr":"2017","value":"Other Business","n":"8"}
+,{"yr":"2017","value":"Other place of worship","n":"2"}
+,{"yr":"2017","value":"Other Residence","n":"14"}
+,{"yr":"2017","value":"Parking Lot / Garage / Drop Lot","n":"3"}
+,{"yr":"2017","value":"Police Facility","n":"7"}
+,{"yr":"2017","value":"Residence / Home / Driveway","n":"49"}
+,{"yr":"2017","value":"Residential Facility","n":"3"}
+,{"yr":"2017","value":"School / College","n":"2"}
+,{"yr":"2017","value":"School - High School","n":"1"}
+,{"yr":"2017","value":"Shared Residence","n":"2"}
+,{"yr":"2017","value":"Single Family Home","n":"26"}
+,{"yr":"2017","value":"Street/Parkway","n":"7"}
+,{"yr":"2017","value":"Synagogue/Temple","n":"1"}
+,{"yr":"2017","value":"Vehicle, Passenger/Truck","n":"1"}
+,{"yr":"2017","value":"Victim's Residence","n":"18"}
+,{"yr":"2017","value":"Website","n":"5"}
+,{"yr":"2017","value":"Yard (adjacent to Residential Location)","n":"1"}
+,{"yr":"2017","n":"3"}
+,{"yr":"2018","value":"101 - STREET","n":"15"}
+,{"yr":"2018","value":"102 - SIDEWALK","n":"1"}
+,{"yr":"2018","value":"103 - ALLEY","n":"1"}
+,{"yr":"2018","value":"104 - DRIVEWAY","n":"1"}
+,{"yr":"2018","value":"109 - PARK/PLAYGROUND","n":"1"}
+,{"yr":"2018","value":"122 - VEHICLE, PASSENGER/TRUCK","n":"1"}
+,{"yr":"2018","value":"203 - OTHER BUSINESS","n":"1"}
+,{"yr":"2018","value":"402 - MARKET","n":"1"}
+,{"yr":"2018","value":"501 - SINGLE FAMILY DWELLING","n":"9"}
+,{"yr":"2018","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"7"}
+,{"yr":"2018","value":"503 - HOTEL","n":"1"}
+,{"yr":"2018","value":"701 - HOSPITAL","n":"1"}
+,{"yr":"2018","value":"707 - GARAGE/CARPORT","n":"1"}
+,{"yr":"2018","value":"726 - POLICE FACILITY","n":"1"}
+,{"yr":"2018","value":"7th and Metro Center (not line specific)","n":"1"}
+,{"yr":"2018","value":"Alley","n":"2"}
+,{"yr":"2018","value":"Any Vehicle","n":"3"}
+,{"yr":"2018","value":"Apartment/Condo Common Laundry Room","n":"9"}
+,{"yr":"2018","value":"Apartment/Condominium/Townhouse","n":"21"}
+,{"yr":"2018","value":"Auto Dealership New / Used","n":"1"}
+,{"yr":"2018","value":"Balcony","n":"1"}
+,{"yr":"2018","value":"Bank / Savings and Loan","n":"14"}
+,{"yr":"2018","value":"Beauty Supply Store","n":"1"}
+,{"yr":"2018","value":"Bus-Charter/Private","n":"1"}
+,{"yr":"2018","value":"Cell Phone Store","n":"1"}
+,{"yr":"2018","value":"Check Cashing","n":"1"}
+,{"yr":"2018","value":"Church/Chapel","n":"4"}
+,{"yr":"2018","value":"Church / Synagogue / Temple / Religious Facility","n":"3"}
+,{"yr":"2018","value":"Commercial / Office Building / Other Commerical","n":"2"}
+,{"yr":"2018","value":"Computer Services/Repairs/Sales","n":"1"}
+,{"yr":"2018","value":"Credit Union","n":"3"}
+,{"yr":"2018","value":"Cyber Space","n":"12"}
+,{"yr":"2018","value":"Department / Discount Store","n":"1"}
+,{"yr":"2018","value":"Driveway (Residential)","n":"1"}
+,{"yr":"2018","value":"Electronics Store (Best Buy, etc.)","n":"1"}
+,{"yr":"2018","value":"Factory","n":"1"}
+,{"yr":"2018","value":"Financial Institutuion","n":"1"}
+,{"yr":"2018","value":"Furniture Store","n":"1"}
+,{"yr":"2018","value":"Government Facility (Federal, State, County and City)","n":"1"}
+,{"yr":"2018","value":"Government / Public Building","n":"1"}
+,{"yr":"2018","value":"Highway / Road / Alley / Street","n":"1"}
+,{"yr":"2018","value":"Hospital","n":"2"}
+,{"yr":"2018","value":"Hotel/Motel","n":"1"}
+,{"yr":"2018","value":"Loan / Cash Advance","n":"3"}
+,{"yr":"2018","value":"Location Unknown","n":"2"}
+,{"yr":"2018","value":"Mail Box","n":"1"}
+,{"yr":"2018","value":"Market","n":"1"}
+,{"yr":"2018","value":"Multiple Family Dwelling","n":"5"}
+,{"yr":"2018","value":"Night Club (open evenings only)","n":"1"}
+,{"yr":"2018","value":"Nursing Home","n":"1"}
+,{"yr":"2018","value":"Offender's Residence","n":"5"}
+,{"yr":"2018","value":"Other","n":"1"}
+,{"yr":"2018","value":"Other Business","n":"7"}
+,{"yr":"2018","value":"Other place of worship","n":"1"}
+,{"yr":"2018","value":"Other Residence","n":"14"}
+,{"yr":"2018","value":"Other Store","n":"2"}
+,{"yr":"2018","value":"Parking Lot / Garage / Drop Lot","n":"5"}
+,{"yr":"2018","value":"Parking underground/building","n":"1"}
+,{"yr":"2018","value":"Police Facility","n":"8"}
+,{"yr":"2018","value":"Pool/Public/Indoor or outdoor","n":"1"}
+,{"yr":"2018","value":"Residence / Home / Driveway","n":"61"}
+,{"yr":"2018","value":"School / College","n":"1"}
+,{"yr":"2018","value":"Shared Residence","n":"4"}
+,{"yr":"2018","value":"Sidewalk","n":"1"}
+,{"yr":"2018","value":"Single Family Home","n":"32"}
+,{"yr":"2018","value":"Storage Shed (Other)","n":"1"}
+,{"yr":"2018","value":"Street/Parkway","n":"8"}
+,{"yr":"2018","value":"Swap Meet","n":"1"}
+,{"yr":"2018","value":"TV/Radio/Appliance","n":"1"}
+,{"yr":"2018","value":"Vehicle, Passenger/Truck","n":"2"}
+,{"yr":"2018","value":"Victim's Residence","n":"17"}
+,{"yr":"2018","value":"Website","n":"9"}
+,{"yr":"2018","n":"7"}
+,{"yr":"2019","value":"101 - STREET","n":"6"}
+,{"yr":"2019","value":"102 - SIDEWALK","n":"3"}
+,{"yr":"2019","value":"104 - DRIVEWAY","n":"1"}
+,{"yr":"2019","value":"124 - BUS STOP","n":"1"}
+,{"yr":"2019","value":"239 - MEDICAL MARIJUANA FACILITIES/BUSINESSES","n":"1"}
+,{"yr":"2019","value":"501 - SINGLE FAMILY DWELLING","n":"6"}
+,{"yr":"2019","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"4"}
+,{"yr":"2019","value":"719 - MEDICAL/DENTAL OFFICES","n":"1"}
+,{"yr":"2019","value":"721 - HIGH SCHOOL","n":"1"}
+,{"yr":"2019","value":"726 - POLICE FACILITY","n":"2"}
+,{"yr":"2019","value":"Abatement Location","n":"1"}
+,{"yr":"2019","value":"Air / Bus / Train Terminal","n":"2"}
+,{"yr":"2019","value":"Airports/Transportation Facility","n":"1"}
+,{"yr":"2019","value":"Amtrak Train","n":"1"}
+,{"yr":"2019","value":"Amusement Park","n":"2"}
+,{"yr":"2019","value":"Any Vehicle","n":"2"}
+,{"yr":"2019","value":"Apartment/Condo Common Laundry Room","n":"4"}
+,{"yr":"2019","value":"Apartment/Condominium/Townhouse","n":"30"}
+,{"yr":"2019","value":"Auto Dealership New / Used","n":"6"}
+,{"yr":"2019","value":"Bank / Savings and Loan","n":"14"}
+,{"yr":"2019","value":"Beach","n":"1"}
+,{"yr":"2019","value":"Cannabis - retail location","n":"1"}
+,{"yr":"2019","value":"Cell Phone Store","n":"2"}
+,{"yr":"2019","value":"Church / Synagogue / Temple / Religious Facility","n":"1"}
+,{"yr":"2019","value":"Commercial / Office Building / Other Commerical","n":"1"}
+,{"yr":"2019","value":"Condominium/Townhouse","n":"1"}
+,{"yr":"2019","value":"Credit Union","n":"2"}
+,{"yr":"2019","value":"Cyber Space","n":"8"}
+,{"yr":"2019","value":"Driveway (Residential)","n":"1"}
+,{"yr":"2019","value":"Electronics Store (Best Buy, etc.)","n":"2"}
+,{"yr":"2019","value":"Energy Plant/Facility","n":"1"}
+,{"yr":"2019","value":"Equipment Rental","n":"1"}
+,{"yr":"2019","value":"Factory","n":"1"}
+,{"yr":"2019","value":"Financial Institutuion","n":"4"}
+,{"yr":"2019","value":"Freeway (incl ramps)","n":"1"}
+,{"yr":"2019","value":"Furniture Store","n":"2"}
+,{"yr":"2019","value":"Government Facility (Federal, State, County and City)","n":"1"}
+,{"yr":"2019","value":"Government / Public Building","n":"4"}
+,{"yr":"2019","value":"Industrial Site","n":"1"}
+,{"yr":"2019","value":"Library","n":"1"}
+,{"yr":"2019","value":"Loan / Cash Advance","n":"6"}
+,{"yr":"2019","value":"Location Unknown","n":"11"}
+,{"yr":"2019","value":"Mail Box","n":"1"}
+,{"yr":"2019","value":"MTA B Red Line -Hollywood/Highland","n":"1"}
+,{"yr":"2019","value":"MTA Bus","n":"1"}
+,{"yr":"2019","value":"MTA D Purple Line -Westlake/Macarthur Park","n":"1"}
+,{"yr":"2019","value":"Multiple Family Dwelling","n":"8"}
+,{"yr":"2019","value":"Offender's Residence","n":"10"}
+,{"yr":"2019","value":"Other","n":"1"}
+,{"yr":"2019","value":"Other Business","n":"10"}
+,{"yr":"2019","value":"Other place of worship","n":"6"}
+,{"yr":"2019","value":"Other Residence","n":"20"}
+,{"yr":"2019","value":"Other Store","n":"6"}
+,{"yr":"2019","value":"Parking Lot / Garage / Drop Lot","n":"3"}
+,{"yr":"2019","value":"Park / Playground","n":"2"}
+,{"yr":"2019","value":"Police Facility","n":"10"}
+,{"yr":"2019","value":"Pool/Public/Indoor or outdoor","n":"1"}
+,{"yr":"2019","value":"Project/Tenement/Public Housing","n":"1"}
+,{"yr":"2019","value":"Residence / Home / Driveway","n":"88"}
+,{"yr":"2019","value":"Residential Facility","n":"6"}
+,{"yr":"2019","value":"Restaurant","n":"2"}
+,{"yr":"2019","value":"School / College","n":"3"}
+,{"yr":"2019","value":"School - Elementary","n":"3"}
+,{"yr":"2019","value":"Shared Residence","n":"7"}
+,{"yr":"2019","value":"Sidewalk","n":"1"}
+,{"yr":"2019","value":"Single Family Home","n":"36"}
+,{"yr":"2019","value":"Single Residence Occupancy (SRO's) Locations","n":"2"}
+,{"yr":"2019","value":"Speciality Store (TV, Fur, Etc)","n":"1"}
+,{"yr":"2019","value":"Specialty School/Other","n":"2"}
+,{"yr":"2019","value":"Sport Venue, other","n":"1"}
+,{"yr":"2019","value":"Street/Parkway","n":"9"}
+,{"yr":"2019","value":"The Beverly Center","n":"1"}
+,{"yr":"2019","value":"Vehicle, Passenger/Truck","n":"2"}
+,{"yr":"2019","value":"Victim's Residence","n":"23"}
+,{"yr":"2019","value":"Website","n":"13"}
+,{"yr":"2019","value":"Yard (adjacent to Residential Location)","n":"1"}
+,{"yr":"2019","value":"Yard (Business)","n":"1"}
+,{"yr":"2019","n":"7"}
+,{"yr":"2020","value":"101 - STREET","n":"15"}
+,{"yr":"2020","value":"102 - SIDEWALK","n":"2"}
+,{"yr":"2020","value":"108 - PARKING LOT","n":"5"}
+,{"yr":"2020","value":"116 - OTHER/OUTSIDE","n":"1"}
+,{"yr":"2020","value":"123 - PARKING UNDERGROUND/BUILDING","n":"1"}
+,{"yr":"2020","value":"138 - STAIRWELL*","n":"1"}
+,{"yr":"2020","value":"202 - LIQUOR STORE","n":"1"}
+,{"yr":"2020","value":"203 - OTHER BUSINESS","n":"3"}
+,{"yr":"2020","value":"244 - TOBACCO SHOP","n":"1"}
+,{"yr":"2020","value":"401 - MINI-MART","n":"1"}
+,{"yr":"2020","value":"403 - DRUG STORE","n":"1"}
+,{"yr":"2020","value":"406 - OTHER STORE","n":"1"}
+,{"yr":"2020","value":"501 - SINGLE FAMILY DWELLING","n":"6"}
+,{"yr":"2020","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"2"}
+,{"yr":"2020","value":"505 - MOTEL","n":"1"}
+,{"yr":"2020","value":"707 - GARAGE/CARPORT","n":"2"}
+,{"yr":"2020","value":"726 - POLICE FACILITY","n":"4"}
+,{"yr":"2020","value":"7th and Metro Center (not line specific)","n":"1"}
+,{"yr":"2020","value":"Alley","n":"4"}
+,{"yr":"2020","value":"Amusement Park","n":"1"}
+,{"yr":"2020","value":"Any Vehicle","n":"5"}
+,{"yr":"2020","value":"Apartment/Condo Common Laundry Room","n":"24"}
+,{"yr":"2020","value":"Apartment/Condominium/Townhouse","n":"39"}
+,{"yr":"2020","value":"Arena / Stadium / Fairgrounds /Coliseum","n":"1"}
+,{"yr":"2020","value":"ATM Separate from Bank","n":"1"}
+,{"yr":"2020","value":"Auto Dealership New / Used","n":"5"}
+,{"yr":"2020","value":"Balcony","n":"1"}
+,{"yr":"2020","value":"Bank Drop Box/Money Drop (outside bank)","n":"1"}
+,{"yr":"2020","value":"Banking inside supermarket (or other facility)","n":"1"}
+,{"yr":"2020","value":"Bank / Savings and Loan","n":"31"}
+,{"yr":"2020","value":"Barber / Beauty Shop","n":"1"}
+,{"yr":"2020","value":"Beach","n":"1"}
+,{"yr":"2020","value":"Cell Phone Store","n":"2"}
+,{"yr":"2020","value":"Check Cashing","n":"1"}
+,{"yr":"2020","value":"Church/Chapel","n":"1"}
+,{"yr":"2020","value":"Clothing Store","n":"2"}
+,{"yr":"2020","value":"Coliseum","n":"1"}
+,{"yr":"2020","value":"Commercial / Office Building / Other Commerical","n":"5"}
+,{"yr":"2020","value":"Condominium/Townhouse","n":"2"}
+,{"yr":"2020","value":"Convenience Store","n":"1"}
+,{"yr":"2020","value":"Credit Union","n":"3"}
+,{"yr":"2020","value":"Cyber Space","n":"16"}
+,{"yr":"2020","value":"Daycare Facility","n":"1"}
+,{"yr":"2020","value":"Department / Discount Store","n":"2"}
+,{"yr":"2020","value":"Dock / Wharf / Freight / Modal Terminal","n":"1"}
+,{"yr":"2020","value":"Driveway (Residential)","n":"1"}
+,{"yr":"2020","value":"Dry Cleaner / Laundry","n":"1"}
+,{"yr":"2020","value":"Field / Woods / Vacant Field","n":"1"}
+,{"yr":"2020","value":"Financial Institutuion","n":"3"}
+,{"yr":"2020","value":"Foster Home/Boys, Girls","n":"1"}
+,{"yr":"2020","value":"Government Facility (Federal, State, County and City)","n":"2"}
+,{"yr":"2020","value":"Government / Public Building","n":"2"}
+,{"yr":"2020","value":"Group Home","n":"1"}
+,{"yr":"2020","value":"Highway / Road / Alley / Street","n":"3"}
+,{"yr":"2020","value":"Hospital","n":"1"}
+,{"yr":"2020","value":"Hotel/Motel","n":"2"}
+,{"yr":"2020","value":"Jail / Prison / Penitentiary / Correction Facility","n":"3"}
+,{"yr":"2020","value":"Jewelry Store","n":"1"}
+,{"yr":"2020","value":"Loan / Cash Advance","n":"1"}
+,{"yr":"2020","value":"Location Unknown","n":"13"}
+,{"yr":"2020","value":"Mail Box","n":"3"}
+,{"yr":"2020","value":"Market","n":"2"}
+,{"yr":"2020","value":"MTA B Red Line -7th and Metro Center","n":"1"}
+,{"yr":"2020","value":"MTA B Red Line -Hollywood/Vine","n":"1"}
+,{"yr":"2020","value":"MTA B Red Line -Pershing Square","n":"1"}
+,{"yr":"2020","value":"Multiple Family Dwelling","n":"4"}
+,{"yr":"2020","value":"Offender's Residence","n":"11"}
+,{"yr":"2020","value":"Other","n":"2"}
+,{"yr":"2020","value":"Other Business","n":"19"}
+,{"yr":"2020","value":"Other place of worship","n":"10"}
+,{"yr":"2020","value":"Other Residence","n":"18"}
+,{"yr":"2020","value":"Other Store","n":"4"}
+,{"yr":"2020","value":"Parking Lot / Garage / Drop Lot","n":"8"}
+,{"yr":"2020","value":"Park / Playground","n":"3"}
+,{"yr":"2020","value":"Patio (Residential)","n":"1"}
+,{"yr":"2020","value":"Police Facility","n":"29"}
+,{"yr":"2020","value":"Post Office","n":"1"}
+,{"yr":"2020","value":"Public Use Area","n":"1"}
+,{"yr":"2020","value":"Rental Storage Facility","n":"2"}
+,{"yr":"2020","value":"Residence / Home / Driveway","n":"99"}
+,{"yr":"2020","value":"Residential Facility","n":"5"}
+,{"yr":"2020","value":"Restaurant","n":"3"}
+,{"yr":"2020","value":"School / College","n":"1"}
+,{"yr":"2020","value":"Shared Residence","n":"4"}
+,{"yr":"2020","value":"Sidewalk","n":"1"}
+,{"yr":"2020","value":"Single Family Home","n":"49"}
+,{"yr":"2020","value":"Storage Shed (Other)","n":"2"}
+,{"yr":"2020","value":"Storage Shed (Residential)","n":"2"}
+,{"yr":"2020","value":"Street/Parkway","n":"19"}
+,{"yr":"2020","value":"Transient Encampment","n":"1"}
+,{"yr":"2020","value":"Vehicle, Passenger/Truck","n":"4"}
+,{"yr":"2020","value":"Victim's Residence","n":"49"}
+,{"yr":"2020","value":"Warehouse","n":"1"}
+,{"yr":"2020","value":"Website","n":"20"}
+,{"yr":"2020","value":"Yard (adjacent to Residential Location)","n":"1"}
+,{"yr":"2020","value":"Yard (Business)","n":"1"}
+,{"yr":"2020","n":"2"}
+,{"yr":"2021","value":"101 - STREET","n":"29"}
+,{"yr":"2021","value":"102 - SIDEWALK","n":"2"}
+,{"yr":"2021","value":"104 - DRIVEWAY","n":"1"}
+,{"yr":"2021","value":"108 - PARKING LOT","n":"6"}
+,{"yr":"2021","value":"109 - PARK/PLAYGROUND","n":"2"}
+,{"yr":"2021","value":"203 - OTHER BUSINESS","n":"1"}
+,{"yr":"2021","value":"221 - PUBLIC STORAGE","n":"1"}
+,{"yr":"2021","value":"248 - CELL PHONE STORE","n":"1"}
+,{"yr":"2021","value":"501 - SINGLE FAMILY DWELLING","n":"16"}
+,{"yr":"2021","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"12"}
+,{"yr":"2021","value":"503 - HOTEL","n":"1"}
+,{"yr":"2021","value":"505 - MOTEL","n":"1"}
+,{"yr":"2021","value":"507 - CONDOMINIUM/TOWNHOUSE","n":"1"}
+,{"yr":"2021","value":"710 - OTHER PREMISE","n":"2"}
+,{"yr":"2021","value":"726 - POLICE FACILITY","n":"2"}
+,{"yr":"2021","value":"Abandoned / Condemned Structure","n":"1"}
+,{"yr":"2021","value":"Abatement Location","n":"2"}
+,{"yr":"2021","value":"Air / Bus / Train Terminal","n":"3"}
+,{"yr":"2021","value":"Alley","n":"5"}
+,{"yr":"2021","value":"Any Vehicle","n":"3"}
+,{"yr":"2021","value":"Apartment/Condo Common Laundry Room","n":"12"}
+,{"yr":"2021","value":"Apartment/Condominium/Townhouse","n":"48"}
+,{"yr":"2021","value":"Arena / Stadium / Fairgrounds /Coliseum","n":"1"}
+,{"yr":"2021","value":"ATM Separate from Bank","n":"1"}
+,{"yr":"2021","value":"Auto Dealership New / Used","n":"1"}
+,{"yr":"2021","value":"Auto Mechanic / Repair Shop","n":"3"}
+,{"yr":"2021","value":"Balcony","n":"1"}
+,{"yr":"2021","value":"Banking inside supermarket (or other facility)","n":"1"}
+,{"yr":"2021","value":"Bank / Savings and Loan","n":"31"}
+,{"yr":"2021","value":"Beach","n":"4"}
+,{"yr":"2021","value":"Cell Phone Store","n":"2"}
+,{"yr":"2021","value":"Church / Synagogue / Temple / Religious Facility","n":"2"}
+,{"yr":"2021","value":"Clothing Store","n":"2"}
+,{"yr":"2021","value":"Commercial / Office Building / Other Commerical","n":"2"}
+,{"yr":"2021","value":"Community Center","n":"1"}
+,{"yr":"2021","value":"Computer Services/Repairs/Sales","n":"1"}
+,{"yr":"2021","value":"Condominium/Townhouse","n":"1"}
+,{"yr":"2021","value":"Construction Site","n":"3"}
+,{"yr":"2021","value":"Convenience Store","n":"3"}
+,{"yr":"2021","value":"Credit Union","n":"2"}
+,{"yr":"2021","value":"Cyber Space","n":"19"}
+,{"yr":"2021","value":"Daycare Facility","n":"1"}
+,{"yr":"2021","value":"Department / Discount Store","n":"1"}
+,{"yr":"2021","value":"Doctor's Office","n":"1"}
+,{"yr":"2021","value":"Driveway (other)","n":"2"}
+,{"yr":"2021","value":"Driveway (Residential)","n":"2"}
+,{"yr":"2021","value":"Factory","n":"1"}
+,{"yr":"2021","value":"Government Facility (Federal, State, County and City)","n":"5"}
+,{"yr":"2021","value":"Government / Public Building","n":"8"}
+,{"yr":"2021","value":"Greyhound or Interstate Bus","n":"1"}
+,{"yr":"2021","value":"Group Home","n":"1"}
+,{"yr":"2021","value":"Health Spa/Gym","n":"1"}
+,{"yr":"2021","value":"High-rise Building","n":"1"}
+,{"yr":"2021","value":"Hospital","n":"1"}
+,{"yr":"2021","value":"Hotel/Motel","n":"10"}
+,{"yr":"2021","value":"Loan / Cash Advance","n":"3"}
+,{"yr":"2021","value":"Location Unknown","n":"19"}
+,{"yr":"2021","value":"Locker Room","n":"1"}
+,{"yr":"2021","value":"Mail Box","n":"7"}
+,{"yr":"2021","value":"Membership Store (i.e.: Costco, Sams Club)","n":"1"}
+,{"yr":"2021","value":"MTA A Blue Line -Pico","n":"1"}
+,{"yr":"2021","value":"MTA Bus","n":"1"}
+,{"yr":"2021","value":"Multiple Family Dwelling","n":"3"}
+,{"yr":"2021","value":"Municipal Bus Lines (LADOT, DASH)","n":"1"}
+,{"yr":"2021","value":"Offender's Residence","n":"10"}
+,{"yr":"2021","value":"Other","n":"4"}
+,{"yr":"2021","value":"Other Business","n":"16"}
+,{"yr":"2021","value":"Other place of worship","n":"11"}
+,{"yr":"2021","value":"Other Residence","n":"15"}
+,{"yr":"2021","value":"Other Store","n":"6"}
+,{"yr":"2021","value":"Parking Lot / Garage / Drop Lot","n":"18"}
+,{"yr":"2021","value":"Park / Playground","n":"1"}
+,{"yr":"2021","value":"Pharmacy Inside Store/Supermarket","n":"1"}
+,{"yr":"2021","value":"Police Facility","n":"21"}
+,{"yr":"2021","value":"Porch Residential","n":"2"}
+,{"yr":"2021","value":"Public Restroom","n":"1"}
+,{"yr":"2021","value":"Public Use Area","n":"1"}
+,{"yr":"2021","value":"Rental Storage Facility","n":"3"}
+,{"yr":"2021","value":"Residence / Home / Driveway","n":"115"}
+,{"yr":"2021","value":"Residential Facility","n":"4"}
+,{"yr":"2021","value":"Restaurant","n":"1"}
+,{"yr":"2021","value":"School / College","n":"5"}
+,{"yr":"2021","value":"School - High School","n":"2"}
+,{"yr":"2021","value":"School - Junior High","n":"3"}
+,{"yr":"2021","value":"Service / Gas Station","n":"3"}
+,{"yr":"2021","value":"Shared Residence","n":"4"}
+,{"yr":"2021","value":"Shelter - Mission / Homeless","n":"1"}
+,{"yr":"2021","value":"Shopping Mall","n":"2"}
+,{"yr":"2021","value":"Sidewalk","n":"6"}
+,{"yr":"2021","value":"Single Family Home","n":"67"}
+,{"yr":"2021","value":"Single Residence Occupancy (SRO's) Locations","n":"3"}
+,{"yr":"2021","value":"Speciality Store (TV, Fur, Etc)","n":"1"}
+,{"yr":"2021","value":"Storage Shed (Other)","n":"1"}
+,{"yr":"2021","value":"Street/Parkway","n":"35"}
+,{"yr":"2021","value":"Telecommunications Facility/loc","n":"1"}
+,{"yr":"2021","value":"Vehicle, Passenger/Truck","n":"7"}
+,{"yr":"2021","value":"Victim's Residence","n":"45"}
+,{"yr":"2021","value":"Warehouse","n":"1"}
+,{"yr":"2021","value":"Website","n":"24"}
+,{"yr":"2021","n":"14"}
+,{"yr":"2022","value":"101 - STREET","n":"46"}
+,{"yr":"2022","value":"102 - SIDEWALK","n":"7"}
+,{"yr":"2022","value":"103 - ALLEY","n":"3"}
+,{"yr":"2022","value":"104 - DRIVEWAY","n":"1"}
+,{"yr":"2022","value":"108 - PARKING LOT","n":"6"}
+,{"yr":"2022","value":"109 - PARK/PLAYGROUND","n":"2"}
+,{"yr":"2022","value":"116 - OTHER/OUTSIDE","n":"1"}
+,{"yr":"2022","value":"121 - YARD (RESIDENTIAL/BUSINESS)","n":"1"}
+,{"yr":"2022","value":"122 - VEHICLE, PASSENGER/TRUCK","n":"2"}
+,{"yr":"2022","value":"203 - OTHER BUSINESS","n":"5"}
+,{"yr":"2022","value":"221 - PUBLIC STORAGE","n":"1"}
+,{"yr":"2022","value":"222 - LAUNDROMAT","n":"1"}
+,{"yr":"2022","value":"402 - MARKET","n":"1"}
+,{"yr":"2022","value":"501 - SINGLE FAMILY DWELLING","n":"28"}
+,{"yr":"2022","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"11"}
+,{"yr":"2022","value":"503 - HOTEL","n":"1"}
+,{"yr":"2022","value":"602 - BANK","n":"1"}
+,{"yr":"2022","value":"605 - AUTOMATED TELLER MACHINE (ATM)","n":"1"}
+,{"yr":"2022","value":"702 - OFFICE BUILDING/OFFICE","n":"1"}
+,{"yr":"2022","value":"704 - ELEMENTARY SCHOOL","n":"1"}
+,{"yr":"2022","value":"707 - GARAGE/CARPORT","n":"2"}
+,{"yr":"2022","value":"710 - OTHER PREMISE","n":"2"}
+,{"yr":"2022","value":"720 - JUNIOR HIGH SCHOOL","n":"1"}
+,{"yr":"2022","value":"725 - GOVERNMENT FACILITY (FEDERAL,STATE, COUNTY & CITY)","n":"2"}
+,{"yr":"2022","value":"726 - POLICE FACILITY","n":"3"}
+,{"yr":"2022","value":"733 - BAR/SPORTS BAR (OPEN DAY & NIGHT)","n":"1"}
+,{"yr":"2022","value":"7th and Metro Center (not line specific)","n":"1"}
+,{"yr":"2022","value":"809 - METROLINK TRAIN","n":"1"}
+,{"yr":"2022","value":"Abandoned / Condemned Structure","n":"4"}
+,{"yr":"2022","value":"Abatement Location","n":"1"}
+,{"yr":"2022","value":"Air / Bus / Train Terminal","n":"1"}
+,{"yr":"2022","value":"Alley","n":"3"}
+,{"yr":"2022","value":"Any Vehicle","n":"8"}
+,{"yr":"2022","value":"Apartment/Condo Common Laundry Room","n":"33"}
+,{"yr":"2022","value":"Apartment/Condominium/Townhouse","n":"63"}
+,{"yr":"2022","value":"Arcade / Mini-Golf / Jump / Laser Tag","n":"1"}
+,{"yr":"2022","value":"ATM Separate from Bank","n":"1"}
+,{"yr":"2022","value":"Auto Dealership New / Used","n":"8"}
+,{"yr":"2022","value":"Auto Mechanic / Repair Shop","n":"5"}
+,{"yr":"2022","value":"Balcony","n":"1"}
+,{"yr":"2022","value":"Bank / Savings and Loan","n":"28"}
+,{"yr":"2022","value":"Bar, Cocktail Lounge, Restaurant","n":"3"}
+,{"yr":"2022","value":"Beauty Supply Store","n":"1"}
+,{"yr":"2022","value":"Bus-Charter/Private","n":"1"}
+,{"yr":"2022","value":"Car Wash","n":"2"}
+,{"yr":"2022","value":"Cell Phone Store","n":"8"}
+,{"yr":"2022","value":"Cemetary","n":"1"}
+,{"yr":"2022","value":"Check Cashing","n":"1"}
+,{"yr":"2022","value":"Church/Chapel","n":"1"}
+,{"yr":"2022","value":"Clothing Store","n":"3"}
+,{"yr":"2022","value":"Commercial / Office Building / Other Commerical","n":"9"}
+,{"yr":"2022","value":"Construction Site","n":"2"}
+,{"yr":"2022","value":"Convenience Store","n":"1"}
+,{"yr":"2022","value":"Credit Union","n":"4"}
+,{"yr":"2022","value":"Crypto.com","n":"1"}
+,{"yr":"2022","value":"Cyber Space","n":"16"}
+,{"yr":"2022","value":"Delivery Service/FedEx, UPS, Couriers","n":"1"}
+,{"yr":"2022","value":"Department / Discount Store","n":"1"}
+,{"yr":"2022","value":"Doctor's Office","n":"3"}
+,{"yr":"2022","value":"Driveway (other)","n":"1"}
+,{"yr":"2022","value":"Driveway (Residential)","n":"3"}
+,{"yr":"2022","value":"Electronics Store (Best Buy, etc.)","n":"1"}
+,{"yr":"2022","value":"Energy Plant/Facility","n":"1"}
+,{"yr":"2022","value":"Entertainment/Comedy Club (other)","n":"1"}
+,{"yr":"2022","value":"Financial Institutuion","n":"8"}
+,{"yr":"2022","value":"Foster Home/Boys, Girls","n":"1"}
+,{"yr":"2022","value":"Government Facility (Federal, State, County and City)","n":"7"}
+,{"yr":"2022","value":"Government / Public Building","n":"8"}
+,{"yr":"2022","value":"Grocery/Supermarket","n":"1"}
+,{"yr":"2022","value":"Hardware Supply Store","n":"1"}
+,{"yr":"2022","value":"High-rise Building","n":"3"}
+,{"yr":"2022","value":"Highway / Road / Alley / Street","n":"7"}
+,{"yr":"2022","value":"Hospital","n":"1"}
+,{"yr":"2022","value":"Hotel/Motel","n":"6"}
+,{"yr":"2022","value":"Industrial Site","n":"2"}
+,{"yr":"2022","value":"Jail / Prison / Penitentiary / Correction Facility","n":"1"}
+,{"yr":"2022","value":"Jewelry Store","n":"1"}
+,{"yr":"2022","value":"Loan / Cash Advance","n":"1"}
+,{"yr":"2022","value":"Location Unknown","n":"21"}
+,{"yr":"2022","value":"Locker Room","n":"1"}
+,{"yr":"2022","value":"Mail Box","n":"6"}
+,{"yr":"2022","value":"Medical Office/Dental Office","n":"1"}
+,{"yr":"2022","value":"Mini-Mart","n":"1"}
+,{"yr":"2022","value":"MTA B Red Line -Hollywood/Highland","n":"1"}
+,{"yr":"2022","value":"Multiple Family Dwelling","n":"7"}
+,{"yr":"2022","value":"Night Club (open evenings only)","n":"1"}
+,{"yr":"2022","value":"Offender's Residence","n":"22"}
+,{"yr":"2022","value":"Other","n":"4"}
+,{"yr":"2022","value":"Other Business","n":"44"}
+,{"yr":"2022","value":"Other place of worship","n":"18"}
+,{"yr":"2022","value":"Other Residence","n":"25"}
+,{"yr":"2022","value":"Other Store","n":"11"}
+,{"yr":"2022","value":"Parking Lot / Garage / Drop Lot","n":"14"}
+,{"yr":"2022","value":"Parking underground/building","n":"1"}
+,{"yr":"2022","value":"Police Facility","n":"32"}
+,{"yr":"2022","value":"Pool/Public/Indoor or outdoor","n":"1"}
+,{"yr":"2022","value":"Porch Residential","n":"1"}
+,{"yr":"2022","value":"Private Health Facility","n":"1"}
+,{"yr":"2022","value":"Public Health Facility","n":"1"}
+,{"yr":"2022","value":"Public Restroom","n":"1"}
+,{"yr":"2022","value":"Public Use Area","n":"2"}
+,{"yr":"2022","value":"Rental Storage Facility","n":"7"}
+,{"yr":"2022","value":"Residence / Home / Driveway","n":"160"}
+,{"yr":"2022","value":"Residential Facility","n":"8"}
+,{"yr":"2022","value":"Restaurant","n":"2"}
+,{"yr":"2022","value":"School / College","n":"4"}
+,{"yr":"2022","value":"School - Elementary","n":"3"}
+,{"yr":"2022","value":"School - Junior High","n":"1"}
+,{"yr":"2022","value":"Service / Gas Station","n":"1"}
+,{"yr":"2022","value":"Shared Residence","n":"13"}
+,{"yr":"2022","value":"Shelter - Mission / Homeless","n":"3"}
+,{"yr":"2022","value":"Shopping Mall","n":"5"}
+,{"yr":"2022","value":"Sidewalk","n":"10"}
+,{"yr":"2022","value":"Single Family Home","n":"96"}
+,{"yr":"2022","value":"Single Residence Occupancy (SRO's) Locations","n":"3"}
+,{"yr":"2022","value":"Speciality Store (TV, Fur, Etc)","n":"2"}
+,{"yr":"2022","value":"Specialty School/Other","n":"1"}
+,{"yr":"2022","value":"Stairwell","n":"1"}
+,{"yr":"2022","value":"Street/Parkway","n":"39"}
+,{"yr":"2022","value":"Swap Meet","n":"1"}
+,{"yr":"2022","value":"Tattoo Parlor","n":"1"}
+,{"yr":"2022","value":"Telecommunications Facility/loc","n":"2"}
+,{"yr":"2022","value":"Tow Yard","n":"1"}
+,{"yr":"2022","value":"Transitional Housing/Halfway House","n":"1"}
+,{"yr":"2022","value":"Uninhabited Residence","n":"2"}
+,{"yr":"2022","value":"Vehicle, Passenger/Truck","n":"7"}
+,{"yr":"2022","value":"Veterinary Office/Hospital","n":"1"}
+,{"yr":"2022","value":"Victim's Residence","n":"60"}
+,{"yr":"2022","value":"Warehouse","n":"3"}
+,{"yr":"2022","value":"Website","n":"23"}
+,{"yr":"2022","n":"11"}
+,{"yr":"2023","value":"101 - STREET","n":"98"}
+,{"yr":"2023","value":"102 - SIDEWALK","n":"12"}
+,{"yr":"2023","value":"103 - ALLEY","n":"10"}
+,{"yr":"2023","value":"107 - VACANT LOT","n":"1"}
+,{"yr":"2023","value":"108 - PARKING LOT","n":"11"}
+,{"yr":"2023","value":"116 - OTHER/OUTSIDE","n":"1"}
+,{"yr":"2023","value":"122 - VEHICLE, PASSENGER/TRUCK","n":"5"}
+,{"yr":"2023","value":"123 - PARKING UNDERGROUND/BUILDING","n":"2"}
+,{"yr":"2023","value":"140 - BALCONY*","n":"1"}
+,{"yr":"2023","value":"151 - TOW YARD*","n":"2"}
+,{"yr":"2023","value":"202 - LIQUOR STORE","n":"2"}
+,{"yr":"2023","value":"203 - OTHER BUSINESS","n":"9"}
+,{"yr":"2023","value":"207 - BAR/COCKTAIL/NIGHTCLUB","n":"1"}
+,{"yr":"2023","value":"210 - RESTAURANT/FAST FOOD","n":"1"}
+,{"yr":"2023","value":"221 - PUBLIC STORAGE","n":"1"}
+,{"yr":"2023","value":"232 - DELIVERY SERVICE (FED EX, UPS, COURIERS,COURIER SERVICE)*","n":"1"}
+,{"yr":"2023","value":"244 - TOBACCO SHOP","n":"1"}
+,{"yr":"2023","value":"301 - GAS STATION","n":"1"}
+,{"yr":"2023","value":"401 - MINI-MART","n":"2"}
+,{"yr":"2023","value":"402 - MARKET","n":"2"}
+,{"yr":"2023","value":"409 - BEAUTY SUPPLY STORE","n":"1"}
+,{"yr":"2023","value":"416 - THE BEVERLY CENTER","n":"1"}
+,{"yr":"2023","value":"501 - SINGLE FAMILY DWELLING","n":"58"}
+,{"yr":"2023","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"21"}
+,{"yr":"2023","value":"503 - HOTEL","n":"3"}
+,{"yr":"2023","value":"514 - GROUP HOME","n":"1"}
+,{"yr":"2023","value":"515 - APARTMENT/CONDO COMMON LAUNDRY ROOM","n":"1"}
+,{"yr":"2023","value":"602 - BANK","n":"1"}
+,{"yr":"2023","value":"707 - GARAGE/CARPORT","n":"3"}
+,{"yr":"2023","value":"718 - MASSAGE PARLOR","n":"2"}
+,{"yr":"2023","value":"719 - MEDICAL/DENTAL OFFICES","n":"1"}
+,{"yr":"2023","value":"722 - COLLEGE/JUNIOR COLLEGE/UNIVERSITY","n":"1"}
+,{"yr":"2023","value":"725 - GOVERNMENT FACILITY (FEDERAL,STATE, COUNTY & CITY)","n":"1"}
+,{"yr":"2023","value":"726 - POLICE FACILITY","n":"4"}
+,{"yr":"2023","value":"7th and Metro Center (not line specific)","n":"5"}
+,{"yr":"2023","value":"Abandoned / Condemned Structure","n":"2"}
+,{"yr":"2023","value":"Abatement Location","n":"2"}
+,{"yr":"2023","value":"Air / Bus / Train Terminal","n":"5"}
+,{"yr":"2023","value":"Aircraft","n":"1"}
+,{"yr":"2023","value":"Airports/Transportation Facility","n":"4"}
+,{"yr":"2023","value":"Alley","n":"10"}
+,{"yr":"2023","value":"Any Vehicle","n":"8"}
+,{"yr":"2023","value":"Apartment/Condo Common Laundry Room","n":"71"}
+,{"yr":"2023","value":"Apartment/Condominium/Townhouse","n":"116"}
+,{"yr":"2023","value":"ATM Separate from Bank","n":"7"}
+,{"yr":"2023","value":"Auto Dealership New / Used","n":"8"}
+,{"yr":"2023","value":"Auto Mechanic / Repair Shop","n":"6"}
+,{"yr":"2023","value":"Auto Supply Store","n":"3"}
+,{"yr":"2023","value":"Balcony","n":"1"}
+,{"yr":"2023","value":"Banking inside supermarket (or other facility)","n":"2"}
+,{"yr":"2023","value":"Bank / Savings and Loan","n":"58"}
+,{"yr":"2023","value":"Bar, Cocktail Lounge, Restaurant","n":"6"}
+,{"yr":"2023","value":"Beach","n":"2"}
+,{"yr":"2023","value":"Beauty Supply Store","n":"2"}
+,{"yr":"2023","value":"Book Store","n":"1"}
+,{"yr":"2023","value":"Bowling Alley","n":"1"}
+,{"yr":"2023","value":"Car Wash","n":"2"}
+,{"yr":"2023","value":"Cell Phone Store","n":"9"}
+,{"yr":"2023","value":"Check Cashing","n":"1"}
+,{"yr":"2023","value":"Church/Chapel","n":"1"}
+,{"yr":"2023","value":"Church / Synagogue / Temple / Religious Facility","n":"1"}
+,{"yr":"2023","value":"Clothing Store","n":"4"}
+,{"yr":"2023","value":"Coffee Shop (Starbucks, Coffee Bean, Peet's, Etc.)","n":"1"}
+,{"yr":"2023","value":"Commercial / Office Building / Other Commerical","n":"37"}
+,{"yr":"2023","value":"Community Center","n":"1"}
+,{"yr":"2023","value":"Computer Services/Repairs/Sales","n":"2"}
+,{"yr":"2023","value":"Condominium/Townhouse","n":"4"}
+,{"yr":"2023","value":"Construction Site","n":"2"}
+,{"yr":"2023","value":"Convenience Store","n":"4"}
+,{"yr":"2023","value":"Credit Union","n":"11"}
+,{"yr":"2023","value":"Cyber Space","n":"26"}
+,{"yr":"2023","value":"Department / Discount Store","n":"9"}
+,{"yr":"2023","value":"Detention/Jail Facility","n":"1"}
+,{"yr":"2023","value":"DIY Center (Lowe's, Home Depot, etc.)","n":"2"}
+,{"yr":"2023","value":"Doctor's Office","n":"6"}
+,{"yr":"2023","value":"Dodger Stadium","n":"2"}
+,{"yr":"2023","value":"Driveway (other)","n":"2"}
+,{"yr":"2023","value":"Driveway (Residential)","n":"3"}
+,{"yr":"2023","value":"Drug Store / Pharmacy / Medical Supply Building","n":"1"}
+,{"yr":"2023","value":"Electronics Store (Best Buy, etc.)","n":"3"}
+,{"yr":"2023","value":"Elevator","n":"2"}
+,{"yr":"2023","value":"Equipment Rental","n":"2"}
+,{"yr":"2023","value":"Financial Institutuion","n":"5"}
+,{"yr":"2023","value":"Fire Station","n":"1"}
+,{"yr":"2023","value":"Furniture Store","n":"2"}
+,{"yr":"2023","value":"Government Facility (Federal, State, County and City)","n":"9"}
+,{"yr":"2023","value":"Government / Public Building","n":"7"}
+,{"yr":"2023","value":"Grocery/Supermarket","n":"5"}
+,{"yr":"2023","value":"Gun/Sporting Goods","n":"1"}
+,{"yr":"2023","value":"Health Spa/Gym","n":"2"}
+,{"yr":"2023","value":"High-rise Building","n":"2"}
+,{"yr":"2023","value":"Highway / Road / Alley / Street","n":"12"}
+,{"yr":"2023","value":"Hospital","n":"4"}
+,{"yr":"2023","value":"Hotel/Motel","n":"23"}
+,{"yr":"2023","value":"LA Union Station (not line specific)","n":"2"}
+,{"yr":"2023","value":"Library","n":"2"}
+,{"yr":"2023","value":"Liquor Store","n":"1"}
+,{"yr":"2023","value":"Loan / Cash Advance","n":"3"}
+,{"yr":"2023","value":"Location Unknown","n":"32"}
+,{"yr":"2023","value":"Mail Box","n":"8"}
+,{"yr":"2023","value":"Market","n":"4"}
+,{"yr":"2023","value":"Massage Parlor","n":"1"}
+,{"yr":"2023","value":"Medical Clinic","n":"2"}
+,{"yr":"2023","value":"Medical Office/Dental Office","n":"2"}
+,{"yr":"2023","value":"Mini-Mart","n":"1"}
+,{"yr":"2023","value":"Mobile Home/Trailers/Construction Trailers/RV's/Motorhome","n":"3"}
+,{"yr":"2023","value":"Movie Theater","n":"2"}
+,{"yr":"2023","value":"MTA B Red Line -North Hollywood","n":"1"}
+,{"yr":"2023","value":"MTA B Red Line -Westlake/Macarthur Park","n":"1"}
+,{"yr":"2023","value":"MTA Bus","n":"1"}
+,{"yr":"2023","value":"Multiple Family Dwelling","n":"15"}
+,{"yr":"2023","value":"Nursing Home","n":"4"}
+,{"yr":"2023","value":"Offender's Residence","n":"33"}
+,{"yr":"2023","value":"Other","n":"12"}
+,{"yr":"2023","value":"Other Business","n":"93"}
+,{"yr":"2023","value":"Other place of worship","n":"32"}
+,{"yr":"2023","value":"Other Residence","n":"37"}
+,{"yr":"2023","value":"Other Store","n":"9"}
+,{"yr":"2023","value":"Parking Lot / Garage / Drop Lot","n":"49"}
+,{"yr":"2023","value":"Parking underground/building","n":"8"}
+,{"yr":"2023","value":"Park / Playground","n":"9"}
+,{"yr":"2023","value":"Pawn / Buy-Sell-Trade Shops","n":"1"}
+,{"yr":"2023","value":"Pharmacy Inside Store/Supermarket","n":"3"}
+,{"yr":"2023","value":"Police Facility","n":"36"}
+,{"yr":"2023","value":"Pool/Public/Indoor or outdoor","n":"2"}
+,{"yr":"2023","value":"Porch Residential","n":"4"}
+,{"yr":"2023","value":"Post Office","n":"3"}
+,{"yr":"2023","value":"Private Health Facility","n":"2"}
+,{"yr":"2023","value":"Public Restroom","n":"4"}
+,{"yr":"2023","value":"Public Use Area","n":"6"}
+,{"yr":"2023","value":"Rental Storage Facility","n":"27"}
+,{"yr":"2023","value":"Residence / Home / Driveway","n":"309"}
+,{"yr":"2023","value":"Residential Facility","n":"9"}
+,{"yr":"2023","value":"Restaurant","n":"18"}
+,{"yr":"2023","value":"School / College","n":"20"}
+,{"yr":"2023","value":"School - Elementary","n":"3"}
+,{"yr":"2023","value":"School - High School","n":"5"}
+,{"yr":"2023","value":"School - Junior High","n":"9"}
+,{"yr":"2023","value":"Service / Gas Station","n":"1"}
+,{"yr":"2023","value":"Shared Residence","n":"9"}
+,{"yr":"2023","value":"Shopping Mall","n":"1"}
+,{"yr":"2023","value":"Sidewalk","n":"27"}
+,{"yr":"2023","value":"Single Family Home","n":"152"}
+,{"yr":"2023","value":"Single Residence Occupancy (SRO's) Locations","n":"6"}
+,{"yr":"2023","value":"Slips/Dock/Marina/Boat","n":"1"}
+,{"yr":"2023","value":"Specialty School/Other","n":"1"}
+,{"yr":"2023","value":"Stairwell","n":"1"}
+,{"yr":"2023","value":"Storage Shed (Other)","n":"6"}
+,{"yr":"2023","value":"Storage Shed (Residential)","n":"3"}
+,{"yr":"2023","value":"Street/Parkway","n":"121"}
+,{"yr":"2023","value":"Studio (film/photo, music)","n":"1"}
+,{"yr":"2023","value":"Telecommunications Facility/loc","n":"2"}
+,{"yr":"2023","value":"The Beverly Center","n":"1"}
+,{"yr":"2023","value":"Tow Yard","n":"2"}
+,{"yr":"2023","value":"Transitional Housing/Halfway House","n":"2"}
+,{"yr":"2023","value":"Truck-Commercial","n":"2"}
+,{"yr":"2023","value":"TV/Radio/Appliance","n":"1"}
+,{"yr":"2023","value":"Vehicle, Passenger/Truck","n":"24"}
+,{"yr":"2023","value":"Vehicle Storage Lot","n":"2"}
+,{"yr":"2023","value":"Veterinary Office/Hospital","n":"1"}
+,{"yr":"2023","value":"Victim's Residence","n":"163"}
+,{"yr":"2023","value":"Warehouse","n":"5"}
+,{"yr":"2023","value":"Water Facility","n":"1"}
+,{"yr":"2023","value":"Website","n":"42"}
+,{"yr":"2023","value":"Yard (adjacent to Residential Location)","n":"3"}
+,{"yr":"2023","value":"Yard (Business)","n":"2"}
+,{"yr":"2023","value":"Zoo","n":"1"}
+,{"yr":"2023","n":"18"}
+,{"yr":"2024","value":"101 - STREET","n":"113"}
+,{"yr":"2024","value":"102 - SIDEWALK","n":"4"}
+,{"yr":"2024","value":"103 - ALLEY","n":"1"}
+,{"yr":"2024","value":"104 - DRIVEWAY","n":"7"}
+,{"yr":"2024","value":"108 - PARKING LOT","n":"30"}
+,{"yr":"2024","value":"109 - PARK/PLAYGROUND","n":"1"}
+,{"yr":"2024","value":"111 - BUS-CHARTER/PRIVATE","n":"3"}
+,{"yr":"2024","value":"120 - STORAGE SHED","n":"1"}
+,{"yr":"2024","value":"122 - VEHICLE, PASSENGER/TRUCK","n":"2"}
+,{"yr":"2024","value":"123 - PARKING UNDERGROUND/BUILDING","n":"1"}
+,{"yr":"2024","value":"135 - MTA PROPERTY OR PARKING LOT","n":"2"}
+,{"yr":"2024","value":"145 - MAIL BOX","n":"2"}
+,{"yr":"2024","value":"151 - TOW YARD*","n":"1"}
+,{"yr":"2024","value":"203 - OTHER BUSINESS","n":"4"}
+,{"yr":"2024","value":"208 - AUTO SALES LOT","n":"1"}
+,{"yr":"2024","value":"221 - PUBLIC STORAGE","n":"6"}
+,{"yr":"2024","value":"243 - DIY CENTER (LOWE'S,HOME DEPOT,OSH,CONTRACTORS WAREHOUSE)","n":"3"}
+,{"yr":"2024","value":"255 - AUTO DEALERSHIP (CHEVY, FORD, BMW, MERCEDES, ETC.)","n":"2"}
+,{"yr":"2024","value":"301 - GAS STATION","n":"1"}
+,{"yr":"2024","value":"404 - DEPARTMENT STORE","n":"4"}
+,{"yr":"2024","value":"406 - OTHER STORE","n":"2"}
+,{"yr":"2024","value":"409 - BEAUTY SUPPLY STORE","n":"1"}
+,{"yr":"2024","value":"501 - SINGLE FAMILY DWELLING","n":"25"}
+,{"yr":"2024","value":"502 - MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)","n":"10"}
+,{"yr":"2024","value":"503 - HOTEL","n":"2"}
+,{"yr":"2024","value":"504 - OTHER RESIDENCE","n":"1"}
+,{"yr":"2024","value":"505 - MOTEL","n":"1"}
+,{"yr":"2024","value":"509 - MOBILE HOME/TRAILERS/CONSTRUCTION TRAILERS/RV'S/MOTORHOME","n":"1"}
+,{"yr":"2024","value":"602 - BANK","n":"1"}
+,{"yr":"2024","value":"701 - HOSPITAL","n":"1"}
+,{"yr":"2024","value":"702 - OFFICE BUILDING/OFFICE","n":"1"}
+,{"yr":"2024","value":"707 - GARAGE/CARPORT","n":"1"}
+,{"yr":"2024","value":"710 - OTHER PREMISE","n":"12"}
+,{"yr":"2024","value":"7th and Metro Center (not line specific)","n":"117"}
+,{"yr":"2024","value":"Abandoned / Condemned Structure","n":"46"}
+,{"yr":"2024","value":"Abatement Location","n":"6"}
+,{"yr":"2024","value":"Abortion Clinic or Facility","n":"1"}
+,{"yr":"2024","value":"Adult Daycare Facility","n":"31"}
+,{"yr":"2024","value":"Air / Bus / Train Terminal","n":"722"}
+,{"yr":"2024","value":"Aircraft","n":"3"}
+,{"yr":"2024","value":"Airports/Transportation Facility","n":"43"}
+,{"yr":"2024","value":"Alley","n":"711"}
+,{"yr":"2024","value":"Amusement Park","n":"8"}
+,{"yr":"2024","value":"Any Vehicle","n":"373"}
+,{"yr":"2024","value":"Apartment/Condo Common Laundry Room","n":"8054"}
+,{"yr":"2024","value":"Apartment/Condominium/Townhouse","n":"279"}
+,{"yr":"2024","value":"Arcade, Game Room (Ex. Chuckie cheese)","n":"2"}
+,{"yr":"2024","value":"Arena / Stadium / Fairgrounds /Coliseum","n":"24"}
+,{"yr":"2024","value":"ATM Separate from Bank","n":"84"}
+,{"yr":"2024","value":"Auto Dealership New / Used","n":"116"}
+,{"yr":"2024","value":"Auto Mechanic / Repair Shop","n":"157"}
+,{"yr":"2024","value":"Auto Salvages / Junk Yard","n":"14"}
+,{"yr":"2024","value":"Auto Supply Store","n":"85"}
+,{"yr":"2024","value":"Balcony","n":"26"}
+,{"yr":"2024","value":"Bank Drop Box/Money Drop (outside bank)","n":"7"}
+,{"yr":"2024","value":"Banking inside supermarket (or other facility)","n":"8"}
+,{"yr":"2024","value":"Bank / Savings and Loan","n":"374"}
+,{"yr":"2024","value":"Barber / Beauty Shop","n":"83"}
+,{"yr":"2024","value":"Bar, Cocktail Lounge, Restaurant","n":"349"}
+,{"yr":"2024","value":"Basketball Courts","n":"7"}
+,{"yr":"2024","value":"Beach","n":"143"}
+,{"yr":"2024","value":"Beauty Supply Store","n":"78"}
+,{"yr":"2024","value":"Book Store","n":"3"}
+,{"yr":"2024","value":"Bowling Alley","n":"8"}
+,{"yr":"2024","value":"Bus-Charter/Private","n":"10"}
+,{"yr":"2024","value":"Bus-School/Church","n":"14"}
+,{"yr":"2024","value":"Camp / Campground","n":"2"}
+,{"yr":"2024","value":"Cannabis- non-retail location (grow/testing/lab/delivery, etc.)","n":"17"}
+,{"yr":"2024","value":"Cannabis - retail location","n":"34"}
+,{"yr":"2024","value":"Cargo Container","n":"13"}
+,{"yr":"2024","value":"Car Wash","n":"50"}
+,{"yr":"2024","value":"Catering/Ice Cream Truck","n":"9"}
+,{"yr":"2024","value":"Cell Phone Store","n":"169"}
+,{"yr":"2024","value":"Cemetary","n":"14"}
+,{"yr":"2024","value":"Check Cashing","n":"37"}
+,{"yr":"2024","value":"Chemical Storage/Manufacturing Plant","n":"1"}
+,{"yr":"2024","value":"Children Daycare Facility","n":"13"}
+,{"yr":"2024","value":"Church/Chapel","n":"104"}
+,{"yr":"2024","value":"Church / Synagogue / Temple / Religious Facility","n":"152"}
+,{"yr":"2024","value":"Clothing Store","n":"703"}
+,{"yr":"2024","value":"Coffee Shop (Starbucks, Coffee Bean, Peet's, Etc.)","n":"177"}
+,{"yr":"2024","value":"Coliseum","n":"1"}
+,{"yr":"2024","value":"Commercial / Office Building / Other Commerical","n":"1014"}
+,{"yr":"2024","value":"Common Laundry Room","n":"1"}
+,{"yr":"2024","value":"Community Center","n":"36"}
+,{"yr":"2024","value":"Computer Services/Repairs/Sales","n":"13"}
+,{"yr":"2024","value":"Concert Venue/Mass Gathering","n":"43"}
+,{"yr":"2024","value":"Condominium/Townhouse","n":"231"}
+,{"yr":"2024","value":"Construction Site","n":"258"}
+,{"yr":"2024","value":"Convenience Store","n":"1068"}
+,{"yr":"2024","value":"Convention Center","n":"16"}
+,{"yr":"2024","value":"Credit Union","n":"19"}
+,{"yr":"2024","value":"Crypto.com","n":"5"}
+,{"yr":"2024","value":"Cyber Space","n":"88"}
+,{"yr":"2024","value":"Daycare Facility","n":"12"}
+,{"yr":"2024","value":"Delivery Service/FedEx, UPS, Couriers","n":"30"}
+,{"yr":"2024","value":"Department / Discount Store","n":"1142"}
+,{"yr":"2024","value":"Department of Corrections","n":"1"}
+,{"yr":"2024","value":"Detention/Jail Facility","n":"73"}
+,{"yr":"2024","value":"DIY Center (Lowe's, Home Depot, etc.)","n":"21"}
+,{"yr":"2024","value":"Dock / Wharf / Freight / Modal Terminal","n":"4"}
+,{"yr":"2024","value":"Doctor's Office","n":"16"}
+,{"yr":"2024","value":"Dodger Stadium","n":"50"}
+,{"yr":"2024","value":"Drive Thru banking window/counter","n":"8"}
+,{"yr":"2024","value":"Drive-thru (meals/beverages)","n":"28"}
+,{"yr":"2024","value":"Drive Thru (other)","n":"2"}
+,{"yr":"2024","value":"Driveway (other)","n":"277"}
+,{"yr":"2024","value":"Driveway (Residential)","n":"302"}
+,{"yr":"2024","value":"Drug Store / Pharmacy / Medical Supply Building","n":"281"}
+,{"yr":"2024","value":"Dry Cleaner / Laundry","n":"193"}
+,{"yr":"2024","value":"Electronics Store (Best Buy, etc.)","n":"59"}
+,{"yr":"2024","value":"Elevator","n":"42"}
+,{"yr":"2024","value":"Energy Plant/Facility","n":"1"}
+,{"yr":"2024","value":"Entertainment/Comedy Club (other)","n":"13"}
+,{"yr":"2024","value":"Equipment Rental","n":"12"}
+,{"yr":"2024","value":"Escalator","n":"1"}
+,{"yr":"2024","value":"Factory","n":"5"}
+,{"yr":"2024","value":"Farm Facility","n":"7"}
+,{"yr":"2024","value":"Field / Woods / Vacant Field","n":"34"}
+,{"yr":"2024","value":"Financial Institutuion","n":"58"}
+,{"yr":"2024","value":"Fire Station","n":"23"}
+,{"yr":"2024","value":"Foster Home/Boys, Girls","n":"4"}
+,{"yr":"2024","value":"Frat/Sorority/Dormitory","n":"10"}
+,{"yr":"2024","value":"Freeway (incl ramps)","n":"49"}
+,{"yr":"2024","value":"Furniture Store","n":"19"}
+,{"yr":"2024","value":"Gambling Facility / Casino / Race Track","n":"9"}
+,{"yr":"2024","value":"Golf Course","n":"13"}
+,{"yr":"2024","value":"Government Facility (Federal, State, County and City)","n":"138"}
+,{"yr":"2024","value":"Government / Public Building","n":"139"}
+,{"yr":"2024","value":"Grocery/Supermarket","n":"662"}
+,{"yr":"2024","value":"Group Home","n":"57"}
+,{"yr":"2024","value":"Handball Courts","n":"1"}
+,{"yr":"2024","value":"Harbor Frwy Station (not line specific)","n":"2"}
+,{"yr":"2024","value":"Hardware Supply Store","n":"95"}
+,{"yr":"2024","value":"Health Spa/Gym","n":"154"}
+,{"yr":"2024","value":"High-rise Building","n":"35"}
+,{"yr":"2024","value":"Highway / Road / Alley / Street","n":"2055"}
+,{"yr":"2024","value":"Hockey Rink/Ice Hockey","n":"3"}
+,{"yr":"2024","value":"Hospice","n":"13"}
+,{"yr":"2024","value":"Hospital","n":"274"}
+,{"yr":"2024","value":"Hotel/Motel","n":"807"}
+,{"yr":"2024","value":"Industrial Site","n":"15"}
+,{"yr":"2024","value":"Jail / Prison / Penitentiary / Correction Facility","n":"40"}
+,{"yr":"2024","value":"Jewelry Store","n":"74"}
+,{"yr":"2024","value":"Lake / Waterway","n":"3"}
+,{"yr":"2024","value":"LA Union Station (not line specific)","n":"121"}
+,{"yr":"2024","value":"Library","n":"117"}
+,{"yr":"2024","value":"Liquor Store","n":"386"}
+,{"yr":"2024","value":"Loan / Cash Advance","n":"11"}
+,{"yr":"2024","value":"Location Unknown","n":"271"}
+,{"yr":"2024","value":"Locker Room","n":"22"}
+,{"yr":"2024","value":"Mail Box","n":"63"}
+,{"yr":"2024","value":"Manufacturing Company","n":"6"}
+,{"yr":"2024","value":"Marijuana Dispensary","n":"85"}
+,{"yr":"2024","value":"Marijuana Grow Site (Non-Residential)","n":"10"}
+,{"yr":"2024","value":"Market","n":"292"}
+,{"yr":"2024","value":"Massage Parlor","n":"44"}
+,{"yr":"2024","value":"Medical Clinic","n":"63"}
+,{"yr":"2024","value":"Medical Office/Dental Office","n":"66"}
+,{"yr":"2024","value":"Membership Store (i.e.: Costco, Sams Club)","n":"28"}
+,{"yr":"2024","value":"Methadone Clinic","n":"2"}
+,{"yr":"2024","value":"Metrolink Train","n":"30"}
+,{"yr":"2024","value":"Military Installation","n":"2"}
+,{"yr":"2024","value":"Mini-Mart","n":"57"}
+,{"yr":"2024","value":"Mobile Home/Trailers/Construction Trailers/RV's/Motorhome","n":"238"}
+,{"yr":"2024","value":"Mortuary","n":"6"}
+,{"yr":"2024","value":"Mosque","n":"1"}
+,{"yr":"2024","value":"Movie Theater","n":"30"}
+,{"yr":"2024","value":"MTA A Blue Line -103rd/Watts Tower","n":"5"}
+,{"yr":"2024","value":"MTA A Blue Line -7th and Metro Center","n":"31"}
+,{"yr":"2024","value":"MTA A Blue Line -Grand/LATTC","n":"24"}
+,{"yr":"2024","value":"MTA A Blue Line -Pico","n":"19"}
+,{"yr":"2024","value":"MTA A Blue Line -San Pedro","n":"11"}
+,{"yr":"2024","value":"MTA A Blue Line -Vernon","n":"10"}
+,{"yr":"2024","value":"MTA A Blue Line -Washington","n":"13"}
+,{"yr":"2024","value":"MTA B Red Line -7th and Metro Center","n":"38"}
+,{"yr":"2024","value":"MTA B Red Line -Civic Center/Grand Park","n":"9"}
+,{"yr":"2024","value":"MTA B Red Line -Hollywood/Highland","n":"49"}
+,{"yr":"2024","value":"MTA B Red Line -Hollywood/Vine","n":"39"}
+,{"yr":"2024","value":"MTA B Red Line -Hollywood/Western","n":"35"}
+,{"yr":"2024","value":"MTA B Red Line -North Hollywood","n":"166"}
+,{"yr":"2024","value":"MTA B Red Line -Pershing Square","n":"118"}
+,{"yr":"2024","value":"MTA B Red Line -Union Station","n":"88"}
+,{"yr":"2024","value":"MTA B Red Line -Universal City/Studio City","n":"33"}
+,{"yr":"2024","value":"MTA B Red Line -Vermont/Beverly","n":"16"}
+,{"yr":"2024","value":"MTA B Red Line -Vermont/Santa Monica","n":"22"}
+,{"yr":"2024","value":"MTA B Red Line -Vermont/Sunset","n":"45"}
+,{"yr":"2024","value":"MTA B Red Line -Westlake/Macarthur Park","n":"113"}
+,{"yr":"2024","value":"MTA B Red Line -Wilshire/Vermont","n":"37"}
+,{"yr":"2024","value":"MTA Bus","n":"264"}
+,{"yr":"2024","value":"MTA C Green Line - Avalon","n":"18"}
+,{"yr":"2024","value":"MTA C Green Line - Aviation/LAX","n":"11"}
+,{"yr":"2024","value":"MTA C Green Line - Harbor Fwy","n":"18"}
+,{"yr":"2024","value":"MTA D Purple Line -7th and Metro Center","n":"5"}
+,{"yr":"2024","value":"MTA D Purple Line -Civic Center/Grand Park","n":"3"}
+,{"yr":"2024","value":"MTA D Purple Line -Pershing square","n":"28"}
+,{"yr":"2024","value":"MTA D Purple Line -Union Station","n":"2"}
+,{"yr":"2024","value":"MTA D Purple Line -Westlake/Macarthur Park","n":"21"}
+,{"yr":"2024","value":"MTA D Purple Line -Wilshire/Normandie","n":"10"}
+,{"yr":"2024","value":"MTA D Purple Line -Wilshire/Vermont","n":"9"}
+,{"yr":"2024","value":"MTA D Purple Line -Wilshire/Western","n":"27"}
+,{"yr":"2024","value":"MTA E Expo Line - Expo/Bundy","n":"7"}
+,{"yr":"2024","value":"MTA E Expo Line - Expo/Crenshaw","n":"20"}
+,{"yr":"2024","value":"MTA E Expo Line - Expo/La Brea","n":"11"}
+,{"yr":"2024","value":"MTA E Expo Line - Expo Park/USC","n":"9"}
+,{"yr":"2024","value":"MTA E Expo Line - Expo/Sepulveda","n":"7"}
+,{"yr":"2024","value":"MTA E Expo Line - Expo/Vermont","n":"14"}
+,{"yr":"2024","value":"MTA E Expo Line - Expo/Western","n":"26"}
+,{"yr":"2024","value":"MTA E Expo Line - Farmdale","n":"7"}
+,{"yr":"2024","value":"MTA E Expo Line - Jefferson/USC","n":"8"}
+,{"yr":"2024","value":"MTA E Expo Line - La Cienega/Jefferson","n":"7"}
+,{"yr":"2024","value":"MTA E Expo Line - LATTC/Ortho Institute","n":"9"}
+,{"yr":"2024","value":"MTA E Expo Line - Palms","n":"3"}
+,{"yr":"2024","value":"MTA E Expo Line - Pico","n":"5"}
+,{"yr":"2024","value":"MTA E Expo Line - Westwood/Rancho Park","n":"5"}
+,{"yr":"2024","value":"MTA G Orange Line - Canoga","n":"7"}
+,{"yr":"2024","value":"MTA G Orange Line -Chatsworth","n":"6"}
+,{"yr":"2024","value":"MTA G Orange Line -De Soto","n":"2"}
+,{"yr":"2024","value":"MTA G Orange Line -Laurel Canyon","n":"5"}
+,{"yr":"2024","value":"MTA G Orange Line - North Hollywood","n":"13"}
+,{"yr":"2024","value":"MTA G Orange Line - Reseda","n":"25"}
+,{"yr":"2024","value":"MTA G Orange Line -Sepulveda","n":"4"}
+,{"yr":"2024","value":"MTA G Orange Line - Sherman Way","n":"5"}
+,{"yr":"2024","value":"MTA G Orange Line - Valley College","n":"1"}
+,{"yr":"2024","value":"MTA G Orange Line - Van Nuys","n":"7"}
+,{"yr":"2024","value":"MTA J Silver Line -37th St/USC","n":"8"}
+,{"yr":"2024","value":"MTA J Silver Line -Cal State LA","n":"1"}
+,{"yr":"2024","value":"MTA J Silver Line -Downtown Street Stops","n":"7"}
+,{"yr":"2024","value":"MTA J Silver Line - Harbor Fwy","n":"1"}
+,{"yr":"2024","value":"MTA J Silver Line -Harbor Gateway Transit Ctr","n":"7"}
+,{"yr":"2024","value":"MTA J Silver Line -LAC/USC Medical Center","n":"2"}
+,{"yr":"2024","value":"MTA J Silver Line -Manchester","n":"4"}
+,{"yr":"2024","value":"MTA J Silver Line -Pacific Coast Hwy","n":"1"}
+,{"yr":"2024","value":"MTA J Silver Line -Slauson","n":"10"}
+,{"yr":"2024","value":"MTA J Silver Line -Union Station","n":"2"}
+,{"yr":"2024","value":"MTA K Crenshaw Line - Aviation/Century Station","n":"5"}
+,{"yr":"2024","value":"MTA K Crenshaw Line - Crenshaw/Exposition","n":"4"}
+,{"yr":"2024","value":"MTA K Crenshaw Line - Crenshaw/Martin Luther King","n":"3"}
+,{"yr":"2024","value":"MTA K Crenshaw Line - Hyde Park","n":"5"}
+,{"yr":"2024","value":"MTA K Crenshaw Line - Leimert Park","n":"6"}
+,{"yr":"2024","value":"MTA L Gold Line - Chinatown","n":"21"}
+,{"yr":"2024","value":"MTA L Gold Line - Heritage Sq.","n":"9"}
+,{"yr":"2024","value":"MTA L Gold Line - Highland Park","n":"8"}
+,{"yr":"2024","value":"MTA L Gold Line - Indiana","n":"5"}
+,{"yr":"2024","value":"MTA L Gold Line - Lincoln/Cypress","n":"18"}
+,{"yr":"2024","value":"MTA L Gold Line - Little Tokyo/Arts District","n":"29"}
+,{"yr":"2024","value":"MTA L Gold Line - Mariachi Plaza","n":"8"}
+,{"yr":"2024","value":"MTA L Gold Line - Pico/Aliso","n":"1"}
+,{"yr":"2024","value":"MTA L Gold Line - Soto","n":"8"}
+,{"yr":"2024","value":"MTA L Gold Line - Southwest Museum","n":"6"}
+,{"yr":"2024","value":"MTA L Gold Line - Union Station","n":"28"}
+,{"yr":"2024","value":"MTA Parking Lot","n":"64"}
+,{"yr":"2024","value":"Multiple Family Dwelling","n":"509"}
+,{"yr":"2024","value":"Municipal Bus Lines (LADOT, DASH)","n":"27"}
+,{"yr":"2024","value":"Muscle Beach","n":"4"}
+,{"yr":"2024","value":"Museum","n":"11"}
+,{"yr":"2024","value":"Nail Salon","n":"49"}
+,{"yr":"2024","value":"Night Club (open evenings only)","n":"130"}
+,{"yr":"2024","value":"Nursery Flower Shop","n":"34"}
+,{"yr":"2024","value":"Nursing Home","n":"108"}
+,{"yr":"2024","value":"Offender's Residence","n":"764"}
+,{"yr":"2024","value":"Oil Refinery","n":"1"}
+,{"yr":"2024","value":"Other","n":"263"}
+,{"yr":"2024","value":"Other Business","n":"5201"}
+,{"yr":"2024","value":"Other place of worship","n":"45"}
+,{"yr":"2024","value":"Other Railroad (Santa Fe, etc.)","n":"13"}
+,{"yr":"2024","value":"Other Residence","n":"675"}
+,{"yr":"2024","value":"Other Store","n":"356"}
+,{"yr":"2024","value":"Parking Lot / Garage / Drop Lot","n":"6119"}
+,{"yr":"2024","value":"Parking underground/building","n":"376"}
+,{"yr":"2024","value":"Park / Playground","n":"913"}
+,{"yr":"2024","value":"Patio (Other)","n":"13"}
+,{"yr":"2024","value":"Patio (Residential)","n":"41"}
+,{"yr":"2024","value":"Pawn / Buy-Sell-Trade Shops","n":"9"}
+,{"yr":"2024","value":"Pay Phone","n":"5"}
+,{"yr":"2024","value":"Ped Overcrossing","n":"3"}
+,{"yr":"2024","value":"Pet Store","n":"19"}
+,{"yr":"2024","value":"Pharmacy Inside Store/Supermarket","n":"197"}
+,{"yr":"2024","value":"Police Facility","n":"300"}
+,{"yr":"2024","value":"Pool/Public/Indoor or outdoor","n":"38"}
+,{"yr":"2024","value":"Porch Residential","n":"191"}
+,{"yr":"2024","value":"Post Office","n":"55"}
+,{"yr":"2024","value":"Private Health Facility","n":"44"}
+,{"yr":"2024","value":"Project/Tenement/Public Housing","n":"72"}
+,{"yr":"2024","value":"Public Health Facility","n":"10"}
+,{"yr":"2024","value":"Public Restroom","n":"50"}
+,{"yr":"2024","value":"Public Restroom Outside Area","n":"8"}
+,{"yr":"2024","value":"Public Use Area","n":"89"}
+,{"yr":"2024","value":"Record-CD Music Store","n":"4"}
+,{"yr":"2024","value":"Recycling Center","n":"25"}
+,{"yr":"2024","value":"Rental Storage Facility","n":"689"}
+,{"yr":"2024","value":"Residence / Home / Driveway","n":"15279"}
+,{"yr":"2024","value":"Residential Facility","n":"431"}
+,{"yr":"2024","value":"Restaurant","n":"1520"}
+,{"yr":"2024","value":"River Bed","n":"13"}
+,{"yr":"2024","value":"School / College","n":"280"}
+,{"yr":"2024","value":"School - Elementary","n":"93"}
+,{"yr":"2024","value":"School - High School","n":"135"}
+,{"yr":"2024","value":"School - Junior High","n":"85"}
+,{"yr":"2024","value":"Service / Gas Station","n":"602"}
+,{"yr":"2024","value":"Sewage Facility/Pipe","n":"3"}
+,{"yr":"2024","value":"Shared Residence","n":"821"}
+,{"yr":"2024","value":"Shelter - Mission / Homeless","n":"209"}
+,{"yr":"2024","value":"Shopping Mall","n":"312"}
+,{"yr":"2024","value":"Short-term vacation rental","n":"9"}
+,{"yr":"2024","value":"Sidewalk","n":"6451"}
+,{"yr":"2024","value":"Single Family Home","n":"3660"}
+,{"yr":"2024","value":"Single Residence Occupancy (SRO's) Locations","n":"327"}
+,{"yr":"2024","value":"Skateboard Park/Facility","n":"15"}
+,{"yr":"2024","value":"Slips/Dock/Marina/Boat","n":"4"}
+,{"yr":"2024","value":"Speciality Store (TV, Fur, Etc)","n":"82"}
+,{"yr":"2024","value":"Specialty School/Other","n":"34"}
+,{"yr":"2024","value":"Sporting Goods Store","n":"37"}
+,{"yr":"2024","value":"Sport Venue, other","n":"6"}
+,{"yr":"2024","value":"Stairwell","n":"48"}
+,{"yr":"2024","value":"Storage Shed (Other)","n":"150"}
+,{"yr":"2024","value":"Storage Shed (Residential)","n":"82"}
+,{"yr":"2024","value":"Street/Parkway","n":"17269"}
+,{"yr":"2024","value":"Studio (film/photo, music)","n":"76"}
+,{"yr":"2024","value":"Surplus Survival Store","n":"1"}
+,{"yr":"2024","value":"Swap Meet","n":"11"}
+,{"yr":"2024","value":"Synagogue/Temple","n":"10"}
+,{"yr":"2024","value":"Tattoo Parlor","n":"8"}
+,{"yr":"2024","value":"Taxi","n":"5"}
+,{"yr":"2024","value":"Telecommunications Facility/loc","n":"28"}
+,{"yr":"2024","value":"The Beverly Center","n":"3"}
+,{"yr":"2024","value":"The Beverly Connection","n":"1"}
+,{"yr":"2024","value":"The Grove","n":"6"}
+,{"yr":"2024","value":"Tobacco Shop","n":"57"}
+,{"yr":"2024","value":"Tool Shed","n":"4"}
+,{"yr":"2024","value":"Tow Yard","n":"25"}
+,{"yr":"2024","value":"Trade School (medical/technical)","n":"4"}
+,{"yr":"2024","value":"Train Depot/Terminal other than MTA","n":"14"}
+,{"yr":"2024","value":"Train, other than MTA","n":"9"}
+,{"yr":"2024","value":"Train Tracks","n":"33"}
+,{"yr":"2024","value":"Tram/Streetcar","n":"15"}
+,{"yr":"2024","value":"Transient Encampment","n":"54"}
+,{"yr":"2024","value":"Transitional Housing/Halfway House","n":"187"}
+,{"yr":"2024","value":"Trash Can/ Trash Dumpster","n":"2"}
+,{"yr":"2024","value":"Truck-Commercial","n":"33"}
+,{"yr":"2024","value":"Tunnel","n":"6"}
+,{"yr":"2024","value":"TV/Radio/Appliance","n":"2"}
+,{"yr":"2024","value":"Underpass/Bridge","n":"32"}
+,{"yr":"2024","value":"Uninhabited Residence","n":"104"}
+,{"yr":"2024","value":"Valet","n":"7"}
+,{"yr":"2024","value":"Vehicle, Passenger/Truck","n":"1906"}
+,{"yr":"2024","value":"Vehicle Storage Lot","n":"40"}
+,{"yr":"2024","value":"Veterinary Office/Hospital","n":"8"}
+,{"yr":"2024","value":"Victim's Residence","n":"6550"}
+,{"yr":"2024","value":"Vision Care Facility","n":"2"}
+,{"yr":"2024","value":"Warehouse","n":"299"}
+,{"yr":"2024","value":"Water Facility","n":"3"}
+,{"yr":"2024","value":"Website","n":"135"}
+,{"yr":"2024","value":"Yard (adjacent to Residential Location)","n":"272"}
+,{"yr":"2024","value":"Yard (Business)","n":"60"}
+,{"yr":"2024","value":"Zoo","n":"4"}
+,{"yr":"2024","n":"15"}
+,{"yr":"2025","value":"101 - STREET","n":"5"}
+,{"yr":"2025","value":"203 - OTHER BUSINESS","n":"1"}
+,{"yr":"2025","value":"721 - HIGH SCHOOL","n":"1"}
+,{"yr":"2025","value":"7th and Metro Center (not line specific)","n":"391"}
+,{"yr":"2025","value":"Abandoned / Condemned Structure","n":"136"}
+,{"yr":"2025","value":"Abatement Location","n":"40"}
+,{"yr":"2025","value":"Abortion Clinic or Facility","n":"5"}
+,{"yr":"2025","value":"Adult Daycare Facility","n":"57"}
+,{"yr":"2025","value":"Air / Bus / Train Terminal","n":"1805"}
+,{"yr":"2025","value":"Aircraft","n":"47"}
+,{"yr":"2025","value":"Airports/Transportation Facility","n":"805"}
+,{"yr":"2025","value":"Alley","n":"1761"}
+,{"yr":"2025","value":"Amtrak Train","n":"5"}
+,{"yr":"2025","value":"Amusement Park","n":"15"}
+,{"yr":"2025","value":"Any Vehicle","n":"1015"}
+,{"yr":"2025","value":"Apartment/Condo Common Laundry Room","n":"2938"}
+,{"yr":"2025","value":"Apartment/Condominium/Townhouse","n":"12517"}
+,{"yr":"2025","value":"Arcade, Game Room (Ex. Chuckie cheese)","n":"19"}
+,{"yr":"2025","value":"Arcade / Mini-Golf / Jump / Laser Tag","n":"18"}
+,{"yr":"2025","value":"Arena / Stadium / Fairgrounds /Coliseum","n":"94"}
+,{"yr":"2025","value":"ATM Separate from Bank","n":"305"}
+,{"yr":"2025","value":"Auto Dealership New / Used","n":"264"}
+,{"yr":"2025","value":"Auto Mechanic / Repair Shop","n":"300"}
+,{"yr":"2025","value":"Auto Salvages / Junk Yard","n":"17"}
+,{"yr":"2025","value":"Auto Supply Store","n":"173"}
+,{"yr":"2025","value":"Balcony","n":"123"}
+,{"yr":"2025","value":"Bank Drop Box/Money Drop (outside bank)","n":"26"}
+,{"yr":"2025","value":"Banking inside supermarket (or other facility)","n":"32"}
+,{"yr":"2025","value":"Bank / Savings and Loan","n":"1062"}
+,{"yr":"2025","value":"Barber / Beauty Shop","n":"132"}
+,{"yr":"2025","value":"Bar, Cocktail Lounge, Restaurant","n":"1151"}
+,{"yr":"2025","value":"Basketball Courts","n":"23"}
+,{"yr":"2025","value":"Beach","n":"172"}
+,{"yr":"2025","value":"Beauty Supply Store","n":"233"}
+,{"yr":"2025","value":"Book Store","n":"31"}
+,{"yr":"2025","value":"Bowling Alley","n":"19"}
+,{"yr":"2025","value":"Bus-Charter/Private","n":"40"}
+,{"yr":"2025","value":"Bus-School/Church","n":"18"}
+,{"yr":"2025","value":"Camp / Campground","n":"4"}
+,{"yr":"2025","value":"Cannabis-Medical Location","n":"2"}
+,{"yr":"2025","value":"Cannabis- non-retail location (grow/testing/lab/delivery, etc.)","n":"16"}
+,{"yr":"2025","value":"Cannabis - retail location","n":"35"}
+,{"yr":"2025","value":"Cargo Container","n":"24"}
+,{"yr":"2025","value":"Car Wash","n":"139"}
+,{"yr":"2025","value":"Catering/Ice Cream Truck","n":"13"}
+,{"yr":"2025","value":"Cell Phone Store","n":"291"}
+,{"yr":"2025","value":"Cemetary","n":"19"}
+,{"yr":"2025","value":"Check Cashing","n":"61"}
+,{"yr":"2025","value":"Chemical Storage/Manufacturing Plant","n":"2"}
+,{"yr":"2025","value":"Children Daycare Facility","n":"34"}
+,{"yr":"2025","value":"Church/Chapel","n":"177"}
+,{"yr":"2025","value":"Church / Synagogue / Temple / Religious Facility","n":"299"}
+,{"yr":"2025","value":"Clothing Store","n":"2558"}
+,{"yr":"2025","value":"Coffee Shop (Starbucks, Coffee Bean, Peet's, Etc.)","n":"311"}
+,{"yr":"2025","value":"Coliseum","n":"7"}
+,{"yr":"2025","value":"Commercial / Office Building / Other Commerical","n":"1548"}
+,{"yr":"2025","value":"Common Laundry Room","n":"66"}
+,{"yr":"2025","value":"Community Center","n":"104"}
+,{"yr":"2025","value":"Computer Services/Repairs/Sales","n":"21"}
+,{"yr":"2025","value":"Concert Venue/Mass Gathering","n":"185"}
+,{"yr":"2025","value":"Condominium/Townhouse","n":"145"}
+,{"yr":"2025","value":"Construction Site","n":"370"}
+,{"yr":"2025","value":"Convenience Store","n":"2071"}
+,{"yr":"2025","value":"Convention Center","n":"74"}
+,{"yr":"2025","value":"Credit Union","n":"55"}
+,{"yr":"2025","value":"Crypto.com","n":"20"}
+,{"yr":"2025","value":"Cultural significance/ Monument","n":"3"}
+,{"yr":"2025","value":"Cyber Space","n":"297"}
+,{"yr":"2025","value":"Dam/Reservoir","n":"6"}
+,{"yr":"2025","value":"Daycare Facility","n":"23"}
+,{"yr":"2025","value":"Delivery Service/FedEx, UPS, Couriers","n":"125"}
+,{"yr":"2025","value":"Department / Discount Store","n":"3244"}
+,{"yr":"2025","value":"Department of Corrections","n":"1"}
+,{"yr":"2025","value":"Department of Defense Facility","n":"1"}
+,{"yr":"2025","value":"Detention/Jail Facility","n":"126"}
+,{"yr":"2025","value":"DIY Center (Lowe's, Home Depot, etc.)","n":"170"}
+,{"yr":"2025","value":"Dock / Wharf / Freight / Modal Terminal","n":"18"}
+,{"yr":"2025","value":"Doctor's Office","n":"55"}
+,{"yr":"2025","value":"Dodger Stadium","n":"84"}
+,{"yr":"2025","value":"Drive Thru banking window/counter","n":"14"}
+,{"yr":"2025","value":"Drive-thru (meals/beverages)","n":"54"}
+,{"yr":"2025","value":"Drive Thru (other)","n":"15"}
+,{"yr":"2025","value":"Driveway (other)","n":"630"}
+,{"yr":"2025","value":"Driveway (Residential)","n":"1454"}
+,{"yr":"2025","value":"Drug Store / Pharmacy / Medical Supply Building","n":"354"}
+,{"yr":"2025","value":"Dry Cleaner / Laundry","n":"310"}
+,{"yr":"2025","value":"Electronics Store (Best Buy, etc.)","n":"165"}
+,{"yr":"2025","value":"Elevator","n":"77"}
+,{"yr":"2025","value":"Energy Plant/Facility","n":"20"}
+,{"yr":"2025","value":"Entertainment/Comedy Club (other)","n":"46"}
+,{"yr":"2025","value":"Equipment Rental","n":"51"}
+,{"yr":"2025","value":"Escalator","n":"3"}
+,{"yr":"2025","value":"Factory","n":"20"}
+,{"yr":"2025","value":"Farm Facility","n":"7"}
+,{"yr":"2025","value":"Field / Woods / Vacant Field","n":"71"}
+,{"yr":"2025","value":"Financial Institutuion","n":"89"}
+,{"yr":"2025","value":"Firearm Retailer","n":"2"}
+,{"yr":"2025","value":"Fire Station","n":"42"}
+,{"yr":"2025","value":"Foster Home/Boys, Girls","n":"8"}
+,{"yr":"2025","value":"Frat/Sorority/Dormitory","n":"22"}
+,{"yr":"2025","value":"Freeway (incl ramps)","n":"150"}
+,{"yr":"2025","value":"Furniture Store","n":"62"}
+,{"yr":"2025","value":"Gambling Facility / Casino / Race Track","n":"12"}
+,{"yr":"2025","value":"Garment Manufacturer","n":"8"}
+,{"yr":"2025","value":"Golf Course","n":"59"}
+,{"yr":"2025","value":"Government Facility (Federal, State, County and City)","n":"357"}
+,{"yr":"2025","value":"Government / Public Building","n":"305"}
+,{"yr":"2025","value":"Greyhound or Interstate Bus","n":"4"}
+,{"yr":"2025","value":"Grocery/Supermarket","n":"1798"}
+,{"yr":"2025","value":"Group Home","n":"124"}
+,{"yr":"2025","value":"Gun/Sporting Goods","n":"9"}
+,{"yr":"2025","value":"Harbor Frwy Station (not line specific)","n":"1"}
+,{"yr":"2025","value":"Hardware Supply Store","n":"289"}
+,{"yr":"2025","value":"Health Spa/Gym","n":"503"}
+,{"yr":"2025","value":"High-rise Building","n":"178"}
+,{"yr":"2025","value":"Highway Patrol","n":"3"}
+,{"yr":"2025","value":"Highway / Road / Alley / Street","n":"7037"}
+,{"yr":"2025","value":"Hockey Rink/Ice Hockey","n":"2"}
+,{"yr":"2025","value":"Horse Racing/Santa Anita Park","n":"2"}
+,{"yr":"2025","value":"Hospice","n":"13"}
+,{"yr":"2025","value":"Hospital","n":"535"}
+,{"yr":"2025","value":"Hotel/Motel","n":"1504"}
+,{"yr":"2025","value":"Industrial Site","n":"39"}
+,{"yr":"2025","value":"Jail / Prison / Penitentiary / Correction Facility","n":"59"}
+,{"yr":"2025","value":"Jewelry Store","n":"149"}
+,{"yr":"2025","value":"Lake / Waterway","n":"17"}
+,{"yr":"2025","value":"LA Union Station (not line specific)","n":"236"}
+,{"yr":"2025","value":"Library","n":"262"}
+,{"yr":"2025","value":"Liquor Store","n":"785"}
+,{"yr":"2025","value":"Loan / Cash Advance","n":"40"}
+,{"yr":"2025","value":"Location Unknown","n":"792"}
+,{"yr":"2025","value":"Locker Room","n":"194"}
+,{"yr":"2025","value":"Mail Box","n":"565"}
+,{"yr":"2025","value":"Manufacturing Company","n":"36"}
+,{"yr":"2025","value":"Marijuana Dispensary","n":"95"}
+,{"yr":"2025","value":"Marijuana Grow Site (Non-Residential)","n":"15"}
+,{"yr":"2025","value":"Market","n":"626"}
+,{"yr":"2025","value":"Massage Parlor","n":"92"}
+,{"yr":"2025","value":"Medical Clinic","n":"118"}
+,{"yr":"2025","value":"Medical Office/Dental Office","n":"97"}
+,{"yr":"2025","value":"Membership Store (i.e.: Costco, Sams Club)","n":"53"}
+,{"yr":"2025","value":"Methadone Clinic","n":"4"}
+,{"yr":"2025","value":"Metrolink Train","n":"80"}
+,{"yr":"2025","value":"Military Installation","n":"1"}
+,{"yr":"2025","value":"Mini-Mart","n":"71"}
+,{"yr":"2025","value":"Mobile Home/Trailers/Construction Trailers/RV's/Motorhome","n":"344"}
+,{"yr":"2025","value":"Mortuary","n":"9"}
+,{"yr":"2025","value":"Mosque","n":"8"}
+,{"yr":"2025","value":"Movie Theater","n":"60"}
+,{"yr":"2025","value":"MTA A Blue Line -103rd/Watts Tower","n":"24"}
+,{"yr":"2025","value":"MTA A Blue Line -7th and Metro Center","n":"100"}
+,{"yr":"2025","value":"MTA A Blue Line -Grand/LATTC","n":"175"}
+,{"yr":"2025","value":"MTA A Blue Line -Pico","n":"170"}
+,{"yr":"2025","value":"MTA A Blue Line -San Pedro","n":"14"}
+,{"yr":"2025","value":"MTA A Blue Line -Vernon","n":"13"}
+,{"yr":"2025","value":"MTA A Blue Line -Washington","n":"44"}
+,{"yr":"2025","value":"MTA B Red Line -7th and Metro Center","n":"167"}
+,{"yr":"2025","value":"MTA B Red Line -Civic Center/Grand Park","n":"38"}
+,{"yr":"2025","value":"MTA B Red Line -Hollywood/Highland","n":"87"}
+,{"yr":"2025","value":"MTA B Red Line -Hollywood/Vine","n":"162"}
+,{"yr":"2025","value":"MTA B Red Line -Hollywood/Western","n":"290"}
+,{"yr":"2025","value":"MTA B Red Line -North Hollywood","n":"421"}
+,{"yr":"2025","value":"MTA B Red Line -Pershing Square","n":"262"}
+,{"yr":"2025","value":"MTA B Red Line -Union Station","n":"123"}
+,{"yr":"2025","value":"MTA B Red Line -Universal City/Studio City","n":"108"}
+,{"yr":"2025","value":"MTA B Red Line -Vermont/Beverly","n":"95"}
+,{"yr":"2025","value":"MTA B Red Line -Vermont/Santa Monica","n":"50"}
+,{"yr":"2025","value":"MTA B Red Line -Vermont/Sunset","n":"72"}
+,{"yr":"2025","value":"MTA B Red Line -Westlake/Macarthur Park","n":"403"}
+,{"yr":"2025","value":"MTA B Red Line -Wilshire/Vermont","n":"99"}
+,{"yr":"2025","value":"MTA Bus","n":"441"}
+,{"yr":"2025","value":"MTA C Green Line - Avalon","n":"19"}
+,{"yr":"2025","value":"MTA C Green Line - Aviation/LAX","n":"46"}
+,{"yr":"2025","value":"MTA C Green Line - Harbor Fwy","n":"21"}
+,{"yr":"2025","value":"MTA D Purple Line -7th and Metro Center","n":"7"}
+,{"yr":"2025","value":"MTA D Purple Line -Civic Center/Grand Park","n":"10"}
+,{"yr":"2025","value":"MTA D Purple Line -Pershing square","n":"49"}
+,{"yr":"2025","value":"MTA D Purple Line -Union Station","n":"7"}
+,{"yr":"2025","value":"MTA D Purple Line -Westlake/Macarthur Park","n":"141"}
+,{"yr":"2025","value":"MTA D Purple Line -Wilshire/Normandie","n":"9"}
+,{"yr":"2025","value":"MTA D Purple Line -Wilshire/Vermont","n":"30"}
+,{"yr":"2025","value":"MTA D Purple Line -Wilshire/Western","n":"34"}
+,{"yr":"2025","value":"MTA E Expo Line - Expo/Bundy","n":"6"}
+,{"yr":"2025","value":"MTA E Expo Line - Expo/Crenshaw","n":"121"}
+,{"yr":"2025","value":"MTA E Expo Line - Expo/La Brea","n":"55"}
+,{"yr":"2025","value":"MTA E Expo Line - Expo Park/USC","n":"23"}
+,{"yr":"2025","value":"MTA E Expo Line - Expo/Sepulveda","n":"28"}
+,{"yr":"2025","value":"MTA E Expo Line - Expo/Vermont","n":"49"}
+,{"yr":"2025","value":"MTA E Expo Line - Expo/Western","n":"203"}
+,{"yr":"2025","value":"MTA E Expo Line - Farmdale","n":"11"}
+,{"yr":"2025","value":"MTA E Expo Line - Jefferson/USC","n":"16"}
+,{"yr":"2025","value":"MTA E Expo Line - La Cienega/Jefferson","n":"22"}
+,{"yr":"2025","value":"MTA E Expo Line - LATTC/Ortho Institute","n":"53"}
+,{"yr":"2025","value":"MTA E Expo Line - Palms","n":"8"}
+,{"yr":"2025","value":"MTA E Expo Line - Pico","n":"36"}
+,{"yr":"2025","value":"MTA E Expo Line - Westwood/Rancho Park","n":"5"}
+,{"yr":"2025","value":"MTA G Orange Line -Balboa","n":"2"}
+,{"yr":"2025","value":"MTA G Orange Line - Canoga","n":"25"}
+,{"yr":"2025","value":"MTA G Orange Line -Chatsworth","n":"24"}
+,{"yr":"2025","value":"MTA G Orange Line -De Soto","n":"4"}
+,{"yr":"2025","value":"MTA G Orange Line -Laurel Canyon","n":"4"}
+,{"yr":"2025","value":"MTA G Orange Line - Nordhoff","n":"2"}
+,{"yr":"2025","value":"MTA G Orange Line - North Hollywood","n":"34"}
+,{"yr":"2025","value":"MTA G Orange Line - Reseda","n":"89"}
+,{"yr":"2025","value":"MTA G Orange Line -Roscoe","n":"21"}
+,{"yr":"2025","value":"MTA G Orange Line -Sepulveda","n":"18"}
+,{"yr":"2025","value":"MTA G Orange Line - Sherman Way","n":"22"}
+,{"yr":"2025","value":"MTA G Orange Line -Tampa","n":"2"}
+,{"yr":"2025","value":"MTA G Orange Line - Valley College","n":"6"}
+,{"yr":"2025","value":"MTA G Orange Line - Van Nuys","n":"10"}
+,{"yr":"2025","value":"MTA G Orange Line - Woodley","n":"2"}
+,{"yr":"2025","value":"MTA G Orange Line -Woodman","n":"8"}
+,{"yr":"2025","value":"MTA J Silver Line -37th St/USC","n":"4"}
+,{"yr":"2025","value":"MTA J Silver Line -Cal State LA","n":"2"}
+,{"yr":"2025","value":"MTA J Silver Line -Downtown Street Stops","n":"3"}
+,{"yr":"2025","value":"MTA J Silver Line - Harbor Fwy","n":"10"}
+,{"yr":"2025","value":"MTA J Silver Line -Harbor Gateway Transit Ctr","n":"7"}
+,{"yr":"2025","value":"MTA J Silver Line -LAC/USC Medical Center","n":"1"}
+,{"yr":"2025","value":"MTA J Silver Line -Manchester","n":"9"}
+,{"yr":"2025","value":"MTA J Silver Line -Pacific Coast Hwy","n":"4"}
+,{"yr":"2025","value":"MTA J Silver Line -San Pedro Street Stops","n":"6"}
+,{"yr":"2025","value":"MTA J Silver Line -Slauson","n":"11"}
+,{"yr":"2025","value":"MTA J Silver Line -Union Station","n":"8"}
+,{"yr":"2025","value":"MTA K Crenshaw Line - Aviation/Century Station","n":"22"}
+,{"yr":"2025","value":"MTA K Crenshaw Line - Crenshaw/Exposition","n":"23"}
+,{"yr":"2025","value":"MTA K Crenshaw Line - Crenshaw/Martin Luther King","n":"17"}
+,{"yr":"2025","value":"MTA K Crenshaw Line - Hyde Park","n":"4"}
+,{"yr":"2025","value":"MTA K Crenshaw Line - Leimert Park","n":"11"}
+,{"yr":"2025","value":"MTA L Gold Line - Chinatown","n":"530"}
+,{"yr":"2025","value":"MTA L Gold Line - Heritage Sq.","n":"17"}
+,{"yr":"2025","value":"MTA L Gold Line - Highland Park","n":"23"}
+,{"yr":"2025","value":"MTA L Gold Line - Indiana","n":"17"}
+,{"yr":"2025","value":"MTA L Gold Line - Lincoln/Cypress","n":"12"}
+,{"yr":"2025","value":"MTA L Gold Line - Little Tokyo/Arts District","n":"62"}
+,{"yr":"2025","value":"MTA L Gold Line - Mariachi Plaza","n":"39"}
+,{"yr":"2025","value":"MTA L Gold Line - Pico/Aliso","n":"8"}
+,{"yr":"2025","value":"MTA L Gold Line - Soto","n":"38"}
+,{"yr":"2025","value":"MTA L Gold Line - Southwest Museum","n":"19"}
+,{"yr":"2025","value":"MTA L Gold Line - Union Station","n":"70"}
+,{"yr":"2025","value":"MTA Parking Lot","n":"131"}
+,{"yr":"2025","value":"Multiple Family Dwelling","n":"822"}
+,{"yr":"2025","value":"Municipal Bus Lines (LADOT, DASH)","n":"51"}
+,{"yr":"2025","value":"Muscle Beach","n":"3"}
+,{"yr":"2025","value":"Museum","n":"52"}
+,{"yr":"2025","value":"Nail Salon","n":"57"}
+,{"yr":"2025","value":"Night Club (open evenings only)","n":"261"}
+,{"yr":"2025","value":"Nursery Flower Shop","n":"30"}
+,{"yr":"2025","value":"Nursing Home","n":"140"}
+,{"yr":"2025","value":"Offender's Residence","n":"1076"}
+,{"yr":"2025","value":"Oil Refinery","n":"8"}
+,{"yr":"2025","value":"Other","n":"397"}
+,{"yr":"2025","value":"Other Business","n":"7922"}
+,{"yr":"2025","value":"Other Interstate, Charter Bus","n":"1"}
+,{"yr":"2025","value":"Other place of worship","n":"77"}
+,{"yr":"2025","value":"Other Railroad (Santa Fe, etc.)","n":"69"}
+,{"yr":"2025","value":"Other Residence","n":"1401"}
+,{"yr":"2025","value":"Other Store","n":"1448"}
+,{"yr":"2025","value":"Parking Lot / Garage / Drop Lot","n":"16751"}
+,{"yr":"2025","value":"Parking underground/building","n":"1625"}
+,{"yr":"2025","value":"Park / Playground","n":"1907"}
+,{"yr":"2025","value":"Patio (Other)","n":"73"}
+,{"yr":"2025","value":"Patio (Residential)","n":"206"}
+,{"yr":"2025","value":"Pawn / Buy-Sell-Trade Shops","n":"17"}
+,{"yr":"2025","value":"Pay Phone","n":"8"}
+,{"yr":"2025","value":"Ped Overcrossing","n":"6"}
+,{"yr":"2025","value":"Pet Store","n":"42"}
+,{"yr":"2025","value":"Pharmacy Inside Store/Supermarket","n":"396"}
+,{"yr":"2025","value":"Police Facility","n":"586"}
+,{"yr":"2025","value":"Pool/Public/Indoor or outdoor","n":"66"}
+,{"yr":"2025","value":"Porch Residential","n":"832"}
+,{"yr":"2025","value":"Post Office","n":"139"}
+,{"yr":"2025","value":"Private Health Facility","n":"73"}
+,{"yr":"2025","value":"Private/Preschool","n":"4"}
+,{"yr":"2025","value":"Project/Tenement/Public Housing","n":"203"}
+,{"yr":"2025","value":"Public Health Facility","n":"28"}
+,{"yr":"2025","value":"Public Restroom","n":"56"}
+,{"yr":"2025","value":"Public Restroom Outside Area","n":"17"}
+,{"yr":"2025","value":"Public Use Area","n":"301"}
+,{"yr":"2025","value":"Record-CD Music Store","n":"9"}
+,{"yr":"2025","value":"Recycling Center","n":"45"}
+,{"yr":"2025","value":"Rental Storage Facility","n":"894"}
+,{"yr":"2025","value":"Residence / Home / Driveway","n":"23577"}
+,{"yr":"2025","value":"Residential Facility","n":"874"}
+,{"yr":"2025","value":"Rest Area","n":"17"}
+,{"yr":"2025","value":"Restaurant","n":"2536"}
+,{"yr":"2025","value":"River Bed","n":"70"}
+,{"yr":"2025","value":"School / College","n":"662"}
+,{"yr":"2025","value":"School - Elementary","n":"301"}
+,{"yr":"2025","value":"School - High School","n":"279"}
+,{"yr":"2025","value":"School - Junior High","n":"215"}
+,{"yr":"2025","value":"Service / Gas Station","n":"1248"}
+,{"yr":"2025","value":"Sewage Facility/Pipe","n":"8"}
+,{"yr":"2025","value":"Shared Residence","n":"1112"}
+,{"yr":"2025","value":"Shelter - Mission / Homeless","n":"324"}
+,{"yr":"2025","value":"Shopping Mall","n":"904"}
+,{"yr":"2025","value":"Short-term vacation rental","n":"21"}
+,{"yr":"2025","value":"Sidewalk","n":"10633"}
+,{"yr":"2025","value":"Single Family Home","n":"4672"}
+,{"yr":"2025","value":"Single Residence Occupancy (SRO's) Locations","n":"374"}
+,{"yr":"2025","value":"Skateboard Park/Facility","n":"26"}
+,{"yr":"2025","value":"Skating rink/Facility","n":"2"}
+,{"yr":"2025","value":"Slips/Dock/Marina/Boat","n":"21"}
+,{"yr":"2025","value":"Speciality Store (TV, Fur, Etc)","n":"156"}
+,{"yr":"2025","value":"Specialty School/Other","n":"54"}
+,{"yr":"2025","value":"Sporting Goods Store","n":"141"}
+,{"yr":"2025","value":"Sport Venue, other","n":"55"}
+,{"yr":"2025","value":"Stairwell","n":"77"}
+,{"yr":"2025","value":"Storage Shed (Other)","n":"161"}
+,{"yr":"2025","value":"Storage Shed (Residential)","n":"103"}
+,{"yr":"2025","value":"Street/Parkway","n":"54434"}
+,{"yr":"2025","value":"Studio (film/photo, music)","n":"94"}
+,{"yr":"2025","value":"Swap Meet","n":"21"}
+,{"yr":"2025","value":"Synagogue/Temple","n":"19"}
+,{"yr":"2025","value":"Tattoo Parlor","n":"12"}
+,{"yr":"2025","value":"Taxi","n":"46"}
+,{"yr":"2025","value":"Telecommunications Facility/loc","n":"164"}
+,{"yr":"2025","value":"The Beverly Center","n":"19"}
+,{"yr":"2025","value":"The Beverly Connection","n":"21"}
+,{"yr":"2025","value":"The Grove","n":"30"}
+,{"yr":"2025","value":"Tobacco Shop","n":"111"}
+,{"yr":"2025","value":"Tool Shed","n":"10"}
+,{"yr":"2025","value":"Tow Yard","n":"82"}
+,{"yr":"2025","value":"Trade School (medical/technical)","n":"28"}
+,{"yr":"2025","value":"Train Depot/Terminal other than MTA","n":"38"}
+,{"yr":"2025","value":"Train, other than MTA","n":"90"}
+,{"yr":"2025","value":"Train Tracks","n":"128"}
+,{"yr":"2025","value":"Tram/Streetcar","n":"47"}
+,{"yr":"2025","value":"Transient Encampment","n":"78"}
+,{"yr":"2025","value":"Transitional Housing/Halfway House","n":"233"}
+,{"yr":"2025","value":"Trash Can/ Trash Dumpster","n":"18"}
+,{"yr":"2025","value":"Tribal Lands","n":"2"}
+,{"yr":"2025","value":"Truck-Commercial","n":"46"}
+,{"yr":"2025","value":"Tunnel","n":"16"}
+,{"yr":"2025","value":"TV/Radio/Appliance","n":"11"}
+,{"yr":"2025","value":"Underpass/Bridge","n":"95"}
+,{"yr":"2025","value":"Uninhabited Residence","n":"144"}
+,{"yr":"2025","value":"Valet","n":"47"}
+,{"yr":"2025","value":"Vehicle, Passenger/Truck","n":"2877"}
+,{"yr":"2025","value":"Vehicle Storage Lot","n":"85"}
+,{"yr":"2025","value":"Veterinary Office/Hospital","n":"28"}
+,{"yr":"2025","value":"Victim's Residence","n":"10480"}
+,{"yr":"2025","value":"Video Rental Store","n":"1"}
+,{"yr":"2025","value":"Vision Care Facility","n":"11"}
+,{"yr":"2025","value":"Warehouse","n":"628"}
+,{"yr":"2025","value":"Water Facility","n":"16"}
+,{"yr":"2025","value":"Website","n":"497"}
+,{"yr":"2025","value":"Yard (adjacent to Residential Location)","n":"636"}
+,{"yr":"2025","value":"Yard (Business)","n":"179"}
+,{"yr":"2025","value":"Zoo","n":"13"}
+,{"yr":"2025","n":"4"}
+,{"yr":"2026","value":"7th and Metro Center (not line specific)","n":"208"}
+,{"yr":"2026","value":"Abandoned / Condemned Structure","n":"54"}
+,{"yr":"2026","value":"Abatement Location","n":"22"}
+,{"yr":"2026","value":"Abortion Clinic or Facility","n":"2"}
+,{"yr":"2026","value":"Adult Daycare Facility","n":"56"}
+,{"yr":"2026","value":"Air / Bus / Train Terminal","n":"1609"}
+,{"yr":"2026","value":"Aircraft","n":"16"}
+,{"yr":"2026","value":"Airports/Transportation Facility","n":"492"}
+,{"yr":"2026","value":"Alley","n":"1312"}
+,{"yr":"2026","value":"Amtrak Train","n":"12"}
+,{"yr":"2026","value":"Amusement Park","n":"7"}
+,{"yr":"2026","value":"Any Vehicle","n":"707"}
+,{"yr":"2026","value":"Apartment/Condo Common Laundry Room","n":"1"}
+,{"yr":"2026","value":"Apartment/Condominium/Townhouse","n":"17296"}
+,{"yr":"2026","value":"Arcade, Game Room (Ex. Chuckie cheese)","n":"14"}
+,{"yr":"2026","value":"Arcade / Mini-Golf / Jump / Laser Tag","n":"6"}
+,{"yr":"2026","value":"Arena / Stadium / Fairgrounds /Coliseum","n":"79"}
+,{"yr":"2026","value":"ATM Separate from Bank","n":"221"}
+,{"yr":"2026","value":"Auto Dealership New / Used","n":"166"}
+,{"yr":"2026","value":"Auto Mechanic / Repair Shop","n":"249"}
+,{"yr":"2026","value":"Auto Salvages / Junk Yard","n":"15"}
+,{"yr":"2026","value":"Auto Supply Store","n":"142"}
+,{"yr":"2026","value":"Balcony","n":"50"}
+,{"yr":"2026","value":"Bank Drop Box/Money Drop (outside bank)","n":"31"}
+,{"yr":"2026","value":"Banking inside supermarket (or other facility)","n":"22"}
+,{"yr":"2026","value":"Bank / Savings and Loan","n":"798"}
+,{"yr":"2026","value":"Barber / Beauty Shop","n":"74"}
+,{"yr":"2026","value":"Bar, Cocktail Lounge, Restaurant","n":"1057"}
+,{"yr":"2026","value":"Basketball Courts","n":"15"}
+,{"yr":"2026","value":"Beach","n":"247"}
+,{"yr":"2026","value":"Beauty Supply Store","n":"163"}
+,{"yr":"2026","value":"Book Store","n":"40"}
+,{"yr":"2026","value":"Bowling Alley","n":"11"}
+,{"yr":"2026","value":"Bus-Charter/Private","n":"17"}
+,{"yr":"2026","value":"Bus-School/Church","n":"21"}
+,{"yr":"2026","value":"Camp / Campground","n":"1"}
+,{"yr":"2026","value":"Cannabis-Medical Location","n":"2"}
+,{"yr":"2026","value":"Cannabis- non-retail location (grow/testing/lab/delivery, etc.)","n":"7"}
+,{"yr":"2026","value":"Cannabis - retail location","n":"29"}
+,{"yr":"2026","value":"Cargo Container","n":"13"}
+,{"yr":"2026","value":"Car Wash","n":"90"}
+,{"yr":"2026","value":"Catering/Ice Cream Truck","n":"10"}
+,{"yr":"2026","value":"Cell Phone Store","n":"239"}
+,{"yr":"2026","value":"Cemetary","n":"9"}
+,{"yr":"2026","value":"Check Cashing","n":"49"}
+,{"yr":"2026","value":"Chemical Storage/Manufacturing Plant","n":"4"}
+,{"yr":"2026","value":"Children Daycare Facility","n":"23"}
+,{"yr":"2026","value":"Church/Chapel","n":"122"}
+,{"yr":"2026","value":"Church / Synagogue / Temple / Religious Facility","n":"238"}
+,{"yr":"2026","value":"Clothing Store","n":"2117"}
+,{"yr":"2026","value":"Coffee Shop (Starbucks, Coffee Bean, Peet's, Etc.)","n":"252"}
+,{"yr":"2026","value":"Coliseum","n":"4"}
+,{"yr":"2026","value":"Commercial / Office Building / Other Commerical","n":"1130"}
+,{"yr":"2026","value":"Common Laundry Room","n":"51"}
+,{"yr":"2026","value":"Community Center","n":"61"}
+,{"yr":"2026","value":"Computer Services/Repairs/Sales","n":"16"}
+,{"yr":"2026","value":"Concert Venue/Mass Gathering","n":"194"}
+,{"yr":"2026","value":"Construction Site","n":"280"}
+,{"yr":"2026","value":"Convenience Store","n":"1529"}
+,{"yr":"2026","value":"Convention Center","n":"75"}
+,{"yr":"2026","value":"Credit Union","n":"30"}
+,{"yr":"2026","value":"Crypto.com","n":"17"}
+,{"yr":"2026","value":"Cultural significance/ Monument","n":"2"}
+,{"yr":"2026","value":"CYA","n":"1"}
+,{"yr":"2026","value":"Cyber Space","n":"183"}
+,{"yr":"2026","value":"Dam/Reservoir","n":"8"}
+,{"yr":"2026","value":"Daycare Facility","n":"16"}
+,{"yr":"2026","value":"Delivery Service/FedEx, UPS, Couriers","n":"81"}
+,{"yr":"2026","value":"Department / Discount Store","n":"2823"}
+,{"yr":"2026","value":"Department of Corrections","n":"1"}
+,{"yr":"2026","value":"Department of Defense Facility","n":"4"}
+,{"yr":"2026","value":"Detention/Jail Facility","n":"122"}
+,{"yr":"2026","value":"DIY Center (Lowe's, Home Depot, etc.)","n":"223"}
+,{"yr":"2026","value":"Dock / Wharf / Freight / Modal Terminal","n":"6"}
+,{"yr":"2026","value":"Doctor's Office","n":"46"}
+,{"yr":"2026","value":"Dodger Stadium","n":"75"}
+,{"yr":"2026","value":"Drive Thru banking window/counter","n":"8"}
+,{"yr":"2026","value":"Drive-thru (meals/beverages)","n":"34"}
+,{"yr":"2026","value":"Drive Thru (other)","n":"6"}
+,{"yr":"2026","value":"Driveway (other)","n":"492"}
+,{"yr":"2026","value":"Driveway (Residential)","n":"993"}
+,{"yr":"2026","value":"Drug Store / Pharmacy / Medical Supply Building","n":"404"}
+,{"yr":"2026","value":"Dry Cleaner / Laundry","n":"223"}
+,{"yr":"2026","value":"Electronics Store (Best Buy, etc.)","n":"134"}
+,{"yr":"2026","value":"Elevator","n":"55"}
+,{"yr":"2026","value":"Energy Plant/Facility","n":"7"}
+,{"yr":"2026","value":"Entertainment/Comedy Club (other)","n":"64"}
+,{"yr":"2026","value":"Equipment Rental","n":"38"}
+,{"yr":"2026","value":"Escalator","n":"5"}
+,{"yr":"2026","value":"Factory","n":"9"}
+,{"yr":"2026","value":"Farm Facility","n":"1"}
+,{"yr":"2026","value":"Field / Woods / Vacant Field","n":"80"}
+,{"yr":"2026","value":"Financial Institutuion","n":"56"}
+,{"yr":"2026","value":"Firearm Retailer","n":"1"}
+,{"yr":"2026","value":"Fire Station","n":"26"}
+,{"yr":"2026","value":"Foster Home/Boys, Girls","n":"13"}
+,{"yr":"2026","value":"Frat/Sorority/Dormitory","n":"14"}
+,{"yr":"2026","value":"Freeway (incl ramps)","n":"110"}
+,{"yr":"2026","value":"Furniture Store","n":"25"}
+,{"yr":"2026","value":"Gambling Facility / Casino / Race Track","n":"10"}
+,{"yr":"2026","value":"Garment Manufacturer","n":"6"}
+,{"yr":"2026","value":"Golf Course","n":"43"}
+,{"yr":"2026","value":"Government Facility (Federal, State, County and City)","n":"242"}
+,{"yr":"2026","value":"Government / Public Building","n":"218"}
+,{"yr":"2026","value":"Greyhound or Interstate Bus","n":"4"}
+,{"yr":"2026","value":"Grocery/Supermarket","n":"1346"}
+,{"yr":"2026","value":"Group Home","n":"88"}
+,{"yr":"2026","value":"Gun/Sporting Goods","n":"2"}
+,{"yr":"2026","value":"Handball Courts","n":"1"}
+,{"yr":"2026","value":"Harbor Frwy Station (not line specific)","n":"4"}
+,{"yr":"2026","value":"Hardware Supply Store","n":"274"}
+,{"yr":"2026","value":"Health Spa/Gym","n":"357"}
+,{"yr":"2026","value":"High-rise Building","n":"98"}
+,{"yr":"2026","value":"Highway / Road / Alley / Street","n":"8066"}
+,{"yr":"2026","value":"Hospice","n":"12"}
+,{"yr":"2026","value":"Hospital","n":"496"}
+,{"yr":"2026","value":"Hotel/Motel","n":"1322"}
+,{"yr":"2026","value":"Industrial Site","n":"22"}
+,{"yr":"2026","value":"Jail / Prison / Penitentiary / Correction Facility","n":"54"}
+,{"yr":"2026","value":"Jewelry Store","n":"92"}
+,{"yr":"2026","value":"Lake / Waterway","n":"5"}
+,{"yr":"2026","value":"LA Union Station (not line specific)","n":"224"}
+,{"yr":"2026","value":"Library","n":"199"}
+,{"yr":"2026","value":"Liquor Store","n":"514"}
+,{"yr":"2026","value":"Loan / Cash Advance","n":"31"}
+,{"yr":"2026","value":"Location Unknown","n":"608"}
+,{"yr":"2026","value":"Locker Room","n":"106"}
+,{"yr":"2026","value":"Mail Box","n":"339"}
+,{"yr":"2026","value":"Manufacturing Company","n":"15"}
+,{"yr":"2026","value":"Marijuana Dispensary","n":"54"}
+,{"yr":"2026","value":"Marijuana Grow Site (Non-Residential)","n":"15"}
+,{"yr":"2026","value":"Market","n":"381"}
+,{"yr":"2026","value":"Massage Parlor","n":"83"}
+,{"yr":"2026","value":"Medical Clinic","n":"130"}
+,{"yr":"2026","value":"Medical Office/Dental Office","n":"90"}
+,{"yr":"2026","value":"Membership Store (i.e.: Costco, Sams Club)","n":"35"}
+,{"yr":"2026","value":"Metrolink Train","n":"83"}
+,{"yr":"2026","value":"Military Installation","n":"1"}
+,{"yr":"2026","value":"Mini-Mart","n":"47"}
+,{"yr":"2026","value":"Mobile Home/Trailers/Construction Trailers/RV's/Motorhome","n":"240"}
+,{"yr":"2026","value":"Mortuary","n":"6"}
+,{"yr":"2026","value":"Mosque","n":"4"}
+,{"yr":"2026","value":"Movie Theater","n":"57"}
+,{"yr":"2026","value":"MTA A Blue Line -103rd/Watts Tower","n":"15"}
+,{"yr":"2026","value":"MTA A Blue Line -7th and Metro Center","n":"79"}
+,{"yr":"2026","value":"MTA A Blue Line -Grand/LATTC","n":"429"}
+,{"yr":"2026","value":"MTA A Blue Line -Pico","n":"73"}
+,{"yr":"2026","value":"MTA A Blue Line -San Pedro","n":"27"}
+,{"yr":"2026","value":"MTA A Blue Line -Vernon","n":"21"}
+,{"yr":"2026","value":"MTA A Blue Line -Washington","n":"24"}
+,{"yr":"2026","value":"MTA B Red Line -7th and Metro Center","n":"80"}
+,{"yr":"2026","value":"MTA B Red Line -Civic Center/Grand Park","n":"38"}
+,{"yr":"2026","value":"MTA B Red Line -Hollywood/Highland","n":"53"}
+,{"yr":"2026","value":"MTA B Red Line -Hollywood/Vine","n":"91"}
+,{"yr":"2026","value":"MTA B Red Line -Hollywood/Western","n":"340"}
+,{"yr":"2026","value":"MTA B Red Line -North Hollywood","n":"302"}
+,{"yr":"2026","value":"MTA B Red Line -Pershing Square","n":"69"}
+,{"yr":"2026","value":"MTA B Red Line -Union Station","n":"94"}
+,{"yr":"2026","value":"MTA B Red Line -Universal City/Studio City","n":"42"}
+,{"yr":"2026","value":"MTA B Red Line -Vermont/Beverly","n":"34"}
+,{"yr":"2026","value":"MTA B Red Line -Vermont/Santa Monica","n":"30"}
+,{"yr":"2026","value":"MTA B Red Line -Vermont/Sunset","n":"37"}
+,{"yr":"2026","value":"MTA B Red Line -Westlake/Macarthur Park","n":"415"}
+,{"yr":"2026","value":"MTA B Red Line -Wilshire/Vermont","n":"78"}
+,{"yr":"2026","value":"MTA Bus","n":"448"}
+,{"yr":"2026","value":"MTA C Green Line - Avalon","n":"12"}
+,{"yr":"2026","value":"MTA C Green Line - Aviation/LAX","n":"26"}
+,{"yr":"2026","value":"MTA C Green Line - Harbor Fwy","n":"13"}
+,{"yr":"2026","value":"MTA D Purple Line -7th and Metro Center","n":"10"}
+,{"yr":"2026","value":"MTA D Purple Line -Civic Center/Grand Park","n":"24"}
+,{"yr":"2026","value":"MTA D Purple Line -Pershing square","n":"31"}
+,{"yr":"2026","value":"MTA D Purple Line -Union Station","n":"5"}
+,{"yr":"2026","value":"MTA D Purple Line -Westlake/Macarthur Park","n":"133"}
+,{"yr":"2026","value":"MTA D Purple Line -Wilshire/Normandie","n":"5"}
+,{"yr":"2026","value":"MTA D Purple Line -Wilshire/Vermont","n":"60"}
+,{"yr":"2026","value":"MTA D Purple Line -Wilshire/Western","n":"71"}
+,{"yr":"2026","value":"MTA E Expo Line - Expo/Bundy","n":"11"}
+,{"yr":"2026","value":"MTA E Expo Line - Expo/Crenshaw","n":"32"}
+,{"yr":"2026","value":"MTA E Expo Line - Expo/La Brea","n":"36"}
+,{"yr":"2026","value":"MTA E Expo Line - Expo Park/USC","n":"46"}
+,{"yr":"2026","value":"MTA E Expo Line - Expo/Sepulveda","n":"9"}
+,{"yr":"2026","value":"MTA E Expo Line - Expo/Vermont","n":"27"}
+,{"yr":"2026","value":"MTA E Expo Line - Expo/Western","n":"225"}
+,{"yr":"2026","value":"MTA E Expo Line - Farmdale","n":"21"}
+,{"yr":"2026","value":"MTA E Expo Line - Jefferson/USC","n":"20"}
+,{"yr":"2026","value":"MTA E Expo Line - La Cienega/Jefferson","n":"86"}
+,{"yr":"2026","value":"MTA E Expo Line - LATTC/Ortho Institute","n":"17"}
+,{"yr":"2026","value":"MTA E Expo Line - Palms","n":"13"}
+,{"yr":"2026","value":"MTA E Expo Line - Pico","n":"18"}
+,{"yr":"2026","value":"MTA E Expo Line - Westwood/Rancho Park","n":"7"}
+,{"yr":"2026","value":"MTA G Orange Line -Balboa","n":"8"}
+,{"yr":"2026","value":"MTA G Orange Line - Canoga","n":"23"}
+,{"yr":"2026","value":"MTA G Orange Line -Chatsworth","n":"11"}
+,{"yr":"2026","value":"MTA G Orange Line -De Soto","n":"7"}
+,{"yr":"2026","value":"MTA G Orange Line -Laurel Canyon","n":"7"}
+,{"yr":"2026","value":"MTA G Orange Line - Nordhoff","n":"1"}
+,{"yr":"2026","value":"MTA G Orange Line - North Hollywood","n":"46"}
+,{"yr":"2026","value":"MTA G Orange Line - Pierce College","n":"5"}
+,{"yr":"2026","value":"MTA G Orange Line - Reseda","n":"50"}
+,{"yr":"2026","value":"MTA G Orange Line -Roscoe","n":"5"}
+,{"yr":"2026","value":"MTA G Orange Line -Sepulveda","n":"15"}
+,{"yr":"2026","value":"MTA G Orange Line - Sherman Way","n":"32"}
+,{"yr":"2026","value":"MTA G Orange Line -Tampa","n":"2"}
+,{"yr":"2026","value":"MTA G Orange Line - Valley College","n":"9"}
+,{"yr":"2026","value":"MTA G Orange Line - Van Nuys","n":"12"}
+,{"yr":"2026","value":"MTA G Orange Line -Warner Ctr","n":"1"}
+,{"yr":"2026","value":"MTA G Orange Line - Woodley","n":"1"}
+,{"yr":"2026","value":"MTA G Orange Line -Woodman","n":"3"}
+,{"yr":"2026","value":"MTA J Silver Line -37th St/USC","n":"2"}
+,{"yr":"2026","value":"MTA J Silver Line -Downtown Street Stops","n":"5"}
+,{"yr":"2026","value":"MTA J Silver Line - Harbor Fwy","n":"4"}
+,{"yr":"2026","value":"MTA J Silver Line -Harbor Gateway Transit Ctr","n":"7"}
+,{"yr":"2026","value":"MTA J Silver Line -LAC/USC Medical Center","n":"2"}
+,{"yr":"2026","value":"MTA J Silver Line -Manchester","n":"5"}
+,{"yr":"2026","value":"MTA J Silver Line -Rosecrans","n":"1"}
+,{"yr":"2026","value":"MTA J Silver Line -San Pedro Street Stops","n":"1"}
+,{"yr":"2026","value":"MTA J Silver Line -Slauson","n":"7"}
+,{"yr":"2026","value":"MTA J Silver Line -Union Station","n":"5"}
+,{"yr":"2026","value":"MTA K Crenshaw Line - Aviation/Century Station","n":"10"}
+,{"yr":"2026","value":"MTA K Crenshaw Line - Crenshaw/Exposition","n":"10"}
+,{"yr":"2026","value":"MTA K Crenshaw Line - Crenshaw/Martin Luther King","n":"7"}
+,{"yr":"2026","value":"MTA K Crenshaw Line - Hyde Park","n":"3"}
+,{"yr":"2026","value":"MTA K Crenshaw Line - Leimert Park","n":"8"}
+,{"yr":"2026","value":"MTA L Gold Line - Chinatown","n":"663"}
+,{"yr":"2026","value":"MTA L Gold Line - Heritage Sq.","n":"21"}
+,{"yr":"2026","value":"MTA L Gold Line - Highland Park","n":"18"}
+,{"yr":"2026","value":"MTA L Gold Line - Indiana","n":"15"}
+,{"yr":"2026","value":"MTA L Gold Line - Lincoln/Cypress","n":"24"}
+,{"yr":"2026","value":"MTA L Gold Line - Little Tokyo/Arts District","n":"108"}
+,{"yr":"2026","value":"MTA L Gold Line - Mariachi Plaza","n":"37"}
+,{"yr":"2026","value":"MTA L Gold Line - Pico/Aliso","n":"10"}
+,{"yr":"2026","value":"MTA L Gold Line - Soto","n":"37"}
+,{"yr":"2026","value":"MTA L Gold Line - Southwest Museum","n":"9"}
+,{"yr":"2026","value":"MTA L Gold Line - Union Station","n":"35"}
+,{"yr":"2026","value":"MTA Parking Lot","n":"118"}
+,{"yr":"2026","value":"Multiple Family Dwelling","n":"384"}
+,{"yr":"2026","value":"Municipal Bus Lines (LADOT, DASH)","n":"40"}
+,{"yr":"2026","value":"Muscle Beach","n":"5"}
+,{"yr":"2026","value":"Museum","n":"36"}
+,{"yr":"2026","value":"Nail Salon","n":"36"}
+,{"yr":"2026","value":"Night Club (open evenings only)","n":"250"}
+,{"yr":"2026","value":"Nursery Flower Shop","n":"20"}
+,{"yr":"2026","value":"Nursing Home","n":"118"}
+,{"yr":"2026","value":"Offender's Residence","n":"879"}
+,{"yr":"2026","value":"Oil Refinery","n":"4"}
+,{"yr":"2026","value":"Other","n":"338"}
+,{"yr":"2026","value":"Other Business","n":"5698"}
+,{"yr":"2026","value":"Other Interstate, Charter Bus","n":"5"}
+,{"yr":"2026","value":"Other place of worship","n":"24"}
+,{"yr":"2026","value":"Other Railroad (Santa Fe, etc.)","n":"52"}
+,{"yr":"2026","value":"Other Residence","n":"886"}
+,{"yr":"2026","value":"Other Store","n":"1184"}
+,{"yr":"2026","value":"Parking Lot / Garage / Drop Lot","n":"11782"}
+,{"yr":"2026","value":"Parking underground/building","n":"951"}
+,{"yr":"2026","value":"Park / Playground","n":"1804"}
+,{"yr":"2026","value":"Patio (Other)","n":"36"}
+,{"yr":"2026","value":"Patio (Residential)","n":"142"}
+,{"yr":"2026","value":"Pawn / Buy-Sell-Trade Shops","n":"12"}
+,{"yr":"2026","value":"Pay Phone","n":"3"}
+,{"yr":"2026","value":"Ped Overcrossing","n":"2"}
+,{"yr":"2026","value":"Pet Store","n":"32"}
+,{"yr":"2026","value":"Pharmacy Inside Store/Supermarket","n":"308"}
+,{"yr":"2026","value":"Police Facility","n":"540"}
+,{"yr":"2026","value":"Pool/Public/Indoor or outdoor","n":"56"}
+,{"yr":"2026","value":"Porch Residential","n":"508"}
+,{"yr":"2026","value":"Post Office","n":"73"}
+,{"yr":"2026","value":"Private Health Facility","n":"75"}
+,{"yr":"2026","value":"Project/Tenement/Public Housing","n":"201"}
+,{"yr":"2026","value":"Public Health Facility","n":"29"}
+,{"yr":"2026","value":"Public Restroom","n":"59"}
+,{"yr":"2026","value":"Public Restroom Outside Area","n":"10"}
+,{"yr":"2026","value":"Public Use Area","n":"228"}
+,{"yr":"2026","value":"Record-CD Music Store","n":"7"}
+,{"yr":"2026","value":"Recycling Center","n":"36"}
+,{"yr":"2026","value":"Rental Storage Facility","n":"545"}
+,{"yr":"2026","value":"Residence / Home / Driveway","n":"17823"}
+,{"yr":"2026","value":"Residential Facility","n":"467"}
+,{"yr":"2026","value":"Rest Area","n":"6"}
+,{"yr":"2026","value":"Restaurant","n":"1759"}
+,{"yr":"2026","value":"River Bed","n":"93"}
+,{"yr":"2026","value":"School / College","n":"619"}
+,{"yr":"2026","value":"School - Elementary","n":"318"}
+,{"yr":"2026","value":"School - High School","n":"384"}
+,{"yr":"2026","value":"School - Junior High","n":"223"}
+,{"yr":"2026","value":"Service / Gas Station","n":"1023"}
+,{"yr":"2026","value":"Sewage Facility/Pipe","n":"14"}
+,{"yr":"2026","value":"Shared Residence","n":"913"}
+,{"yr":"2026","value":"Shelter - Mission / Homeless","n":"254"}
+,{"yr":"2026","value":"Shopping Mall","n":"757"}
+,{"yr":"2026","value":"Short-term vacation rental","n":"15"}
+,{"yr":"2026","value":"Sidewalk","n":"10196"}
+,{"yr":"2026","value":"Single Family Home","n":"3500"}
+,{"yr":"2026","value":"Single Residence Occupancy (SRO's) Locations","n":"239"}
+,{"yr":"2026","value":"Skateboard Park/Facility","n":"28"}
+,{"yr":"2026","value":"Slips/Dock/Marina/Boat","n":"5"}
+,{"yr":"2026","value":"Speciality Store (TV, Fur, Etc)","n":"118"}
+,{"yr":"2026","value":"Specialty School/Other","n":"33"}
+,{"yr":"2026","value":"Sporting Goods Store","n":"141"}
+,{"yr":"2026","value":"Sport Venue, other","n":"57"}
+,{"yr":"2026","value":"Stairwell","n":"52"}
+,{"yr":"2026","value":"Storage Shed (Other)","n":"94"}
+,{"yr":"2026","value":"Storage Shed (Residential)","n":"67"}
+,{"yr":"2026","value":"Street/Parkway","n":"44083"}
+,{"yr":"2026","value":"Studio (film/photo, music)","n":"78"}
+,{"yr":"2026","value":"Swap Meet","n":"20"}
+,{"yr":"2026","value":"Synagogue/Temple","n":"13"}
+,{"yr":"2026","value":"Tattoo Parlor","n":"11"}
+,{"yr":"2026","value":"Taxi","n":"45"}
+,{"yr":"2026","value":"Telecommunications Facility/loc","n":"133"}
+,{"yr":"2026","value":"The Beverly Center","n":"12"}
+,{"yr":"2026","value":"The Beverly Connection","n":"37"}
+,{"yr":"2026","value":"The Grove","n":"39"}
+,{"yr":"2026","value":"Tobacco Shop","n":"105"}
+,{"yr":"2026","value":"Tool Shed","n":"9"}
+,{"yr":"2026","value":"Tow Yard","n":"68"}
+,{"yr":"2026","value":"Trade School (medical/technical)","n":"17"}
+,{"yr":"2026","value":"Train Depot/Terminal other than MTA","n":"33"}
+,{"yr":"2026","value":"Train, other than MTA","n":"65"}
+,{"yr":"2026","value":"Train Tracks","n":"142"}
+,{"yr":"2026","value":"Tram/Streetcar","n":"39"}
+,{"yr":"2026","value":"Transient Encampment","n":"75"}
+,{"yr":"2026","value":"Transitional Housing/Halfway House","n":"181"}
+,{"yr":"2026","value":"Trash Can/ Trash Dumpster","n":"7"}
+,{"yr":"2026","value":"Truck-Commercial","n":"34"}
+,{"yr":"2026","value":"Tunnel","n":"21"}
+,{"yr":"2026","value":"TV/Radio/Appliance","n":"5"}
+,{"yr":"2026","value":"Underpass/Bridge","n":"74"}
+,{"yr":"2026","value":"Uninhabited Residence","n":"100"}
+,{"yr":"2026","value":"Valet","n":"32"}
+,{"yr":"2026","value":"Vehicle, Passenger/Truck","n":"2138"}
+,{"yr":"2026","value":"Vehicle Storage Lot","n":"53"}
+,{"yr":"2026","value":"Veterinary Office/Hospital","n":"24"}
+,{"yr":"2026","value":"Victim's Residence","n":"7245"}
+,{"yr":"2026","value":"Video Rental Store","n":"2"}
+,{"yr":"2026","value":"Vision Care Facility","n":"1"}
+,{"yr":"2026","value":"Warehouse","n":"577"}
+,{"yr":"2026","value":"Water Facility","n":"15"}
+,{"yr":"2026","value":"Website","n":"368"}
+,{"yr":"2026","value":"Yard (adjacent to Residential Location)","n":"415"}
+,{"yr":"2026","value":"Yard (Business)","n":"99"}
+,{"yr":"2026","value":"Zoo","n":"16"}]

@@ -1,0 +1,10 @@
+{
+  "version": "restart7_review_revision_v1",
+  "files": {
+    "protocol/revision.json": "b9a965dbbe0bffbe1d7c08b54ea7dc434a282417558ac396e80612f0c792e0a2",
+    "protocol/source_decisions.md": "e4fcda8de8b40b6320c1fafba048a43a0820a0b9f5f5559cb1e8c7bbd3e1fa50",
+    "protocol/study_spec.md": "9783012d2e73445d690d81e8dbd7e9f9615bdce29e773e3c275404146bd3f10c"
+  },
+  "status": "retrospective_working_specification",
+  "scientific_approval": "PENDING"
+}

@@ -1,0 +1,659 @@
+[{"yr":"2020","value":"ARSON","n":"665"}
+,{"yr":"2020","value":"ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT","n":"11525"}
+,{"yr":"2020","value":"ASSAULT WITH DEADLY WEAPON ON POLICE OFFICER","n":"397"}
+,{"yr":"2020","value":"ATTEMPTED ROBBERY","n":"1123"}
+,{"yr":"2020","value":"BATTERY ON A FIREFIGHTER","n":"46"}
+,{"yr":"2020","value":"BATTERY POLICE (SIMPLE)","n":"618"}
+,{"yr":"2020","value":"BATTERY - SIMPLE ASSAULT","n":"16331"}
+,{"yr":"2020","value":"BATTERY WITH SEXUAL CONTACT","n":"963"}
+,{"yr":"2020","value":"BIKE - ATTEMPTED STOLEN","n":"3"}
+,{"yr":"2020","value":"BIKE - STOLEN","n":"2047"}
+,{"yr":"2020","value":"BOAT - STOLEN","n":"31"}
+,{"yr":"2020","value":"BOMB SCARE","n":"75"}
+,{"yr":"2020","value":"BRANDISH WEAPON","n":"3086"}
+,{"yr":"2020","value":"BRIBERY","n":"1"}
+,{"yr":"2020","value":"BUNCO, ATTEMPT","n":"88"}
+,{"yr":"2020","value":"BUNCO, GRAND THEFT","n":"1229"}
+,{"yr":"2020","value":"BUNCO, PETTY THEFT","n":"564"}
+,{"yr":"2020","value":"BURGLARY","n":"12837"}
+,{"yr":"2020","value":"BURGLARY, ATTEMPTED","n":"923"}
+,{"yr":"2020","value":"BURGLARY FROM VEHICLE","n":"12714"}
+,{"yr":"2020","value":"BURGLARY FROM VEHICLE, ATTEMPTED","n":"179"}
+,{"yr":"2020","value":"CHILD ABANDONMENT","n":"3"}
+,{"yr":"2020","value":"CHILD ABUSE (PHYSICAL) - AGGRAVATED ASSAULT","n":"153"}
+,{"yr":"2020","value":"CHILD ABUSE (PHYSICAL) - SIMPLE ASSAULT","n":"857"}
+,{"yr":"2020","value":"CHILD ANNOYING (17YRS & UNDER)","n":"227"}
+,{"yr":"2020","value":"CHILD NEGLECT (SEE 300 W.I.C.)","n":"267"}
+,{"yr":"2020","value":"CHILD PORNOGRAPHY","n":"49"}
+,{"yr":"2020","value":"CHILD STEALING","n":"117"}
+,{"yr":"2020","value":"CONSPIRACY","n":"5"}
+,{"yr":"2020","value":"CONTEMPT OF COURT","n":"574"}
+,{"yr":"2020","value":"CONTRIBUTING","n":"11"}
+,{"yr":"2020","value":"COUNTERFEIT","n":"34"}
+,{"yr":"2020","value":"CREDIT CARDS, FRAUD USE ($950.01 & OVER)","n":"24"}
+,{"yr":"2020","value":"CREDIT CARDS, FRAUD USE ($950 & UNDER","n":"24"}
+,{"yr":"2020","value":"CRIMINAL HOMICIDE","n":"352"}
+,{"yr":"2020","value":"CRIMINAL THREATS - NO WEAPON DISPLAYED","n":"4198"}
+,{"yr":"2020","value":"CRM AGNST CHLD (13 OR UNDER) (14-15 & SUSP 10 YRS OLDER)","n":"483"}
+,{"yr":"2020","value":"CRUELTY TO ANIMALS","n":"34"}
+,{"yr":"2020","value":"DEFRAUDING INNKEEPER/THEFT OF SERVICES, $950 & UNDER","n":"84"}
+,{"yr":"2020","value":"DEFRAUDING INNKEEPER/THEFT OF SERVICES, OVER $950.01","n":"21"}
+,{"yr":"2020","value":"DISCHARGE FIREARMS/SHOTS FIRED","n":"581"}
+,{"yr":"2020","value":"DISHONEST EMPLOYEE - GRAND THEFT","n":"9"}
+,{"yr":"2020","value":"DISHONEST EMPLOYEE - PETTY THEFT","n":"8"}
+,{"yr":"2020","value":"DISRUPT SCHOOL","n":"4"}
+,{"yr":"2020","value":"DISTURBING THE PEACE","n":"323"}
+,{"yr":"2020","value":"DOCUMENT FORGERY / STOLEN FELONY","n":"713"}
+,{"yr":"2020","value":"DOCUMENT WORTHLESS ($200.01 & OVER)","n":"10"}
+,{"yr":"2020","value":"DOCUMENT WORTHLESS ($200 & UNDER)","n":"11"}
+,{"yr":"2020","value":"DRIVING WITHOUT OWNER CONSENT (DWOC)","n":"50"}
+,{"yr":"2020","value":"DRUGS, TO A MINOR","n":"5"}
+,{"yr":"2020","value":"DRUNK ROLL","n":"4"}
+,{"yr":"2020","value":"EMBEZZLEMENT, GRAND THEFT ($950.01 & OVER)","n":"941"}
+,{"yr":"2020","value":"EMBEZZLEMENT, PETTY THEFT ($950 & UNDER)","n":"26"}
+,{"yr":"2020","value":"EXTORTION","n":"422"}
+,{"yr":"2020","value":"FAILURE TO YIELD","n":"252"}
+,{"yr":"2020","value":"FALSE IMPRISONMENT","n":"72"}
+,{"yr":"2020","value":"FALSE POLICE REPORT","n":"30"}
+,{"yr":"2020","value":"FIREARMS RESTRAINING ORDER (FIREARMS RO)","n":"1"}
+,{"yr":"2020","value":"GRAND THEFT / AUTO REPAIR","n":"1"}
+,{"yr":"2020","value":"GRAND THEFT / INSURANCE FRAUD","n":"2"}
+,{"yr":"2020","value":"HUMAN TRAFFICKING - COMMERCIAL SEX ACTS","n":"125"}
+,{"yr":"2020","value":"HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE","n":"15"}
+,{"yr":"2020","value":"ILLEGAL DUMPING","n":"29"}
+,{"yr":"2020","value":"INDECENT EXPOSURE","n":"258"}
+,{"yr":"2020","value":"INTIMATE PARTNER - AGGRAVATED ASSAULT","n":"2905"}
+,{"yr":"2020","value":"INTIMATE PARTNER - SIMPLE ASSAULT","n":"10863"}
+,{"yr":"2020","value":"KIDNAPPING","n":"158"}
+,{"yr":"2020","value":"KIDNAPPING - GRAND ATTEMPT","n":"55"}
+,{"yr":"2020","value":"LETTERS, LEWD  -  TELEPHONE CALLS, LEWD","n":"1572"}
+,{"yr":"2020","value":"LEWD CONDUCT","n":"155"}
+,{"yr":"2020","value":"LEWD/LASCIVIOUS ACTS WITH CHILD","n":"20"}
+,{"yr":"2020","value":"LYNCHING","n":"10"}
+,{"yr":"2020","value":"LYNCHING - ATTEMPTED","n":"4"}
+,{"yr":"2020","value":"MANSLAUGHTER, NEGLIGENT","n":"4"}
+,{"yr":"2020","value":"ORAL COPULATION","n":"172"}
+,{"yr":"2020","value":"OTHER ASSAULT","n":"1035"}
+,{"yr":"2020","value":"OTHER MISCELLANEOUS CRIME","n":"1716"}
+,{"yr":"2020","value":"PANDERING","n":"26"}
+,{"yr":"2020","value":"PEEPING TOM","n":"81"}
+,{"yr":"2020","value":"PETTY THEFT - AUTO REPAIR","n":"4"}
+,{"yr":"2020","value":"PICKPOCKET","n":"57"}
+,{"yr":"2020","value":"PICKPOCKET, ATTEMPT","n":"1"}
+,{"yr":"2020","value":"PIMPING","n":"38"}
+,{"yr":"2020","value":"PROWLER","n":"50"}
+,{"yr":"2020","value":"PURSE SNATCHING","n":"32"}
+,{"yr":"2020","value":"PURSE SNATCHING - ATTEMPT","n":"3"}
+,{"yr":"2020","value":"RAPE, ATTEMPTED","n":"72"}
+,{"yr":"2020","value":"RAPE, FORCIBLE","n":"884"}
+,{"yr":"2020","value":"RECKLESS DRIVING","n":"55"}
+,{"yr":"2020","value":"REPLICA FIREARMS(SALE,DISPLAY,MANUFACTURE OR DISTRIBUTE)","n":"5"}
+,{"yr":"2020","value":"RESISTING ARREST","n":"217"}
+,{"yr":"2020","value":"ROBBERY","n":"6896"}
+,{"yr":"2020","value":"SEX OFFENDER REGISTRANT OUT OF COMPLIANCE","n":"310"}
+,{"yr":"2020","value":"SEXUAL PENETRATION W/FOREIGN OBJECT","n":"333"}
+,{"yr":"2020","value":"SEX,UNLAWFUL(INC MUTUAL CONSENT, PENETRATION W/ FRGN OBJ","n":"292"}
+,{"yr":"2020","value":"SHOPLIFTING - ATTEMPT","n":"30"}
+,{"yr":"2020","value":"SHOPLIFTING-GRAND THEFT ($950.01 & OVER)","n":"519"}
+,{"yr":"2020","value":"SHOPLIFTING - PETTY THEFT ($950 & UNDER)","n":"3549"}
+,{"yr":"2020","value":"SHOTS FIRED AT INHABITED DWELLING","n":"419"}
+,{"yr":"2020","value":"SHOTS FIRED AT MOVING VEHICLE, TRAIN OR AIRCRAFT","n":"78"}
+,{"yr":"2020","value":"SODOMY/SEXUAL CONTACT B/W PENIS OF ONE PERS TO ANUS OTH","n":"129"}
+,{"yr":"2020","value":"STALKING","n":"114"}
+,{"yr":"2020","value":"THEFT, COIN MACHINE - ATTEMPT","n":"5"}
+,{"yr":"2020","value":"THEFT, COIN MACHINE - GRAND ($950.01 & OVER)","n":"3"}
+,{"yr":"2020","value":"THEFT, COIN MACHINE - PETTY ($950 & UNDER)","n":"8"}
+,{"yr":"2020","value":"THEFT FROM MOTOR VEHICLE - ATTEMPT","n":"248"}
+,{"yr":"2020","value":"THEFT FROM MOTOR VEHICLE - GRAND ($950.01 AND OVER)","n":"4785"}
+,{"yr":"2020","value":"THEFT FROM MOTOR VEHICLE - PETTY ($950 & UNDER)","n":"9737"}
+,{"yr":"2020","value":"THEFT FROM PERSON - ATTEMPT","n":"24"}
+,{"yr":"2020","value":"THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD","n":"5519"}
+,{"yr":"2020","value":"THEFT OF IDENTITY","n":"9040"}
+,{"yr":"2020","value":"THEFT, PERSON","n":"964"}
+,{"yr":"2020","value":"THEFT PLAIN - ATTEMPT","n":"127"}
+,{"yr":"2020","value":"THEFT PLAIN - PETTY ($950 & UNDER)","n":"10857"}
+,{"yr":"2020","value":"THREATENING PHONE CALLS/LETTERS","n":"126"}
+,{"yr":"2020","value":"THROWING OBJECT AT MOVING VEHICLE","n":"193"}
+,{"yr":"2020","value":"TILL TAP - GRAND THEFT ($950.01 & OVER)","n":"2"}
+,{"yr":"2020","value":"TILL TAP - PETTY ($950 & UNDER)","n":"4"}
+,{"yr":"2020","value":"TRESPASSING","n":"2852"}
+,{"yr":"2020","value":"UNAUTHORIZED COMPUTER ACCESS","n":"140"}
+,{"yr":"2020","value":"VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)","n":"12927"}
+,{"yr":"2020","value":"VANDALISM - MISDEAMEANOR ($399 OR UNDER)","n":"6982"}
+,{"yr":"2020","value":"VEHICLE - ATTEMPT STOLEN","n":"521"}
+,{"yr":"2020","value":"VEHICLE - STOLEN","n":"20772"}
+,{"yr":"2020","value":"VEHICLE, STOLEN - OTHER (MOTORIZED SCOOTERS, BIKES, ETC)","n":"134"}
+,{"yr":"2020","value":"VIOLATION OF COURT ORDER","n":"1391"}
+,{"yr":"2020","value":"VIOLATION OF RESTRAINING ORDER","n":"2607"}
+,{"yr":"2020","value":"VIOLATION OF TEMPORARY RESTRAINING ORDER","n":"153"}
+,{"yr":"2020","value":"WEAPONS POSSESSION/BOMBING","n":"9"}
+,{"yr":"2021","value":"ARSON","n":"627"}
+,{"yr":"2021","value":"ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT","n":"12739"}
+,{"yr":"2021","value":"ASSAULT WITH DEADLY WEAPON ON POLICE OFFICER","n":"217"}
+,{"yr":"2021","value":"ATTEMPTED ROBBERY","n":"1147"}
+,{"yr":"2021","value":"BATTERY ON A FIREFIGHTER","n":"57"}
+,{"yr":"2021","value":"BATTERY POLICE (SIMPLE)","n":"627"}
+,{"yr":"2021","value":"BATTERY - SIMPLE ASSAULT","n":"16199"}
+,{"yr":"2021","value":"BATTERY WITH SEXUAL CONTACT","n":"932"}
+,{"yr":"2021","value":"BEASTIALITY, CRIME AGAINST NATURE SEXUAL ASSLT WITH ANIM","n":"3"}
+,{"yr":"2021","value":"BIGAMY","n":"2"}
+,{"yr":"2021","value":"BIKE - ATTEMPTED STOLEN","n":"3"}
+,{"yr":"2021","value":"BIKE - STOLEN","n":"2151"}
+,{"yr":"2021","value":"BOAT - STOLEN","n":"23"}
+,{"yr":"2021","value":"BOMB SCARE","n":"102"}
+,{"yr":"2021","value":"BRANDISH WEAPON","n":"3373"}
+,{"yr":"2021","value":"BRIBERY","n":"3"}
+,{"yr":"2021","value":"BUNCO, ATTEMPT","n":"80"}
+,{"yr":"2021","value":"BUNCO, GRAND THEFT","n":"1282"}
+,{"yr":"2021","value":"BUNCO, PETTY THEFT","n":"445"}
+,{"yr":"2021","value":"BURGLARY","n":"12214"}
+,{"yr":"2021","value":"BURGLARY, ATTEMPTED","n":"804"}
+,{"yr":"2021","value":"BURGLARY FROM VEHICLE","n":"13479"}
+,{"yr":"2021","value":"BURGLARY FROM VEHICLE, ATTEMPTED","n":"147"}
+,{"yr":"2021","value":"CHILD ABANDONMENT","n":"5"}
+,{"yr":"2021","value":"CHILD ABUSE (PHYSICAL) - AGGRAVATED ASSAULT","n":"138"}
+,{"yr":"2021","value":"CHILD ABUSE (PHYSICAL) - SIMPLE ASSAULT","n":"693"}
+,{"yr":"2021","value":"CHILD ANNOYING (17YRS & UNDER)","n":"225"}
+,{"yr":"2021","value":"CHILD NEGLECT (SEE 300 W.I.C.)","n":"249"}
+,{"yr":"2021","value":"CHILD PORNOGRAPHY","n":"62"}
+,{"yr":"2021","value":"CHILD STEALING","n":"103"}
+,{"yr":"2021","value":"CONSPIRACY","n":"5"}
+,{"yr":"2021","value":"CONTEMPT OF COURT","n":"678"}
+,{"yr":"2021","value":"CONTRIBUTING","n":"2"}
+,{"yr":"2021","value":"COUNTERFEIT","n":"29"}
+,{"yr":"2021","value":"CREDIT CARDS, FRAUD USE ($950.01 & OVER)","n":"28"}
+,{"yr":"2021","value":"CREDIT CARDS, FRAUD USE ($950 & UNDER","n":"11"}
+,{"yr":"2021","value":"CRIMINAL HOMICIDE","n":"400"}
+,{"yr":"2021","value":"CRIMINAL THREATS - NO WEAPON DISPLAYED","n":"4299"}
+,{"yr":"2021","value":"CRM AGNST CHLD (13 OR UNDER) (14-15 & SUSP 10 YRS OLDER)","n":"444"}
+,{"yr":"2021","value":"CRUELTY TO ANIMALS","n":"69"}
+,{"yr":"2021","value":"DEFRAUDING INNKEEPER/THEFT OF SERVICES, $950 & UNDER","n":"57"}
+,{"yr":"2021","value":"DEFRAUDING INNKEEPER/THEFT OF SERVICES, OVER $950.01","n":"10"}
+,{"yr":"2021","value":"DISCHARGE FIREARMS/SHOTS FIRED","n":"687"}
+,{"yr":"2021","value":"DISHONEST EMPLOYEE - GRAND THEFT","n":"10"}
+,{"yr":"2021","value":"DISHONEST EMPLOYEE - PETTY THEFT","n":"2"}
+,{"yr":"2021","value":"DISRUPT SCHOOL","n":"2"}
+,{"yr":"2021","value":"DISTURBING THE PEACE","n":"321"}
+,{"yr":"2021","value":"DOCUMENT FORGERY / STOLEN FELONY","n":"699"}
+,{"yr":"2021","value":"DOCUMENT WORTHLESS ($200.01 & OVER)","n":"19"}
+,{"yr":"2021","value":"DOCUMENT WORTHLESS ($200 & UNDER)","n":"8"}
+,{"yr":"2021","value":"DRIVING WITHOUT OWNER CONSENT (DWOC)","n":"39"}
+,{"yr":"2021","value":"DRUGS, TO A MINOR","n":"3"}
+,{"yr":"2021","value":"DRUNK ROLL","n":"3"}
+,{"yr":"2021","value":"EMBEZZLEMENT, GRAND THEFT ($950.01 & OVER)","n":"794"}
+,{"yr":"2021","value":"EMBEZZLEMENT, PETTY THEFT ($950 & UNDER)","n":"18"}
+,{"yr":"2021","value":"EXTORTION","n":"372"}
+,{"yr":"2021","value":"FAILURE TO DISPERSE","n":"2"}
+,{"yr":"2021","value":"FAILURE TO YIELD","n":"279"}
+,{"yr":"2021","value":"FALSE IMPRISONMENT","n":"65"}
+,{"yr":"2021","value":"FALSE POLICE REPORT","n":"30"}
+,{"yr":"2021","value":"FIREARMS EMERGENCY PROTECTIVE ORDER (FIREARMS EPO)","n":"2"}
+,{"yr":"2021","value":"FIREARMS RESTRAINING ORDER (FIREARMS RO)","n":"2"}
+,{"yr":"2021","value":"GRAND THEFT / INSURANCE FRAUD","n":"2"}
+,{"yr":"2021","value":"HUMAN TRAFFICKING - COMMERCIAL SEX ACTS","n":"96"}
+,{"yr":"2021","value":"HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE","n":"34"}
+,{"yr":"2021","value":"ILLEGAL DUMPING","n":"28"}
+,{"yr":"2021","value":"INCEST (SEXUAL ACTS BETWEEN BLOOD RELATIVES)","n":"2"}
+,{"yr":"2021","value":"INDECENT EXPOSURE","n":"258"}
+,{"yr":"2021","value":"INTIMATE PARTNER - AGGRAVATED ASSAULT","n":"3065"}
+,{"yr":"2021","value":"INTIMATE PARTNER - SIMPLE ASSAULT","n":"10797"}
+,{"yr":"2021","value":"KIDNAPPING","n":"188"}
+,{"yr":"2021","value":"KIDNAPPING - GRAND ATTEMPT","n":"49"}
+,{"yr":"2021","value":"LETTERS, LEWD  -  TELEPHONE CALLS, LEWD","n":"2059"}
+,{"yr":"2021","value":"LEWD CONDUCT","n":"149"}
+,{"yr":"2021","value":"LEWD/LASCIVIOUS ACTS WITH CHILD","n":"26"}
+,{"yr":"2021","value":"LYNCHING","n":"1"}
+,{"yr":"2021","value":"LYNCHING - ATTEMPTED","n":"2"}
+,{"yr":"2021","value":"MANSLAUGHTER, NEGLIGENT","n":"2"}
+,{"yr":"2021","value":"ORAL COPULATION","n":"161"}
+,{"yr":"2021","value":"OTHER ASSAULT","n":"997"}
+,{"yr":"2021","value":"OTHER MISCELLANEOUS CRIME","n":"1532"}
+,{"yr":"2021","value":"PANDERING","n":"34"}
+,{"yr":"2021","value":"PEEPING TOM","n":"83"}
+,{"yr":"2021","value":"PETTY THEFT - AUTO REPAIR","n":"2"}
+,{"yr":"2021","value":"PICKPOCKET","n":"150"}
+,{"yr":"2021","value":"PICKPOCKET, ATTEMPT","n":"1"}
+,{"yr":"2021","value":"PIMPING","n":"48"}
+,{"yr":"2021","value":"PROWLER","n":"39"}
+,{"yr":"2021","value":"PURSE SNATCHING","n":"26"}
+,{"yr":"2021","value":"PURSE SNATCHING - ATTEMPT","n":"2"}
+,{"yr":"2021","value":"RAPE, ATTEMPTED","n":"76"}
+,{"yr":"2021","value":"RAPE, FORCIBLE","n":"963"}
+,{"yr":"2021","value":"RECKLESS DRIVING","n":"76"}
+,{"yr":"2021","value":"REPLICA FIREARMS(SALE,DISPLAY,MANUFACTURE OR DISTRIBUTE)","n":"2"}
+,{"yr":"2021","value":"RESISTING ARREST","n":"213"}
+,{"yr":"2021","value":"ROBBERY","n":"7353"}
+,{"yr":"2021","value":"SEX OFFENDER REGISTRANT OUT OF COMPLIANCE","n":"203"}
+,{"yr":"2021","value":"SEXUAL PENETRATION W/FOREIGN OBJECT","n":"328"}
+,{"yr":"2021","value":"SEX,UNLAWFUL(INC MUTUAL CONSENT, PENETRATION W/ FRGN OBJ","n":"241"}
+,{"yr":"2021","value":"SHOPLIFTING - ATTEMPT","n":"18"}
+,{"yr":"2021","value":"SHOPLIFTING-GRAND THEFT ($950.01 & OVER)","n":"631"}
+,{"yr":"2021","value":"SHOPLIFTING - PETTY THEFT ($950 & UNDER)","n":"2939"}
+,{"yr":"2021","value":"SHOTS FIRED AT INHABITED DWELLING","n":"388"}
+,{"yr":"2021","value":"SHOTS FIRED AT MOVING VEHICLE, TRAIN OR AIRCRAFT","n":"162"}
+,{"yr":"2021","value":"SODOMY/SEXUAL CONTACT B/W PENIS OF ONE PERS TO ANUS OTH","n":"119"}
+,{"yr":"2021","value":"STALKING","n":"159"}
+,{"yr":"2021","value":"TELEPHONE PROPERTY - DAMAGE","n":"2"}
+,{"yr":"2021","value":"THEFT, COIN MACHINE - GRAND ($950.01 & OVER)","n":"2"}
+,{"yr":"2021","value":"THEFT, COIN MACHINE - PETTY ($950 & UNDER)","n":"4"}
+,{"yr":"2021","value":"THEFT FROM MOTOR VEHICLE - ATTEMPT","n":"257"}
+,{"yr":"2021","value":"THEFT FROM MOTOR VEHICLE - GRAND ($950.01 AND OVER)","n":"7521"}
+,{"yr":"2021","value":"THEFT FROM MOTOR VEHICLE - PETTY ($950 & UNDER)","n":"8257"}
+,{"yr":"2021","value":"THEFT FROM PERSON - ATTEMPT","n":"29"}
+,{"yr":"2021","value":"THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD","n":"6755"}
+,{"yr":"2021","value":"THEFT OF IDENTITY","n":"11373"}
+,{"yr":"2021","value":"THEFT, PERSON","n":"905"}
+,{"yr":"2021","value":"THEFT PLAIN - ATTEMPT","n":"116"}
+,{"yr":"2021","value":"THEFT PLAIN - PETTY ($950 & UNDER)","n":"11195"}
+,{"yr":"2021","value":"THREATENING PHONE CALLS/LETTERS","n":"118"}
+,{"yr":"2021","value":"THROWING OBJECT AT MOVING VEHICLE","n":"195"}
+,{"yr":"2021","value":"TILL TAP - GRAND THEFT ($950.01 & OVER)","n":"1"}
+,{"yr":"2021","value":"TILL TAP - PETTY ($950 & UNDER)","n":"7"}
+,{"yr":"2021","value":"TRESPASSING","n":"2774"}
+,{"yr":"2021","value":"UNAUTHORIZED COMPUTER ACCESS","n":"122"}
+,{"yr":"2021","value":"VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)","n":"13681"}
+,{"yr":"2021","value":"VANDALISM - MISDEAMEANOR ($399 OR UNDER)","n":"6313"}
+,{"yr":"2021","value":"VEHICLE - ATTEMPT STOLEN","n":"627"}
+,{"yr":"2021","value":"VEHICLE - STOLEN","n":"23685"}
+,{"yr":"2021","value":"VEHICLE, STOLEN - OTHER (MOTORIZED SCOOTERS, BIKES, ETC)","n":"243"}
+,{"yr":"2021","value":"VIOLATION OF COURT ORDER","n":"1508"}
+,{"yr":"2021","value":"VIOLATION OF RESTRAINING ORDER","n":"2733"}
+,{"yr":"2021","value":"VIOLATION OF TEMPORARY RESTRAINING ORDER","n":"219"}
+,{"yr":"2021","value":"WEAPONS POSSESSION/BOMBING","n":"10"}
+,{"yr":"2022","value":"ARSON","n":"531"}
+,{"yr":"2022","value":"ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT","n":"12870"}
+,{"yr":"2022","value":"ASSAULT WITH DEADLY WEAPON ON POLICE OFFICER","n":"227"}
+,{"yr":"2022","value":"ATTEMPTED ROBBERY","n":"1165"}
+,{"yr":"2022","value":"BATTERY ON A FIREFIGHTER","n":"66"}
+,{"yr":"2022","value":"BATTERY POLICE (SIMPLE)","n":"564"}
+,{"yr":"2022","value":"BATTERY - SIMPLE ASSAULT","n":"18059"}
+,{"yr":"2022","value":"BATTERY WITH SEXUAL CONTACT","n":"1035"}
+,{"yr":"2022","value":"BEASTIALITY, CRIME AGAINST NATURE SEXUAL ASSLT WITH ANIM","n":"3"}
+,{"yr":"2022","value":"BIGAMY","n":"3"}
+,{"yr":"2022","value":"BIKE - STOLEN","n":"1819"}
+,{"yr":"2022","value":"BLOCKING DOOR INDUCTION CENTER","n":"4"}
+,{"yr":"2022","value":"BOAT - STOLEN","n":"28"}
+,{"yr":"2022","value":"BOMB SCARE","n":"119"}
+,{"yr":"2022","value":"BRANDISH WEAPON","n":"3494"}
+,{"yr":"2022","value":"BRIBERY","n":"3"}
+,{"yr":"2022","value":"BUNCO, ATTEMPT","n":"65"}
+,{"yr":"2022","value":"BUNCO, GRAND THEFT","n":"1546"}
+,{"yr":"2022","value":"BUNCO, PETTY THEFT","n":"425"}
+,{"yr":"2022","value":"BURGLARY","n":"14071"}
+,{"yr":"2022","value":"BURGLARY, ATTEMPTED","n":"917"}
+,{"yr":"2022","value":"BURGLARY FROM VEHICLE","n":"14232"}
+,{"yr":"2022","value":"BURGLARY FROM VEHICLE, ATTEMPTED","n":"132"}
+,{"yr":"2022","value":"CHILD ABANDONMENT","n":"11"}
+,{"yr":"2022","value":"CHILD ABUSE (PHYSICAL) - AGGRAVATED ASSAULT","n":"146"}
+,{"yr":"2022","value":"CHILD ABUSE (PHYSICAL) - SIMPLE ASSAULT","n":"873"}
+,{"yr":"2022","value":"CHILD ANNOYING (17YRS & UNDER)","n":"282"}
+,{"yr":"2022","value":"CHILD NEGLECT (SEE 300 W.I.C.)","n":"281"}
+,{"yr":"2022","value":"CHILD PORNOGRAPHY","n":"76"}
+,{"yr":"2022","value":"CHILD STEALING","n":"96"}
+,{"yr":"2022","value":"CONSPIRACY","n":"3"}
+,{"yr":"2022","value":"CONTEMPT OF COURT","n":"702"}
+,{"yr":"2022","value":"CONTRIBUTING","n":"14"}
+,{"yr":"2022","value":"COUNTERFEIT","n":"27"}
+,{"yr":"2022","value":"CREDIT CARDS, FRAUD USE ($950.01 & OVER)","n":"38"}
+,{"yr":"2022","value":"CREDIT CARDS, FRAUD USE ($950 & UNDER","n":"35"}
+,{"yr":"2022","value":"CRIMINAL HOMICIDE","n":"392"}
+,{"yr":"2022","value":"CRIMINAL THREATS - NO WEAPON DISPLAYED","n":"4768"}
+,{"yr":"2022","value":"CRM AGNST CHLD (13 OR UNDER) (14-15 & SUSP 10 YRS OLDER)","n":"453"}
+,{"yr":"2022","value":"CRUELTY TO ANIMALS","n":"67"}
+,{"yr":"2022","value":"DEFRAUDING INNKEEPER/THEFT OF SERVICES, $950 & UNDER","n":"79"}
+,{"yr":"2022","value":"DEFRAUDING INNKEEPER/THEFT OF SERVICES, OVER $950.01","n":"20"}
+,{"yr":"2022","value":"DISCHARGE FIREARMS/SHOTS FIRED","n":"612"}
+,{"yr":"2022","value":"DISHONEST EMPLOYEE ATTEMPTED THEFT","n":"1"}
+,{"yr":"2022","value":"DISHONEST EMPLOYEE - GRAND THEFT","n":"10"}
+,{"yr":"2022","value":"DISHONEST EMPLOYEE - PETTY THEFT","n":"3"}
+,{"yr":"2022","value":"DISRUPT SCHOOL","n":"2"}
+,{"yr":"2022","value":"DISTURBING THE PEACE","n":"391"}
+,{"yr":"2022","value":"DOCUMENT FORGERY / STOLEN FELONY","n":"874"}
+,{"yr":"2022","value":"DOCUMENT WORTHLESS ($200.01 & OVER)","n":"20"}
+,{"yr":"2022","value":"DOCUMENT WORTHLESS ($200 & UNDER)","n":"1"}
+,{"yr":"2022","value":"DRIVING WITHOUT OWNER CONSENT (DWOC)","n":"31"}
+,{"yr":"2022","value":"DRUGS, TO A MINOR","n":"2"}
+,{"yr":"2022","value":"DRUNK ROLL","n":"11"}
+,{"yr":"2022","value":"EMBEZZLEMENT, GRAND THEFT ($950.01 & OVER)","n":"918"}
+,{"yr":"2022","value":"EMBEZZLEMENT, PETTY THEFT ($950 & UNDER)","n":"39"}
+,{"yr":"2022","value":"EXTORTION","n":"465"}
+,{"yr":"2022","value":"FAILURE TO YIELD","n":"428"}
+,{"yr":"2022","value":"FALSE IMPRISONMENT","n":"89"}
+,{"yr":"2022","value":"FALSE POLICE REPORT","n":"42"}
+,{"yr":"2022","value":"FIREARMS EMERGENCY PROTECTIVE ORDER (FIREARMS EPO)","n":"2"}
+,{"yr":"2022","value":"FIREARMS RESTRAINING ORDER (FIREARMS RO)","n":"1"}
+,{"yr":"2022","value":"GRAND THEFT / AUTO REPAIR","n":"2"}
+,{"yr":"2022","value":"GRAND THEFT / INSURANCE FRAUD","n":"1"}
+,{"yr":"2022","value":"HUMAN TRAFFICKING - COMMERCIAL SEX ACTS","n":"105"}
+,{"yr":"2022","value":"HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE","n":"31"}
+,{"yr":"2022","value":"ILLEGAL DUMPING","n":"21"}
+,{"yr":"2022","value":"INCEST (SEXUAL ACTS BETWEEN BLOOD RELATIVES)","n":"2"}
+,{"yr":"2022","value":"INCITING A RIOT","n":"1"}
+,{"yr":"2022","value":"INDECENT EXPOSURE","n":"299"}
+,{"yr":"2022","value":"INTIMATE PARTNER - AGGRAVATED ASSAULT","n":"2898"}
+,{"yr":"2022","value":"INTIMATE PARTNER - SIMPLE ASSAULT","n":"11179"}
+,{"yr":"2022","value":"KIDNAPPING","n":"206"}
+,{"yr":"2022","value":"KIDNAPPING - GRAND ATTEMPT","n":"59"}
+,{"yr":"2022","value":"LETTERS, LEWD  -  TELEPHONE CALLS, LEWD","n":"1967"}
+,{"yr":"2022","value":"LEWD CONDUCT","n":"169"}
+,{"yr":"2022","value":"LEWD/LASCIVIOUS ACTS WITH CHILD","n":"18"}
+,{"yr":"2022","value":"LYNCHING","n":"4"}
+,{"yr":"2022","value":"LYNCHING - ATTEMPTED","n":"3"}
+,{"yr":"2022","value":"MANSLAUGHTER, NEGLIGENT","n":"1"}
+,{"yr":"2022","value":"ORAL COPULATION","n":"200"}
+,{"yr":"2022","value":"OTHER ASSAULT","n":"1009"}
+,{"yr":"2022","value":"OTHER MISCELLANEOUS CRIME","n":"1429"}
+,{"yr":"2022","value":"PANDERING","n":"25"}
+,{"yr":"2022","value":"PEEPING TOM","n":"100"}
+,{"yr":"2022","value":"PETTY THEFT - AUTO REPAIR","n":"1"}
+,{"yr":"2022","value":"PICKPOCKET","n":"1016"}
+,{"yr":"2022","value":"PICKPOCKET, ATTEMPT","n":"1"}
+,{"yr":"2022","value":"PIMPING","n":"19"}
+,{"yr":"2022","value":"PROWLER","n":"43"}
+,{"yr":"2022","value":"PURSE SNATCHING","n":"18"}
+,{"yr":"2022","value":"PURSE SNATCHING - ATTEMPT","n":"5"}
+,{"yr":"2022","value":"RAPE, ATTEMPTED","n":"79"}
+,{"yr":"2022","value":"RAPE, FORCIBLE","n":"874"}
+,{"yr":"2022","value":"RECKLESS DRIVING","n":"43"}
+,{"yr":"2022","value":"REPLICA FIREARMS(SALE,DISPLAY,MANUFACTURE OR DISTRIBUTE)","n":"3"}
+,{"yr":"2022","value":"RESISTING ARREST","n":"210"}
+,{"yr":"2022","value":"ROBBERY","n":"7953"}
+,{"yr":"2022","value":"SEX OFFENDER REGISTRANT OUT OF COMPLIANCE","n":"237"}
+,{"yr":"2022","value":"SEXUAL PENETRATION W/FOREIGN OBJECT","n":"329"}
+,{"yr":"2022","value":"SEX,UNLAWFUL(INC MUTUAL CONSENT, PENETRATION W/ FRGN OBJ","n":"245"}
+,{"yr":"2022","value":"SHOPLIFTING - ATTEMPT","n":"22"}
+,{"yr":"2022","value":"SHOPLIFTING-GRAND THEFT ($950.01 & OVER)","n":"1232"}
+,{"yr":"2022","value":"SHOPLIFTING - PETTY THEFT ($950 & UNDER)","n":"5349"}
+,{"yr":"2022","value":"SHOTS FIRED AT INHABITED DWELLING","n":"426"}
+,{"yr":"2022","value":"SHOTS FIRED AT MOVING VEHICLE, TRAIN OR AIRCRAFT","n":"114"}
+,{"yr":"2022","value":"SODOMY/SEXUAL CONTACT B/W PENIS OF ONE PERS TO ANUS OTH","n":"141"}
+,{"yr":"2022","value":"STALKING","n":"176"}
+,{"yr":"2022","value":"TELEPHONE PROPERTY - DAMAGE","n":"3"}
+,{"yr":"2022","value":"THEFT, COIN MACHINE - PETTY ($950 & UNDER)","n":"4"}
+,{"yr":"2022","value":"THEFT FROM MOTOR VEHICLE - ATTEMPT","n":"217"}
+,{"yr":"2022","value":"THEFT FROM MOTOR VEHICLE - GRAND ($950.01 AND OVER)","n":"10080"}
+,{"yr":"2022","value":"THEFT FROM MOTOR VEHICLE - PETTY ($950 & UNDER)","n":"7726"}
+,{"yr":"2022","value":"THEFT FROM PERSON - ATTEMPT","n":"29"}
+,{"yr":"2022","value":"THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD","n":"8131"}
+,{"yr":"2022","value":"THEFT OF IDENTITY","n":"22186"}
+,{"yr":"2022","value":"THEFT, PERSON","n":"1023"}
+,{"yr":"2022","value":"THEFT PLAIN - ATTEMPT","n":"94"}
+,{"yr":"2022","value":"THEFT PLAIN - PETTY ($950 & UNDER)","n":"11384"}
+,{"yr":"2022","value":"THREATENING PHONE CALLS/LETTERS","n":"119"}
+,{"yr":"2022","value":"THROWING OBJECT AT MOVING VEHICLE","n":"173"}
+,{"yr":"2022","value":"TILL TAP - GRAND THEFT ($950.01 & OVER)","n":"4"}
+,{"yr":"2022","value":"TILL TAP - PETTY ($950 & UNDER)","n":"4"}
+,{"yr":"2022","value":"TRESPASSING","n":"2754"}
+,{"yr":"2022","value":"UNAUTHORIZED COMPUTER ACCESS","n":"144"}
+,{"yr":"2022","value":"VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)","n":"13361"}
+,{"yr":"2022","value":"VANDALISM - MISDEAMEANOR ($399 OR UNDER)","n":"5090"}
+,{"yr":"2022","value":"VEHICLE - ATTEMPT STOLEN","n":"681"}
+,{"yr":"2022","value":"VEHICLE - STOLEN","n":"24746"}
+,{"yr":"2022","value":"VEHICLE, STOLEN - OTHER (MOTORIZED SCOOTERS, BIKES, ETC)","n":"652"}
+,{"yr":"2022","value":"VIOLATION OF COURT ORDER","n":"1578"}
+,{"yr":"2022","value":"VIOLATION OF RESTRAINING ORDER","n":"2885"}
+,{"yr":"2022","value":"VIOLATION OF TEMPORARY RESTRAINING ORDER","n":"236"}
+,{"yr":"2022","value":"WEAPONS POSSESSION/BOMBING","n":"7"}
+,{"yr":"2023","value":"ARSON","n":"577"}
+,{"yr":"2023","value":"ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT","n":"12694"}
+,{"yr":"2023","value":"ASSAULT WITH DEADLY WEAPON ON POLICE OFFICER","n":"180"}
+,{"yr":"2023","value":"ATTEMPTED ROBBERY","n":"1077"}
+,{"yr":"2023","value":"BATTERY ON A FIREFIGHTER","n":"72"}
+,{"yr":"2023","value":"BATTERY POLICE (SIMPLE)","n":"560"}
+,{"yr":"2023","value":"BATTERY - SIMPLE ASSAULT","n":"18832"}
+,{"yr":"2023","value":"BATTERY WITH SEXUAL CONTACT","n":"955"}
+,{"yr":"2023","value":"BEASTIALITY, CRIME AGAINST NATURE SEXUAL ASSLT WITH ANIM","n":"3"}
+,{"yr":"2023","value":"BIGAMY","n":"2"}
+,{"yr":"2023","value":"BIKE - STOLEN","n":"1227"}
+,{"yr":"2023","value":"BLOCKING DOOR INDUCTION CENTER","n":"2"}
+,{"yr":"2023","value":"BOAT - STOLEN","n":"46"}
+,{"yr":"2023","value":"BOMB SCARE","n":"109"}
+,{"yr":"2023","value":"BRANDISH WEAPON","n":"3604"}
+,{"yr":"2023","value":"BRIBERY","n":"1"}
+,{"yr":"2023","value":"BUNCO, ATTEMPT","n":"64"}
+,{"yr":"2023","value":"BUNCO, GRAND THEFT","n":"1689"}
+,{"yr":"2023","value":"BUNCO, PETTY THEFT","n":"474"}
+,{"yr":"2023","value":"BURGLARY","n":"14289"}
+,{"yr":"2023","value":"BURGLARY, ATTEMPTED","n":"1015"}
+,{"yr":"2023","value":"BURGLARY FROM VEHICLE","n":"13565"}
+,{"yr":"2023","value":"BURGLARY FROM VEHICLE, ATTEMPTED","n":"182"}
+,{"yr":"2023","value":"CHILD ABANDONMENT","n":"5"}
+,{"yr":"2023","value":"CHILD ABUSE (PHYSICAL) - AGGRAVATED ASSAULT","n":"135"}
+,{"yr":"2023","value":"CHILD ABUSE (PHYSICAL) - SIMPLE ASSAULT","n":"871"}
+,{"yr":"2023","value":"CHILD ANNOYING (17YRS & UNDER)","n":"250"}
+,{"yr":"2023","value":"CHILD NEGLECT (SEE 300 W.I.C.)","n":"293"}
+,{"yr":"2023","value":"CHILD PORNOGRAPHY","n":"63"}
+,{"yr":"2023","value":"CHILD STEALING","n":"102"}
+,{"yr":"2023","value":"CONSPIRACY","n":"9"}
+,{"yr":"2023","value":"CONTEMPT OF COURT","n":"610"}
+,{"yr":"2023","value":"CONTRIBUTING","n":"13"}
+,{"yr":"2023","value":"COUNTERFEIT","n":"22"}
+,{"yr":"2023","value":"CREDIT CARDS, FRAUD USE ($950.01 & OVER)","n":"17"}
+,{"yr":"2023","value":"CREDIT CARDS, FRAUD USE ($950 & UNDER","n":"18"}
+,{"yr":"2023","value":"CRIMINAL HOMICIDE","n":"329"}
+,{"yr":"2023","value":"CRIMINAL THREATS - NO WEAPON DISPLAYED","n":"4686"}
+,{"yr":"2023","value":"CRM AGNST CHLD (13 OR UNDER) (14-15 & SUSP 10 YRS OLDER)","n":"325"}
+,{"yr":"2023","value":"CRUELTY TO ANIMALS","n":"77"}
+,{"yr":"2023","value":"DEFRAUDING INNKEEPER/THEFT OF SERVICES, $950 & UNDER","n":"78"}
+,{"yr":"2023","value":"DEFRAUDING INNKEEPER/THEFT OF SERVICES, OVER $950.01","n":"19"}
+,{"yr":"2023","value":"DISCHARGE FIREARMS/SHOTS FIRED","n":"650"}
+,{"yr":"2023","value":"DISHONEST EMPLOYEE ATTEMPTED THEFT","n":"2"}
+,{"yr":"2023","value":"DISHONEST EMPLOYEE - GRAND THEFT","n":"6"}
+,{"yr":"2023","value":"DISHONEST EMPLOYEE - PETTY THEFT","n":"8"}
+,{"yr":"2023","value":"DISRUPT SCHOOL","n":"4"}
+,{"yr":"2023","value":"DISTURBING THE PEACE","n":"379"}
+,{"yr":"2023","value":"DOCUMENT FORGERY / STOLEN FELONY","n":"843"}
+,{"yr":"2023","value":"DOCUMENT WORTHLESS ($200.01 & OVER)","n":"22"}
+,{"yr":"2023","value":"DOCUMENT WORTHLESS ($200 & UNDER)","n":"7"}
+,{"yr":"2023","value":"DRIVING WITHOUT OWNER CONSENT (DWOC)","n":"36"}
+,{"yr":"2023","value":"DRUGS, TO A MINOR","n":"1"}
+,{"yr":"2023","value":"DRUNK ROLL","n":"12"}
+,{"yr":"2023","value":"EMBEZZLEMENT, GRAND THEFT ($950.01 & OVER)","n":"979"}
+,{"yr":"2023","value":"EMBEZZLEMENT, PETTY THEFT ($950 & UNDER)","n":"47"}
+,{"yr":"2023","value":"EXTORTION","n":"623"}
+,{"yr":"2023","value":"FAILURE TO DISPERSE","n":"1"}
+,{"yr":"2023","value":"FAILURE TO YIELD","n":"424"}
+,{"yr":"2023","value":"FALSE IMPRISONMENT","n":"96"}
+,{"yr":"2023","value":"FALSE POLICE REPORT","n":"52"}
+,{"yr":"2023","value":"FIREARMS EMERGENCY PROTECTIVE ORDER (FIREARMS EPO)","n":"1"}
+,{"yr":"2023","value":"GRAND THEFT / AUTO REPAIR","n":"3"}
+,{"yr":"2023","value":"GRAND THEFT / INSURANCE FRAUD","n":"3"}
+,{"yr":"2023","value":"HUMAN TRAFFICKING - COMMERCIAL SEX ACTS","n":"84"}
+,{"yr":"2023","value":"HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE","n":"27"}
+,{"yr":"2023","value":"ILLEGAL DUMPING","n":"14"}
+,{"yr":"2023","value":"INCEST (SEXUAL ACTS BETWEEN BLOOD RELATIVES)","n":"1"}
+,{"yr":"2023","value":"INCITING A RIOT","n":"20"}
+,{"yr":"2023","value":"INDECENT EXPOSURE","n":"289"}
+,{"yr":"2023","value":"INTIMATE PARTNER - AGGRAVATED ASSAULT","n":"2993"}
+,{"yr":"2023","value":"INTIMATE PARTNER - SIMPLE ASSAULT","n":"10878"}
+,{"yr":"2023","value":"KIDNAPPING","n":"184"}
+,{"yr":"2023","value":"KIDNAPPING - GRAND ATTEMPT","n":"56"}
+,{"yr":"2023","value":"LETTERS, LEWD  -  TELEPHONE CALLS, LEWD","n":"1856"}
+,{"yr":"2023","value":"LEWD CONDUCT","n":"173"}
+,{"yr":"2023","value":"LEWD/LASCIVIOUS ACTS WITH CHILD","n":"16"}
+,{"yr":"2023","value":"LYNCHING","n":"4"}
+,{"yr":"2023","value":"LYNCHING - ATTEMPTED","n":"2"}
+,{"yr":"2023","value":"MANSLAUGHTER, NEGLIGENT","n":"2"}
+,{"yr":"2023","value":"ORAL COPULATION","n":"156"}
+,{"yr":"2023","value":"OTHER ASSAULT","n":"957"}
+,{"yr":"2023","value":"OTHER MISCELLANEOUS CRIME","n":"1615"}
+,{"yr":"2023","value":"PANDERING","n":"40"}
+,{"yr":"2023","value":"PEEPING TOM","n":"81"}
+,{"yr":"2023","value":"PETTY THEFT - AUTO REPAIR","n":"1"}
+,{"yr":"2023","value":"PICKPOCKET","n":"1246"}
+,{"yr":"2023","value":"PICKPOCKET, ATTEMPT","n":"3"}
+,{"yr":"2023","value":"PIMPING","n":"21"}
+,{"yr":"2023","value":"PROWLER","n":"54"}
+,{"yr":"2023","value":"PURSE SNATCHING","n":"27"}
+,{"yr":"2023","value":"PURSE SNATCHING - ATTEMPT","n":"2"}
+,{"yr":"2023","value":"RAPE, ATTEMPTED","n":"75"}
+,{"yr":"2023","value":"RAPE, FORCIBLE","n":"841"}
+,{"yr":"2023","value":"RECKLESS DRIVING","n":"66"}
+,{"yr":"2023","value":"REPLICA FIREARMS(SALE,DISPLAY,MANUFACTURE OR DISTRIBUTE)","n":"1"}
+,{"yr":"2023","value":"RESISTING ARREST","n":"267"}
+,{"yr":"2023","value":"ROBBERY","n":"7611"}
+,{"yr":"2023","value":"SEX OFFENDER REGISTRANT OUT OF COMPLIANCE","n":"178"}
+,{"yr":"2023","value":"SEXUAL PENETRATION W/FOREIGN OBJECT","n":"272"}
+,{"yr":"2023","value":"SEX,UNLAWFUL(INC MUTUAL CONSENT, PENETRATION W/ FRGN OBJ","n":"234"}
+,{"yr":"2023","value":"SHOPLIFTING - ATTEMPT","n":"33"}
+,{"yr":"2023","value":"SHOPLIFTING-GRAND THEFT ($950.01 & OVER)","n":"2060"}
+,{"yr":"2023","value":"SHOPLIFTING - PETTY THEFT ($950 & UNDER)","n":"10015"}
+,{"yr":"2023","value":"SHOTS FIRED AT INHABITED DWELLING","n":"314"}
+,{"yr":"2023","value":"SHOTS FIRED AT MOVING VEHICLE, TRAIN OR AIRCRAFT","n":"83"}
+,{"yr":"2023","value":"SODOMY/SEXUAL CONTACT B/W PENIS OF ONE PERS TO ANUS OTH","n":"113"}
+,{"yr":"2023","value":"STALKING","n":"184"}
+,{"yr":"2023","value":"TELEPHONE PROPERTY - DAMAGE","n":"1"}
+,{"yr":"2023","value":"THEFT, COIN MACHINE - GRAND ($950.01 & OVER)","n":"3"}
+,{"yr":"2023","value":"THEFT, COIN MACHINE - PETTY ($950 & UNDER)","n":"5"}
+,{"yr":"2023","value":"THEFT FROM MOTOR VEHICLE - ATTEMPT","n":"111"}
+,{"yr":"2023","value":"THEFT FROM MOTOR VEHICLE - GRAND ($950.01 AND OVER)","n":"8932"}
+,{"yr":"2023","value":"THEFT FROM MOTOR VEHICLE - PETTY ($950 & UNDER)","n":"7982"}
+,{"yr":"2023","value":"THEFT FROM PERSON - ATTEMPT","n":"20"}
+,{"yr":"2023","value":"THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD","n":"8739"}
+,{"yr":"2023","value":"THEFT OF IDENTITY","n":"13617"}
+,{"yr":"2023","value":"THEFT, PERSON","n":"965"}
+,{"yr":"2023","value":"THEFT PLAIN - ATTEMPT","n":"95"}
+,{"yr":"2023","value":"THEFT PLAIN - PETTY ($950 & UNDER)","n":"11462"}
+,{"yr":"2023","value":"THREATENING PHONE CALLS/LETTERS","n":"92"}
+,{"yr":"2023","value":"THROWING OBJECT AT MOVING VEHICLE","n":"169"}
+,{"yr":"2023","value":"TILL TAP - GRAND THEFT ($950.01 & OVER)","n":"7"}
+,{"yr":"2023","value":"TILL TAP - PETTY ($950 & UNDER)","n":"8"}
+,{"yr":"2023","value":"TRESPASSING","n":"4467"}
+,{"yr":"2023","value":"UNAUTHORIZED COMPUTER ACCESS","n":"95"}
+,{"yr":"2023","value":"VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)","n":"13172"}
+,{"yr":"2023","value":"VANDALISM - MISDEAMEANOR ($399 OR UNDER)","n":"4603"}
+,{"yr":"2023","value":"VEHICLE - ATTEMPT STOLEN","n":"1462"}
+,{"yr":"2023","value":"VEHICLE - STOLEN","n":"24471"}
+,{"yr":"2023","value":"VEHICLE, STOLEN - OTHER (MOTORIZED SCOOTERS, BIKES, ETC)","n":"855"}
+,{"yr":"2023","value":"VIOLATION OF COURT ORDER","n":"1502"}
+,{"yr":"2023","value":"VIOLATION OF RESTRAINING ORDER","n":"2742"}
+,{"yr":"2023","value":"VIOLATION OF TEMPORARY RESTRAINING ORDER","n":"266"}
+,{"yr":"2023","value":"WEAPONS POSSESSION/BOMBING","n":"13"}
+,{"yr":"2024","value":"ARSON","n":"165"}
+,{"yr":"2024","value":"ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT","n":"3695"}
+,{"yr":"2024","value":"ASSAULT WITH DEADLY WEAPON ON POLICE OFFICER","n":"57"}
+,{"yr":"2024","value":"ATTEMPTED ROBBERY","n":"326"}
+,{"yr":"2024","value":"BATTERY ON A FIREFIGHTER","n":"16"}
+,{"yr":"2024","value":"BATTERY POLICE (SIMPLE)","n":"196"}
+,{"yr":"2024","value":"BATTERY - SIMPLE ASSAULT","n":"5400"}
+,{"yr":"2024","value":"BATTERY WITH SEXUAL CONTACT","n":"277"}
+,{"yr":"2024","value":"BIKE - STOLEN","n":"953"}
+,{"yr":"2024","value":"BOAT - STOLEN","n":"22"}
+,{"yr":"2024","value":"BOMB SCARE","n":"66"}
+,{"yr":"2024","value":"BRANDISH WEAPON","n":"975"}
+,{"yr":"2024","value":"BUNCO, ATTEMPT","n":"27"}
+,{"yr":"2024","value":"BUNCO, GRAND THEFT","n":"439"}
+,{"yr":"2024","value":"BUNCO, PETTY THEFT","n":"119"}
+,{"yr":"2024","value":"BURGLARY","n":"4460"}
+,{"yr":"2024","value":"BURGLARY, ATTEMPTED","n":"292"}
+,{"yr":"2024","value":"BURGLARY FROM VEHICLE","n":"9525"}
+,{"yr":"2024","value":"BURGLARY FROM VEHICLE, ATTEMPTED","n":"67"}
+,{"yr":"2024","value":"CHILD ABANDONMENT","n":"2"}
+,{"yr":"2024","value":"CHILD ABUSE (PHYSICAL) - AGGRAVATED ASSAULT","n":"42"}
+,{"yr":"2024","value":"CHILD ABUSE (PHYSICAL) - SIMPLE ASSAULT","n":"264"}
+,{"yr":"2024","value":"CHILD ANNOYING (17YRS & UNDER)","n":"61"}
+,{"yr":"2024","value":"CHILD NEGLECT (SEE 300 W.I.C.)","n":"111"}
+,{"yr":"2024","value":"CHILD PORNOGRAPHY","n":"25"}
+,{"yr":"2024","value":"CHILD STEALING","n":"41"}
+,{"yr":"2024","value":"CONSPIRACY","n":"2"}
+,{"yr":"2024","value":"CONTEMPT OF COURT","n":"158"}
+,{"yr":"2024","value":"CONTRIBUTING","n":"5"}
+,{"yr":"2024","value":"COUNTERFEIT","n":"7"}
+,{"yr":"2024","value":"CREDIT CARDS, FRAUD USE ($950.01 & OVER)","n":"4"}
+,{"yr":"2024","value":"CREDIT CARDS, FRAUD USE ($950 & UNDER","n":"4"}
+,{"yr":"2024","value":"CRIMINAL HOMICIDE","n":"95"}
+,{"yr":"2024","value":"CRIMINAL THREATS - NO WEAPON DISPLAYED","n":"1327"}
+,{"yr":"2024","value":"CRM AGNST CHLD (13 OR UNDER) (14-15 & SUSP 10 YRS OLDER)","n":"67"}
+,{"yr":"2024","value":"CRUELTY TO ANIMALS","n":"22"}
+,{"yr":"2024","value":"DEFRAUDING INNKEEPER/THEFT OF SERVICES, $950 & UNDER","n":"39"}
+,{"yr":"2024","value":"DEFRAUDING INNKEEPER/THEFT OF SERVICES, OVER $950.01","n":"8"}
+,{"yr":"2024","value":"DISCHARGE FIREARMS/SHOTS FIRED","n":"195"}
+,{"yr":"2024","value":"DISHONEST EMPLOYEE ATTEMPTED THEFT","n":"1"}
+,{"yr":"2024","value":"DISHONEST EMPLOYEE - GRAND THEFT","n":"1"}
+,{"yr":"2024","value":"DISHONEST EMPLOYEE - PETTY THEFT","n":"2"}
+,{"yr":"2024","value":"DISRUPT SCHOOL","n":"1"}
+,{"yr":"2024","value":"DISTURBING THE PEACE","n":"100"}
+,{"yr":"2024","value":"DOCUMENT FORGERY / STOLEN FELONY","n":"243"}
+,{"yr":"2024","value":"DOCUMENT WORTHLESS ($200.01 & OVER)","n":"2"}
+,{"yr":"2024","value":"DRIVING WITHOUT OWNER CONSENT (DWOC)","n":"34"}
+,{"yr":"2024","value":"DRUGS, TO A MINOR","n":"1"}
+,{"yr":"2024","value":"DRUNK ROLL","n":"12"}
+,{"yr":"2024","value":"DRUNK ROLL - ATTEMPT","n":"1"}
+,{"yr":"2024","value":"EMBEZZLEMENT, GRAND THEFT ($950.01 & OVER)","n":"546"}
+,{"yr":"2024","value":"EMBEZZLEMENT, PETTY THEFT ($950 & UNDER)","n":"20"}
+,{"yr":"2024","value":"EXTORTION","n":"150"}
+,{"yr":"2024","value":"FAILURE TO DISPERSE","n":"3"}
+,{"yr":"2024","value":"FAILURE TO YIELD","n":"332"}
+,{"yr":"2024","value":"FALSE IMPRISONMENT","n":"19"}
+,{"yr":"2024","value":"FALSE POLICE REPORT","n":"28"}
+,{"yr":"2024","value":"GRAND THEFT / INSURANCE FRAUD","n":"4"}
+,{"yr":"2024","value":"HUMAN TRAFFICKING - COMMERCIAL SEX ACTS","n":"69"}
+,{"yr":"2024","value":"HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE","n":"11"}
+,{"yr":"2024","value":"ILLEGAL DUMPING","n":"2"}
+,{"yr":"2024","value":"INCEST (SEXUAL ACTS BETWEEN BLOOD RELATIVES)","n":"1"}
+,{"yr":"2024","value":"INCITING A RIOT","n":"1"}
+,{"yr":"2024","value":"INDECENT EXPOSURE","n":"94"}
+,{"yr":"2024","value":"INTIMATE PARTNER - AGGRAVATED ASSAULT","n":"795"}
+,{"yr":"2024","value":"INTIMATE PARTNER - SIMPLE ASSAULT","n":"2995"}
+,{"yr":"2024","value":"KIDNAPPING","n":"76"}
+,{"yr":"2024","value":"KIDNAPPING - GRAND ATTEMPT","n":"13"}
+,{"yr":"2024","value":"LETTERS, LEWD  -  TELEPHONE CALLS, LEWD","n":"1258"}
+,{"yr":"2024","value":"LEWD CONDUCT","n":"69"}
+,{"yr":"2024","value":"LEWD/LASCIVIOUS ACTS WITH CHILD","n":"6"}
+,{"yr":"2024","value":"LYNCHING","n":"3"}
+,{"yr":"2024","value":"ORAL COPULATION","n":"38"}
+,{"yr":"2024","value":"OTHER ASSAULT","n":"248"}
+,{"yr":"2024","value":"OTHER MISCELLANEOUS CRIME","n":"665"}
+,{"yr":"2024","value":"PANDERING","n":"16"}
+,{"yr":"2024","value":"PEEPING TOM","n":"36"}
+,{"yr":"2024","value":"PICKPOCKET","n":"1287"}
+,{"yr":"2024","value":"PICKPOCKET, ATTEMPT","n":"1"}
+,{"yr":"2024","value":"PIMPING","n":"15"}
+,{"yr":"2024","value":"PROWLER","n":"16"}
+,{"yr":"2024","value":"PURSE SNATCHING","n":"5"}
+,{"yr":"2024","value":"PURSE SNATCHING - ATTEMPT","n":"1"}
+,{"yr":"2024","value":"RAPE, ATTEMPTED","n":"17"}
+,{"yr":"2024","value":"RAPE, FORCIBLE","n":"194"}
+,{"yr":"2024","value":"RECKLESS DRIVING","n":"44"}
+,{"yr":"2024","value":"REPLICA FIREARMS(SALE,DISPLAY,MANUFACTURE OR DISTRIBUTE)","n":"2"}
+,{"yr":"2024","value":"RESISTING ARREST","n":"131"}
+,{"yr":"2024","value":"ROBBERY","n":"2502"}
+,{"yr":"2024","value":"SEX OFFENDER REGISTRANT OUT OF COMPLIANCE","n":"38"}
+,{"yr":"2024","value":"SEXUAL PENETRATION W/FOREIGN OBJECT","n":"59"}
+,{"yr":"2024","value":"SEX,UNLAWFUL(INC MUTUAL CONSENT, PENETRATION W/ FRGN OBJ","n":"68"}
+,{"yr":"2024","value":"SHOPLIFTING - ATTEMPT","n":"8"}
+,{"yr":"2024","value":"SHOPLIFTING-GRAND THEFT ($950.01 & OVER)","n":"1354"}
+,{"yr":"2024","value":"SHOPLIFTING - PETTY THEFT ($950 & UNDER)","n":"9056"}
+,{"yr":"2024","value":"SHOTS FIRED AT INHABITED DWELLING","n":"93"}
+,{"yr":"2024","value":"SHOTS FIRED AT MOVING VEHICLE, TRAIN OR AIRCRAFT","n":"38"}
+,{"yr":"2024","value":"SODOMY/SEXUAL CONTACT B/W PENIS OF ONE PERS TO ANUS OTH","n":"29"}
+,{"yr":"2024","value":"STALKING","n":"32"}
+,{"yr":"2024","value":"TELEPHONE PROPERTY - DAMAGE","n":"1"}
+,{"yr":"2024","value":"THEFT, COIN MACHINE - ATTEMPT","n":"1"}
+,{"yr":"2024","value":"THEFT, COIN MACHINE - GRAND ($950.01 & OVER)","n":"2"}
+,{"yr":"2024","value":"THEFT, COIN MACHINE - PETTY ($950 & UNDER)","n":"2"}
+,{"yr":"2024","value":"THEFT FROM MOTOR VEHICLE - ATTEMPT","n":"24"}
+,{"yr":"2024","value":"THEFT FROM MOTOR VEHICLE - GRAND ($950.01 AND OVER)","n":"5622"}
+,{"yr":"2024","value":"THEFT FROM MOTOR VEHICLE - PETTY ($950 & UNDER)","n":"7609"}
+,{"yr":"2024","value":"THEFT FROM PERSON - ATTEMPT","n":"3"}
+,{"yr":"2024","value":"THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD","n":"6005"}
+,{"yr":"2024","value":"THEFT OF IDENTITY","n":"6320"}
+,{"yr":"2024","value":"THEFT, PERSON","n":"296"}
+,{"yr":"2024","value":"THEFT PLAIN - ATTEMPT","n":"41"}
+,{"yr":"2024","value":"THEFT PLAIN - PETTY ($950 & UNDER)","n":"8818"}
+,{"yr":"2024","value":"THREATENING PHONE CALLS/LETTERS","n":"28"}
+,{"yr":"2024","value":"THROWING OBJECT AT MOVING VEHICLE","n":"61"}
+,{"yr":"2024","value":"TILL TAP - GRAND THEFT ($950.01 & OVER)","n":"2"}
+,{"yr":"2024","value":"TILL TAP - PETTY ($950 & UNDER)","n":"1"}
+,{"yr":"2024","value":"TRAIN WRECKING","n":"1"}
+,{"yr":"2024","value":"TRESPASSING","n":"5577"}
+,{"yr":"2024","value":"UNAUTHORIZED COMPUTER ACCESS","n":"22"}
+,{"yr":"2024","value":"VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)","n":"7945"}
+,{"yr":"2024","value":"VANDALISM - MISDEAMEANOR ($399 OR UNDER)","n":"2386"}
+,{"yr":"2024","value":"VEHICLE - ATTEMPT STOLEN","n":"573"}
+,{"yr":"2024","value":"VEHICLE - STOLEN","n":"21510"}
+,{"yr":"2024","value":"VEHICLE, STOLEN - OTHER (MOTORIZED SCOOTERS, BIKES, ETC)","n":"1047"}
+,{"yr":"2024","value":"VIOLATION OF COURT ORDER","n":"398"}
+,{"yr":"2024","value":"VIOLATION OF RESTRAINING ORDER","n":"781"}
+,{"yr":"2024","value":"VIOLATION OF TEMPORARY RESTRAINING ORDER","n":"47"}
+,{"yr":"2024","value":"WEAPONS POSSESSION/BOMBING","n":"2"}]

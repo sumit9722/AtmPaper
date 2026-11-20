@@ -1,0 +1,9 @@
+test_chicago_leading_zero_is_normalized (test_revision.OffenseRuleTests.test_chicago_leading_zero_is_normalized) ... ok
+test_codes_are_city_specific (test_revision.OffenseRuleTests.test_codes_are_city_specific) ... ok
+test_nyc_truck_codes_are_excluded (test_revision.OffenseRuleTests.test_nyc_truck_codes_are_excluded) ... ok
+test_structural_burglary_and_robbery_remain (test_revision.OffenseRuleTests.test_structural_burglary_and_robbery_remain) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK

@@ -1,0 +1,14 @@
+{
+  "status": "COMPUTATIONALLY_COMPLETE",
+  "phase1": "SPECIFIED_EXPLORATORY",
+  "phase2": "CORRECTED_AND_VALIDATED",
+  "phase3": "CORRECTED_AND_VALIDATED",
+  "core_rows": 1790,
+  "main_rows": 2731,
+  "partial_rows": 1287,
+  "validation_groups": 12,
+  "scientific_review": "PENDING",
+  "confirmatory_eligible": false,
+  "models_fitted": false,
+  "base_release": "restart6_0"
+}

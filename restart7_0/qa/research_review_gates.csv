@@ -1,0 +1,9 @@
+gate,status,reason
+Crime position accuracy,PENDING_EXTERNAL_EVIDENCE,Block geocodes cannot establish physical 25/50/100m distances; core restrictions do not repair them.
+ATM identity and operation,PENDING_INDEPENDENT_REVIEW,Bank points and ATM nodes are mapped objects; no verified machine position or operating history.
+OSM representativeness and survivor selection,OPEN_LIMITATION,Incomplete map inventory and future continuity requirements remain; report cohort attrition.
+Crime source ascertainment and harmonization,PENDING_INDEPENDENT_REVIEW,Vehicle categories corrected; native source-code/description conflicts and other codebook decisions need review.
+LA reporting transition and cross-system case identity,PENDING_SOURCE_REVIEW,No authoritative ID crosswalk or complete temporal comparability was added.
+Chicago historical report availability,UNAVAILABLE_WITH_CURRENT_SOURCE,Common study is retrospective; Chicago report-filtered data remain missing.
+Human facility and linkage review,PENDING,Original reviewer decisions are preserved; automated checks do not constitute adjudication.
+Prospective or confirmatory evaluation,NOT_AVAILABLE,Both full outcome years previously inspected; phases4/5 not executed.

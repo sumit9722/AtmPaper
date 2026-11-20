@@ -1,0 +1,1091 @@
+scenario,scheme,city,model,bin,lower,upper,n,mean_prediction,observed_fraction
+core_100m,forward_spatial,ALL,M0,0,0.0,0.1,13,0.06738726907089829,0.0
+core_100m,forward_spatial,ALL,M0,1,0.1,0.2,14,0.1442259675853037,0.0
+core_100m,forward_spatial,ALL,M0,2,0.2,0.3,11,0.2444891446057764,0.36363636363636365
+core_100m,forward_spatial,ALL,M0,3,0.3,0.4,10,0.3606125154526374,0.0
+core_100m,forward_spatial,ALL,M0,4,0.4,0.5,19,0.4416964684529424,0.15789473684210525
+core_100m,forward_spatial,ALL,M0,5,0.5,0.6,42,0.559224314937961,0.3333333333333333
+core_100m,forward_spatial,ALL,M0,6,0.6,0.7,49,0.6611099260536288,0.4489795918367347
+core_100m,forward_spatial,ALL,M0,7,0.7,0.8,98,0.7493116060689913,0.6428571428571429
+core_100m,forward_spatial,ALL,M0,8,0.8,0.9,193,0.8566157313037537,0.8186528497409327
+core_100m,forward_spatial,ALL,M0,9,0.9,1.0,486,0.9548185766213748,0.9506172839506173
+core_100m,forward_spatial,New York City,M0,0,0.0,0.1,13,0.06738726907089829,0.0
+core_100m,forward_spatial,New York City,M0,1,0.1,0.2,9,0.14141071511109116,0.0
+core_100m,forward_spatial,New York City,M0,2,0.2,0.3,6,0.244725850289407,0.3333333333333333
+core_100m,forward_spatial,New York City,M0,3,0.3,0.4,7,0.3638714798762152,0.0
+core_100m,forward_spatial,New York City,M0,4,0.4,0.5,5,0.4502015521432571,0.0
+core_100m,forward_spatial,New York City,M0,5,0.5,0.6,20,0.5573628330603662,0.5
+core_100m,forward_spatial,New York City,M0,6,0.6,0.7,25,0.6635468045900326,0.48
+core_100m,forward_spatial,New York City,M0,7,0.7,0.8,65,0.7482400462348692,0.6307692307692307
+core_100m,forward_spatial,New York City,M0,8,0.8,0.9,123,0.8571024583872446,0.8617886178861789
+core_100m,forward_spatial,New York City,M0,9,0.9,1.0,338,0.9538075161782643,0.9615384615384616
+core_100m,forward_spatial,Chicago,M0,0,0.0,0.1,0,,
+core_100m,forward_spatial,Chicago,M0,1,0.1,0.2,0,,
+core_100m,forward_spatial,Chicago,M0,2,0.2,0.3,2,0.25267197662204155,0.5
+core_100m,forward_spatial,Chicago,M0,3,0.3,0.4,1,0.3833493104655348,0.0
+core_100m,forward_spatial,Chicago,M0,4,0.4,0.5,4,0.44618173692593266,0.5
+core_100m,forward_spatial,Chicago,M0,5,0.5,0.6,14,0.5583175561630116,0.0
+core_100m,forward_spatial,Chicago,M0,6,0.6,0.7,16,0.6655429967024644,0.3125
+core_100m,forward_spatial,Chicago,M0,7,0.7,0.8,17,0.7573337858506171,0.6470588235294118
+core_100m,forward_spatial,Chicago,M0,8,0.8,0.9,52,0.8586160369638359,0.75
+core_100m,forward_spatial,Chicago,M0,9,0.9,1.0,106,0.9551906475905445,0.9150943396226415
+core_100m,forward_spatial,Los Angeles,M0,0,0.0,0.1,0,,
+core_100m,forward_spatial,Los Angeles,M0,1,0.1,0.2,5,0.14929342203888615,0.0
+core_100m,forward_spatial,Los Angeles,M0,2,0.2,0.3,3,0.23856051189433822,0.3333333333333333
+core_100m,forward_spatial,Los Angeles,M0,3,0.3,0.4,2,0.33783774246366627,0.0
+core_100m,forward_spatial,Los Angeles,M0,4,0.4,0.5,10,0.43564981921858925,0.1
+core_100m,forward_spatial,Los Angeles,M0,5,0.5,0.6,8,0.565464847488109,0.5
+core_100m,forward_spatial,Los Angeles,M0,6,0.6,0.7,8,0.6446285393296961,0.625
+core_100m,forward_spatial,Los Angeles,M0,7,0.7,0.8,16,0.7451412518771341,0.6875
+core_100m,forward_spatial,Los Angeles,M0,8,0.8,0.9,18,0.8475111021041051,0.7222222222222222
+core_100m,forward_spatial,Los Angeles,M0,9,0.9,1.0,42,0.9620161696461216,0.9523809523809523
+core_100m,forward_spatial,ALL,M1,0,0.0,0.1,37,0.03918898895811476,0.0
+core_100m,forward_spatial,ALL,M1,1,0.1,0.2,8,0.1537056241018173,0.0
+core_100m,forward_spatial,ALL,M1,2,0.2,0.3,20,0.241200695562774,0.15
+core_100m,forward_spatial,ALL,M1,3,0.3,0.4,17,0.3617464488102699,0.29411764705882354
+core_100m,forward_spatial,ALL,M1,4,0.4,0.5,12,0.4570011489563832,0.25
+core_100m,forward_spatial,ALL,M1,5,0.5,0.6,25,0.5443610110476602,0.44
+core_100m,forward_spatial,ALL,M1,6,0.6,0.7,27,0.6507783165374051,0.37037037037037035
+core_100m,forward_spatial,ALL,M1,7,0.7,0.8,74,0.7517801647992343,0.6081081081081081
+core_100m,forward_spatial,ALL,M1,8,0.8,0.9,170,0.8576228263167716,0.7941176470588235
+core_100m,forward_spatial,ALL,M1,9,0.9,1.0,545,0.9640140826867385,0.9431192660550459
+core_100m,forward_spatial,New York City,M1,0,0.0,0.1,24,0.05092761399679289,0.0
+core_100m,forward_spatial,New York City,M1,1,0.1,0.2,3,0.152147680511596,0.0
+core_100m,forward_spatial,New York City,M1,2,0.2,0.3,6,0.24970012429822352,0.3333333333333333
+core_100m,forward_spatial,New York City,M1,3,0.3,0.4,10,0.35745631134290157,0.2
+core_100m,forward_spatial,New York City,M1,4,0.4,0.5,4,0.4403910831994649,0.0
+core_100m,forward_spatial,New York City,M1,5,0.5,0.6,9,0.5475592942560082,0.5555555555555556
+core_100m,forward_spatial,New York City,M1,6,0.6,0.7,14,0.6460233411178182,0.21428571428571427
+core_100m,forward_spatial,New York City,M1,7,0.7,0.8,46,0.7504625787773426,0.6304347826086957
+core_100m,forward_spatial,New York City,M1,8,0.8,0.9,96,0.852346322455109,0.8020833333333334
+core_100m,forward_spatial,New York City,M1,9,0.9,1.0,399,0.9679056925878893,0.9473684210526315
+core_100m,forward_spatial,Chicago,M1,0,0.0,0.1,13,0.0175176811944013,0.0
+core_100m,forward_spatial,Chicago,M1,1,0.1,0.2,0,,
+core_100m,forward_spatial,Chicago,M1,2,0.2,0.3,2,0.2634235211642548,0.5
+core_100m,forward_spatial,Chicago,M1,3,0.3,0.4,3,0.3601419691014613,0.3333333333333333
+core_100m,forward_spatial,Chicago,M1,4,0.4,0.5,4,0.471817446690351,0.25
+core_100m,forward_spatial,Chicago,M1,5,0.5,0.6,6,0.5394038982471476,0.16666666666666666
+core_100m,forward_spatial,Chicago,M1,6,0.6,0.7,9,0.6495367299820606,0.5555555555555556
+core_100m,forward_spatial,Chicago,M1,7,0.7,0.8,14,0.7584333057630838,0.42857142857142855
+core_100m,forward_spatial,Chicago,M1,8,0.8,0.9,56,0.8635392126530069,0.75
+core_100m,forward_spatial,Chicago,M1,9,0.9,1.0,105,0.9506398457150842,0.9333333333333333
+core_100m,forward_spatial,Los Angeles,M1,0,0.0,0.1,0,,
+core_100m,forward_spatial,Los Angeles,M1,1,0.1,0.2,5,0.15464039025595006,0.0
+core_100m,forward_spatial,Los Angeles,M1,2,0.2,0.3,12,0.2332471769281357,0.0
+core_100m,forward_spatial,Los Angeles,M1,3,0.3,0.4,4,0.37367515226029724,0.5
+core_100m,forward_spatial,Los Angeles,M1,4,0.4,0.5,4,0.45879491697933367,0.5
+core_100m,forward_spatial,Los Angeles,M1,5,0.5,0.6,10,0.5444568238404545,0.5
+core_100m,forward_spatial,Los Angeles,M1,6,0.6,0.7,4,0.6702143002554843,0.5
+core_100m,forward_spatial,Los Angeles,M1,7,0.7,0.8,14,0.7494562350501722,0.7142857142857143
+core_100m,forward_spatial,Los Angeles,M1,8,0.8,0.9,18,0.86735764497735,0.8888888888888888
+core_100m,forward_spatial,Los Angeles,M1,9,0.9,1.0,41,0.9603931688200186,0.926829268292683
+core_100m,forward_spatial,ALL,training_prevalence,0,0.0,0.1,0,,
+core_100m,forward_spatial,ALL,training_prevalence,1,0.1,0.2,0,,
+core_100m,forward_spatial,ALL,training_prevalence,2,0.2,0.3,0,,
+core_100m,forward_spatial,ALL,training_prevalence,3,0.3,0.4,0,,
+core_100m,forward_spatial,ALL,training_prevalence,4,0.4,0.5,0,,
+core_100m,forward_spatial,ALL,training_prevalence,5,0.5,0.6,0,,
+core_100m,forward_spatial,ALL,training_prevalence,6,0.6,0.7,0,,
+core_100m,forward_spatial,ALL,training_prevalence,7,0.7,0.8,601,0.7877782906230982,0.8103161397670549
+core_100m,forward_spatial,ALL,training_prevalence,8,0.8,0.9,334,0.8471431100010114,0.7155688622754491
+core_100m,forward_spatial,ALL,training_prevalence,9,0.9,1.0,0,,
+core_100m,forward_spatial,New York City,training_prevalence,0,0.0,0.1,0,,
+core_100m,forward_spatial,New York City,training_prevalence,1,0.1,0.2,0,,
+core_100m,forward_spatial,New York City,training_prevalence,2,0.2,0.3,0,,
+core_100m,forward_spatial,New York City,training_prevalence,3,0.3,0.4,0,,
+core_100m,forward_spatial,New York City,training_prevalence,4,0.4,0.5,0,,
+core_100m,forward_spatial,New York City,training_prevalence,5,0.5,0.6,0,,
+core_100m,forward_spatial,New York City,training_prevalence,6,0.6,0.7,0,,
+core_100m,forward_spatial,New York City,training_prevalence,7,0.7,0.8,387,0.7867526677439636,0.8191214470284238
+core_100m,forward_spatial,New York City,training_prevalence,8,0.8,0.9,224,0.8452860440268292,0.7991071428571429
+core_100m,forward_spatial,New York City,training_prevalence,9,0.9,1.0,0,,
+core_100m,forward_spatial,Chicago,training_prevalence,0,0.0,0.1,0,,
+core_100m,forward_spatial,Chicago,training_prevalence,1,0.1,0.2,0,,
+core_100m,forward_spatial,Chicago,training_prevalence,2,0.2,0.3,0,,
+core_100m,forward_spatial,Chicago,training_prevalence,3,0.3,0.4,0,,
+core_100m,forward_spatial,Chicago,training_prevalence,4,0.4,0.5,0,,
+core_100m,forward_spatial,Chicago,training_prevalence,5,0.5,0.6,0,,
+core_100m,forward_spatial,Chicago,training_prevalence,6,0.6,0.7,0,,
+core_100m,forward_spatial,Chicago,training_prevalence,7,0.7,0.8,146,0.7887030879343276,0.8013698630136986
+core_100m,forward_spatial,Chicago,training_prevalence,8,0.8,0.9,66,0.855781584814651,0.5757575757575758
+core_100m,forward_spatial,Chicago,training_prevalence,9,0.9,1.0,0,,
+core_100m,forward_spatial,Los Angeles,training_prevalence,0,0.0,0.1,0,,
+core_100m,forward_spatial,Los Angeles,training_prevalence,1,0.1,0.2,0,,
+core_100m,forward_spatial,Los Angeles,training_prevalence,2,0.2,0.3,0,,
+core_100m,forward_spatial,Los Angeles,training_prevalence,3,0.3,0.4,0,,
+core_100m,forward_spatial,Los Angeles,training_prevalence,4,0.4,0.5,0,,
+core_100m,forward_spatial,Los Angeles,training_prevalence,5,0.5,0.6,0,,
+core_100m,forward_spatial,Los Angeles,training_prevalence,6,0.6,0.7,0,,
+core_100m,forward_spatial,Los Angeles,training_prevalence,7,0.7,0.8,68,0.7916296971934753,0.7794117647058824
+core_100m,forward_spatial,Los Angeles,training_prevalence,8,0.8,0.9,44,0.8436395518309348,0.5
+core_100m,forward_spatial,Los Angeles,training_prevalence,9,0.9,1.0,0,,
+core_25m,forward_spatial,ALL,M0,0,0.0,0.1,334,0.07598837916515504,0.0658682634730539
+core_25m,forward_spatial,ALL,M0,1,0.1,0.2,423,0.13301226602245828,0.07565011820330969
+core_25m,forward_spatial,ALL,M0,2,0.2,0.3,46,0.24936512777354364,0.3695652173913043
+core_25m,forward_spatial,ALL,M0,3,0.3,0.4,46,0.3480470382546393,0.43478260869565216
+core_25m,forward_spatial,ALL,M0,4,0.4,0.5,30,0.44490250333131554,0.5666666666666667
+core_25m,forward_spatial,ALL,M0,5,0.5,0.6,16,0.5420169928824293,0.5625
+core_25m,forward_spatial,ALL,M0,6,0.6,0.7,18,0.6485435632674467,0.6111111111111112
+core_25m,forward_spatial,ALL,M0,7,0.7,0.8,10,0.7421586344829352,0.7
+core_25m,forward_spatial,ALL,M0,8,0.8,0.9,5,0.8510021723713654,1.0
+core_25m,forward_spatial,ALL,M0,9,0.9,1.0,7,0.9395777762514743,0.8571428571428571
+core_25m,forward_spatial,New York City,M0,0,0.0,0.1,192,0.07435962305849238,0.08333333333333333
+core_25m,forward_spatial,New York City,M0,1,0.1,0.2,286,0.13701913362572177,0.08041958041958042
+core_25m,forward_spatial,New York City,M0,2,0.2,0.3,33,0.241956274502557,0.36363636363636365
+core_25m,forward_spatial,New York City,M0,3,0.3,0.4,36,0.34587843413694486,0.4444444444444444
+core_25m,forward_spatial,New York City,M0,4,0.4,0.5,25,0.4477515712052469,0.6
+core_25m,forward_spatial,New York City,M0,5,0.5,0.6,12,0.5465655693831645,0.5833333333333334
+core_25m,forward_spatial,New York City,M0,6,0.6,0.7,14,0.6431219067867033,0.5714285714285714
+core_25m,forward_spatial,New York City,M0,7,0.7,0.8,6,0.733729988142886,0.6666666666666666
+core_25m,forward_spatial,New York City,M0,8,0.8,0.9,3,0.8515058769982184,1.0
+core_25m,forward_spatial,New York City,M0,9,0.9,1.0,4,0.9278192679939999,0.75
+core_25m,forward_spatial,Chicago,M0,0,0.0,0.1,76,0.08132923670982563,0.07894736842105263
+core_25m,forward_spatial,Chicago,M0,1,0.1,0.2,97,0.12526897874769977,0.09278350515463918
+core_25m,forward_spatial,Chicago,M0,2,0.2,0.3,12,0.2666826836998677,0.3333333333333333
+core_25m,forward_spatial,Chicago,M0,3,0.3,0.4,10,0.3558540130783389,0.4
+core_25m,forward_spatial,Chicago,M0,4,0.4,0.5,3,0.4274160708773966,0.0
+core_25m,forward_spatial,Chicago,M0,5,0.5,0.6,4,0.5283712633802237,0.5
+core_25m,forward_spatial,Chicago,M0,6,0.6,0.7,3,0.6644411563309943,0.6666666666666666
+core_25m,forward_spatial,Chicago,M0,7,0.7,0.8,4,0.754801603993009,0.75
+core_25m,forward_spatial,Chicago,M0,8,0.8,0.9,2,0.8502466154310859,1.0
+core_25m,forward_spatial,Chicago,M0,9,0.9,1.0,1,0.9161540708075797,1.0
+core_25m,forward_spatial,Los Angeles,M0,0,0.0,0.1,66,0.07457650036340148,0.0
+core_25m,forward_spatial,Los Angeles,M0,1,0.1,0.2,40,0.1231406343004136,0.0
+core_25m,forward_spatial,Los Angeles,M0,2,0.2,0.3,1,0.28604661460021585,1.0
+core_25m,forward_spatial,Los Angeles,M0,3,0.3,0.4,0,,
+core_25m,forward_spatial,Los Angeles,M0,4,0.4,0.5,2,0.4355188035880515,1.0
+core_25m,forward_spatial,Los Angeles,M0,5,0.5,0.6,0,,
+core_25m,forward_spatial,Los Angeles,M0,6,0.6,0.7,1,0.6767539748072119,1.0
+core_25m,forward_spatial,Los Angeles,M0,7,0.7,0.8,0,,
+core_25m,forward_spatial,Los Angeles,M0,8,0.8,0.9,0,,
+core_25m,forward_spatial,Los Angeles,M0,9,0.9,1.0,2,0.9748066454883706,1.0
+core_25m,forward_spatial,ALL,M1,0,0.0,0.1,226,0.06764227766475195,0.048672566371681415
+core_25m,forward_spatial,ALL,M1,1,0.1,0.2,469,0.1473772425506986,0.07889125799573561
+core_25m,forward_spatial,ALL,M1,2,0.2,0.3,130,0.23592507212301086,0.25384615384615383
+core_25m,forward_spatial,ALL,M1,3,0.3,0.4,51,0.349546594818708,0.47058823529411764
+core_25m,forward_spatial,ALL,M1,4,0.4,0.5,27,0.45088257723801195,0.4444444444444444
+core_25m,forward_spatial,ALL,M1,5,0.5,0.6,18,0.5471225244247332,0.8333333333333334
+core_25m,forward_spatial,ALL,M1,6,0.6,0.7,8,0.6281808213512257,1.0
+core_25m,forward_spatial,ALL,M1,7,0.7,0.8,3,0.7347205588739717,1.0
+core_25m,forward_spatial,ALL,M1,8,0.8,0.9,3,0.8523672631802942,1.0
+core_25m,forward_spatial,ALL,M1,9,0.9,1.0,0,,
+core_25m,forward_spatial,New York City,M1,0,0.0,0.1,91,0.07213278245377677,0.06593406593406594
+core_25m,forward_spatial,New York City,M1,1,0.1,0.2,328,0.1518826928302699,0.08231707317073171
+core_25m,forward_spatial,New York City,M1,2,0.2,0.3,105,0.23598867107885277,0.22857142857142856
+core_25m,forward_spatial,New York City,M1,3,0.3,0.4,43,0.35141456619134354,0.4883720930232558
+core_25m,forward_spatial,New York City,M1,4,0.4,0.5,21,0.4506110736101951,0.42857142857142855
+core_25m,forward_spatial,New York City,M1,5,0.5,0.6,14,0.549710973039535,0.7857142857142857
+core_25m,forward_spatial,New York City,M1,6,0.6,0.7,6,0.6347790311127038,1.0
+core_25m,forward_spatial,New York City,M1,7,0.7,0.8,1,0.7691085742128895,1.0
+core_25m,forward_spatial,New York City,M1,8,0.8,0.9,2,0.8418482590013355,1.0
+core_25m,forward_spatial,New York City,M1,9,0.9,1.0,0,,
+core_25m,forward_spatial,Chicago,M1,0,0.0,0.1,88,0.0654193375835133,0.056818181818181816
+core_25m,forward_spatial,Chicago,M1,1,0.1,0.2,83,0.13677919870888217,0.12048192771084337
+core_25m,forward_spatial,Chicago,M1,2,0.2,0.3,23,0.2375195426414413,0.34782608695652173
+core_25m,forward_spatial,Chicago,M1,3,0.3,0.4,7,0.34188368791078066,0.2857142857142857
+core_25m,forward_spatial,Chicago,M1,4,0.4,0.5,4,0.444745112787818,0.25
+core_25m,forward_spatial,Chicago,M1,5,0.5,0.6,4,0.5380629542729267,1.0
+core_25m,forward_spatial,Chicago,M1,6,0.6,0.7,1,0.6066153612580335,1.0
+core_25m,forward_spatial,Chicago,M1,7,0.7,0.8,1,0.7349150595079539,1.0
+core_25m,forward_spatial,Chicago,M1,8,0.8,0.9,1,0.8734052715382116,1.0
+core_25m,forward_spatial,Chicago,M1,9,0.9,1.0,0,,
+core_25m,forward_spatial,Los Angeles,M1,0,0.0,0.1,47,0.06310999662959757,0.0
+core_25m,forward_spatial,Los Angeles,M1,1,0.1,0.2,58,0.13706431060537747,0.0
+core_25m,forward_spatial,Los Angeles,M1,2,0.2,0.3,2,0.21424971597936193,0.5
+core_25m,forward_spatial,Los Angeles,M1,3,0.3,0.4,1,0.32286417415086954,1.0
+core_25m,forward_spatial,Los Angeles,M1,4,0.4,0.5,2,0.46600829423047724,1.0
+core_25m,forward_spatial,Los Angeles,M1,5,0.5,0.6,0,,
+core_25m,forward_spatial,Los Angeles,M1,6,0.6,0.7,1,0.6101570228755484,1.0
+core_25m,forward_spatial,Los Angeles,M1,7,0.7,0.8,1,0.7001380429010718,1.0
+core_25m,forward_spatial,Los Angeles,M1,8,0.8,0.9,0,,
+core_25m,forward_spatial,Los Angeles,M1,9,0.9,1.0,0,,
+core_25m,forward_spatial,ALL,training_prevalence,0,0.0,0.1,0,,
+core_25m,forward_spatial,ALL,training_prevalence,1,0.1,0.2,782,0.1649712173852613,0.1585677749360614
+core_25m,forward_spatial,ALL,training_prevalence,2,0.2,0.3,153,0.19999999999999998,0.1437908496732026
+core_25m,forward_spatial,ALL,training_prevalence,3,0.3,0.4,0,,
+core_25m,forward_spatial,ALL,training_prevalence,4,0.4,0.5,0,,
+core_25m,forward_spatial,ALL,training_prevalence,5,0.5,0.6,0,,
+core_25m,forward_spatial,ALL,training_prevalence,6,0.6,0.7,0,,
+core_25m,forward_spatial,ALL,training_prevalence,7,0.7,0.8,0,,
+core_25m,forward_spatial,ALL,training_prevalence,8,0.8,0.9,0,,
+core_25m,forward_spatial,ALL,training_prevalence,9,0.9,1.0,0,,
+core_25m,forward_spatial,New York City,training_prevalence,0,0.0,0.1,0,,
+core_25m,forward_spatial,New York City,training_prevalence,1,0.1,0.2,525,0.16657737064425177,0.17142857142857143
+core_25m,forward_spatial,New York City,training_prevalence,2,0.2,0.3,86,0.19999999999999996,0.19767441860465115
+core_25m,forward_spatial,New York City,training_prevalence,3,0.3,0.4,0,,
+core_25m,forward_spatial,New York City,training_prevalence,4,0.4,0.5,0,,
+core_25m,forward_spatial,New York City,training_prevalence,5,0.5,0.6,0,,
+core_25m,forward_spatial,New York City,training_prevalence,6,0.6,0.7,0,,
+core_25m,forward_spatial,New York City,training_prevalence,7,0.7,0.8,0,,
+core_25m,forward_spatial,New York City,training_prevalence,8,0.8,0.9,0,,
+core_25m,forward_spatial,New York City,training_prevalence,9,0.9,1.0,0,,
+core_25m,forward_spatial,Chicago,training_prevalence,0,0.0,0.1,0,,
+core_25m,forward_spatial,Chicago,training_prevalence,1,0.1,0.2,159,0.15743321685323164,0.18867924528301888
+core_25m,forward_spatial,Chicago,training_prevalence,2,0.2,0.3,53,0.19999999999999993,0.05660377358490566
+core_25m,forward_spatial,Chicago,training_prevalence,3,0.3,0.4,0,,
+core_25m,forward_spatial,Chicago,training_prevalence,4,0.4,0.5,0,,
+core_25m,forward_spatial,Chicago,training_prevalence,5,0.5,0.6,0,,
+core_25m,forward_spatial,Chicago,training_prevalence,6,0.6,0.7,0,,
+core_25m,forward_spatial,Chicago,training_prevalence,7,0.7,0.8,0,,
+core_25m,forward_spatial,Chicago,training_prevalence,8,0.8,0.9,0,,
+core_25m,forward_spatial,Chicago,training_prevalence,9,0.9,1.0,0,,
+core_25m,forward_spatial,Los Angeles,training_prevalence,0,0.0,0.1,0,,
+core_25m,forward_spatial,Los Angeles,training_prevalence,1,0.1,0.2,98,0.16859684619773796,0.04081632653061224
+core_25m,forward_spatial,Los Angeles,training_prevalence,2,0.2,0.3,14,0.20000000000000004,0.14285714285714285
+core_25m,forward_spatial,Los Angeles,training_prevalence,3,0.3,0.4,0,,
+core_25m,forward_spatial,Los Angeles,training_prevalence,4,0.4,0.5,0,,
+core_25m,forward_spatial,Los Angeles,training_prevalence,5,0.5,0.6,0,,
+core_25m,forward_spatial,Los Angeles,training_prevalence,6,0.6,0.7,0,,
+core_25m,forward_spatial,Los Angeles,training_prevalence,7,0.7,0.8,0,,
+core_25m,forward_spatial,Los Angeles,training_prevalence,8,0.8,0.9,0,,
+core_25m,forward_spatial,Los Angeles,training_prevalence,9,0.9,1.0,0,,
+core_50m,forward_city_out,ALL,B0,0,0.0,0.1,28,0.08715743767974658,0.10714285714285714
+core_50m,forward_city_out,ALL,B0,1,0.1,0.2,112,0.17593897288433494,0.125
+core_50m,forward_city_out,ALL,B0,2,0.2,0.3,85,0.2594561603823365,0.4117647058823529
+core_50m,forward_city_out,ALL,B0,3,0.3,0.4,69,0.3464028733574001,0.2608695652173913
+core_50m,forward_city_out,ALL,B0,4,0.4,0.5,63,0.4377678910056119,0.30158730158730157
+core_50m,forward_city_out,ALL,B0,5,0.5,0.6,158,0.5529258937699746,0.5063291139240507
+core_50m,forward_city_out,ALL,B0,6,0.6,0.7,74,0.6541775729536872,0.4189189189189189
+core_50m,forward_city_out,ALL,B0,7,0.7,0.8,145,0.759152431599138,0.6344827586206897
+core_50m,forward_city_out,ALL,B0,8,0.8,0.9,127,0.8568105101817401,0.8503937007874016
+core_50m,forward_city_out,ALL,B0,9,0.9,1.0,74,0.9329186636185043,0.9324324324324325
+core_50m,forward_city_out,New York City,B0,0,0.0,0.1,20,0.09914519986287748,0.15
+core_50m,forward_city_out,New York City,B0,1,0.1,0.2,95,0.17392978445881424,0.1368421052631579
+core_50m,forward_city_out,New York City,B0,2,0.2,0.3,62,0.26561472321560997,0.5161290322580645
+core_50m,forward_city_out,New York City,B0,3,0.3,0.4,20,0.3555563564232193,0.6
+core_50m,forward_city_out,New York City,B0,4,0.4,0.5,30,0.4322257901593268,0.4666666666666667
+core_50m,forward_city_out,New York City,B0,5,0.5,0.6,98,0.5521225583515955,0.5306122448979592
+core_50m,forward_city_out,New York City,B0,6,0.6,0.7,27,0.6573289063810485,0.5185185185185185
+core_50m,forward_city_out,New York City,B0,7,0.7,0.8,98,0.7642639704577674,0.6632653061224489
+core_50m,forward_city_out,New York City,B0,8,0.8,0.9,101,0.8568192962563334,0.8415841584158416
+core_50m,forward_city_out,New York City,B0,9,0.9,1.0,60,0.930921165893699,0.9166666666666666
+core_50m,forward_city_out,Chicago,B0,0,0.0,0.1,4,0.05379074776967871,0.0
+core_50m,forward_city_out,Chicago,B0,1,0.1,0.2,17,0.1871667905563621,0.058823529411764705
+core_50m,forward_city_out,Chicago,B0,2,0.2,0.3,6,0.23371002318417633,0.3333333333333333
+core_50m,forward_city_out,Chicago,B0,3,0.3,0.4,28,0.35120752331725674,0.14285714285714285
+core_50m,forward_city_out,Chicago,B0,4,0.4,0.5,26,0.43857813081501507,0.15384615384615385
+core_50m,forward_city_out,Chicago,B0,5,0.5,0.6,31,0.5530940731177207,0.6129032258064516
+core_50m,forward_city_out,Chicago,B0,6,0.6,0.7,39,0.6521287866222848,0.3333333333333333
+core_50m,forward_city_out,Chicago,B0,7,0.7,0.8,34,0.7496872596043392,0.5588235294117647
+core_50m,forward_city_out,Chicago,B0,8,0.8,0.9,19,0.8582952006002467,0.8947368421052632
+core_50m,forward_city_out,Chicago,B0,9,0.9,1.0,8,0.9303579256438204,1.0
+core_50m,forward_city_out,Los Angeles,B0,0,0.0,0.1,4,0.06058531667415996,0.0
+core_50m,forward_city_out,Los Angeles,B0,1,0.1,0.2,0,,
+core_50m,forward_city_out,Los Angeles,B0,2,0.2,0.3,17,0.24608239141327762,0.058823529411764705
+core_50m,forward_city_out,Los Angeles,B0,3,0.3,0.4,21,0.3312790704910965,0.09523809523809523
+core_50m,forward_city_out,Los Angeles,B0,4,0.4,0.5,7,0.45851028962619284,0.14285714285714285
+core_50m,forward_city_out,Los Angeles,B0,5,0.5,0.6,29,0.5554608355362162,0.3103448275862069
+core_50m,forward_city_out,Los Angeles,B0,6,0.6,0.7,8,0.6535296560019288,0.5
+core_50m,forward_city_out,Los Angeles,B0,7,0.7,0.8,13,0.7453743577281743,0.6153846153846154
+core_50m,forward_city_out,Los Angeles,B0,8,0.8,0.9,7,0.8526538656838051,0.8571428571428571
+core_50m,forward_city_out,Los Angeles,B0,9,0.9,1.0,6,0.9563079581661351,1.0
+core_50m,forward_city_out,ALL,B1,0,0.0,0.1,16,0.08541466073813275,0.0
+core_50m,forward_city_out,ALL,B1,1,0.1,0.2,70,0.139604135315552,0.04285714285714286
+core_50m,forward_city_out,ALL,B1,2,0.2,0.3,86,0.24779406689078598,0.1511627906976744
+core_50m,forward_city_out,ALL,B1,3,0.3,0.4,73,0.34644254819104314,0.3835616438356164
+core_50m,forward_city_out,ALL,B1,4,0.4,0.5,111,0.4562185091600053,0.3963963963963964
+core_50m,forward_city_out,ALL,B1,5,0.5,0.6,141,0.5543808421658456,0.49645390070921985
+core_50m,forward_city_out,ALL,B1,6,0.6,0.7,130,0.6493229191918094,0.6384615384615384
+core_50m,forward_city_out,ALL,B1,7,0.7,0.8,131,0.745816121131907,0.648854961832061
+core_50m,forward_city_out,ALL,B1,8,0.8,0.9,137,0.8481567464797888,0.7956204379562044
+core_50m,forward_city_out,ALL,B1,9,0.9,1.0,40,0.9204061075900934,0.85
+core_50m,forward_city_out,New York City,B1,0,0.0,0.1,6,0.0943766805652907,0.0
+core_50m,forward_city_out,New York City,B1,1,0.1,0.2,38,0.12700583677415,0.07894736842105263
+core_50m,forward_city_out,New York City,B1,2,0.2,0.3,25,0.25926629094246084,0.16
+core_50m,forward_city_out,New York City,B1,3,0.3,0.4,43,0.34540596434238063,0.4186046511627907
+core_50m,forward_city_out,New York City,B1,4,0.4,0.5,67,0.4599443137030386,0.5074626865671642
+core_50m,forward_city_out,New York City,B1,5,0.5,0.6,87,0.553714642697856,0.47126436781609193
+core_50m,forward_city_out,New York City,B1,6,0.6,0.7,103,0.6486490565127389,0.6504854368932039
+core_50m,forward_city_out,New York City,B1,7,0.7,0.8,94,0.7463574229900586,0.6276595744680851
+core_50m,forward_city_out,New York City,B1,8,0.8,0.9,113,0.8500426098743169,0.7964601769911505
+core_50m,forward_city_out,New York City,B1,9,0.9,1.0,35,0.9209178350765983,0.8285714285714286
+core_50m,forward_city_out,Chicago,B1,0,0.0,0.1,9,0.07800893331165235,0.0
+core_50m,forward_city_out,Chicago,B1,1,0.1,0.2,13,0.17376706868201802,0.0
+core_50m,forward_city_out,Chicago,B1,2,0.2,0.3,40,0.24364779588234184,0.15
+core_50m,forward_city_out,Chicago,B1,3,0.3,0.4,21,0.3458233863714077,0.38095238095238093
+core_50m,forward_city_out,Chicago,B1,4,0.4,0.5,24,0.44781860114505206,0.2916666666666667
+core_50m,forward_city_out,Chicago,B1,5,0.5,0.6,42,0.5558185786324789,0.5476190476190477
+core_50m,forward_city_out,Chicago,B1,6,0.6,0.7,19,0.6522748308670465,0.5789473684210527
+core_50m,forward_city_out,Chicago,B1,7,0.7,0.8,29,0.7464540706721073,0.7241379310344828
+core_50m,forward_city_out,Chicago,B1,8,0.8,0.9,15,0.8375072476518426,0.7333333333333333
+core_50m,forward_city_out,Chicago,B1,9,0.9,1.0,0,,
+core_50m,forward_city_out,Los Angeles,B1,0,0.0,0.1,1,0.09829408861350877,0.0
+core_50m,forward_city_out,Los Angeles,B1,1,0.1,0.2,19,0.14142609377919502,0.0
+core_50m,forward_city_out,Los Angeles,B1,2,0.2,0.3,21,0.24203431636916195,0.14285714285714285
+core_50m,forward_city_out,Los Angeles,B1,3,0.3,0.4,9,0.3528398263804693,0.2222222222222222
+core_50m,forward_city_out,Los Angeles,B1,4,0.4,0.5,20,0.45381695355878804,0.15
+core_50m,forward_city_out,Los Angeles,B1,5,0.5,0.6,12,0.5541787106755544,0.5
+core_50m,forward_city_out,Los Angeles,B1,6,0.6,0.7,8,0.6509881109561548,0.625
+core_50m,forward_city_out,Los Angeles,B1,7,0.7,0.8,8,0.7371432572154002,0.625
+core_50m,forward_city_out,Los Angeles,B1,8,0.8,0.9,9,0.8422278485728474,0.8888888888888888
+core_50m,forward_city_out,Los Angeles,B1,9,0.9,1.0,5,0.9168240151845595,1.0
+core_50m,forward_city_out,ALL,M0,0,0.0,0.1,30,0.07831493199884434,0.0
+core_50m,forward_city_out,ALL,M0,1,0.1,0.2,49,0.1586579516729863,0.08163265306122448
+core_50m,forward_city_out,ALL,M0,2,0.2,0.3,122,0.24526775470264658,0.23770491803278687
+core_50m,forward_city_out,ALL,M0,3,0.3,0.4,125,0.3460422219308057,0.392
+core_50m,forward_city_out,ALL,M0,4,0.4,0.5,87,0.4509366794777918,0.3563218390804598
+core_50m,forward_city_out,ALL,M0,5,0.5,0.6,84,0.5453259626773702,0.40476190476190477
+core_50m,forward_city_out,ALL,M0,6,0.6,0.7,112,0.6552835617454529,0.6071428571428571
+core_50m,forward_city_out,ALL,M0,7,0.7,0.8,106,0.7504940424948776,0.5943396226415094
+core_50m,forward_city_out,ALL,M0,8,0.8,0.9,118,0.8515219790181697,0.8305084745762712
+core_50m,forward_city_out,ALL,M0,9,0.9,1.0,102,0.9405800114687664,0.9117647058823529
+core_50m,forward_city_out,New York City,M0,0,0.0,0.1,30,0.07831493199884434,0.0
+core_50m,forward_city_out,New York City,M0,1,0.1,0.2,28,0.1652075376446876,0.10714285714285714
+core_50m,forward_city_out,New York City,M0,2,0.2,0.3,83,0.2423594849307007,0.3132530120481928
+core_50m,forward_city_out,New York City,M0,3,0.3,0.4,74,0.3451493397149524,0.5540540540540541
+core_50m,forward_city_out,New York City,M0,4,0.4,0.5,38,0.4482224194460433,0.42105263157894735
+core_50m,forward_city_out,New York City,M0,5,0.5,0.6,46,0.5488549110816913,0.4782608695652174
+core_50m,forward_city_out,New York City,M0,6,0.6,0.7,79,0.6541869092322128,0.6455696202531646
+core_50m,forward_city_out,New York City,M0,7,0.7,0.8,64,0.7498849062780677,0.65625
+core_50m,forward_city_out,New York City,M0,8,0.8,0.9,80,0.8516197346642794,0.8
+core_50m,forward_city_out,New York City,M0,9,0.9,1.0,89,0.9422625364682863,0.898876404494382
+core_50m,forward_city_out,Chicago,M0,0,0.0,0.1,0,,
+core_50m,forward_city_out,Chicago,M0,1,0.1,0.2,14,0.15541892607664845,0.0
+core_50m,forward_city_out,Chicago,M0,2,0.2,0.3,21,0.2485089447610451,0.09523809523809523
+core_50m,forward_city_out,Chicago,M0,3,0.3,0.4,33,0.34524077505911865,0.21212121212121213
+core_50m,forward_city_out,Chicago,M0,4,0.4,0.5,29,0.4552613045783745,0.3448275862068966
+core_50m,forward_city_out,Chicago,M0,5,0.5,0.6,19,0.5406058369627726,0.3684210526315789
+core_50m,forward_city_out,Chicago,M0,6,0.6,0.7,28,0.6570711469221345,0.4642857142857143
+core_50m,forward_city_out,Chicago,M0,7,0.7,0.8,33,0.7531290678886394,0.48484848484848486
+core_50m,forward_city_out,Chicago,M0,8,0.8,0.9,28,0.8561399768921719,0.8928571428571429
+core_50m,forward_city_out,Chicago,M0,9,0.9,1.0,7,0.9236658897662744,1.0
+core_50m,forward_city_out,Los Angeles,M0,0,0.0,0.1,0,,
+core_50m,forward_city_out,Los Angeles,M0,1,0.1,0.2,7,0.13893765897885685,0.14285714285714285
+core_50m,forward_city_out,Los Angeles,M0,2,0.2,0.3,18,0.2548967213607098,0.05555555555555555
+core_50m,forward_city_out,Los Angeles,M0,3,0.3,0.4,18,0.3511822791940736,0.05555555555555555
+core_50m,forward_city_out,Los Angeles,M0,4,0.4,0.5,20,0.4498230671422691,0.25
+core_50m,forward_city_out,Los Angeles,M0,5,0.5,0.6,19,0.5415023185709797,0.2631578947368421
+core_50m,forward_city_out,Los Angeles,M0,6,0.6,0.7,5,0.66260019446523,0.8
+core_50m,forward_city_out,Los Angeles,M0,7,0.7,0.8,9,0.7451639180372861,0.5555555555555556
+core_50m,forward_city_out,Los Angeles,M0,8,0.8,0.9,10,0.8378095398020873,0.9
+core_50m,forward_city_out,Los Angeles,M0,9,0.9,1.0,6,0.9353556992954619,1.0
+core_50m,forward_city_out,ALL,M1,0,0.0,0.1,26,0.06084085083154954,0.0
+core_50m,forward_city_out,ALL,M1,1,0.1,0.2,56,0.16752957429713078,0.07142857142857142
+core_50m,forward_city_out,ALL,M1,2,0.2,0.3,54,0.2587873285941277,0.14814814814814814
+core_50m,forward_city_out,ALL,M1,3,0.3,0.4,79,0.35025477540716965,0.3037974683544304
+core_50m,forward_city_out,ALL,M1,4,0.4,0.5,72,0.4547217560200466,0.3333333333333333
+core_50m,forward_city_out,ALL,M1,5,0.5,0.6,93,0.5513390528151508,0.41935483870967744
+core_50m,forward_city_out,ALL,M1,6,0.6,0.7,80,0.6421392250209742,0.5875
+core_50m,forward_city_out,ALL,M1,7,0.7,0.8,96,0.7516210492365873,0.59375
+core_50m,forward_city_out,ALL,M1,8,0.8,0.9,85,0.8568041788287089,0.6470588235294118
+core_50m,forward_city_out,ALL,M1,9,0.9,1.0,294,0.9715524471088478,0.717687074829932
+core_50m,forward_city_out,New York City,M1,0,0.0,0.1,12,0.08358836547921865,0.0
+core_50m,forward_city_out,New York City,M1,1,0.1,0.2,28,0.16340224925952565,0.14285714285714285
+core_50m,forward_city_out,New York City,M1,2,0.2,0.3,19,0.2577051031893574,0.10526315789473684
+core_50m,forward_city_out,New York City,M1,3,0.3,0.4,35,0.35179262885785406,0.37142857142857144
+core_50m,forward_city_out,New York City,M1,4,0.4,0.5,23,0.44464700326014134,0.43478260869565216
+core_50m,forward_city_out,New York City,M1,5,0.5,0.6,34,0.5565305200566082,0.4411764705882353
+core_50m,forward_city_out,New York City,M1,6,0.6,0.7,38,0.636835201890138,0.5
+core_50m,forward_city_out,New York City,M1,7,0.7,0.8,58,0.751780761900556,0.5172413793103449
+core_50m,forward_city_out,New York City,M1,8,0.8,0.9,71,0.861054516463073,0.5915492957746479
+core_50m,forward_city_out,New York City,M1,9,0.9,1.0,293,0.9715946624700973,0.7167235494880546
+core_50m,forward_city_out,Chicago,M1,0,0.0,0.1,14,0.04134298113354744,0.0
+core_50m,forward_city_out,Chicago,M1,1,0.1,0.2,15,0.16439852343922556,0.0
+core_50m,forward_city_out,Chicago,M1,2,0.2,0.3,19,0.26122552417242845,0.15789473684210525
+core_50m,forward_city_out,Chicago,M1,3,0.3,0.4,34,0.34708865594041916,0.29411764705882354
+core_50m,forward_city_out,Chicago,M1,4,0.4,0.5,26,0.4622792429452219,0.4230769230769231
+core_50m,forward_city_out,Chicago,M1,5,0.5,0.6,35,0.5476826725985638,0.4
+core_50m,forward_city_out,Chicago,M1,6,0.6,0.7,30,0.6468420931798434,0.6333333333333333
+core_50m,forward_city_out,Chicago,M1,7,0.7,0.8,28,0.748985229565157,0.7142857142857143
+core_50m,forward_city_out,Chicago,M1,8,0.8,0.9,10,0.8391055142592174,0.9
+core_50m,forward_city_out,Chicago,M1,9,0.9,1.0,1,0.9591833462628023,1.0
+core_50m,forward_city_out,Los Angeles,M1,0,0.0,0.1,0,,
+core_50m,forward_city_out,Los Angeles,M1,1,0.1,0.2,13,0.18003194844494,0.0
+core_50m,forward_city_out,Los Angeles,M1,2,0.2,0.3,16,0.2571771140130603,0.1875
+core_50m,forward_city_out,Los Angeles,M1,3,0.3,0.4,10,0.35563709451672615,0.1
+core_50m,forward_city_out,Los Angeles,M1,4,0.4,0.5,23,0.4562532626906235,0.13043478260869565
+core_50m,forward_city_out,Los Angeles,M1,5,0.5,0.6,24,0.5493166953722756,0.4166666666666667
+core_50m,forward_city_out,Los Angeles,M1,6,0.6,0.7,12,0.6471781278714496,0.75
+core_50m,forward_city_out,Los Angeles,M1,7,0.7,0.8,10,0.758075010865575,0.7
+core_50m,forward_city_out,Los Angeles,M1,8,0.8,0.9,4,0.8256073472424759,1.0
+core_50m,forward_city_out,Los Angeles,M1,9,0.9,1.0,0,,
+core_50m,forward_city_out,ALL,training_prevalence,0,0.0,0.1,0,,
+core_50m,forward_city_out,ALL,training_prevalence,1,0.1,0.2,0,,
+core_50m,forward_city_out,ALL,training_prevalence,2,0.2,0.3,0,,
+core_50m,forward_city_out,ALL,training_prevalence,3,0.3,0.4,0,,
+core_50m,forward_city_out,ALL,training_prevalence,4,0.4,0.5,611,0.4966442953020135,0.5646481178396072
+core_50m,forward_city_out,ALL,training_prevalence,5,0.5,0.6,212,0.5819548872180453,0.41037735849056606
+core_50m,forward_city_out,ALL,training_prevalence,6,0.6,0.7,112,0.6171352074966532,0.33035714285714285
+core_50m,forward_city_out,ALL,training_prevalence,7,0.7,0.8,0,,
+core_50m,forward_city_out,ALL,training_prevalence,8,0.8,0.9,0,,
+core_50m,forward_city_out,ALL,training_prevalence,9,0.9,1.0,0,,
+core_50m,forward_city_out,New York City,training_prevalence,0,0.0,0.1,0,,
+core_50m,forward_city_out,New York City,training_prevalence,1,0.1,0.2,0,,
+core_50m,forward_city_out,New York City,training_prevalence,2,0.2,0.3,0,,
+core_50m,forward_city_out,New York City,training_prevalence,3,0.3,0.4,0,,
+core_50m,forward_city_out,New York City,training_prevalence,4,0.4,0.5,611,0.4966442953020135,0.5646481178396072
+core_50m,forward_city_out,New York City,training_prevalence,5,0.5,0.6,0,,
+core_50m,forward_city_out,New York City,training_prevalence,6,0.6,0.7,0,,
+core_50m,forward_city_out,New York City,training_prevalence,7,0.7,0.8,0,,
+core_50m,forward_city_out,New York City,training_prevalence,8,0.8,0.9,0,,
+core_50m,forward_city_out,New York City,training_prevalence,9,0.9,1.0,0,,
+core_50m,forward_city_out,Chicago,training_prevalence,0,0.0,0.1,0,,
+core_50m,forward_city_out,Chicago,training_prevalence,1,0.1,0.2,0,,
+core_50m,forward_city_out,Chicago,training_prevalence,2,0.2,0.3,0,,
+core_50m,forward_city_out,Chicago,training_prevalence,3,0.3,0.4,0,,
+core_50m,forward_city_out,Chicago,training_prevalence,4,0.4,0.5,0,,
+core_50m,forward_city_out,Chicago,training_prevalence,5,0.5,0.6,212,0.5819548872180453,0.41037735849056606
+core_50m,forward_city_out,Chicago,training_prevalence,6,0.6,0.7,0,,
+core_50m,forward_city_out,Chicago,training_prevalence,7,0.7,0.8,0,,
+core_50m,forward_city_out,Chicago,training_prevalence,8,0.8,0.9,0,,
+core_50m,forward_city_out,Chicago,training_prevalence,9,0.9,1.0,0,,
+core_50m,forward_city_out,Los Angeles,training_prevalence,0,0.0,0.1,0,,
+core_50m,forward_city_out,Los Angeles,training_prevalence,1,0.1,0.2,0,,
+core_50m,forward_city_out,Los Angeles,training_prevalence,2,0.2,0.3,0,,
+core_50m,forward_city_out,Los Angeles,training_prevalence,3,0.3,0.4,0,,
+core_50m,forward_city_out,Los Angeles,training_prevalence,4,0.4,0.5,0,,
+core_50m,forward_city_out,Los Angeles,training_prevalence,5,0.5,0.6,0,,
+core_50m,forward_city_out,Los Angeles,training_prevalence,6,0.6,0.7,112,0.6171352074966532,0.33035714285714285
+core_50m,forward_city_out,Los Angeles,training_prevalence,7,0.7,0.8,0,,
+core_50m,forward_city_out,Los Angeles,training_prevalence,8,0.8,0.9,0,,
+core_50m,forward_city_out,Los Angeles,training_prevalence,9,0.9,1.0,0,,
+core_50m,forward_spatial,ALL,B0,0,0.0,0.1,23,0.06705880589227693,0.0
+core_50m,forward_spatial,ALL,B0,1,0.1,0.2,57,0.16268577904308298,0.08771929824561403
+core_50m,forward_spatial,ALL,B0,2,0.2,0.3,101,0.26075994135308367,0.18811881188118812
+core_50m,forward_spatial,ALL,B0,3,0.3,0.4,71,0.3514507969949608,0.22535211267605634
+core_50m,forward_spatial,ALL,B0,4,0.4,0.5,110,0.4666157053759937,0.4727272727272727
+core_50m,forward_spatial,ALL,B0,5,0.5,0.6,113,0.55165584902266,0.46017699115044247
+core_50m,forward_spatial,ALL,B0,6,0.6,0.7,123,0.6544392276293927,0.5365853658536586
+core_50m,forward_spatial,ALL,B0,7,0.7,0.8,149,0.7514103566346797,0.6577181208053692
+core_50m,forward_spatial,ALL,B0,8,0.8,0.9,108,0.8437396700431962,0.7962962962962963
+core_50m,forward_spatial,ALL,B0,9,0.9,1.0,80,0.9333689035171805,0.9375
+core_50m,forward_spatial,New York City,B0,0,0.0,0.1,19,0.06443851883852969,0.0
+core_50m,forward_spatial,New York City,B0,1,0.1,0.2,31,0.16494500763635608,0.06451612903225806
+core_50m,forward_spatial,New York City,B0,2,0.2,0.3,50,0.25424263682025006,0.28
+core_50m,forward_spatial,New York City,B0,3,0.3,0.4,39,0.34676504625217486,0.28205128205128205
+core_50m,forward_spatial,New York City,B0,4,0.4,0.5,75,0.46852040670848377,0.52
+core_50m,forward_spatial,New York City,B0,5,0.5,0.6,67,0.5613504115363286,0.5223880597014925
+core_50m,forward_spatial,New York City,B0,6,0.6,0.7,81,0.6480620338022368,0.5802469135802469
+core_50m,forward_spatial,New York City,B0,7,0.7,0.8,106,0.7538214724259277,0.7075471698113207
+core_50m,forward_spatial,New York City,B0,8,0.8,0.9,78,0.8465380271856814,0.7948717948717948
+core_50m,forward_spatial,New York City,B0,9,0.9,1.0,65,0.9331837297018996,0.9230769230769231
+core_50m,forward_spatial,Chicago,B0,0,0.0,0.1,4,0.07950516939757639,0.0
+core_50m,forward_spatial,Chicago,B0,1,0.1,0.2,9,0.16432521268375735,0.1111111111111111
+core_50m,forward_spatial,Chicago,B0,2,0.2,0.3,32,0.2644668452013036,0.15625
+core_50m,forward_spatial,Chicago,B0,3,0.3,0.4,18,0.358533731475832,0.1111111111111111
+core_50m,forward_spatial,Chicago,B0,4,0.4,0.5,25,0.4636596917966152,0.36
+core_50m,forward_spatial,Chicago,B0,5,0.5,0.6,27,0.5429524355011828,0.4444444444444444
+core_50m,forward_spatial,Chicago,B0,6,0.6,0.7,32,0.6697100011551579,0.40625
+core_50m,forward_spatial,Chicago,B0,7,0.7,0.8,32,0.7419917672092697,0.5625
+core_50m,forward_spatial,Chicago,B0,8,0.8,0.9,23,0.8392923572294787,0.7391304347826086
+core_50m,forward_spatial,Chicago,B0,9,0.9,1.0,10,0.9308873095512803,1.0
+core_50m,forward_spatial,Los Angeles,B0,0,0.0,0.1,0,,
+core_50m,forward_spatial,Los Angeles,B0,1,0.1,0.2,17,0.15769807379852208,0.11764705882352941
+core_50m,forward_spatial,Los Angeles,B0,2,0.2,0.3,19,0.2716675362740648,0.0
+core_50m,forward_spatial,Los Angeles,B0,3,0.3,0.4,14,0.35539732973160126,0.21428571428571427
+core_50m,forward_spatial,Los Angeles,B0,4,0.4,0.5,10,0.45972047933076465,0.4
+core_50m,forward_spatial,Los Angeles,B0,5,0.5,0.6,19,0.5298377688470857,0.2631578947368421
+core_50m,forward_spatial,Los Angeles,B0,6,0.6,0.7,10,0.6572280223469047,0.6
+core_50m,forward_spatial,Los Angeles,B0,7,0.7,0.8,11,0.7555755009747553,0.45454545454545453
+core_50m,forward_spatial,Los Angeles,B0,8,0.8,0.9,7,0.8271705754148616,1.0
+core_50m,forward_spatial,Los Angeles,B0,9,0.9,1.0,5,0.9407393510476316,1.0
+core_50m,forward_spatial,ALL,B1,0,0.0,0.1,16,0.08396158376045501,0.125
+core_50m,forward_spatial,ALL,B1,1,0.1,0.2,93,0.14586487226817826,0.06451612903225806
+core_50m,forward_spatial,ALL,B1,2,0.2,0.3,56,0.25406511939012083,0.25
+core_50m,forward_spatial,ALL,B1,3,0.3,0.4,79,0.34777256156288544,0.189873417721519
+core_50m,forward_spatial,ALL,B1,4,0.4,0.5,89,0.4516196032066062,0.38202247191011235
+core_50m,forward_spatial,ALL,B1,5,0.5,0.6,122,0.5501146659991971,0.4672131147540984
+core_50m,forward_spatial,ALL,B1,6,0.6,0.7,145,0.6514118639344602,0.5586206896551724
+core_50m,forward_spatial,ALL,B1,7,0.7,0.8,174,0.744923115023547,0.7126436781609196
+core_50m,forward_spatial,ALL,B1,8,0.8,0.9,135,0.8491328387089022,0.8296296296296296
+core_50m,forward_spatial,ALL,B1,9,0.9,1.0,26,0.9189866026230727,0.9230769230769231
+core_50m,forward_spatial,New York City,B1,0,0.0,0.1,5,0.07989641299634569,0.0
+core_50m,forward_spatial,New York City,B1,1,0.1,0.2,36,0.1512454376986767,0.027777777777777776
+core_50m,forward_spatial,New York City,B1,2,0.2,0.3,25,0.2596705659863903,0.44
+core_50m,forward_spatial,New York City,B1,3,0.3,0.4,37,0.34893529623870007,0.21621621621621623
+core_50m,forward_spatial,New York City,B1,4,0.4,0.5,54,0.456379747526645,0.3888888888888889
+core_50m,forward_spatial,New York City,B1,5,0.5,0.6,86,0.5506725573257728,0.47674418604651164
+core_50m,forward_spatial,New York City,B1,6,0.6,0.7,124,0.6507361005535274,0.5483870967741935
+core_50m,forward_spatial,New York City,B1,7,0.7,0.8,127,0.7422951081839092,0.7480314960629921
+core_50m,forward_spatial,New York City,B1,8,0.8,0.9,101,0.846616608822832,0.8415841584158416
+core_50m,forward_spatial,New York City,B1,9,0.9,1.0,16,0.920695346406697,0.9375
+core_50m,forward_spatial,Chicago,B1,0,0.0,0.1,4,0.09519647246182036,0.0
+core_50m,forward_spatial,Chicago,B1,1,0.1,0.2,26,0.15278402085678008,0.15384615384615385
+core_50m,forward_spatial,Chicago,B1,2,0.2,0.3,20,0.2561258481320582,0.1
+core_50m,forward_spatial,Chicago,B1,3,0.3,0.4,24,0.3425975129092567,0.20833333333333334
+core_50m,forward_spatial,Chicago,B1,4,0.4,0.5,18,0.4451989067382693,0.2777777777777778
+core_50m,forward_spatial,Chicago,B1,5,0.5,0.6,35,0.5491477756320976,0.42857142857142855
+core_50m,forward_spatial,Chicago,B1,6,0.6,0.7,14,0.6575265963983944,0.6428571428571429
+core_50m,forward_spatial,Chicago,B1,7,0.7,0.8,38,0.7508804674743887,0.5526315789473685
+core_50m,forward_spatial,Chicago,B1,8,0.8,0.9,26,0.8519853403784567,0.7692307692307693
+core_50m,forward_spatial,Chicago,B1,9,0.9,1.0,7,0.9160516289833459,0.8571428571428571
+core_50m,forward_spatial,Los Angeles,B1,0,0.0,0.1,7,0.08044534076261001,0.2857142857142857
+core_50m,forward_spatial,Los Angeles,B1,1,0.1,0.2,31,0.13381331682296563,0.03225806451612903
+core_50m,forward_spatial,Los Angeles,B1,2,0.2,0.3,11,0.23757868850416763,0.09090909090909091
+core_50m,forward_spatial,Los Angeles,B1,3,0.3,0.4,18,0.3522825607118828,0.1111111111111111
+core_50m,forward_spatial,Los Angeles,B1,4,0.4,0.5,17,0.4432975292741341,0.47058823529411764
+core_50m,forward_spatial,Los Angeles,B1,5,0.5,0.6,1,0.5359771747621922,1.0
+core_50m,forward_spatial,Los Angeles,B1,6,0.6,0.7,7,0.6511530646116847,0.5714285714285714
+core_50m,forward_spatial,Los Angeles,B1,7,0.7,0.8,9,0.7568539456348833,0.8888888888888888
+core_50m,forward_spatial,Los Angeles,B1,8,0.8,0.9,8,0.8716296105944896,0.875
+core_50m,forward_spatial,Los Angeles,B1,9,0.9,1.0,3,0.9167215742697715,1.0
+core_50m,forward_spatial,ALL,M0,0,0.0,0.1,0,,
+core_50m,forward_spatial,ALL,M0,1,0.1,0.2,23,0.14408549698885348,0.043478260869565216
+core_50m,forward_spatial,ALL,M0,2,0.2,0.3,72,0.2561541507607814,0.1388888888888889
+core_50m,forward_spatial,ALL,M0,3,0.3,0.4,109,0.354731831084412,0.23853211009174313
+core_50m,forward_spatial,ALL,M0,4,0.4,0.5,157,0.4491810528068664,0.2802547770700637
+core_50m,forward_spatial,ALL,M0,5,0.5,0.6,172,0.5483207372744249,0.5174418604651163
+core_50m,forward_spatial,ALL,M0,6,0.6,0.7,172,0.6498084124188386,0.5930232558139535
+core_50m,forward_spatial,ALL,M0,7,0.7,0.8,138,0.7526486188315303,0.7971014492753623
+core_50m,forward_spatial,ALL,M0,8,0.8,0.9,75,0.8420409145083536,0.9333333333333333
+core_50m,forward_spatial,ALL,M0,9,0.9,1.0,17,0.9289868519715487,1.0
+core_50m,forward_spatial,New York City,M0,0,0.0,0.1,0,,
+core_50m,forward_spatial,New York City,M0,1,0.1,0.2,15,0.1369895145663678,0.06666666666666667
+core_50m,forward_spatial,New York City,M0,2,0.2,0.3,51,0.2527125242950111,0.13725490196078433
+core_50m,forward_spatial,New York City,M0,3,0.3,0.4,53,0.3534204475330095,0.37735849056603776
+core_50m,forward_spatial,New York City,M0,4,0.4,0.5,93,0.45003701983751376,0.34408602150537637
+core_50m,forward_spatial,New York City,M0,5,0.5,0.6,110,0.5519651287410429,0.5818181818181818
+core_50m,forward_spatial,New York City,M0,6,0.6,0.7,116,0.6517177873228202,0.6551724137931034
+core_50m,forward_spatial,New York City,M0,7,0.7,0.8,101,0.7524854368302899,0.7623762376237624
+core_50m,forward_spatial,New York City,M0,8,0.8,0.9,58,0.8430827546348101,0.9310344827586207
+core_50m,forward_spatial,New York City,M0,9,0.9,1.0,14,0.9303797134331081,1.0
+core_50m,forward_spatial,Chicago,M0,0,0.0,0.1,0,,
+core_50m,forward_spatial,Chicago,M0,1,0.1,0.2,2,0.16959872802580553,0.0
+core_50m,forward_spatial,Chicago,M0,2,0.2,0.3,10,0.2699768628167556,0.1
+core_50m,forward_spatial,Chicago,M0,3,0.3,0.4,31,0.35537527520998435,0.1935483870967742
+core_50m,forward_spatial,Chicago,M0,4,0.4,0.5,43,0.44402978456497727,0.16279069767441862
+core_50m,forward_spatial,Chicago,M0,5,0.5,0.6,41,0.5477836524153913,0.43902439024390244
+core_50m,forward_spatial,Chicago,M0,6,0.6,0.7,45,0.64513555558365,0.4222222222222222
+core_50m,forward_spatial,Chicago,M0,7,0.7,0.8,30,0.7554374005526598,0.8666666666666667
+core_50m,forward_spatial,Chicago,M0,8,0.8,0.9,8,0.8473007015161047,1.0
+core_50m,forward_spatial,Chicago,M0,9,0.9,1.0,2,0.9166630968297947,1.0
+core_50m,forward_spatial,Los Angeles,M0,0,0.0,0.1,0,,
+core_50m,forward_spatial,Los Angeles,M0,1,0.1,0.2,6,0.15332104269941735,0.0
+core_50m,forward_spatial,Los Angeles,M0,2,0.2,0.3,11,0.2595446806875581,0.18181818181818182
+core_50m,forward_spatial,Los Angeles,M0,3,0.3,0.4,25,0.3567140934976751,0.0
+core_50m,forward_spatial,Los Angeles,M0,4,0.4,0.5,21,0.45593817664262976,0.23809523809523808
+core_50m,forward_spatial,Los Angeles,M0,5,0.5,0.6,21,0.530279661935967,0.3333333333333333
+core_50m,forward_spatial,Los Angeles,M0,6,0.6,0.7,11,0.6487894186662564,0.6363636363636364
+core_50m,forward_spatial,Los Angeles,M0,7,0.7,0.8,7,0.7430511803303049,1.0
+core_50m,forward_spatial,Los Angeles,M0,8,0.8,0.9,9,0.8306514674643006,0.8888888888888888
+core_50m,forward_spatial,Los Angeles,M0,9,0.9,1.0,1,0.9341343017932278,1.0
+core_50m,forward_spatial,ALL,M1,0,0.0,0.1,26,0.08212520034416572,0.0
+core_50m,forward_spatial,ALL,M1,1,0.1,0.2,45,0.15441831798293887,0.13333333333333333
+core_50m,forward_spatial,ALL,M1,2,0.2,0.3,67,0.2579696300372698,0.11940298507462686
+core_50m,forward_spatial,ALL,M1,3,0.3,0.4,90,0.35805246578852035,0.23333333333333334
+core_50m,forward_spatial,ALL,M1,4,0.4,0.5,142,0.45269272401974603,0.352112676056338
+core_50m,forward_spatial,ALL,M1,5,0.5,0.6,113,0.5489317026408673,0.4690265486725664
+core_50m,forward_spatial,ALL,M1,6,0.6,0.7,133,0.6530969201399474,0.5639097744360902
+core_50m,forward_spatial,ALL,M1,7,0.7,0.8,173,0.748394439600457,0.7572254335260116
+core_50m,forward_spatial,ALL,M1,8,0.8,0.9,109,0.8402856887624793,0.8165137614678899
+core_50m,forward_spatial,ALL,M1,9,0.9,1.0,37,0.9308378351709105,0.972972972972973
+core_50m,forward_spatial,New York City,M1,0,0.0,0.1,15,0.07741815278985474,0.0
+core_50m,forward_spatial,New York City,M1,1,0.1,0.2,21,0.17220927058511365,0.19047619047619047
+core_50m,forward_spatial,New York City,M1,2,0.2,0.3,27,0.2622356875566174,0.1111111111111111
+core_50m,forward_spatial,New York City,M1,3,0.3,0.4,40,0.3599137978194253,0.3
+core_50m,forward_spatial,New York City,M1,4,0.4,0.5,75,0.44848278651459555,0.3466666666666667
+core_50m,forward_spatial,New York City,M1,5,0.5,0.6,77,0.5481899053824062,0.5064935064935064
+core_50m,forward_spatial,New York City,M1,6,0.6,0.7,87,0.6548295626368386,0.5632183908045977
+core_50m,forward_spatial,New York City,M1,7,0.7,0.8,141,0.7477857398480899,0.7304964539007093
+core_50m,forward_spatial,New York City,M1,8,0.8,0.9,96,0.8404859164835453,0.8125
+core_50m,forward_spatial,New York City,M1,9,0.9,1.0,32,0.9323991793069623,0.96875
+core_50m,forward_spatial,Chicago,M1,0,0.0,0.1,7,0.08777289623215483,0.0
+core_50m,forward_spatial,Chicago,M1,1,0.1,0.2,7,0.12222604971446578,0.0
+core_50m,forward_spatial,Chicago,M1,2,0.2,0.3,27,0.2607269471116008,0.1111111111111111
+core_50m,forward_spatial,Chicago,M1,3,0.3,0.4,35,0.35171743568049463,0.2571428571428571
+core_50m,forward_spatial,Chicago,M1,4,0.4,0.5,37,0.4624799479911579,0.3783783783783784
+core_50m,forward_spatial,Chicago,M1,5,0.5,0.6,26,0.5542721937415499,0.38461538461538464
+core_50m,forward_spatial,Chicago,M1,6,0.6,0.7,37,0.653586812671814,0.5405405405405406
+core_50m,forward_spatial,Chicago,M1,7,0.7,0.8,24,0.7507566488099409,0.8333333333333334
+core_50m,forward_spatial,Chicago,M1,8,0.8,0.9,8,0.8431598132436031,0.875
+core_50m,forward_spatial,Chicago,M1,9,0.9,1.0,4,0.925231472314983,1.0
+core_50m,forward_spatial,Los Angeles,M1,0,0.0,0.1,4,0.08989316086885098,0.0
+core_50m,forward_spatial,Los Angeles,M1,1,0.1,0.2,17,0.14569689876138833,0.11764705882352941
+core_50m,forward_spatial,Los Angeles,M1,2,0.2,0.3,13,0.24338262126578325,0.15384615384615385
+core_50m,forward_spatial,Los Angeles,M1,3,0.3,0.4,15,0.3678706506248336,0.0
+core_50m,forward_spatial,Los Angeles,M1,4,0.4,0.5,30,0.45114665821788086,0.3333333333333333
+core_50m,forward_spatial,Los Angeles,M1,5,0.5,0.6,10,0.5407582646692417,0.4
+core_50m,forward_spatial,Los Angeles,M1,6,0.6,0.7,9,0.6343340400389902,0.6666666666666666
+core_50m,forward_spatial,Los Angeles,M1,7,0.7,0.8,8,0.7520361451074756,1.0
+core_50m,forward_spatial,Los Angeles,M1,8,0.8,0.9,5,0.831842717348213,0.8
+core_50m,forward_spatial,Los Angeles,M1,9,0.9,1.0,1,0.903300274240953,1.0
+core_50m,forward_spatial,ALL,training_prevalence,0,0.0,0.1,0,,
+core_50m,forward_spatial,ALL,training_prevalence,1,0.1,0.2,0,,
+core_50m,forward_spatial,ALL,training_prevalence,2,0.2,0.3,0,,
+core_50m,forward_spatial,ALL,training_prevalence,3,0.3,0.4,0,,
+core_50m,forward_spatial,ALL,training_prevalence,4,0.4,0.5,204,0.48882681564245817,0.553921568627451
+core_50m,forward_spatial,ALL,training_prevalence,5,0.5,0.6,731,0.5575428705871373,0.48700410396716826
+core_50m,forward_spatial,ALL,training_prevalence,6,0.6,0.7,0,,
+core_50m,forward_spatial,ALL,training_prevalence,7,0.7,0.8,0,,
+core_50m,forward_spatial,ALL,training_prevalence,8,0.8,0.9,0,,
+core_50m,forward_spatial,ALL,training_prevalence,9,0.9,1.0,0,,
+core_50m,forward_spatial,New York City,training_prevalence,0,0.0,0.1,0,,
+core_50m,forward_spatial,New York City,training_prevalence,1,0.1,0.2,0,,
+core_50m,forward_spatial,New York City,training_prevalence,2,0.2,0.3,0,,
+core_50m,forward_spatial,New York City,training_prevalence,3,0.3,0.4,0,,
+core_50m,forward_spatial,New York City,training_prevalence,4,0.4,0.5,160,0.4888268156424581,0.55
+core_50m,forward_spatial,New York City,training_prevalence,5,0.5,0.6,451,0.5579750316731443,0.5698447893569845
+core_50m,forward_spatial,New York City,training_prevalence,6,0.6,0.7,0,,
+core_50m,forward_spatial,New York City,training_prevalence,7,0.7,0.8,0,,
+core_50m,forward_spatial,New York City,training_prevalence,8,0.8,0.9,0,,
+core_50m,forward_spatial,New York City,training_prevalence,9,0.9,1.0,0,,
+core_50m,forward_spatial,Chicago,training_prevalence,0,0.0,0.1,0,,
+core_50m,forward_spatial,Chicago,training_prevalence,1,0.1,0.2,0,,
+core_50m,forward_spatial,Chicago,training_prevalence,2,0.2,0.3,0,,
+core_50m,forward_spatial,Chicago,training_prevalence,3,0.3,0.4,0,,
+core_50m,forward_spatial,Chicago,training_prevalence,4,0.4,0.5,31,0.4888268156424581,0.5483870967741935
+core_50m,forward_spatial,Chicago,training_prevalence,5,0.5,0.6,181,0.5577437493768003,0.3867403314917127
+core_50m,forward_spatial,Chicago,training_prevalence,6,0.6,0.7,0,,
+core_50m,forward_spatial,Chicago,training_prevalence,7,0.7,0.8,0,,
+core_50m,forward_spatial,Chicago,training_prevalence,8,0.8,0.9,0,,
+core_50m,forward_spatial,Chicago,training_prevalence,9,0.9,1.0,0,,
+core_50m,forward_spatial,Los Angeles,training_prevalence,0,0.0,0.1,0,,
+core_50m,forward_spatial,Los Angeles,training_prevalence,1,0.1,0.2,0,,
+core_50m,forward_spatial,Los Angeles,training_prevalence,2,0.2,0.3,0,,
+core_50m,forward_spatial,Los Angeles,training_prevalence,3,0.3,0.4,0,,
+core_50m,forward_spatial,Los Angeles,training_prevalence,4,0.4,0.5,13,0.48882681564245806,0.6153846153846154
+core_50m,forward_spatial,Los Angeles,training_prevalence,5,0.5,0.6,99,0.5552068735091756,0.29292929292929293
+core_50m,forward_spatial,Los Angeles,training_prevalence,6,0.6,0.7,0,,
+core_50m,forward_spatial,Los Angeles,training_prevalence,7,0.7,0.8,0,,
+core_50m,forward_spatial,Los Angeles,training_prevalence,8,0.8,0.9,0,,
+core_50m,forward_spatial,Los Angeles,training_prevalence,9,0.9,1.0,0,,
+explicit_atm_50m,forward_spatial,ALL,M0,0,0.0,0.1,16,0.07035337604447905,0.0
+explicit_atm_50m,forward_spatial,ALL,M0,1,0.1,0.2,47,0.15690010821369613,0.0425531914893617
+explicit_atm_50m,forward_spatial,ALL,M0,2,0.2,0.3,55,0.24838072044240966,0.14545454545454545
+explicit_atm_50m,forward_spatial,ALL,M0,3,0.3,0.4,47,0.3395235109472601,0.2765957446808511
+explicit_atm_50m,forward_spatial,ALL,M0,4,0.4,0.5,30,0.45249453918960847,0.4
+explicit_atm_50m,forward_spatial,ALL,M0,5,0.5,0.6,31,0.5438098100067839,0.5161290322580645
+explicit_atm_50m,forward_spatial,ALL,M0,6,0.6,0.7,33,0.6473028975887752,0.5454545454545454
+explicit_atm_50m,forward_spatial,ALL,M0,7,0.7,0.8,31,0.7457560474423957,0.6451612903225806
+explicit_atm_50m,forward_spatial,ALL,M0,8,0.8,0.9,38,0.8545875836837803,0.7631578947368421
+explicit_atm_50m,forward_spatial,ALL,M0,9,0.9,1.0,48,0.9427322537004269,0.9166666666666666
+explicit_atm_50m,forward_spatial,New York City,M0,0,0.0,0.1,15,0.06855279197287305,0.0
+explicit_atm_50m,forward_spatial,New York City,M0,1,0.1,0.2,20,0.1469657193011392,0.0
+explicit_atm_50m,forward_spatial,New York City,M0,2,0.2,0.3,22,0.25494969875883594,0.22727272727272727
+explicit_atm_50m,forward_spatial,New York City,M0,3,0.3,0.4,25,0.34033424340115515,0.44
+explicit_atm_50m,forward_spatial,New York City,M0,4,0.4,0.5,19,0.45317308364146,0.47368421052631576
+explicit_atm_50m,forward_spatial,New York City,M0,5,0.5,0.6,16,0.548806067145446,0.625
+explicit_atm_50m,forward_spatial,New York City,M0,6,0.6,0.7,20,0.648105312882052,0.5
+explicit_atm_50m,forward_spatial,New York City,M0,7,0.7,0.8,23,0.7385294075401908,0.6521739130434783
+explicit_atm_50m,forward_spatial,New York City,M0,8,0.8,0.9,26,0.854154845721986,0.7692307692307693
+explicit_atm_50m,forward_spatial,New York City,M0,9,0.9,1.0,29,0.9373743560526812,0.8620689655172413
+explicit_atm_50m,forward_spatial,Chicago,M0,0,0.0,0.1,0,,
+explicit_atm_50m,forward_spatial,Chicago,M0,1,0.1,0.2,16,0.17084818109171215,0.0625
+explicit_atm_50m,forward_spatial,Chicago,M0,2,0.2,0.3,13,0.24706036917326707,0.23076923076923078
+explicit_atm_50m,forward_spatial,Chicago,M0,3,0.3,0.4,8,0.3409222081231141,0.25
+explicit_atm_50m,forward_spatial,Chicago,M0,4,0.4,0.5,4,0.4269460987314772,0.0
+explicit_atm_50m,forward_spatial,Chicago,M0,5,0.5,0.6,9,0.5461520740606823,0.4444444444444444
+explicit_atm_50m,forward_spatial,Chicago,M0,6,0.6,0.7,11,0.6495821950637445,0.5454545454545454
+explicit_atm_50m,forward_spatial,Chicago,M0,7,0.7,0.8,4,0.7807097919134987,0.75
+explicit_atm_50m,forward_spatial,Chicago,M0,8,0.8,0.9,7,0.8551009860524544,0.8571428571428571
+explicit_atm_50m,forward_spatial,Chicago,M0,9,0.9,1.0,11,0.945691112742081,1.0
+explicit_atm_50m,forward_spatial,Los Angeles,M0,0,0.0,0.1,1,0.0973621371185691,0.0
+explicit_atm_50m,forward_spatial,Los Angeles,M0,1,0.1,0.2,11,0.1546745275048672,0.09090909090909091
+explicit_atm_50m,forward_spatial,Los Angeles,M0,2,0.2,0.3,20,0.24201307261928345,0.0
+explicit_atm_50m,forward_spatial,Los Angeles,M0,3,0.3,0.4,14,0.3372765188933881,0.0
+explicit_atm_50m,forward_spatial,Los Angeles,M0,4,0.4,0.5,7,0.4652518845106579,0.42857142857142855
+explicit_atm_50m,forward_spatial,Los Angeles,M0,5,0.5,0.6,6,0.5269730615561703,0.3333333333333333
+explicit_atm_50m,forward_spatial,Los Angeles,M0,6,0.6,0.7,2,0.6267426085436762,1.0
+explicit_atm_50m,forward_spatial,Los Angeles,M0,7,0.7,0.8,4,0.7523554824089713,0.5
+explicit_atm_50m,forward_spatial,Los Angeles,M0,8,0.8,0.9,5,0.8561190577689661,0.6
+explicit_atm_50m,forward_spatial,Los Angeles,M0,9,0.9,1.0,8,0.958086201491231,1.0
+explicit_atm_50m,forward_spatial,ALL,M1,0,0.0,0.1,28,0.05468619991611708,0.0
+explicit_atm_50m,forward_spatial,ALL,M1,1,0.1,0.2,17,0.15698975806588433,0.0
+explicit_atm_50m,forward_spatial,ALL,M1,2,0.2,0.3,39,0.2458614374465813,0.05128205128205128
+explicit_atm_50m,forward_spatial,ALL,M1,3,0.3,0.4,35,0.35532910305518794,0.2571428571428571
+explicit_atm_50m,forward_spatial,ALL,M1,4,0.4,0.5,55,0.4525591439690312,0.34545454545454546
+explicit_atm_50m,forward_spatial,ALL,M1,5,0.5,0.6,58,0.5562717918786969,0.5172413793103449
+explicit_atm_50m,forward_spatial,ALL,M1,6,0.6,0.7,56,0.6536834832927306,0.6071428571428571
+explicit_atm_50m,forward_spatial,ALL,M1,7,0.7,0.8,45,0.7406158925420837,0.6888888888888889
+explicit_atm_50m,forward_spatial,ALL,M1,8,0.8,0.9,26,0.84553304416034,0.8076923076923077
+explicit_atm_50m,forward_spatial,ALL,M1,9,0.9,1.0,17,0.9389061445445196,0.9411764705882353
+explicit_atm_50m,forward_spatial,New York City,M1,0,0.0,0.1,12,0.08347607520302573,0.0
+explicit_atm_50m,forward_spatial,New York City,M1,1,0.1,0.2,6,0.16966842547824998,0.0
+explicit_atm_50m,forward_spatial,New York City,M1,2,0.2,0.3,17,0.2534408456224288,0.058823529411764705
+explicit_atm_50m,forward_spatial,New York City,M1,3,0.3,0.4,18,0.3533644687535059,0.2777777777777778
+explicit_atm_50m,forward_spatial,New York City,M1,4,0.4,0.5,23,0.458068297347995,0.43478260869565216
+explicit_atm_50m,forward_spatial,New York City,M1,5,0.5,0.6,32,0.5589827917411271,0.53125
+explicit_atm_50m,forward_spatial,New York City,M1,6,0.6,0.7,40,0.654428844513184,0.55
+explicit_atm_50m,forward_spatial,New York City,M1,7,0.7,0.8,36,0.7408305061536112,0.6666666666666666
+explicit_atm_50m,forward_spatial,New York City,M1,8,0.8,0.9,16,0.8444638753338751,0.75
+explicit_atm_50m,forward_spatial,New York City,M1,9,0.9,1.0,15,0.9391450342768561,0.9333333333333333
+explicit_atm_50m,forward_spatial,Chicago,M1,0,0.0,0.1,13,0.022788696506161735,0.0
+explicit_atm_50m,forward_spatial,Chicago,M1,1,0.1,0.2,1,0.1551703915687773,0.0
+explicit_atm_50m,forward_spatial,Chicago,M1,2,0.2,0.3,3,0.2823001284043443,0.0
+explicit_atm_50m,forward_spatial,Chicago,M1,3,0.3,0.4,14,0.3521819790231306,0.21428571428571427
+explicit_atm_50m,forward_spatial,Chicago,M1,4,0.4,0.5,16,0.450474163380137,0.3125
+explicit_atm_50m,forward_spatial,Chicago,M1,5,0.5,0.6,14,0.5521885563513246,0.7142857142857143
+explicit_atm_50m,forward_spatial,Chicago,M1,6,0.6,0.7,11,0.6523824952968954,0.8181818181818182
+explicit_atm_50m,forward_spatial,Chicago,M1,7,0.7,0.8,4,0.7384285678048573,0.75
+explicit_atm_50m,forward_spatial,Chicago,M1,8,0.8,0.9,5,0.8427267446402673,0.8
+explicit_atm_50m,forward_spatial,Chicago,M1,9,0.9,1.0,2,0.9371144715519953,1.0
+explicit_atm_50m,forward_spatial,Los Angeles,M1,0,0.0,0.1,3,0.07774921354495556,0.0
+explicit_atm_50m,forward_spatial,Los Angeles,M1,1,0.1,0.2,10,0.14956449426817567,0.0
+explicit_atm_50m,forward_spatial,Los Angeles,M1,2,0.2,0.3,19,0.23332638419064988,0.05263157894736842
+explicit_atm_50m,forward_spatial,Los Angeles,M1,3,0.3,0.4,3,0.3818034876815483,0.3333333333333333
+explicit_atm_50m,forward_spatial,Los Angeles,M1,4,0.4,0.5,16,0.4467247165756646,0.25
+explicit_atm_50m,forward_spatial,Los Angeles,M1,5,0.5,0.6,12,0.5538062336941513,0.25
+explicit_atm_50m,forward_spatial,Los Angeles,M1,6,0.6,0.7,5,0.6505827671199413,0.6
+explicit_atm_50m,forward_spatial,Los Angeles,M1,7,0.7,0.8,5,0.7408205343288656,0.8
+explicit_atm_50m,forward_spatial,Los Angeles,M1,8,0.8,0.9,5,0.8517606839251005,1.0
+explicit_atm_50m,forward_spatial,Los Angeles,M1,9,0.9,1.0,0,,
+explicit_atm_50m,forward_spatial,ALL,training_prevalence,0,0.0,0.1,0,,
+explicit_atm_50m,forward_spatial,ALL,training_prevalence,1,0.1,0.2,0,,
+explicit_atm_50m,forward_spatial,ALL,training_prevalence,2,0.2,0.3,0,,
+explicit_atm_50m,forward_spatial,ALL,training_prevalence,3,0.3,0.4,0,,
+explicit_atm_50m,forward_spatial,ALL,training_prevalence,4,0.4,0.5,236,0.4646208175532762,0.4872881355932203
+explicit_atm_50m,forward_spatial,ALL,training_prevalence,5,0.5,0.6,140,0.5544944159134663,0.3357142857142857
+explicit_atm_50m,forward_spatial,ALL,training_prevalence,6,0.6,0.7,0,,
+explicit_atm_50m,forward_spatial,ALL,training_prevalence,7,0.7,0.8,0,,
+explicit_atm_50m,forward_spatial,ALL,training_prevalence,8,0.8,0.9,0,,
+explicit_atm_50m,forward_spatial,ALL,training_prevalence,9,0.9,1.0,0,,
+explicit_atm_50m,forward_spatial,New York City,training_prevalence,0,0.0,0.1,0,,
+explicit_atm_50m,forward_spatial,New York City,training_prevalence,1,0.1,0.2,0,,
+explicit_atm_50m,forward_spatial,New York City,training_prevalence,2,0.2,0.3,0,,
+explicit_atm_50m,forward_spatial,New York City,training_prevalence,3,0.3,0.4,0,,
+explicit_atm_50m,forward_spatial,New York City,training_prevalence,4,0.4,0.5,138,0.4606057891633366,0.5144927536231884
+explicit_atm_50m,forward_spatial,New York City,training_prevalence,5,0.5,0.6,77,0.5541588914518815,0.44155844155844154
+explicit_atm_50m,forward_spatial,New York City,training_prevalence,6,0.6,0.7,0,,
+explicit_atm_50m,forward_spatial,New York City,training_prevalence,7,0.7,0.8,0,,
+explicit_atm_50m,forward_spatial,New York City,training_prevalence,8,0.8,0.9,0,,
+explicit_atm_50m,forward_spatial,New York City,training_prevalence,9,0.9,1.0,0,,
+explicit_atm_50m,forward_spatial,Chicago,training_prevalence,0,0.0,0.1,0,,
+explicit_atm_50m,forward_spatial,Chicago,training_prevalence,1,0.1,0.2,0,,
+explicit_atm_50m,forward_spatial,Chicago,training_prevalence,2,0.2,0.3,0,,
+explicit_atm_50m,forward_spatial,Chicago,training_prevalence,3,0.3,0.4,0,,
+explicit_atm_50m,forward_spatial,Chicago,training_prevalence,4,0.4,0.5,50,0.4679714019017003,0.54
+explicit_atm_50m,forward_spatial,Chicago,training_prevalence,5,0.5,0.6,33,0.5556627487373275,0.2727272727272727
+explicit_atm_50m,forward_spatial,Chicago,training_prevalence,6,0.6,0.7,0,,
+explicit_atm_50m,forward_spatial,Chicago,training_prevalence,7,0.7,0.8,0,,
+explicit_atm_50m,forward_spatial,Chicago,training_prevalence,8,0.8,0.9,0,,
+explicit_atm_50m,forward_spatial,Chicago,training_prevalence,9,0.9,1.0,0,,
+explicit_atm_50m,forward_spatial,Los Angeles,training_prevalence,0,0.0,0.1,0,,
+explicit_atm_50m,forward_spatial,Los Angeles,training_prevalence,1,0.1,0.2,0,,
+explicit_atm_50m,forward_spatial,Los Angeles,training_prevalence,2,0.2,0.3,0,,
+explicit_atm_50m,forward_spatial,Los Angeles,training_prevalence,3,0.3,0.4,0,,
+explicit_atm_50m,forward_spatial,Los Angeles,training_prevalence,4,0.4,0.5,48,0.47267383214474384,0.3541666666666667
+explicit_atm_50m,forward_spatial,Los Angeles,training_prevalence,5,0.5,0.6,30,0.5540704292586202,0.13333333333333333
+explicit_atm_50m,forward_spatial,Los Angeles,training_prevalence,6,0.6,0.7,0,,
+explicit_atm_50m,forward_spatial,Los Angeles,training_prevalence,7,0.7,0.8,0,,
+explicit_atm_50m,forward_spatial,Los Angeles,training_prevalence,8,0.8,0.9,0,,
+explicit_atm_50m,forward_spatial,Los Angeles,training_prevalence,9,0.9,1.0,0,,
+master_50m,forward_spatial,ALL,M0,0,0.0,0.1,0,,
+master_50m,forward_spatial,ALL,M0,1,0.1,0.2,47,0.16155400529653008,0.0
+master_50m,forward_spatial,ALL,M0,2,0.2,0.3,142,0.26076100053606416,0.11267605633802817
+master_50m,forward_spatial,ALL,M0,3,0.3,0.4,267,0.35063336672753953,0.2546816479400749
+master_50m,forward_spatial,ALL,M0,4,0.4,0.5,269,0.448213054505166,0.4275092936802974
+master_50m,forward_spatial,ALL,M0,5,0.5,0.6,233,0.5445814295960745,0.5278969957081545
+master_50m,forward_spatial,ALL,M0,6,0.6,0.7,201,0.6495546952212887,0.6567164179104478
+master_50m,forward_spatial,ALL,M0,7,0.7,0.8,180,0.7504416394173555,0.8055555555555556
+master_50m,forward_spatial,ALL,M0,8,0.8,0.9,69,0.8392494728099155,0.9420289855072463
+master_50m,forward_spatial,ALL,M0,9,0.9,1.0,4,0.919655887859789,1.0
+master_50m,forward_spatial,New York City,M0,0,0.0,0.1,0,,
+master_50m,forward_spatial,New York City,M0,1,0.1,0.2,33,0.16304568710753614,0.0
+master_50m,forward_spatial,New York City,M0,2,0.2,0.3,36,0.26469769131482956,0.1111111111111111
+master_50m,forward_spatial,New York City,M0,3,0.3,0.4,114,0.3499530304027821,0.3684210526315789
+master_50m,forward_spatial,New York City,M0,4,0.4,0.5,129,0.4474556773556014,0.46511627906976744
+master_50m,forward_spatial,New York City,M0,5,0.5,0.6,147,0.5422568861106899,0.5374149659863946
+master_50m,forward_spatial,New York City,M0,6,0.6,0.7,120,0.6489125204222351,0.75
+master_50m,forward_spatial,New York City,M0,7,0.7,0.8,117,0.7500456292490555,0.8034188034188035
+master_50m,forward_spatial,New York City,M0,8,0.8,0.9,51,0.8414138984995965,0.9411764705882353
+master_50m,forward_spatial,New York City,M0,9,0.9,1.0,3,0.9213430302126033,1.0
+master_50m,forward_spatial,Chicago,M0,0,0.0,0.1,0,,
+master_50m,forward_spatial,Chicago,M0,1,0.1,0.2,1,0.1989074852556325,0.0
+master_50m,forward_spatial,Chicago,M0,2,0.2,0.3,76,0.25752238873642896,0.10526315789473684
+master_50m,forward_spatial,Chicago,M0,3,0.3,0.4,112,0.3518124915318096,0.19642857142857142
+master_50m,forward_spatial,Chicago,M0,4,0.4,0.5,101,0.44973768957255816,0.42574257425742573
+master_50m,forward_spatial,Chicago,M0,5,0.5,0.6,67,0.5520045372872558,0.5223880597014925
+master_50m,forward_spatial,Chicago,M0,6,0.6,0.7,66,0.647978158038731,0.4696969696969697
+master_50m,forward_spatial,Chicago,M0,7,0.7,0.8,51,0.7490732114783446,0.7647058823529411
+master_50m,forward_spatial,Chicago,M0,8,0.8,0.9,7,0.8228656261017432,1.0
+master_50m,forward_spatial,Chicago,M0,9,0.9,1.0,1,0.9145944608013462,1.0
+master_50m,forward_spatial,Los Angeles,M0,0,0.0,0.1,0,,
+master_50m,forward_spatial,Los Angeles,M0,1,0.1,0.2,13,0.15489408377942976,0.0
+master_50m,forward_spatial,Los Angeles,M0,2,0.2,0.3,30,0.2642414548272884,0.13333333333333333
+master_50m,forward_spatial,Los Angeles,M0,3,0.3,0.4,41,0.3493040097261763,0.0975609756097561
+master_50m,forward_spatial,Los Angeles,M0,4,0.4,0.5,39,0.44676981118432596,0.3076923076923077
+master_50m,forward_spatial,Los Angeles,M0,5,0.5,0.6,19,0.536389833650935,0.47368421052631576
+master_50m,forward_spatial,Los Angeles,M0,6,0.6,0.7,15,0.6616288572169703,0.7333333333333333
+master_50m,forward_spatial,Los Angeles,M0,7,0.7,0.8,12,0.7601185572990787,1.0
+master_50m,forward_spatial,Los Angeles,M0,8,0.8,0.9,11,0.8396404925175048,0.9090909090909091
+master_50m,forward_spatial,Los Angeles,M0,9,0.9,1.0,0,,
+master_50m,forward_spatial,ALL,M1,0,0.0,0.1,45,0.07073103061013179,0.044444444444444446
+master_50m,forward_spatial,ALL,M1,1,0.1,0.2,77,0.15722598779136773,0.05194805194805195
+master_50m,forward_spatial,ALL,M1,2,0.2,0.3,154,0.25482617460847606,0.16883116883116883
+master_50m,forward_spatial,ALL,M1,3,0.3,0.4,189,0.35010686908952665,0.20634920634920634
+master_50m,forward_spatial,ALL,M1,4,0.4,0.5,212,0.44902795000567064,0.49056603773584906
+master_50m,forward_spatial,ALL,M1,5,0.5,0.6,196,0.5519617784240438,0.5153061224489796
+master_50m,forward_spatial,ALL,M1,6,0.6,0.7,190,0.645351573938362,0.5842105263157895
+master_50m,forward_spatial,ALL,M1,7,0.7,0.8,195,0.7522164410591123,0.7743589743589744
+master_50m,forward_spatial,ALL,M1,8,0.8,0.9,129,0.8426055485266984,0.813953488372093
+master_50m,forward_spatial,ALL,M1,9,0.9,1.0,25,0.9380374362120695,1.0
+master_50m,forward_spatial,New York City,M1,0,0.0,0.1,15,0.06057162524361971,0.0
+master_50m,forward_spatial,New York City,M1,1,0.1,0.2,23,0.1703925244326781,0.0
+master_50m,forward_spatial,New York City,M1,2,0.2,0.3,29,0.2618816166103394,0.06896551724137931
+master_50m,forward_spatial,New York City,M1,3,0.3,0.4,69,0.3593869440818995,0.2898550724637681
+master_50m,forward_spatial,New York City,M1,4,0.4,0.5,113,0.4545902374573757,0.46017699115044247
+master_50m,forward_spatial,New York City,M1,5,0.5,0.6,104,0.5577397225054587,0.5288461538461539
+master_50m,forward_spatial,New York City,M1,6,0.6,0.7,128,0.6465641727109444,0.6015625
+master_50m,forward_spatial,New York City,M1,7,0.7,0.8,139,0.7524049846227747,0.7553956834532374
+master_50m,forward_spatial,New York City,M1,8,0.8,0.9,107,0.8437586112535247,0.8037383177570093
+master_50m,forward_spatial,New York City,M1,9,0.9,1.0,23,0.9379425392097214,1.0
+master_50m,forward_spatial,Chicago,M1,0,0.0,0.1,16,0.07133378264096196,0.0
+master_50m,forward_spatial,Chicago,M1,1,0.1,0.2,21,0.14857880969474666,0.14285714285714285
+master_50m,forward_spatial,Chicago,M1,2,0.2,0.3,97,0.2564628990811713,0.20618556701030927
+master_50m,forward_spatial,Chicago,M1,3,0.3,0.4,86,0.3436030902885006,0.1744186046511628
+master_50m,forward_spatial,Chicago,M1,4,0.4,0.5,73,0.4443299836564469,0.5205479452054794
+master_50m,forward_spatial,Chicago,M1,5,0.5,0.6,77,0.5463109865387494,0.44155844155844154
+master_50m,forward_spatial,Chicago,M1,6,0.6,0.7,51,0.6447146602586269,0.5294117647058824
+master_50m,forward_spatial,Chicago,M1,7,0.7,0.8,44,0.7521195422041331,0.7727272727272727
+master_50m,forward_spatial,Chicago,M1,8,0.8,0.9,16,0.8307933136093879,0.875
+master_50m,forward_spatial,Chicago,M1,9,0.9,1.0,1,0.9573235953356717,1.0
+master_50m,forward_spatial,Los Angeles,M1,0,0.0,0.1,14,0.08092724832473167,0.14285714285714285
+master_50m,forward_spatial,Los Angeles,M1,1,0.1,0.2,33,0.15355206043618305,0.030303030303030304
+master_50m,forward_spatial,Los Angeles,M1,2,0.2,0.3,28,0.2418486713261376,0.14285714285714285
+master_50m,forward_spatial,Los Angeles,M1,3,0.3,0.4,34,0.3477245103370124,0.11764705882352941
+master_50m,forward_spatial,Los Angeles,M1,4,0.4,0.5,26,0.4380438369845419,0.5384615384615384
+master_50m,forward_spatial,Los Angeles,M1,5,0.5,0.6,15,0.5409087644707438,0.8
+master_50m,forward_spatial,Los Angeles,M1,6,0.6,0.7,11,0.6341942970998106,0.6363636363636364
+master_50m,forward_spatial,Los Angeles,M1,7,0.7,0.8,12,0.7503877739149459,1.0
+master_50m,forward_spatial,Los Angeles,M1,8,0.8,0.9,6,0.8535418896777908,0.8333333333333334
+master_50m,forward_spatial,Los Angeles,M1,9,0.9,1.0,1,0.9209339081424732,1.0
+master_50m,forward_spatial,ALL,training_prevalence,0,0.0,0.1,0,,
+master_50m,forward_spatial,ALL,training_prevalence,1,0.1,0.2,0,,
+master_50m,forward_spatial,ALL,training_prevalence,2,0.2,0.3,0,,
+master_50m,forward_spatial,ALL,training_prevalence,3,0.3,0.4,0,,
+master_50m,forward_spatial,ALL,training_prevalence,4,0.4,0.5,617,0.4556288113755349,0.5105348460291734
+master_50m,forward_spatial,ALL,training_prevalence,5,0.5,0.6,795,0.5250999095489942,0.4440251572327044
+master_50m,forward_spatial,ALL,training_prevalence,6,0.6,0.7,0,,
+master_50m,forward_spatial,ALL,training_prevalence,7,0.7,0.8,0,,
+master_50m,forward_spatial,ALL,training_prevalence,8,0.8,0.9,0,,
+master_50m,forward_spatial,ALL,training_prevalence,9,0.9,1.0,0,,
+master_50m,forward_spatial,New York City,training_prevalence,0,0.0,0.1,0,,
+master_50m,forward_spatial,New York City,training_prevalence,1,0.1,0.2,0,,
+master_50m,forward_spatial,New York City,training_prevalence,2,0.2,0.3,0,,
+master_50m,forward_spatial,New York City,training_prevalence,3,0.3,0.4,0,,
+master_50m,forward_spatial,New York City,training_prevalence,4,0.4,0.5,355,0.4521233365420339,0.5464788732394367
+master_50m,forward_spatial,New York City,training_prevalence,5,0.5,0.6,395,0.5250012921670827,0.5721518987341773
+master_50m,forward_spatial,New York City,training_prevalence,6,0.6,0.7,0,,
+master_50m,forward_spatial,New York City,training_prevalence,7,0.7,0.8,0,,
+master_50m,forward_spatial,New York City,training_prevalence,8,0.8,0.9,0,,
+master_50m,forward_spatial,New York City,training_prevalence,9,0.9,1.0,0,,
+master_50m,forward_spatial,Chicago,training_prevalence,0,0.0,0.1,0,,
+master_50m,forward_spatial,Chicago,training_prevalence,1,0.1,0.2,0,,
+master_50m,forward_spatial,Chicago,training_prevalence,2,0.2,0.3,0,,
+master_50m,forward_spatial,Chicago,training_prevalence,3,0.3,0.4,0,,
+master_50m,forward_spatial,Chicago,training_prevalence,4,0.4,0.5,193,0.4574187152868379,0.42487046632124353
+master_50m,forward_spatial,Chicago,training_prevalence,5,0.5,0.6,289,0.5256731139183144,0.35986159169550175
+master_50m,forward_spatial,Chicago,training_prevalence,6,0.6,0.7,0,,
+master_50m,forward_spatial,Chicago,training_prevalence,7,0.7,0.8,0,,
+master_50m,forward_spatial,Chicago,training_prevalence,8,0.8,0.9,0,,
+master_50m,forward_spatial,Chicago,training_prevalence,9,0.9,1.0,0,,
+master_50m,forward_spatial,Los Angeles,training_prevalence,0,0.0,0.1,0,,
+master_50m,forward_spatial,Los Angeles,training_prevalence,1,0.1,0.2,0,,
+master_50m,forward_spatial,Los Angeles,training_prevalence,2,0.2,0.3,0,,
+master_50m,forward_spatial,Los Angeles,training_prevalence,3,0.3,0.4,0,,
+master_50m,forward_spatial,Los Angeles,training_prevalence,4,0.4,0.5,69,0.46865768254961243,0.5652173913043478
+master_50m,forward_spatial,Los Angeles,training_prevalence,5,0.5,0.6,111,0.523958448315855,0.2072072072072072
+master_50m,forward_spatial,Los Angeles,training_prevalence,6,0.6,0.7,0,,
+master_50m,forward_spatial,Los Angeles,training_prevalence,7,0.7,0.8,0,,
+master_50m,forward_spatial,Los Angeles,training_prevalence,8,0.8,0.9,0,,
+master_50m,forward_spatial,Los Angeles,training_prevalence,9,0.9,1.0,0,,
+no_source_conflicts_50m,forward_spatial,ALL,M0,0,0.0,0.1,0,,
+no_source_conflicts_50m,forward_spatial,ALL,M0,1,0.1,0.2,23,0.14408549698885348,0.043478260869565216
+no_source_conflicts_50m,forward_spatial,ALL,M0,2,0.2,0.3,72,0.2561541507607814,0.1388888888888889
+no_source_conflicts_50m,forward_spatial,ALL,M0,3,0.3,0.4,109,0.354731831084412,0.23853211009174313
+no_source_conflicts_50m,forward_spatial,ALL,M0,4,0.4,0.5,157,0.4491597484268474,0.2802547770700637
+no_source_conflicts_50m,forward_spatial,ALL,M0,5,0.5,0.6,172,0.5483207372744249,0.5174418604651163
+no_source_conflicts_50m,forward_spatial,ALL,M0,6,0.6,0.7,172,0.6498084124188386,0.5930232558139535
+no_source_conflicts_50m,forward_spatial,ALL,M0,7,0.7,0.8,138,0.7526486188315303,0.7971014492753623
+no_source_conflicts_50m,forward_spatial,ALL,M0,8,0.8,0.9,75,0.8420409145083536,0.9333333333333333
+no_source_conflicts_50m,forward_spatial,ALL,M0,9,0.9,1.0,17,0.9289868519715487,1.0
+no_source_conflicts_50m,forward_spatial,New York City,M0,0,0.0,0.1,0,,
+no_source_conflicts_50m,forward_spatial,New York City,M0,1,0.1,0.2,15,0.1369895145663678,0.06666666666666667
+no_source_conflicts_50m,forward_spatial,New York City,M0,2,0.2,0.3,51,0.2527125242950111,0.13725490196078433
+no_source_conflicts_50m,forward_spatial,New York City,M0,3,0.3,0.4,53,0.3534204475330095,0.37735849056603776
+no_source_conflicts_50m,forward_spatial,New York City,M0,4,0.4,0.5,93,0.45003701983751376,0.34408602150537637
+no_source_conflicts_50m,forward_spatial,New York City,M0,5,0.5,0.6,110,0.5519651287410429,0.5818181818181818
+no_source_conflicts_50m,forward_spatial,New York City,M0,6,0.6,0.7,116,0.6517177873228202,0.6551724137931034
+no_source_conflicts_50m,forward_spatial,New York City,M0,7,0.7,0.8,101,0.7524854368302899,0.7623762376237624
+no_source_conflicts_50m,forward_spatial,New York City,M0,8,0.8,0.9,58,0.8430827546348101,0.9310344827586207
+no_source_conflicts_50m,forward_spatial,New York City,M0,9,0.9,1.0,14,0.9303797134331081,1.0
+no_source_conflicts_50m,forward_spatial,Chicago,M0,0,0.0,0.1,0,,
+no_source_conflicts_50m,forward_spatial,Chicago,M0,1,0.1,0.2,2,0.16959872802580553,0.0
+no_source_conflicts_50m,forward_spatial,Chicago,M0,2,0.2,0.3,10,0.2699768628167556,0.1
+no_source_conflicts_50m,forward_spatial,Chicago,M0,3,0.3,0.4,31,0.35537527520998435,0.1935483870967742
+no_source_conflicts_50m,forward_spatial,Chicago,M0,4,0.4,0.5,43,0.44402978456497727,0.16279069767441862
+no_source_conflicts_50m,forward_spatial,Chicago,M0,5,0.5,0.6,41,0.5477836524153913,0.43902439024390244
+no_source_conflicts_50m,forward_spatial,Chicago,M0,6,0.6,0.7,45,0.64513555558365,0.4222222222222222
+no_source_conflicts_50m,forward_spatial,Chicago,M0,7,0.7,0.8,30,0.7554374005526598,0.8666666666666667
+no_source_conflicts_50m,forward_spatial,Chicago,M0,8,0.8,0.9,8,0.8473007015161047,1.0
+no_source_conflicts_50m,forward_spatial,Chicago,M0,9,0.9,1.0,2,0.9166630968297947,1.0
+no_source_conflicts_50m,forward_spatial,Los Angeles,M0,0,0.0,0.1,0,,
+no_source_conflicts_50m,forward_spatial,Los Angeles,M0,1,0.1,0.2,6,0.15332104269941735,0.0
+no_source_conflicts_50m,forward_spatial,Los Angeles,M0,2,0.2,0.3,11,0.2595446806875581,0.18181818181818182
+no_source_conflicts_50m,forward_spatial,Los Angeles,M0,3,0.3,0.4,25,0.3567140934976751,0.0
+no_source_conflicts_50m,forward_spatial,Los Angeles,M0,4,0.4,0.5,21,0.45577890103963065,0.23809523809523808
+no_source_conflicts_50m,forward_spatial,Los Angeles,M0,5,0.5,0.6,21,0.530279661935967,0.3333333333333333
+no_source_conflicts_50m,forward_spatial,Los Angeles,M0,6,0.6,0.7,11,0.6487894186662564,0.6363636363636364
+no_source_conflicts_50m,forward_spatial,Los Angeles,M0,7,0.7,0.8,7,0.7430511803303049,1.0
+no_source_conflicts_50m,forward_spatial,Los Angeles,M0,8,0.8,0.9,9,0.8306514674643006,0.8888888888888888
+no_source_conflicts_50m,forward_spatial,Los Angeles,M0,9,0.9,1.0,1,0.9341343017932278,1.0
+no_source_conflicts_50m,forward_spatial,ALL,M1,0,0.0,0.1,26,0.08212520034416572,0.0
+no_source_conflicts_50m,forward_spatial,ALL,M1,1,0.1,0.2,45,0.15441831798293887,0.13333333333333333
+no_source_conflicts_50m,forward_spatial,ALL,M1,2,0.2,0.3,67,0.2579696300372698,0.11940298507462686
+no_source_conflicts_50m,forward_spatial,ALL,M1,3,0.3,0.4,90,0.35804349200192676,0.23333333333333334
+no_source_conflicts_50m,forward_spatial,ALL,M1,4,0.4,0.5,142,0.4526866709339364,0.352112676056338
+no_source_conflicts_50m,forward_spatial,ALL,M1,5,0.5,0.6,113,0.5489317026408673,0.4690265486725664
+no_source_conflicts_50m,forward_spatial,ALL,M1,6,0.6,0.7,133,0.6530969201399474,0.5639097744360902
+no_source_conflicts_50m,forward_spatial,ALL,M1,7,0.7,0.8,173,0.748394439600457,0.7572254335260116
+no_source_conflicts_50m,forward_spatial,ALL,M1,8,0.8,0.9,109,0.8402856887624793,0.8165137614678899
+no_source_conflicts_50m,forward_spatial,ALL,M1,9,0.9,1.0,37,0.9308378351709105,0.972972972972973
+no_source_conflicts_50m,forward_spatial,New York City,M1,0,0.0,0.1,15,0.07741815278985474,0.0
+no_source_conflicts_50m,forward_spatial,New York City,M1,1,0.1,0.2,21,0.17220927058511365,0.19047619047619047
+no_source_conflicts_50m,forward_spatial,New York City,M1,2,0.2,0.3,27,0.2622356875566174,0.1111111111111111
+no_source_conflicts_50m,forward_spatial,New York City,M1,3,0.3,0.4,40,0.3599137978194253,0.3
+no_source_conflicts_50m,forward_spatial,New York City,M1,4,0.4,0.5,75,0.44848278651459555,0.3466666666666667
+no_source_conflicts_50m,forward_spatial,New York City,M1,5,0.5,0.6,77,0.5481899053824062,0.5064935064935064
+no_source_conflicts_50m,forward_spatial,New York City,M1,6,0.6,0.7,87,0.6548295626368386,0.5632183908045977
+no_source_conflicts_50m,forward_spatial,New York City,M1,7,0.7,0.8,141,0.7477857398480899,0.7304964539007093
+no_source_conflicts_50m,forward_spatial,New York City,M1,8,0.8,0.9,96,0.8404859164835453,0.8125
+no_source_conflicts_50m,forward_spatial,New York City,M1,9,0.9,1.0,32,0.9323991793069623,0.96875
+no_source_conflicts_50m,forward_spatial,Chicago,M1,0,0.0,0.1,7,0.08777289623215483,0.0
+no_source_conflicts_50m,forward_spatial,Chicago,M1,1,0.1,0.2,7,0.12222604971446578,0.0
+no_source_conflicts_50m,forward_spatial,Chicago,M1,2,0.2,0.3,27,0.2607269471116008,0.1111111111111111
+no_source_conflicts_50m,forward_spatial,Chicago,M1,3,0.3,0.4,35,0.35171743568049463,0.2571428571428571
+no_source_conflicts_50m,forward_spatial,Chicago,M1,4,0.4,0.5,37,0.4624799479911579,0.3783783783783784
+no_source_conflicts_50m,forward_spatial,Chicago,M1,5,0.5,0.6,26,0.5542721937415499,0.38461538461538464
+no_source_conflicts_50m,forward_spatial,Chicago,M1,6,0.6,0.7,37,0.653586812671814,0.5405405405405406
+no_source_conflicts_50m,forward_spatial,Chicago,M1,7,0.7,0.8,24,0.7507566488099409,0.8333333333333334
+no_source_conflicts_50m,forward_spatial,Chicago,M1,8,0.8,0.9,8,0.8431598132436031,0.875
+no_source_conflicts_50m,forward_spatial,Chicago,M1,9,0.9,1.0,4,0.925231472314983,1.0
+no_source_conflicts_50m,forward_spatial,Los Angeles,M1,0,0.0,0.1,4,0.08989316086885098,0.0
+no_source_conflicts_50m,forward_spatial,Los Angeles,M1,1,0.1,0.2,17,0.14569689876138833,0.11764705882352941
+no_source_conflicts_50m,forward_spatial,Los Angeles,M1,2,0.2,0.3,13,0.24338262126578325,0.15384615384615385
+no_source_conflicts_50m,forward_spatial,Los Angeles,M1,3,0.3,0.4,15,0.36781680790527244,0.0
+no_source_conflicts_50m,forward_spatial,Los Angeles,M1,4,0.4,0.5,30,0.45111800694504833,0.3333333333333333
+no_source_conflicts_50m,forward_spatial,Los Angeles,M1,5,0.5,0.6,10,0.5407582646692417,0.4
+no_source_conflicts_50m,forward_spatial,Los Angeles,M1,6,0.6,0.7,9,0.6343340400389902,0.6666666666666666
+no_source_conflicts_50m,forward_spatial,Los Angeles,M1,7,0.7,0.8,8,0.7520361451074756,1.0
+no_source_conflicts_50m,forward_spatial,Los Angeles,M1,8,0.8,0.9,5,0.831842717348213,0.8
+no_source_conflicts_50m,forward_spatial,Los Angeles,M1,9,0.9,1.0,1,0.903300274240953,1.0
+no_source_conflicts_50m,forward_spatial,ALL,training_prevalence,0,0.0,0.1,0,,
+no_source_conflicts_50m,forward_spatial,ALL,training_prevalence,1,0.1,0.2,0,,
+no_source_conflicts_50m,forward_spatial,ALL,training_prevalence,2,0.2,0.3,0,,
+no_source_conflicts_50m,forward_spatial,ALL,training_prevalence,3,0.3,0.4,0,,
+no_source_conflicts_50m,forward_spatial,ALL,training_prevalence,4,0.4,0.5,204,0.48882681564245817,0.553921568627451
+no_source_conflicts_50m,forward_spatial,ALL,training_prevalence,5,0.5,0.6,731,0.5575428705871373,0.48700410396716826
+no_source_conflicts_50m,forward_spatial,ALL,training_prevalence,6,0.6,0.7,0,,
+no_source_conflicts_50m,forward_spatial,ALL,training_prevalence,7,0.7,0.8,0,,
+no_source_conflicts_50m,forward_spatial,ALL,training_prevalence,8,0.8,0.9,0,,
+no_source_conflicts_50m,forward_spatial,ALL,training_prevalence,9,0.9,1.0,0,,
+no_source_conflicts_50m,forward_spatial,New York City,training_prevalence,0,0.0,0.1,0,,
+no_source_conflicts_50m,forward_spatial,New York City,training_prevalence,1,0.1,0.2,0,,
+no_source_conflicts_50m,forward_spatial,New York City,training_prevalence,2,0.2,0.3,0,,
+no_source_conflicts_50m,forward_spatial,New York City,training_prevalence,3,0.3,0.4,0,,
+no_source_conflicts_50m,forward_spatial,New York City,training_prevalence,4,0.4,0.5,160,0.4888268156424581,0.55
+no_source_conflicts_50m,forward_spatial,New York City,training_prevalence,5,0.5,0.6,451,0.5579750316731443,0.5698447893569845
+no_source_conflicts_50m,forward_spatial,New York City,training_prevalence,6,0.6,0.7,0,,
+no_source_conflicts_50m,forward_spatial,New York City,training_prevalence,7,0.7,0.8,0,,
+no_source_conflicts_50m,forward_spatial,New York City,training_prevalence,8,0.8,0.9,0,,
+no_source_conflicts_50m,forward_spatial,New York City,training_prevalence,9,0.9,1.0,0,,
+no_source_conflicts_50m,forward_spatial,Chicago,training_prevalence,0,0.0,0.1,0,,
+no_source_conflicts_50m,forward_spatial,Chicago,training_prevalence,1,0.1,0.2,0,,
+no_source_conflicts_50m,forward_spatial,Chicago,training_prevalence,2,0.2,0.3,0,,
+no_source_conflicts_50m,forward_spatial,Chicago,training_prevalence,3,0.3,0.4,0,,
+no_source_conflicts_50m,forward_spatial,Chicago,training_prevalence,4,0.4,0.5,31,0.4888268156424581,0.5483870967741935
+no_source_conflicts_50m,forward_spatial,Chicago,training_prevalence,5,0.5,0.6,181,0.5577437493768003,0.3867403314917127
+no_source_conflicts_50m,forward_spatial,Chicago,training_prevalence,6,0.6,0.7,0,,
+no_source_conflicts_50m,forward_spatial,Chicago,training_prevalence,7,0.7,0.8,0,,
+no_source_conflicts_50m,forward_spatial,Chicago,training_prevalence,8,0.8,0.9,0,,
+no_source_conflicts_50m,forward_spatial,Chicago,training_prevalence,9,0.9,1.0,0,,
+no_source_conflicts_50m,forward_spatial,Los Angeles,training_prevalence,0,0.0,0.1,0,,
+no_source_conflicts_50m,forward_spatial,Los Angeles,training_prevalence,1,0.1,0.2,0,,
+no_source_conflicts_50m,forward_spatial,Los Angeles,training_prevalence,2,0.2,0.3,0,,
+no_source_conflicts_50m,forward_spatial,Los Angeles,training_prevalence,3,0.3,0.4,0,,
+no_source_conflicts_50m,forward_spatial,Los Angeles,training_prevalence,4,0.4,0.5,13,0.48882681564245806,0.6153846153846154
+no_source_conflicts_50m,forward_spatial,Los Angeles,training_prevalence,5,0.5,0.6,99,0.5552068735091756,0.29292929292929293
+no_source_conflicts_50m,forward_spatial,Los Angeles,training_prevalence,6,0.6,0.7,0,,
+no_source_conflicts_50m,forward_spatial,Los Angeles,training_prevalence,7,0.7,0.8,0,,
+no_source_conflicts_50m,forward_spatial,Los Angeles,training_prevalence,8,0.8,0.9,0,,
+no_source_conflicts_50m,forward_spatial,Los Angeles,training_prevalence,9,0.9,1.0,0,,
+report_filtered_50m,forward_spatial,ALL,M0,0,0.0,0.1,5,0.09476911597995186,0.0
+report_filtered_50m,forward_spatial,ALL,M0,1,0.1,0.2,21,0.15887438140912494,0.047619047619047616
+report_filtered_50m,forward_spatial,ALL,M0,2,0.2,0.3,34,0.2585532570143305,0.0
+report_filtered_50m,forward_spatial,ALL,M0,3,0.3,0.4,93,0.3531299734094104,0.27956989247311825
+report_filtered_50m,forward_spatial,ALL,M0,4,0.4,0.5,144,0.45018453408740633,0.3680555555555556
+report_filtered_50m,forward_spatial,ALL,M0,5,0.5,0.6,160,0.5454878221681794,0.5625
+report_filtered_50m,forward_spatial,ALL,M0,6,0.6,0.7,134,0.6506516018560868,0.753731343283582
+report_filtered_50m,forward_spatial,ALL,M0,7,0.7,0.8,96,0.7470597790309212,0.78125
+report_filtered_50m,forward_spatial,ALL,M0,8,0.8,0.9,28,0.8463089874721972,1.0
+report_filtered_50m,forward_spatial,ALL,M0,9,0.9,1.0,8,0.9266394185624004,1.0
+report_filtered_50m,forward_spatial,New York City,M0,0,0.0,0.1,5,0.09476911597995186,0.0
+report_filtered_50m,forward_spatial,New York City,M0,1,0.1,0.2,13,0.15580701412025955,0.0
+report_filtered_50m,forward_spatial,New York City,M0,2,0.2,0.3,24,0.2583799554333887,0.0
+report_filtered_50m,forward_spatial,New York City,M0,3,0.3,0.4,69,0.3564895827486448,0.36231884057971014
+report_filtered_50m,forward_spatial,New York City,M0,4,0.4,0.5,123,0.44911202955448576,0.3902439024390244
+report_filtered_50m,forward_spatial,New York City,M0,5,0.5,0.6,134,0.5472244282196698,0.582089552238806
+report_filtered_50m,forward_spatial,New York City,M0,6,0.6,0.7,120,0.6500050780966755,0.7583333333333333
+report_filtered_50m,forward_spatial,New York City,M0,7,0.7,0.8,90,0.7453527467644142,0.7777777777777778
+report_filtered_50m,forward_spatial,New York City,M0,8,0.8,0.9,25,0.8468618792483636,1.0
+report_filtered_50m,forward_spatial,New York City,M0,9,0.9,1.0,8,0.9266394185624004,1.0
+report_filtered_50m,forward_spatial,Los Angeles,M0,0,0.0,0.1,0,,
+report_filtered_50m,forward_spatial,Los Angeles,M0,1,0.1,0.2,8,0.16385885325353125,0.125
+report_filtered_50m,forward_spatial,Los Angeles,M0,2,0.2,0.3,10,0.25896918080859105,0.0
+report_filtered_50m,forward_spatial,Los Angeles,M0,3,0.3,0.4,24,0.3434710965591116,0.041666666666666664
+report_filtered_50m,forward_spatial,Los Angeles,M0,4,0.4,0.5,21,0.4564663463516559,0.23809523809523808
+report_filtered_50m,forward_spatial,Los Angeles,M0,5,0.5,0.6,26,0.5365376217489598,0.46153846153846156
+report_filtered_50m,forward_spatial,Los Angeles,M0,6,0.6,0.7,14,0.6561932340796123,0.7142857142857143
+report_filtered_50m,forward_spatial,Los Angeles,M0,7,0.7,0.8,6,0.7726652630285277,0.8333333333333334
+report_filtered_50m,forward_spatial,Los Angeles,M0,8,0.8,0.9,3,0.8417015560041438,1.0
+report_filtered_50m,forward_spatial,Los Angeles,M0,9,0.9,1.0,0,,
+report_filtered_50m,forward_spatial,ALL,M1,0,0.0,0.1,25,0.0736315357971607,0.0
+report_filtered_50m,forward_spatial,ALL,M1,1,0.1,0.2,29,0.17078924894605685,0.13793103448275862
+report_filtered_50m,forward_spatial,ALL,M1,2,0.2,0.3,53,0.2537692538218427,0.18867924528301888
+report_filtered_50m,forward_spatial,ALL,M1,3,0.3,0.4,50,0.35227519831729137,0.3
+report_filtered_50m,forward_spatial,ALL,M1,4,0.4,0.5,96,0.4506933037700895,0.3541666666666667
+report_filtered_50m,forward_spatial,ALL,M1,5,0.5,0.6,94,0.5461464231381655,0.4574468085106383
+report_filtered_50m,forward_spatial,ALL,M1,6,0.6,0.7,114,0.6484347570696025,0.631578947368421
+report_filtered_50m,forward_spatial,ALL,M1,7,0.7,0.8,128,0.7508656715512931,0.7578125
+report_filtered_50m,forward_spatial,ALL,M1,8,0.8,0.9,90,0.8488276603143224,0.7666666666666667
+report_filtered_50m,forward_spatial,ALL,M1,9,0.9,1.0,44,0.9294007586661652,0.8636363636363636
+report_filtered_50m,forward_spatial,New York City,M1,0,0.0,0.1,14,0.06655911631150903,0.0
+report_filtered_50m,forward_spatial,New York City,M1,1,0.1,0.2,21,0.1697198142262665,0.09523809523809523
+report_filtered_50m,forward_spatial,New York City,M1,2,0.2,0.3,23,0.25410229766449394,0.21739130434782608
+report_filtered_50m,forward_spatial,New York City,M1,3,0.3,0.4,30,0.35804571363118237,0.3
+report_filtered_50m,forward_spatial,New York City,M1,4,0.4,0.5,76,0.4548449564464148,0.3815789473684211
+report_filtered_50m,forward_spatial,New York City,M1,5,0.5,0.6,87,0.5460741109075726,0.4482758620689655
+report_filtered_50m,forward_spatial,New York City,M1,6,0.6,0.7,106,0.6480360892953354,0.6132075471698113
+report_filtered_50m,forward_spatial,New York City,M1,7,0.7,0.8,123,0.7505202569766731,0.7479674796747967
+report_filtered_50m,forward_spatial,New York City,M1,8,0.8,0.9,87,0.8479439011677868,0.7586206896551724
+report_filtered_50m,forward_spatial,New York City,M1,9,0.9,1.0,44,0.9294007586661652,0.8636363636363636
+report_filtered_50m,forward_spatial,Los Angeles,M1,0,0.0,0.1,11,0.08263279696071738,0.0
+report_filtered_50m,forward_spatial,Los Angeles,M1,1,0.1,0.2,8,0.17359651508550647,0.25
+report_filtered_50m,forward_spatial,Los Angeles,M1,2,0.2,0.3,30,0.2535139202091435,0.16666666666666666
+report_filtered_50m,forward_spatial,Los Angeles,M1,3,0.3,0.4,20,0.34361942534645495,0.3
+report_filtered_50m,forward_spatial,Los Angeles,M1,4,0.4,0.5,20,0.4349170236000532,0.25
+report_filtered_50m,forward_spatial,Los Angeles,M1,5,0.5,0.6,7,0.5470451608612483,0.5714285714285714
+report_filtered_50m,forward_spatial,Los Angeles,M1,6,0.6,0.7,8,0.6537171050786403,0.875
+report_filtered_50m,forward_spatial,Los Angeles,M1,7,0.7,0.8,5,0.7593628700869431,1.0
+report_filtered_50m,forward_spatial,Los Angeles,M1,8,0.8,0.9,3,0.8744566755638531,1.0
+report_filtered_50m,forward_spatial,Los Angeles,M1,9,0.9,1.0,0,,
+report_filtered_50m,forward_spatial,ALL,training_prevalence,0,0.0,0.1,0,,
+report_filtered_50m,forward_spatial,ALL,training_prevalence,1,0.1,0.2,0,,
+report_filtered_50m,forward_spatial,ALL,training_prevalence,2,0.2,0.3,0,,
+report_filtered_50m,forward_spatial,ALL,training_prevalence,3,0.3,0.4,0,,
+report_filtered_50m,forward_spatial,ALL,training_prevalence,4,0.4,0.5,173,0.4439655172413794,0.5549132947976878
+report_filtered_50m,forward_spatial,ALL,training_prevalence,5,0.5,0.6,550,0.5594060460029096,0.52
+report_filtered_50m,forward_spatial,ALL,training_prevalence,6,0.6,0.7,0,,
+report_filtered_50m,forward_spatial,ALL,training_prevalence,7,0.7,0.8,0,,
+report_filtered_50m,forward_spatial,ALL,training_prevalence,8,0.8,0.9,0,,
+report_filtered_50m,forward_spatial,ALL,training_prevalence,9,0.9,1.0,0,,
+report_filtered_50m,forward_spatial,New York City,training_prevalence,0,0.0,0.1,0,,
+report_filtered_50m,forward_spatial,New York City,training_prevalence,1,0.1,0.2,0,,
+report_filtered_50m,forward_spatial,New York City,training_prevalence,2,0.2,0.3,0,,
+report_filtered_50m,forward_spatial,New York City,training_prevalence,3,0.3,0.4,0,,
+report_filtered_50m,forward_spatial,New York City,training_prevalence,4,0.4,0.5,160,0.44396551724137934,0.55
+report_filtered_50m,forward_spatial,New York City,training_prevalence,5,0.5,0.6,451,0.5597392156109661,0.5698447893569845
+report_filtered_50m,forward_spatial,New York City,training_prevalence,6,0.6,0.7,0,,
+report_filtered_50m,forward_spatial,New York City,training_prevalence,7,0.7,0.8,0,,
+report_filtered_50m,forward_spatial,New York City,training_prevalence,8,0.8,0.9,0,,
+report_filtered_50m,forward_spatial,New York City,training_prevalence,9,0.9,1.0,0,,
+report_filtered_50m,forward_spatial,Los Angeles,training_prevalence,0,0.0,0.1,0,,
+report_filtered_50m,forward_spatial,Los Angeles,training_prevalence,1,0.1,0.2,0,,
+report_filtered_50m,forward_spatial,Los Angeles,training_prevalence,2,0.2,0.3,0,,
+report_filtered_50m,forward_spatial,Los Angeles,training_prevalence,3,0.3,0.4,0,,
+report_filtered_50m,forward_spatial,Los Angeles,training_prevalence,4,0.4,0.5,13,0.4439655172413793,0.6153846153846154
+report_filtered_50m,forward_spatial,Los Angeles,training_prevalence,5,0.5,0.6,99,0.5578882733439846,0.29292929292929293
+report_filtered_50m,forward_spatial,Los Angeles,training_prevalence,6,0.6,0.7,0,,
+report_filtered_50m,forward_spatial,Los Angeles,training_prevalence,7,0.7,0.8,0,,
+report_filtered_50m,forward_spatial,Los Angeles,training_prevalence,8,0.8,0.9,0,,
+report_filtered_50m,forward_spatial,Los Angeles,training_prevalence,9,0.9,1.0,0,,

@@ -1,0 +1,1956 @@
+{
+  "id" : "k7nn-b2ep",
+  "name" : "LAPD NIBRS Offenses Dataset",
+  "assetType" : "dataset",
+  "attribution" : "Los Angeles Police Department",
+  "attributionLink" : "https://data.lacity.org",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1740751496,
+  "description" : "*August 18, 2026: Dataset renamed from \"LAPD NIBRS Offenses Dataset 2026 to Present\". The “LAPD NIBRS Offenses Dataset” now provides a consolidated source of all NIBRS Offense records entered into the Los Angeles Police Department’s Records Management System (RMS). While RMS was implemented on March 7, 2024, the dataset includes offense information from any date, provided the data was entered into RMS. This update also incorporates records previously released in earlier NIBRS datasets to ensure a single, comprehensive public resource.\n\n\nEffective March 7, 2024, the Los Angeles Police Department (LAPD) implemented a new Records Management System aligned with the FBI’s National Incident Based Reporting System (NIBRS). NIBRS captures more detailed information per incident than the previous Uniform Crime Reporting (UCR) system, which may result in higher counts because multiple offenses within a single incident are reported individually.\n\nMore information about NIBRS can be found on the FBI’s website: https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs\n\nThis dataset reflects NIBRS formatted crime incidents reported to LAPD through the year 2026, occurring in the City of Los Angeles.\n\nThis dataset includes three additional data elements:\n• The hundred block location of the incident\n• The latitude of that hundred block\n• The longitude of that hundred block\n\nThese elements enhance geographic accuracy while maintaining privacy protections and support improved spatial analysis of crime trends across the city.",
+  "diciBackend" : false,
+  "displayType" : "table",
+  "downloadCount" : 6383,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "locked" : false,
+  "newBackend" : true,
+  "numberOfComments" : 0,
+  "oid" : 42000643,
+  "provenance" : "official",
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1773257017,
+  "publicationGroup" : 19797659,
+  "publicationStage" : "published",
+  "resourceName" : "LAPD",
+  "rowIdentifierColumnId" : 628418858,
+  "rowsUpdatedAt" : 1794341914,
+  "rowsUpdatedBy" : "i94w-dnm2",
+  "tableId" : 20305322,
+  "totalTimesRated" : 0,
+  "viewCount" : 15729,
+  "viewLastModified" : 1787089686,
+  "viewType" : "tabular",
+  "approvals" : [ {
+    "reviewedAt" : 1774975047,
+    "reviewedAutomatically" : false,
+    "state" : "approved",
+    "submissionId" : 7403670,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1774546471,
+    "targetAudience" : "public",
+    "workflowId" : 2212,
+    "reviewer" : {
+      "id" : "hy2d-g6g8",
+      "displayName" : "Julien"
+    },
+    "submissionDetails" : {
+      "permissionType" : "read"
+    },
+    "submissionOutcomeApplication" : {
+      "endedAt" : 1774975048,
+      "failureCount" : 0,
+      "startedAt" : 1774975047,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "art8-rc4x",
+      "displayName" : "LAPD OpenData"
+    }
+  } ],
+  "clientContext" : {
+    "clientContextVariables" : [ ],
+    "inheritedVariables" : { }
+  },
+  "columns" : [ {
+    "id" : 628418857,
+    "name" : "CaseNo",
+    "dataTypeName" : "text",
+    "description" : "Case number",
+    "fieldName" : "caseno",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122202,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "RFC CITATION",
+      "null" : "0",
+      "top" : [ {
+        "item" : "25219783",
+        "count" : "13"
+      }, {
+        "item" : "26046115",
+        "count" : "10"
+      }, {
+        "item" : "26154262",
+        "count" : "10"
+      }, {
+        "item" : "26009957",
+        "count" : "9"
+      }, {
+        "item" : "26058764",
+        "count" : "9"
+      }, {
+        "item" : "25099242",
+        "count" : "9"
+      }, {
+        "item" : "24028856",
+        "count" : "9"
+      }, {
+        "item" : "26106821",
+        "count" : "9"
+      }, {
+        "item" : "26013588",
+        "count" : "8"
+      }, {
+        "item" : "25228536",
+        "count" : "8"
+      }, {
+        "item" : "26189297",
+        "count" : "8"
+      }, {
+        "item" : "25188259",
+        "count" : "8"
+      }, {
+        "item" : "26122320",
+        "count" : "8"
+      }, {
+        "item" : "25234017",
+        "count" : "7"
+      }, {
+        "item" : "25061258",
+        "count" : "7"
+      }, {
+        "item" : "25230583",
+        "count" : "7"
+      }, {
+        "item" : "26015355",
+        "count" : "7"
+      }, {
+        "item" : "25185676",
+        "count" : "7"
+      }, {
+        "item" : "25026246",
+        "count" : "7"
+      }, {
+        "item" : "25150864",
+        "count" : "7"
+      } ],
+      "smallest" : "000200784",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418858,
+    "name" : "UniqueNIBRNo",
+    "dataTypeName" : "text",
+    "description" : "Unique identifier created by combining CaseNo, NIBR Code, and offense sequence number",
+    "fieldName" : "uniquenibrno",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122227,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "RFC CITATION_90Z_0",
+      "null" : "0",
+      "top" : [ {
+        "item" : "000210222__0",
+        "count" : "1"
+      }, {
+        "item" : "000509224__0",
+        "count" : "1"
+      }, {
+        "item" : "000509224__1",
+        "count" : "1"
+      }, {
+        "item" : "000509224__2",
+        "count" : "1"
+      }, {
+        "item" : "000515259__0",
+        "count" : "1"
+      }, {
+        "item" : "001312588__0",
+        "count" : "1"
+      }, {
+        "item" : "001330472__0",
+        "count" : "1"
+      }, {
+        "item" : "010510889__0",
+        "count" : "1"
+      }, {
+        "item" : "010510889__1",
+        "count" : "1"
+      }, {
+        "item" : "010510889__2",
+        "count" : "1"
+      }, {
+        "item" : "010511823__0",
+        "count" : "1"
+      }, {
+        "item" : "010808705__0",
+        "count" : "1"
+      }, {
+        "item" : "011017079__0",
+        "count" : "1"
+      }, {
+        "item" : "011017079__1",
+        "count" : "1"
+      }, {
+        "item" : "011028099_11A_0",
+        "count" : "1"
+      }, {
+        "item" : "020517123__0",
+        "count" : "1"
+      }, {
+        "item" : "020517483__0",
+        "count" : "1"
+      }, {
+        "item" : "030126356_09B_0",
+        "count" : "1"
+      }, {
+        "item" : "030500608__0",
+        "count" : "1"
+      }, {
+        "item" : "000200784_11A_0",
+        "count" : "1"
+      } ],
+      "smallest" : "000200784_11A_0",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418859,
+    "name" : "Date Rptd",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date reported",
+    "fieldName" : "date_rptd",
+    "position" : 3,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 157122217,
+    "cachedContents" : {
+      "non_null" : "508461",
+      "largest" : "2026-11-09T19:34:08.000",
+      "null" : "8238",
+      "top" : [ {
+        "item" : "2024-06-12T00:00:00.000",
+        "count" : "21"
+      }, {
+        "item" : "2024-11-13T00:00:00.000",
+        "count" : "15"
+      }, {
+        "item" : "2026-06-04T14:12:34.000",
+        "count" : "14"
+      }, {
+        "item" : "2025-11-22T11:42:21.000",
+        "count" : "13"
+      }, {
+        "item" : "2026-03-07T17:16:39.000",
+        "count" : "10"
+      }, {
+        "item" : "2026-08-07T12:47:00.000",
+        "count" : "10"
+      }, {
+        "item" : "2026-01-15T16:24:00.000",
+        "count" : "9"
+      }, {
+        "item" : "2026-03-25T09:19:33.000",
+        "count" : "9"
+      }, {
+        "item" : "2025-05-30T15:04:26.000",
+        "count" : "9"
+      }, {
+        "item" : "2025-02-15T18:00:00.000",
+        "count" : "9"
+      }, {
+        "item" : "2024-10-30T00:00:00.000",
+        "count" : "9"
+      }, {
+        "item" : "2024-06-27T19:08:00.000",
+        "count" : "9"
+      }, {
+        "item" : "2024-11-20T07:19:24.000",
+        "count" : "9"
+      }, {
+        "item" : "2026-06-01T07:51:59.000",
+        "count" : "9"
+      }, {
+        "item" : "2026-01-21T04:56:22.000",
+        "count" : "8"
+      }, {
+        "item" : "2025-08-07T18:00:00.000",
+        "count" : "8"
+      }, {
+        "item" : "2025-12-08T18:25:00.000",
+        "count" : "8"
+      }, {
+        "item" : "2025-10-15T07:09:09.000",
+        "count" : "8"
+      }, {
+        "item" : "2025-09-08T05:01:15.000",
+        "count" : "8"
+      }, {
+        "item" : "2024-04-18T00:00:00.000",
+        "count" : "8"
+      } ],
+      "smallest" : "1980-07-14T16:45:00.000",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418860,
+    "name" : "Date OCC",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date occurred",
+    "fieldName" : "date_occ",
+    "position" : 4,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 157122200,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "2026-10-31T00:00:00.000",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2025-01-01T00:00:00.000",
+        "count" : "141"
+      }, {
+        "item" : "2024-01-01T00:00:00.000",
+        "count" : "88"
+      }, {
+        "item" : "2025-06-01T00:00:00.000",
+        "count" : "73"
+      }, {
+        "item" : "2025-01-01T12:00:00.000",
+        "count" : "68"
+      }, {
+        "item" : "2025-09-01T00:00:00.000",
+        "count" : "67"
+      }, {
+        "item" : "2026-01-01T00:00:00.000",
+        "count" : "66"
+      }, {
+        "item" : "2024-11-01T00:00:00.000",
+        "count" : "66"
+      }, {
+        "item" : "2025-05-01T00:00:00.000",
+        "count" : "65"
+      }, {
+        "item" : "2025-04-01T00:00:00.000",
+        "count" : "64"
+      }, {
+        "item" : "2025-11-01T00:00:00.000",
+        "count" : "64"
+      }, {
+        "item" : "2025-02-01T00:00:00.000",
+        "count" : "63"
+      }, {
+        "item" : "2024-09-01T00:00:00.000",
+        "count" : "62"
+      }, {
+        "item" : "2025-08-01T00:00:00.000",
+        "count" : "57"
+      }, {
+        "item" : "2025-10-01T00:00:00.000",
+        "count" : "56"
+      }, {
+        "item" : "2025-03-01T00:00:00.000",
+        "count" : "55"
+      }, {
+        "item" : "2024-06-01T00:00:00.000",
+        "count" : "54"
+      }, {
+        "item" : "2025-12-01T00:00:00.000",
+        "count" : "52"
+      }, {
+        "item" : "2026-03-01T00:00:00.000",
+        "count" : "52"
+      }, {
+        "item" : "2024-08-01T00:00:00.000",
+        "count" : "51"
+      }, {
+        "item" : "2025-08-01T12:00:00.000",
+        "count" : "47"
+      } ],
+      "smallest" : "1800-01-06T00:00:00.000",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418861,
+    "name" : "Time OCC",
+    "dataTypeName" : "text",
+    "description" : "Time occurred",
+    "fieldName" : "time_occ",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122203,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "2359",
+      "null" : "0",
+      "top" : [ {
+        "item" : "0000",
+        "count" : "16168"
+      }, {
+        "item" : "1200",
+        "count" : "13947"
+      }, {
+        "item" : "1800",
+        "count" : "10612"
+      }, {
+        "item" : "1700",
+        "count" : "10533"
+      }, {
+        "item" : "2000",
+        "count" : "10227"
+      }, {
+        "item" : "1900",
+        "count" : "9506"
+      }, {
+        "item" : "2200",
+        "count" : "9455"
+      }, {
+        "item" : "2100",
+        "count" : "9154"
+      }, {
+        "item" : "1600",
+        "count" : "8841"
+      }, {
+        "item" : "1500",
+        "count" : "8672"
+      }, {
+        "item" : "1000",
+        "count" : "8159"
+      }, {
+        "item" : "1400",
+        "count" : "8137"
+      }, {
+        "item" : "2300",
+        "count" : "7385"
+      }, {
+        "item" : "1300",
+        "count" : "7314"
+      }, {
+        "item" : "0800",
+        "count" : "6984"
+      }, {
+        "item" : "1100",
+        "count" : "6608"
+      }, {
+        "item" : "0900",
+        "count" : "6481"
+      }, {
+        "item" : "0100",
+        "count" : "5198"
+      }, {
+        "item" : "1830",
+        "count" : "4895"
+      }, {
+        "item" : "2030",
+        "count" : "4800"
+      } ],
+      "smallest" : "0000",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418862,
+    "name" : "AREA",
+    "dataTypeName" : "text",
+    "description" : "Geographic areas occurred (numerical)",
+    "fieldName" : "area",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122204,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "21",
+      "null" : "0",
+      "top" : [ {
+        "item" : "01",
+        "count" : "42959"
+      }, {
+        "item" : "12",
+        "count" : "28882"
+      }, {
+        "item" : "02",
+        "count" : "28827"
+      }, {
+        "item" : "03",
+        "count" : "28741"
+      }, {
+        "item" : "20",
+        "count" : "28599"
+      }, {
+        "item" : "06",
+        "count" : "27667"
+      }, {
+        "item" : "15",
+        "count" : "27613"
+      }, {
+        "item" : "14",
+        "count" : "25831"
+      }, {
+        "item" : "13",
+        "count" : "25500"
+      }, {
+        "item" : "18",
+        "count" : "23679"
+      }, {
+        "item" : "09",
+        "count" : "23201"
+      }, {
+        "item" : "07",
+        "count" : "22726"
+      }, {
+        "item" : "11",
+        "count" : "22711"
+      }, {
+        "item" : "10",
+        "count" : "22172"
+      }, {
+        "item" : "21",
+        "count" : "21797"
+      }, {
+        "item" : "19",
+        "count" : "21261"
+      }, {
+        "item" : "17",
+        "count" : "20797"
+      }, {
+        "item" : "05",
+        "count" : "19604"
+      }, {
+        "item" : "04",
+        "count" : "19449"
+      }, {
+        "item" : "08",
+        "count" : "18957"
+      } ],
+      "smallest" : "01",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418863,
+    "name" : "AREA NAME",
+    "dataTypeName" : "text",
+    "description" : "Geographic areas occurred (textual)",
+    "fieldName" : "area_name",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122205,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "Wilshire            ",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Central             ",
+        "count" : "42959"
+      }, {
+        "item" : "77th Street         ",
+        "count" : "28882"
+      }, {
+        "item" : "Rampart             ",
+        "count" : "28827"
+      }, {
+        "item" : "Southwest           ",
+        "count" : "28741"
+      }, {
+        "item" : "Olympic             ",
+        "count" : "28599"
+      }, {
+        "item" : "Hollywood           ",
+        "count" : "27667"
+      }, {
+        "item" : "N Hollywood         ",
+        "count" : "27613"
+      }, {
+        "item" : "Pacific             ",
+        "count" : "25831"
+      }, {
+        "item" : "Newton              ",
+        "count" : "25500"
+      }, {
+        "item" : "Southeast           ",
+        "count" : "23679"
+      }, {
+        "item" : "Van Nuys            ",
+        "count" : "23201"
+      }, {
+        "item" : "Wilshire            ",
+        "count" : "22726"
+      }, {
+        "item" : "Northeast           ",
+        "count" : "22711"
+      }, {
+        "item" : "West Valley         ",
+        "count" : "22172"
+      }, {
+        "item" : "Topanga             ",
+        "count" : "21797"
+      }, {
+        "item" : "Mission             ",
+        "count" : "21261"
+      }, {
+        "item" : "Devonshire          ",
+        "count" : "20797"
+      }, {
+        "item" : "Harbor              ",
+        "count" : "19604"
+      }, {
+        "item" : "Hollenbeck          ",
+        "count" : "19449"
+      }, {
+        "item" : "West LA             ",
+        "count" : "18957"
+      } ],
+      "smallest" : "77th Street         ",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418864,
+    "name" : "RPT Dist No",
+    "dataTypeName" : "text",
+    "description" : "Reporting district number",
+    "fieldName" : "rpt_dist_no",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122206,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "2198",
+      "null" : "0",
+      "top" : [ {
+        "item" : "0246",
+        "count" : "3408"
+      }, {
+        "item" : "0182",
+        "count" : "2760"
+      }, {
+        "item" : "0245",
+        "count" : "2586"
+      }, {
+        "item" : "0152",
+        "count" : "2503"
+      }, {
+        "item" : "1494",
+        "count" : "2500"
+      }, {
+        "item" : "0162",
+        "count" : "2474"
+      }, {
+        "item" : "0666",
+        "count" : "2425"
+      }, {
+        "item" : "0645",
+        "count" : "2411"
+      }, {
+        "item" : "0765",
+        "count" : "2356"
+      }, {
+        "item" : "2156",
+        "count" : "2337"
+      }, {
+        "item" : "0636",
+        "count" : "2254"
+      }, {
+        "item" : "0646",
+        "count" : "2198"
+      }, {
+        "item" : "0111",
+        "count" : "2186"
+      }, {
+        "item" : "1258",
+        "count" : "2040"
+      }, {
+        "item" : "1832",
+        "count" : "2025"
+      }, {
+        "item" : "0904",
+        "count" : "1945"
+      }, {
+        "item" : "0192",
+        "count" : "1906"
+      }, {
+        "item" : "0257",
+        "count" : "1774"
+      }, {
+        "item" : "0118",
+        "count" : "1700"
+      }, {
+        "item" : "1549",
+        "count" : "1654"
+      } ],
+      "smallest" : "01",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418865,
+    "name" : "TotalOffenseCount",
+    "dataTypeName" : "number",
+    "description" : "Total number of offenses involved",
+    "fieldName" : "totaloffensecount",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 157122201,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "13",
+      "null" : "0",
+      "top" : [ {
+        "item" : "1",
+        "count" : "418124"
+      }, {
+        "item" : "2",
+        "count" : "83614"
+      }, {
+        "item" : "3",
+        "count" : "11306"
+      }, {
+        "item" : "4",
+        "count" : "2533"
+      }, {
+        "item" : "5",
+        "count" : "597"
+      }, {
+        "item" : "6",
+        "count" : "288"
+      }, {
+        "item" : "7",
+        "count" : "119"
+      }, {
+        "item" : "9",
+        "count" : "45"
+      }, {
+        "item" : "8",
+        "count" : "40"
+      }, {
+        "item" : "10",
+        "count" : "20"
+      }, {
+        "item" : "13",
+        "count" : "13"
+      } ],
+      "smallest" : "1",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418866,
+    "name" : "Group",
+    "dataTypeName" : "text",
+    "description" : "Group A or B in NIBR",
+    "fieldName" : "group",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122207,
+    "cachedContents" : {
+      "non_null" : "499954",
+      "largest" : "B",
+      "null" : "16745",
+      "top" : [ {
+        "item" : "A",
+        "count" : "441085"
+      }, {
+        "item" : "B",
+        "count" : "58869"
+      } ],
+      "smallest" : "A",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418867,
+    "name" : "NIBR Code",
+    "dataTypeName" : "text",
+    "description" : "NIBR offense code",
+    "fieldName" : "nibr_code",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122208,
+    "cachedContents" : {
+      "non_null" : "515394",
+      "largest" : "90Z",
+      "null" : "1305",
+      "top" : [ {
+        "item" : "13B",
+        "count" : "76491"
+      }, {
+        "item" : "290",
+        "count" : "57365"
+      }, {
+        "item" : "23H",
+        "count" : "40386"
+      }, {
+        "item" : "13A",
+        "count" : "39598"
+      }, {
+        "item" : "23F",
+        "count" : "38398"
+      }, {
+        "item" : "90Z",
+        "count" : "36308"
+      }, {
+        "item" : "240",
+        "count" : "35029"
+      }, {
+        "item" : "220",
+        "count" : "28570"
+      }, {
+        "item" : "23C",
+        "count" : "20409"
+      }, {
+        "item" : "120",
+        "count" : "18839"
+      }, {
+        "item" : "26F",
+        "count" : "15920"
+      }, {
+        "item" : "13C",
+        "count" : "12799"
+      }, {
+        "item" : "35A",
+        "count" : "11512"
+      }, {
+        "item" : "90J",
+        "count" : "11447"
+      }, {
+        "item" : "23G",
+        "count" : "9214"
+      }, {
+        "item" : "520",
+        "count" : "8408"
+      }, {
+        "item" : "90D",
+        "count" : "6457"
+      }, {
+        "item" : "26A",
+        "count" : "5652"
+      }, {
+        "item" : "90C",
+        "count" : "5201"
+      }, {
+        "item" : "35B",
+        "count" : "4383"
+      } ],
+      "smallest" : "09A",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418868,
+    "name" : "NIBR Description",
+    "dataTypeName" : "text",
+    "description" : "NIBR offense description",
+    "fieldName" : "nibr_description",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122209,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "VIOLPROB/MISD - ZZ - M - Violation Probation/Misdemeanor - 90Z",
+      "null" : "0",
+      "top" : [ {
+        "item" : "487(D)(1) - PC - F - Grand Theft Auto - GTA  - 240",
+        "count" : "32824"
+      }, {
+        "item" : "594(B)(1) - PC - F - Vandalism ($400 Or More) - Felony - 290",
+        "count" : "31822"
+      }, {
+        "item" : "243(A) - PC - M - Battery On Person - Simple - 13B",
+        "count" : "27635"
+      }, {
+        "item" : "484(A) - PC - M - Petty Theft - All Other Larceny - 23H",
+        "count" : "20289"
+      }, {
+        "item" : "459 - PC - F - BFMV- Burglary From Motor Vehicle  - 23F",
+        "count" : "20226"
+      }, {
+        "item" : "211 - PC - F - Robbery - 120",
+        "count" : "16144"
+      }, {
+        "item" : "459.5(A) - PC - M - Petty Theft - Shoplifting - 23C",
+        "count" : "15635"
+      }, {
+        "item" : "530.5(A) - PC - F - Identity Theft - 26F",
+        "count" : "15512"
+      }, {
+        "item" : "487(A) - PC - F - Grand Theft - 23H",
+        "count" : "14464"
+      }, {
+        "item" : "273.5(A) - PC - F - IPV w/ Injury - Simple Assault - 13B",
+        "count" : "13134"
+      }, {
+        "item" : "459 - PC - F - Burglary - Residential - 220",
+        "count" : "12852"
+      }, {
+        "item" : "245(A)(1) - PC - F - ADW w/Deadly Weapon - (Agg Assault Non-Firearm) - 13A",
+        "count" : "12708"
+      }, {
+        "item" : "487(A) - PC - F - TFMV -Grand Theft from Motor Vehicle (Over $950) - 23F",
+        "count" : "12006"
+      }, {
+        "item" : "243(E)(1) - PC - M - Intimate Partner Battery - Simple Assault - 13B",
+        "count" : "11819"
+      }, {
+        "item" : "594(B)(2)(A) - PC - M - Vandalism Less Than $400 - Misd - 290",
+        "count" : "10965"
+      }, {
+        "item" : "242 - PC - M - Battery On Person - Simple - 13B",
+        "count" : "10889"
+      }, {
+        "item" : "422(A) - PC - F - Criminal Threats - 13C",
+        "count" : "9030"
+      }, {
+        "item" : "459 - PC - F - Burglary  - 220",
+        "count" : "8601"
+      }, {
+        "item" : "459 - PC - F - Burglary - Non-Residential - 220",
+        "count" : "6679"
+      }, {
+        "item" : "484(A) - PC - M - Theft Of Motor Vehicle Parts/Accessories - Petty Theft - 23G",
+        "count" : "5458"
+      } ],
+      "smallest" : "10153.1 - BP - M - Identity Fraud - Examination/Application - 26A",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418869,
+    "name" : "Crime Against",
+    "dataTypeName" : "text",
+    "description" : "Crime against person, property, or society",
+    "fieldName" : "crime_against",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122210,
+    "cachedContents" : {
+      "non_null" : "514234",
+      "largest" : "Society",
+      "null" : "2465",
+      "top" : [ {
+        "item" : "Property",
+        "count" : "272747"
+      }, {
+        "item" : "Person",
+        "count" : "153889"
+      }, {
+        "item" : "Society",
+        "count" : "51334"
+      }, {
+        "item" : "Person, Property, Society",
+        "count" : "36264"
+      } ],
+      "smallest" : "Person",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418870,
+    "name" : "Premise Cd",
+    "dataTypeName" : "text",
+    "description" : "Type of structure, vehicle, or location (numerical)",
+    "fieldName" : "premis_cd",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122211,
+    "cachedContents" : {
+      "non_null" : "493363",
+      "largest" : "SJ",
+      "null" : "23336",
+      "top" : [ {
+        "item" : "22",
+        "count" : "159936"
+      }, {
+        "item" : "36",
+        "count" : "53224"
+      }, {
+        "item" : "RA",
+        "count" : "42363"
+      }, {
+        "item" : "32",
+        "count" : "37002"
+      }, {
+        "item" : "46",
+        "count" : "36605"
+      }, {
+        "item" : "34",
+        "count" : "24233"
+      }, {
+        "item" : "01",
+        "count" : "17482"
+      }, {
+        "item" : "45",
+        "count" : "11024"
+      }, {
+        "item" : "13",
+        "count" : "6991"
+      }, {
+        "item" : "39",
+        "count" : "6185"
+      }, {
+        "item" : "12",
+        "count" : "5825"
+      }, {
+        "item" : "SE",
+        "count" : "5147"
+      }, {
+        "item" : "61",
+        "count" : "4771"
+      }, {
+        "item" : "44",
+        "count" : "4690"
+      }, {
+        "item" : "37",
+        "count" : "4616"
+      }, {
+        "item" : "24",
+        "count" : "4139"
+      }, {
+        "item" : "RG",
+        "count" : "3987"
+      }, {
+        "item" : "38",
+        "count" : "3798"
+      }, {
+        "item" : "20",
+        "count" : "3633"
+      }, {
+        "item" : "21",
+        "count" : "3599"
+      } ],
+      "smallest" : "01",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418871,
+    "name" : "Premise Desc",
+    "dataTypeName" : "text",
+    "description" : "Premise code definition (textual)",
+    "fieldName" : "premis_desc",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122212,
+    "cachedContents" : {
+      "non_null" : "516583",
+      "largest" : "Zoo",
+      "null" : "116",
+      "top" : [ {
+        "item" : "Street/Parkway",
+        "count" : "116110"
+      }, {
+        "item" : "Residence / Home / Driveway",
+        "count" : "57862"
+      }, {
+        "item" : "Parking Lot / Garage / Drop Lot",
+        "count" : "34787"
+      }, {
+        "item" : "Apartment/Condominium/Townhouse",
+        "count" : "30534"
+      }, {
+        "item" : "Sidewalk",
+        "count" : "27340"
+      }, {
+        "item" : "Victim's Residence",
+        "count" : "24737"
+      }, {
+        "item" : "Other Business",
+        "count" : "19049"
+      }, {
+        "item" : "Highway / Road / Alley / Street",
+        "count" : "17190"
+      }, {
+        "item" : "Single Family Home",
+        "count" : "12399"
+      }, {
+        "item" : "Apartment/Condo Common Laundry Room",
+        "count" : "11181"
+      }, {
+        "item" : "Department / Discount Store",
+        "count" : "7225"
+      }, {
+        "item" : "Vehicle, Passenger/Truck",
+        "count" : "6984"
+      }, {
+        "item" : "Restaurant",
+        "count" : "5846"
+      }, {
+        "item" : "Clothing Store",
+        "count" : "5391"
+      }, {
+        "item" : "Convenience Store",
+        "count" : "4678"
+      }, {
+        "item" : "Park / Playground",
+        "count" : "4643"
+      }, {
+        "item" : "Air / Bus / Train Terminal",
+        "count" : "4149"
+      }, {
+        "item" : "Alley",
+        "count" : "3814"
+      }, {
+        "item" : "Grocery/Supermarket",
+        "count" : "3812"
+      }, {
+        "item" : "Commercial / Office Building / Other Commerical",
+        "count" : "3757"
+      } ],
+      "smallest" : "101 - STREET",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418872,
+    "name" : "Weapon Used Cd",
+    "dataTypeName" : "text",
+    "description" : "Type of weapon used in the crime",
+    "fieldName" : "weapon_used_cd",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122213,
+    "cachedContents" : {
+      "non_null" : "151248",
+      "largest" : "OE, OA",
+      "null" : "365451",
+      "top" : [ {
+        "item" : "08",
+        "count" : "82926"
+      }, {
+        "item" : "02",
+        "count" : "15783"
+      }, {
+        "item" : "OA",
+        "count" : "12864"
+      }, {
+        "item" : "06",
+        "count" : "12448"
+      }, {
+        "item" : "07",
+        "count" : "5221"
+      }, {
+        "item" : "00",
+        "count" : "3400"
+      }, {
+        "item" : "01",
+        "count" : "3002"
+      }, {
+        "item" : "OD",
+        "count" : "2182"
+      }, {
+        "item" : "08, OA",
+        "count" : "1589"
+      }, {
+        "item" : "35",
+        "count" : "1484"
+      }, {
+        "item" : "08, 06",
+        "count" : "1247"
+      }, {
+        "item" : "08, AB",
+        "count" : "690"
+      }, {
+        "item" : "OB",
+        "count" : "687"
+      }, {
+        "item" : "08, 02",
+        "count" : "671"
+      }, {
+        "item" : "05",
+        "count" : "562"
+      }, {
+        "item" : "AB",
+        "count" : "460"
+      }, {
+        "item" : "03",
+        "count" : "366"
+      }, {
+        "item" : "08, 07",
+        "count" : "347"
+      }, {
+        "item" : "08, OD",
+        "count" : "344"
+      }, {
+        "item" : "07, 08",
+        "count" : "336"
+      } ],
+      "smallest" : "00",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418873,
+    "name" : "Weapon Desc",
+    "dataTypeName" : "text",
+    "description" : "Weapon used desription",
+    "fieldName" : "weapon_desc",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122214,
+    "cachedContents" : {
+      "non_null" : "151248",
+      "largest" : "Unknown",
+      "null" : "365451",
+      "top" : [ {
+        "item" : "Bodily Force - Personal Weapons (hands, feet, teeth, etc.)",
+        "count" : "82667"
+      }, {
+        "item" : "Handgun",
+        "count" : "15319"
+      }, {
+        "item" : "Other",
+        "count" : "10829"
+      }, {
+        "item" : "Knife or other cutting or stabbing instrument",
+        "count" : "3488"
+      }, {
+        "item" : "Unknown",
+        "count" : "3400"
+      }, {
+        "item" : "Firearm (unknown whether handgun, rifle, or shotgun)",
+        "count" : "3002"
+      }, {
+        "item" : "Knife W/ Blade 6 inches or less",
+        "count" : "2408"
+      }, {
+        "item" : "Pepper Spray",
+        "count" : "2182"
+      }, {
+        "item" : "Kitchen Knife",
+        "count" : "1966"
+      }, {
+        "item" : "Motor Vehicle (When Used As Weapon)",
+        "count" : "1484"
+      }, {
+        "item" : "Blunt Object (bludgeon, club, etc.)",
+        "count" : "1388"
+      }, {
+        "item" : "Bodily Force - Personal Weapons (hands, feet, teeth, etc.), Other",
+        "count" : "1345"
+      }, {
+        "item" : "Folding Knife",
+        "count" : "1317"
+      }, {
+        "item" : "Knife W/ Blade Over 6 Inches",
+        "count" : "927"
+      }, {
+        "item" : "Bat/Club",
+        "count" : "915"
+      }, {
+        "item" : "Glass Bottle",
+        "count" : "868"
+      }, {
+        "item" : "Stick",
+        "count" : "863"
+      }, {
+        "item" : "Metal Pipe",
+        "count" : "807"
+      }, {
+        "item" : "Bodily Force - Personal Weapons (hands, feet, teeth, etc.), Strangulation",
+        "count" : "688"
+      }, {
+        "item" : "BB / Pellet Gun",
+        "count" : "687"
+      } ],
+      "smallest" : "Arson, Fire",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418874,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "description" : "Status of the case",
+    "fieldName" : "status",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122215,
+    "cachedContents" : {
+      "non_null" : "515519",
+      "largest" : "60",
+      "null" : "1180",
+      "top" : [ {
+        "item" : "40",
+        "count" : "284139"
+      }, {
+        "item" : "1",
+        "count" : "80980"
+      }, {
+        "item" : "10",
+        "count" : "62270"
+      }, {
+        "item" : "20",
+        "count" : "33450"
+      }, {
+        "item" : "14",
+        "count" : "15117"
+      }, {
+        "item" : "60",
+        "count" : "14979"
+      }, {
+        "item" : "12",
+        "count" : "9769"
+      }, {
+        "item" : "11",
+        "count" : "6617"
+      }, {
+        "item" : "16",
+        "count" : "3382"
+      }, {
+        "item" : "13",
+        "count" : "2815"
+      }, {
+        "item" : "50",
+        "count" : "1340"
+      }, {
+        "item" : "30",
+        "count" : "661"
+      } ],
+      "smallest" : "1",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418875,
+    "name" : "Status Desc",
+    "dataTypeName" : "text",
+    "description" : "Status code definition",
+    "fieldName" : "status_desc",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122216,
+    "cachedContents" : {
+      "non_null" : "515521",
+      "largest" : "Unfounded",
+      "null" : "1178",
+      "top" : [ {
+        "item" : "Investigation Continued",
+        "count" : "284139"
+      }, {
+        "item" : "Open",
+        "count" : "80980"
+      }, {
+        "item" : "Cleared by Arrest",
+        "count" : "46513"
+      }, {
+        "item" : "Cleared Other",
+        "count" : "27288"
+      }, {
+        "item" : "Cleared by Arrest - DA Filed",
+        "count" : "15759"
+      }, {
+        "item" : "Cleared by Arrest - CA Filed",
+        "count" : "15117"
+      }, {
+        "item" : "City Attorney Review",
+        "count" : "14979"
+      }, {
+        "item" : "Cleared Other - CA Reject",
+        "count" : "9769"
+      }, {
+        "item" : "Cleared Other - DA Reject",
+        "count" : "6617"
+      }, {
+        "item" : "Cleared Other - Exceptional",
+        "count" : "6162"
+      }, {
+        "item" : "District Attorney Review",
+        "count" : "3382"
+      }, {
+        "item" : "Cleared by Arrest - CA Hearing",
+        "count" : "2815"
+      }, {
+        "item" : "Non-Crime/Other",
+        "count" : "1340"
+      }, {
+        "item" : "Unfounded",
+        "count" : "661"
+      } ],
+      "smallest" : "City Attorney Review",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418876,
+    "name" : "TotalVictimCount",
+    "dataTypeName" : "number",
+    "description" : "Total number of victims involved",
+    "fieldName" : "totalvictimcount",
+    "position" : 20,
+    "renderTypeName" : "number",
+    "tableColumnId" : 157122226,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "44",
+      "null" : "0",
+      "top" : [ {
+        "item" : "1",
+        "count" : "426346"
+      }, {
+        "item" : "0",
+        "count" : "41898"
+      }, {
+        "item" : "2",
+        "count" : "38567"
+      }, {
+        "item" : "3",
+        "count" : "6581"
+      }, {
+        "item" : "4",
+        "count" : "1924"
+      }, {
+        "item" : "5",
+        "count" : "701"
+      }, {
+        "item" : "6",
+        "count" : "254"
+      }, {
+        "item" : "7",
+        "count" : "164"
+      }, {
+        "item" : "8",
+        "count" : "96"
+      }, {
+        "item" : "10",
+        "count" : "49"
+      }, {
+        "item" : "9",
+        "count" : "37"
+      }, {
+        "item" : "12",
+        "count" : "18"
+      }, {
+        "item" : "14",
+        "count" : "11"
+      }, {
+        "item" : "11",
+        "count" : "9"
+      }, {
+        "item" : "13",
+        "count" : "8"
+      }, {
+        "item" : "17",
+        "count" : "8"
+      }, {
+        "item" : "16",
+        "count" : "6"
+      }, {
+        "item" : "25",
+        "count" : "5"
+      }, {
+        "item" : "15",
+        "count" : "4"
+      }, {
+        "item" : "19",
+        "count" : "2"
+      } ],
+      "smallest" : "0",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418877,
+    "name" : "Victim Shot",
+    "dataTypeName" : "text",
+    "description" : "\"YES or NO\" whether this was a victim(s) shot crime",
+    "fieldName" : "victim_shot",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122218,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "Yes",
+      "null" : "0",
+      "top" : [ {
+        "item" : "No",
+        "count" : "514569"
+      }, {
+        "item" : "Yes",
+        "count" : "2130"
+      } ],
+      "smallest" : "No",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418878,
+    "name" : "Domestic Violence Crime",
+    "dataTypeName" : "text",
+    "description" : "\"YES or NO\" whether this was a domestic violence related crime",
+    "fieldName" : "domestic_violence_crime",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122219,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "Yes",
+      "null" : "0",
+      "top" : [ {
+        "item" : "No",
+        "count" : "468021"
+      }, {
+        "item" : "Yes",
+        "count" : "48678"
+      } ],
+      "smallest" : "No",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418879,
+    "name" : "Hate Crime",
+    "dataTypeName" : "text",
+    "description" : "\"YES or NO\" whether this was a hate related crime",
+    "fieldName" : "hate_crime",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122220,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "Yes",
+      "null" : "0",
+      "top" : [ {
+        "item" : "No",
+        "count" : "514829"
+      }, {
+        "item" : "Yes",
+        "count" : "1870"
+      } ],
+      "smallest" : "No",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418880,
+    "name" : "Gang-related Crime",
+    "dataTypeName" : "text",
+    "description" : "\"YES or NO\" whether this was a gang related crime",
+    "fieldName" : "gang_related_crime",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122221,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "Yes",
+      "null" : "0",
+      "top" : [ {
+        "item" : "No",
+        "count" : "509508"
+      }, {
+        "item" : "Yes",
+        "count" : "7191"
+      } ],
+      "smallest" : "No",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418881,
+    "name" : "Transit-related Crime",
+    "dataTypeName" : "text",
+    "description" : "\"YES or NO\" whether this was a transit related crime (bus or rail)",
+    "fieldName" : "transit_related_crime",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122222,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "Yes",
+      "null" : "0",
+      "top" : [ {
+        "item" : "No",
+        "count" : "500372"
+      }, {
+        "item" : "Yes",
+        "count" : "16327"
+      } ],
+      "smallest" : "No",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418882,
+    "name" : "Homeless-Victim Crime",
+    "dataTypeName" : "text",
+    "description" : "\"YES or NO\" whether victim(s) is homeless",
+    "fieldName" : "homeless_victim_crime",
+    "position" : 26,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122223,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "Yes",
+      "null" : "0",
+      "top" : [ {
+        "item" : "No",
+        "count" : "502197"
+      }, {
+        "item" : "Yes",
+        "count" : "14502"
+      } ],
+      "smallest" : "No",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418883,
+    "name" : "Homeless-Suspect Crime",
+    "dataTypeName" : "text",
+    "description" : "\"YES or NO\" whether suspect(s) is homeless",
+    "fieldName" : "homeless_suspect_crime",
+    "position" : 27,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122224,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "Yes",
+      "null" : "0",
+      "top" : [ {
+        "item" : "No",
+        "count" : "495639"
+      }, {
+        "item" : "Yes",
+        "count" : "21060"
+      } ],
+      "smallest" : "No",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418884,
+    "name" : "Homeless-Arrestee Crime",
+    "dataTypeName" : "text",
+    "description" : "\"YES or NO\" whether arrestee(s) is homeless",
+    "fieldName" : "homeless_arrestee_crime",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 157122225,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "Yes",
+      "null" : "0",
+      "top" : [ {
+        "item" : "No",
+        "count" : "483642"
+      }, {
+        "item" : "Yes",
+        "count" : "33057"
+      } ],
+      "smallest" : "No",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418885,
+    "name" : "LOCATION",
+    "dataTypeName" : "text",
+    "description" : "Street address of crime incident rounded to the nearest hundred block to maintain anonymity",
+    "fieldName" : "hndrdth_loc_chk",
+    "position" : 29,
+    "renderTypeName" : "text",
+    "tableColumnId" : 164033943,
+    "cachedContents" : {
+      "non_null" : "516699",
+      "largest" : "Zoo Dr & Western Heritage Way",
+      "null" : "0",
+      "top" : [ {
+        "item" : "600 S Alvarado St",
+        "count" : "1377"
+      }, {
+        "item" : "5300 Lankershim Blvd",
+        "count" : "974"
+      }, {
+        "item" : "10200 Santa Monica Blvd",
+        "count" : "883"
+      }, {
+        "item" : "600 S Figueroa St",
+        "count" : "880"
+      }, {
+        "item" : "100 The Grove Dr",
+        "count" : "799"
+      }, {
+        "item" : "300 World Way",
+        "count" : "775"
+      }, {
+        "item" : "700 S Figueroa St",
+        "count" : "763"
+      }, {
+        "item" : "200 E 6th St",
+        "count" : "747"
+      }, {
+        "item" : "9300 Tampa Ave",
+        "count" : "726"
+      }, {
+        "item" : "900 N Spring St",
+        "count" : "718"
+      }, {
+        "item" : "5400 Hollywood Blvd",
+        "count" : "711"
+      }, {
+        "item" : "800 N Alameda St",
+        "count" : "698"
+      }, {
+        "item" : "6600 Topanga Canyon Blvd",
+        "count" : "674"
+      }, {
+        "item" : "7600 S Broadway",
+        "count" : "674"
+      }, {
+        "item" : "200 S Hope St",
+        "count" : "623"
+      }, {
+        "item" : "6800 Hollywood Blvd",
+        "count" : "610"
+      }, {
+        "item" : "4800 Venice Blvd",
+        "count" : "563"
+      }, {
+        "item" : "500 S Hill St",
+        "count" : "555"
+      }, {
+        "item" : "6200 Hollywood Blvd",
+        "count" : "554"
+      }, {
+        "item" : "1200 N Spring St",
+        "count" : "542"
+      } ],
+      "smallest" : " ",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418886,
+    "name" : "LAT",
+    "dataTypeName" : "number",
+    "description" : "Latitude",
+    "fieldName" : "hndrdth_lat",
+    "position" : 30,
+    "renderTypeName" : "number",
+    "tableColumnId" : 164033944,
+    "cachedContents" : {
+      "non_null" : "516568",
+      "largest" : "34.7044",
+      "null" : "131",
+      "top" : [ {
+        "item" : "34.1016",
+        "count" : "3608"
+      }, {
+        "item" : "34.098",
+        "count" : "2572"
+      }, {
+        "item" : "34.1939",
+        "count" : "2554"
+      }, {
+        "item" : "34.2012",
+        "count" : "2346"
+      }, {
+        "item" : "34.0595",
+        "count" : "2243"
+      }, {
+        "item" : "34.1867",
+        "count" : "2239"
+      }, {
+        "item" : "33.9455",
+        "count" : "2124"
+      }, {
+        "item" : "34.0473",
+        "count" : "1956"
+      }, {
+        "item" : "34.1938",
+        "count" : "1859"
+      }, {
+        "item" : "34.1649",
+        "count" : "1738"
+      }, {
+        "item" : "34.2011",
+        "count" : "1644"
+      }, {
+        "item" : "34.0109",
+        "count" : "1582"
+      }, {
+        "item" : "34.0981",
+        "count" : "1554"
+      }, {
+        "item" : "34.0446",
+        "count" : "1537"
+      }, {
+        "item" : "34.0508",
+        "count" : "1468"
+      }, {
+        "item" : "34.0617",
+        "count" : "1459"
+      }, {
+        "item" : "34.1017",
+        "count" : "1446"
+      }, {
+        "item" : "34.0618",
+        "count" : "1407"
+      }, {
+        "item" : "34.0736",
+        "count" : "1366"
+      }, {
+        "item" : "34.1576",
+        "count" : "1350"
+      } ],
+      "smallest" : "0.0",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  }, {
+    "id" : 628418887,
+    "name" : "LON",
+    "dataTypeName" : "number",
+    "description" : "Longitude",
+    "fieldName" : "hndrdth_lon",
+    "position" : 31,
+    "renderTypeName" : "number",
+    "tableColumnId" : 164033945,
+    "cachedContents" : {
+      "non_null" : "516568",
+      "largest" : "0E-7",
+      "null" : "131",
+      "top" : [ {
+        "item" : "-118.2739",
+        "count" : "4264"
+      }, {
+        "item" : "-118.2827",
+        "count" : "3946"
+      }, {
+        "item" : "-118.2783",
+        "count" : "3019"
+      }, {
+        "item" : "-118.2914",
+        "count" : "2948"
+      }, {
+        "item" : "-118.3089",
+        "count" : "2794"
+      }, {
+        "item" : "-118.4662",
+        "count" : "2715"
+      }, {
+        "item" : "-118.2916",
+        "count" : "2620"
+      }, {
+        "item" : "-118.2652",
+        "count" : "2515"
+      }, {
+        "item" : "-118.2749",
+        "count" : "2418"
+      }, {
+        "item" : "-118.3090",
+        "count" : "2345"
+      }, {
+        "item" : "-118.2871",
+        "count" : "2279"
+      }, {
+        "item" : "-118.3091",
+        "count" : "2185"
+      }, {
+        "item" : "-118.4487",
+        "count" : "2139"
+      }, {
+        "item" : "-118.3965",
+        "count" : "2043"
+      }, {
+        "item" : "-118.2565",
+        "count" : "1929"
+      }, {
+        "item" : "-118.3092",
+        "count" : "1883"
+      }, {
+        "item" : "-118.4488",
+        "count" : "1808"
+      }, {
+        "item" : "-118.2917",
+        "count" : "1777"
+      }, {
+        "item" : "-118.3877",
+        "count" : "1643"
+      }, {
+        "item" : "-118.3703",
+        "count" : "1635"
+      } ],
+      "smallest" : "-118.8289",
+      "count" : "516699",
+      "cardinality" : "516699"
+    },
+    "format" : { }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Committed Update Frequency" : {
+        "Refresh rate" : "Other - See Description"
+      },
+      "Automated?" : {
+        "Automated?" : "No"
+      },
+      "Location Specified" : {
+        "Does this data have a Location column? (Yes or No)" : "Yes",
+        "What geographic unit is the data collected?" : "Latitude/longitude"
+      },
+      "Data Owner" : {
+        "Department" : "LAPD"
+      }
+    },
+    "rowIdentifier" : 628418858,
+    "rowLabel" : "Offenses",
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "i94w-dnm2",
+    "displayName" : "lapd-opendata-publisher",
+    "screenName" : "lapd-opendata-publisher",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "query" : { },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i94w-dnm2",
+    "displayName" : "lapd-opendata-publisher",
+    "screenName" : "lapd-opendata-publisher",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "tags" : [ "lapd", "crime", "crime data", "safe city", "police", "crimes" ],
+  "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+}

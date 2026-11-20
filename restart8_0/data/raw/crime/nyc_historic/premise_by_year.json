@@ -1,0 +1,2682 @@
+[{"yr":"1010","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1010","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1010","value":"DRUG STORE","n":"1"}
+,{"yr":"1010","value":"OTHER","n":"1"}
+,{"yr":"1010","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1010","value":"STREET","n":"1"}
+,{"yr":"1011","value":"GROCERY/BODEGA","n":"1"}
+,{"yr":"1011","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1011","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1012","value":"MAILBOX INSIDE","n":"1"}
+,{"yr":"1012","value":"MAILBOX OUTSIDE","n":"1"}
+,{"yr":"1012","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1012","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1013","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1013","value":"STREET","n":"1"}
+,{"yr":"1014","value":"CHAIN STORE","n":"1"}
+,{"yr":"1014","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1014","value":"STREET","n":"4"}
+,{"yr":"1015","value":"CHECK CASHING BUSINESS","n":"1"}
+,{"yr":"1015","value":"CLOTHING/BOUTIQUE","n":"1"}
+,{"yr":"1015","value":"COLLEGE/UNIVERSITY","n":"1"}
+,{"yr":"1015","value":"GYM/FITNESS FACILITY","n":"1"}
+,{"yr":"1015","value":"RESIDENCE - APT. HOUSE","n":"4"}
+,{"yr":"1015","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1015","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1015","value":"STREET","n":"4"}
+,{"yr":"1016","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1016","value":"GAS STATION","n":"1"}
+,{"yr":"1016","value":"OTHER","n":"1"}
+,{"yr":"1016","value":"PARKING LOT/GARAGE (PRIVATE)","n":"1"}
+,{"yr":"1016","value":"PARKING LOT/GARAGE (PUBLIC)","n":"1"}
+,{"yr":"1016","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"1016","value":"RESIDENCE - APT. HOUSE","n":"5"}
+,{"yr":"1016","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1016","value":"STREET","n":"5"}
+,{"yr":"1016","value":"TRANSIT - NYC SUBWAY","n":"1"}
+,{"yr":"1017","value":"BANK","n":"1"}
+,{"yr":"1017","value":"DRUG STORE","n":"1"}
+,{"yr":"1017","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"1017","value":"OTHER","n":"1"}
+,{"yr":"1017","value":"RESIDENCE - APT. HOUSE","n":"8"}
+,{"yr":"1017","value":"RESIDENCE-HOUSE","n":"3"}
+,{"yr":"1017","value":"STREET","n":"9"}
+,{"yr":"1018","value":"CHAIN STORE","n":"1"}
+,{"yr":"1018","value":"CHURCH","n":"1"}
+,{"yr":"1018","value":"DOCTOR/DENTIST OFFICE","n":"1"}
+,{"yr":"1018","value":"FAST FOOD","n":"1"}
+,{"yr":"1018","value":"HOSPITAL","n":"1"}
+,{"yr":"1018","value":"OTHER","n":"3"}
+,{"yr":"1018","value":"RESIDENCE - APT. HOUSE","n":"9"}
+,{"yr":"1018","value":"RESIDENCE-HOUSE","n":"2"}
+,{"yr":"1018","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1018","value":"RESTAURANT/DINER","n":"1"}
+,{"yr":"1018","value":"STREET","n":"6"}
+,{"yr":"1019","value":"CHAIN STORE","n":"1"}
+,{"yr":"1019","value":"OTHER","n":"2"}
+,{"yr":"1019","value":"RESIDENCE - APT. HOUSE","n":"4"}
+,{"yr":"1019","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1019","value":"RESTAURANT/DINER","n":"1"}
+,{"yr":"1019","value":"STREET","n":"4"}
+,{"yr":"1020","value":"STREET","n":"2"}
+,{"yr":"1021","value":"GROCERY/BODEGA","n":"1"}
+,{"yr":"1021","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"1021","value":"RESIDENCE - APT. HOUSE","n":"3"}
+,{"yr":"1021","value":"STORAGE FACILITY","n":"1"}
+,{"yr":"1021","value":"STREET","n":"1"}
+,{"yr":"1022","value":"CHAIN STORE","n":"1"}
+,{"yr":"1022","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1022","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1022","value":"DRUG STORE","n":"1"}
+,{"yr":"1022","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1022","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1022","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1022","value":"STREET","n":"3"}
+,{"yr":"1023","value":"CHECK CASHING BUSINESS","n":"1"}
+,{"yr":"1023","value":"COMMERCIAL BUILDING","n":"2"}
+,{"yr":"1023","value":"FAST FOOD","n":"1"}
+,{"yr":"1023","value":"HOMELESS SHELTER","n":"2"}
+,{"yr":"1023","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"1023","value":"(null)","n":"1"}
+,{"yr":"1023","value":"PUBLIC SCHOOL","n":"2"}
+,{"yr":"1023","value":"RESIDENCE - APT. HOUSE","n":"4"}
+,{"yr":"1023","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1023","value":"STREET","n":"9"}
+,{"yr":"1024","value":"CHAIN STORE","n":"1"}
+,{"yr":"1024","value":"FOOD SUPERMARKET","n":"1"}
+,{"yr":"1024","value":"GYM/FITNESS FACILITY","n":"1"}
+,{"yr":"1024","value":"OTHER","n":"2"}
+,{"yr":"1024","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"1024","value":"RESIDENCE - APT. HOUSE","n":"6"}
+,{"yr":"1024","value":"STREET","n":"7"}
+,{"yr":"1025","value":"CLOTHING/BOUTIQUE","n":"1"}
+,{"yr":"1025","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1025","value":"GROCERY/BODEGA","n":"1"}
+,{"yr":"1025","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1025","value":"STREET","n":"2"}
+,{"yr":"1026","value":"CHAIN STORE","n":"1"}
+,{"yr":"1026","value":"DRUG STORE","n":"1"}
+,{"yr":"1026","value":"RESTAURANT/DINER","n":"1"}
+,{"yr":"1026","value":"STREET","n":"2"}
+,{"yr":"1027","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1027","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1027","value":"STREET","n":"1"}
+,{"yr":"1028","value":"BEAUTY & NAIL SALON","n":"1"}
+,{"yr":"1028","value":"CHAIN STORE","n":"1"}
+,{"yr":"1028","value":"FAST FOOD","n":"1"}
+,{"yr":"1028","value":"PARKING LOT/GARAGE (PRIVATE)","n":"1"}
+,{"yr":"1028","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1028","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1028","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1028","value":"STREET","n":"3"}
+,{"yr":"1029","value":"DRUG STORE","n":"1"}
+,{"yr":"1029","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1029","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1029","value":"STREET","n":"1"}
+,{"yr":"1900","value":"RESIDENCE - APT. HOUSE","n":"3"}
+,{"yr":"1900","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1900","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1900","value":"STREET","n":"1"}
+,{"yr":"1905","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1905","value":"STREET","n":"1"}
+,{"yr":"1906","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1908","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1908","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1909","value":"OTHER","n":"1"}
+,{"yr":"1909","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1909","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1910","value":"CLOTHING/BOUTIQUE","n":"1"}
+,{"yr":"1910","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1910","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1910","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1910","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1910","value":"STREET","n":"3"}
+,{"yr":"1911","value":"CLOTHING/BOUTIQUE","n":"1"}
+,{"yr":"1911","value":"OTHER","n":"1"}
+,{"yr":"1911","value":"RESIDENCE - APT. HOUSE","n":"4"}
+,{"yr":"1911","value":"STREET","n":"2"}
+,{"yr":"1912","value":"BAR/NIGHT CLUB","n":"1"}
+,{"yr":"1912","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1912","value":"PARKING LOT/GARAGE (PUBLIC)","n":"1"}
+,{"yr":"1912","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1912","value":"RESIDENCE - APT. HOUSE","n":"3"}
+,{"yr":"1912","value":"STREET","n":"4"}
+,{"yr":"1913","value":"OTHER","n":"1"}
+,{"yr":"1913","value":"RESIDENCE - APT. HOUSE","n":"5"}
+,{"yr":"1913","value":"STORAGE FACILITY","n":"1"}
+,{"yr":"1913","value":"STREET","n":"2"}
+,{"yr":"1914","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1914","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1914","value":"RESIDENCE-HOUSE","n":"2"}
+,{"yr":"1914","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1914","value":"STREET","n":"5"}
+,{"yr":"1914","value":"SYNAGOGUE","n":"1"}
+,{"yr":"1915","value":"HOSPITAL","n":"1"}
+,{"yr":"1915","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1915","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1915","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1915","value":"STREET","n":"3"}
+,{"yr":"1915","value":"TAXI (LIVERY LICENSED)","n":"1"}
+,{"yr":"1916","value":"BAR/NIGHT CLUB","n":"1"}
+,{"yr":"1916","value":"DEPARTMENT STORE","n":"2"}
+,{"yr":"1916","value":"PARKING LOT/GARAGE (PUBLIC)","n":"1"}
+,{"yr":"1916","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1916","value":"STREET","n":"2"}
+,{"yr":"1917","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1917","value":"RESIDENCE - APT. HOUSE","n":"3"}
+,{"yr":"1917","value":"STREET","n":"1"}
+,{"yr":"1918","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1918","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1918","value":"RESIDENCE-HOUSE","n":"3"}
+,{"yr":"1918","value":"STREET","n":"1"}
+,{"yr":"1919","value":"CHAIN STORE","n":"1"}
+,{"yr":"1919","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1919","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1920","value":"BEAUTY & NAIL SALON","n":"1"}
+,{"yr":"1920","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1920","value":"DRUG STORE","n":"2"}
+,{"yr":"1920","value":"FAST FOOD","n":"1"}
+,{"yr":"1920","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"1920","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1920","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1920","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"1920","value":"RESTAURANT/DINER","n":"1"}
+,{"yr":"1920","value":"STREET","n":"3"}
+,{"yr":"1921","value":"DRUG STORE","n":"1"}
+,{"yr":"1921","value":"OTHER","n":"1"}
+,{"yr":"1921","value":"RESIDENCE - APT. HOUSE","n":"4"}
+,{"yr":"1921","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1921","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1921","value":"STREET","n":"1"}
+,{"yr":"1922","value":"CHAIN STORE","n":"1"}
+,{"yr":"1922","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1922","value":"OTHER","n":"1"}
+,{"yr":"1922","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1922","value":"RESIDENCE-HOUSE","n":"2"}
+,{"yr":"1922","value":"STREET","n":"2"}
+,{"yr":"1923","value":"CHAIN STORE","n":"1"}
+,{"yr":"1923","value":"(null)","n":"1"}
+,{"yr":"1923","value":"RESIDENCE - APT. HOUSE","n":"3"}
+,{"yr":"1924","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1924","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1924","value":"STREET","n":"2"}
+,{"yr":"1928","value":"STREET","n":"1"}
+,{"yr":"1929","value":"OTHER","n":"1"}
+,{"yr":"1930","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1938","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1940","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1941","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1941","value":"STREET","n":"1"}
+,{"yr":"1942","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1945","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1945","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1946","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1946","value":"STREET","n":"1"}
+,{"yr":"1947","value":"STREET","n":"1"}
+,{"yr":"1948","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1948","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1949","value":"CHAIN STORE","n":"1"}
+,{"yr":"1949","value":"TELECOMM. STORE","n":"1"}
+,{"yr":"1950","value":"CHAIN STORE","n":"1"}
+,{"yr":"1950","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1950","value":"STREET","n":"1"}
+,{"yr":"1951","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1954","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1954","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1954","value":"STREET","n":"1"}
+,{"yr":"1955","value":"PRIVATE/PAROCHIAL SCHOOL","n":"1"}
+,{"yr":"1955","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1955","value":"RESIDENCE-HOUSE","n":"2"}
+,{"yr":"1955","value":"STREET","n":"1"}
+,{"yr":"1955","value":"TRANSIT - NYC SUBWAY","n":"1"}
+,{"yr":"1956","value":"RESTAURANT/DINER","n":"1"}
+,{"yr":"1957","value":"GROCERY/BODEGA","n":"1"}
+,{"yr":"1957","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1958","value":"(null)","n":"1"}
+,{"yr":"1958","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1959","value":"OTHER","n":"1"}
+,{"yr":"1959","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1960","value":"DRY CLEANER/LAUNDRY","n":"1"}
+,{"yr":"1960","value":"(null)","n":"1"}
+,{"yr":"1960","value":"OTHER","n":"1"}
+,{"yr":"1960","value":"RESIDENCE - APT. HOUSE","n":"3"}
+,{"yr":"1960","value":"RESIDENCE-HOUSE","n":"3"}
+,{"yr":"1960","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1960","value":"STREET","n":"3"}
+,{"yr":"1961","value":"HOSPITAL","n":"1"}
+,{"yr":"1961","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1962","value":"RESIDENCE - APT. HOUSE","n":"2"}
+,{"yr":"1962","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1963","value":"CHURCH","n":"1"}
+,{"yr":"1964","value":"CHURCH","n":"1"}
+,{"yr":"1964","value":"CLOTHING/BOUTIQUE","n":"1"}
+,{"yr":"1964","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1965","value":"(null)","n":"1"}
+,{"yr":"1965","value":"RESIDENCE - APT. HOUSE","n":"4"}
+,{"yr":"1965","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1965","value":"STREET","n":"2"}
+,{"yr":"1966","value":"BAR/NIGHT CLUB","n":"1"}
+,{"yr":"1966","value":"BEAUTY & NAIL SALON","n":"1"}
+,{"yr":"1966","value":"COMMERCIAL BUILDING","n":"2"}
+,{"yr":"1966","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1966","value":"DOCTOR/DENTIST OFFICE","n":"2"}
+,{"yr":"1966","value":"OTHER","n":"2"}
+,{"yr":"1966","value":"PUBLIC SCHOOL","n":"2"}
+,{"yr":"1966","value":"RESIDENCE - APT. HOUSE","n":"5"}
+,{"yr":"1966","value":"RESIDENCE-HOUSE","n":"4"}
+,{"yr":"1966","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"1966","value":"STREET","n":"8"}
+,{"yr":"1966","value":"TRANSIT - NYC SUBWAY","n":"1"}
+,{"yr":"1967","value":"CHAIN STORE","n":"1"}
+,{"yr":"1967","value":"CHURCH","n":"1"}
+,{"yr":"1967","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1967","value":"(null)","n":"2"}
+,{"yr":"1967","value":"PARKING LOT/GARAGE (PUBLIC)","n":"1"}
+,{"yr":"1967","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"1967","value":"RESIDENCE - APT. HOUSE","n":"6"}
+,{"yr":"1967","value":"RESIDENCE-HOUSE","n":"2"}
+,{"yr":"1967","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1967","value":"STREET","n":"1"}
+,{"yr":"1968","value":"CHURCH","n":"3"}
+,{"yr":"1968","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1968","value":"RESIDENCE - APT. HOUSE","n":"4"}
+,{"yr":"1968","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"1968","value":"STREET","n":"6"}
+,{"yr":"1969","value":"CHURCH","n":"1"}
+,{"yr":"1969","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1969","value":"HOSPITAL","n":"1"}
+,{"yr":"1969","value":"(null)","n":"2"}
+,{"yr":"1969","value":"RESIDENCE - APT. HOUSE","n":"1"}
+,{"yr":"1969","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1969","value":"STREET","n":"6"}
+,{"yr":"1970","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1970","value":"FOOD SUPERMARKET","n":"1"}
+,{"yr":"1970","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"1970","value":"(null)","n":"2"}
+,{"yr":"1970","value":"OTHER","n":"1"}
+,{"yr":"1970","value":"RESIDENCE - APT. HOUSE","n":"5"}
+,{"yr":"1970","value":"RESIDENCE-HOUSE","n":"4"}
+,{"yr":"1970","value":"RESIDENCE - PUBLIC HOUSING","n":"4"}
+,{"yr":"1970","value":"STREET","n":"1"}
+,{"yr":"1971","value":"CHAIN STORE","n":"2"}
+,{"yr":"1971","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1971","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"1971","value":"OTHER","n":"5"}
+,{"yr":"1971","value":"PUBLIC BUILDING","n":"1"}
+,{"yr":"1971","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1971","value":"RESIDENCE - APT. HOUSE","n":"5"}
+,{"yr":"1971","value":"RESIDENCE-HOUSE","n":"4"}
+,{"yr":"1971","value":"STREET","n":"1"}
+,{"yr":"1971","value":"TRANSIT - NYC SUBWAY","n":"1"}
+,{"yr":"1972","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1972","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1972","value":"DRUG STORE","n":"1"}
+,{"yr":"1972","value":"(null)","n":"1"}
+,{"yr":"1972","value":"OTHER","n":"2"}
+,{"yr":"1972","value":"RESIDENCE - APT. HOUSE","n":"4"}
+,{"yr":"1972","value":"RESIDENCE-HOUSE","n":"7"}
+,{"yr":"1972","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"1972","value":"STREET","n":"5"}
+,{"yr":"1973","value":"BUS (OTHER)","n":"1"}
+,{"yr":"1973","value":"CHAIN STORE","n":"2"}
+,{"yr":"1973","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1973","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"1973","value":"MAILBOX OUTSIDE","n":"1"}
+,{"yr":"1973","value":"MULTI DWELL - APT BUILD","n":"2"}
+,{"yr":"1973","value":"(null)","n":"1"}
+,{"yr":"1973","value":"OTHER","n":"4"}
+,{"yr":"1973","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1973","value":"RESIDENCE - APT. HOUSE","n":"5"}
+,{"yr":"1973","value":"RESIDENCE-HOUSE","n":"1"}
+,{"yr":"1973","value":"RESIDENCE - PUBLIC HOUSING","n":"3"}
+,{"yr":"1973","value":"STREET","n":"7"}
+,{"yr":"1974","value":"BAR/NIGHT CLUB","n":"1"}
+,{"yr":"1974","value":"CHAIN STORE","n":"1"}
+,{"yr":"1974","value":"COMMERCIAL BUILDING","n":"2"}
+,{"yr":"1974","value":"DRUG STORE","n":"1"}
+,{"yr":"1974","value":"MULTI DWELL - PUBLIC HOUS","n":"1"}
+,{"yr":"1974","value":"(null)","n":"2"}
+,{"yr":"1974","value":"OTHER","n":"2"}
+,{"yr":"1974","value":"RESIDENCE - APT. HOUSE","n":"5"}
+,{"yr":"1974","value":"RESIDENCE-HOUSE","n":"2"}
+,{"yr":"1974","value":"STREET","n":"3"}
+,{"yr":"1974","value":"TRANSIT - NYC SUBWAY","n":"1"}
+,{"yr":"1975","value":"CHURCH","n":"1"}
+,{"yr":"1975","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1975","value":"MULTI DWELL - APT BUILD","n":"1"}
+,{"yr":"1975","value":"(null)","n":"1"}
+,{"yr":"1975","value":"OTHER","n":"6"}
+,{"yr":"1975","value":"RESIDENCE - APT. HOUSE","n":"9"}
+,{"yr":"1975","value":"RESIDENCE-HOUSE","n":"5"}
+,{"yr":"1975","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"1975","value":"RESTAURANT/DINER","n":"1"}
+,{"yr":"1975","value":"STREET","n":"3"}
+,{"yr":"1976","value":"CHURCH","n":"1"}
+,{"yr":"1976","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1976","value":"MULTI DWELL - PUBLIC HOUS","n":"1"}
+,{"yr":"1976","value":"(null)","n":"3"}
+,{"yr":"1976","value":"OTHER","n":"1"}
+,{"yr":"1976","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1976","value":"RESIDENCE - APT. HOUSE","n":"5"}
+,{"yr":"1976","value":"RESIDENCE-HOUSE","n":"2"}
+,{"yr":"1976","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"1977","value":"CHAIN STORE","n":"1"}
+,{"yr":"1977","value":"CHURCH","n":"1"}
+,{"yr":"1977","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1977","value":"(null)","n":"4"}
+,{"yr":"1977","value":"OTHER","n":"1"}
+,{"yr":"1977","value":"PRIVATE/PAROCHIAL SCHOOL","n":"1"}
+,{"yr":"1977","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1977","value":"RESIDENCE - APT. HOUSE","n":"7"}
+,{"yr":"1977","value":"RESIDENCE-HOUSE","n":"4"}
+,{"yr":"1977","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1977","value":"STREET","n":"1"}
+,{"yr":"1978","value":"CLOTHING/BOUTIQUE","n":"1"}
+,{"yr":"1978","value":"MULTI DWELL - APT BUILD","n":"1"}
+,{"yr":"1978","value":"OTHER","n":"3"}
+,{"yr":"1978","value":"RESIDENCE - APT. HOUSE","n":"5"}
+,{"yr":"1978","value":"RESIDENCE-HOUSE","n":"5"}
+,{"yr":"1978","value":"RESIDENCE - PUBLIC HOUSING","n":"1"}
+,{"yr":"1978","value":"SOCIAL CLUB/POLICY","n":"1"}
+,{"yr":"1979","value":"BAR/NIGHT CLUB","n":"1"}
+,{"yr":"1979","value":"COMMERCIAL BLDG","n":"1"}
+,{"yr":"1979","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1979","value":"DOCTOR/DENTIST OFFICE","n":"1"}
+,{"yr":"1979","value":"GROCERY/BODEGA","n":"1"}
+,{"yr":"1979","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"1979","value":"MULTI DWELL - APT BUILD","n":"2"}
+,{"yr":"1979","value":"(null)","n":"1"}
+,{"yr":"1979","value":"OPEN AREAS (OPEN LOTS)","n":"1"}
+,{"yr":"1979","value":"OTHER","n":"3"}
+,{"yr":"1979","value":"RESIDENCE - APT. HOUSE","n":"8"}
+,{"yr":"1979","value":"RESIDENCE-HOUSE","n":"7"}
+,{"yr":"1979","value":"STREET","n":"1"}
+,{"yr":"1980","value":"GROCERY/BODEGA","n":"1"}
+,{"yr":"1980","value":"MULTI DWELL - APT BUILD","n":"1"}
+,{"yr":"1980","value":"(null)","n":"2"}
+,{"yr":"1980","value":"PARKING LOT/GARAGE (PUBLIC)","n":"1"}
+,{"yr":"1980","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1980","value":"PVT HOUSE","n":"1"}
+,{"yr":"1980","value":"RESIDENCE - APT. HOUSE","n":"11"}
+,{"yr":"1980","value":"RESIDENCE-HOUSE","n":"8"}
+,{"yr":"1980","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"1980","value":"STREET","n":"3"}
+,{"yr":"1981","value":"CHAIN STORE","n":"1"}
+,{"yr":"1981","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1981","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1981","value":"MULTI DWELL - APT BUILD","n":"1"}
+,{"yr":"1981","value":"(null)","n":"1"}
+,{"yr":"1981","value":"OTHER","n":"6"}
+,{"yr":"1981","value":"RESIDENCE - APT. HOUSE","n":"5"}
+,{"yr":"1981","value":"RESIDENCE-HOUSE","n":"7"}
+,{"yr":"1981","value":"STREET","n":"1"}
+,{"yr":"1982","value":"CHURCH","n":"1"}
+,{"yr":"1982","value":"(null)","n":"2"}
+,{"yr":"1982","value":"OTHER","n":"2"}
+,{"yr":"1982","value":"RESIDENCE - APT. HOUSE","n":"4"}
+,{"yr":"1982","value":"RESIDENCE-HOUSE","n":"5"}
+,{"yr":"1982","value":"STREET","n":"2"}
+,{"yr":"1983","value":"BAR/NIGHT CLUB","n":"2"}
+,{"yr":"1983","value":"CHURCH","n":"2"}
+,{"yr":"1983","value":"COMMERCIAL BLDG","n":"1"}
+,{"yr":"1983","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"1983","value":"(null)","n":"2"}
+,{"yr":"1983","value":"OTHER","n":"1"}
+,{"yr":"1983","value":"RESIDENCE - APT. HOUSE","n":"6"}
+,{"yr":"1983","value":"RESIDENCE-HOUSE","n":"7"}
+,{"yr":"1983","value":"STORE UNCLASSIFIED","n":"1"}
+,{"yr":"1983","value":"STREET","n":"1"}
+,{"yr":"1984","value":"CHURCH","n":"1"}
+,{"yr":"1984","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1984","value":"GAS STATION","n":"1"}
+,{"yr":"1984","value":"MULTI DWELL - APT BUILD","n":"2"}
+,{"yr":"1984","value":"MULTI DWELL - PUBLIC HOUS","n":"1"}
+,{"yr":"1984","value":"(null)","n":"2"}
+,{"yr":"1984","value":"OTHER","n":"2"}
+,{"yr":"1984","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"1984","value":"RESIDENCE - APT. HOUSE","n":"10"}
+,{"yr":"1984","value":"RESIDENCE-HOUSE","n":"4"}
+,{"yr":"1984","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"1984","value":"STREET","n":"3"}
+,{"yr":"1985","value":"DOCTOR/DENTIST OFFICE","n":"1"}
+,{"yr":"1985","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"1985","value":"MULTI DWELL - APT BUILD","n":"2"}
+,{"yr":"1985","value":"(null)","n":"1"}
+,{"yr":"1985","value":"OTHER","n":"5"}
+,{"yr":"1985","value":"PARKING LOT/GARAGE (PRIVATE)","n":"1"}
+,{"yr":"1985","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1985","value":"RESIDENCE - APT. HOUSE","n":"11"}
+,{"yr":"1985","value":"RESIDENCE-HOUSE","n":"9"}
+,{"yr":"1985","value":"RESIDENCE - PUBLIC HOUSING","n":"5"}
+,{"yr":"1985","value":"STORE UNCLASSIFIED","n":"1"}
+,{"yr":"1985","value":"STREET","n":"2"}
+,{"yr":"1985","value":"TRANSIT - NYC SUBWAY","n":"1"}
+,{"yr":"1986","value":"CHURCH","n":"2"}
+,{"yr":"1986","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1986","value":"GROCERY/BODEGA","n":"1"}
+,{"yr":"1986","value":"MULTI DWELL - PUBLIC HOUS","n":"1"}
+,{"yr":"1986","value":"(null)","n":"3"}
+,{"yr":"1986","value":"OTHER","n":"4"}
+,{"yr":"1986","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1986","value":"RESIDENCE - APT. HOUSE","n":"22"}
+,{"yr":"1986","value":"RESIDENCE-HOUSE","n":"7"}
+,{"yr":"1986","value":"RESIDENCE - PUBLIC HOUSING","n":"5"}
+,{"yr":"1986","value":"STREET","n":"3"}
+,{"yr":"1987","value":"CHURCH","n":"1"}
+,{"yr":"1987","value":"(null)","n":"3"}
+,{"yr":"1987","value":"OTHER","n":"4"}
+,{"yr":"1987","value":"RESIDENCE - APT. HOUSE","n":"20"}
+,{"yr":"1987","value":"RESIDENCE-HOUSE","n":"7"}
+,{"yr":"1987","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"1987","value":"STREET","n":"1"}
+,{"yr":"1988","value":"BAR/NIGHT CLUB","n":"2"}
+,{"yr":"1988","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"1988","value":"MULTI DWELL - APT BUILD","n":"1"}
+,{"yr":"1988","value":"MULTI DWELL - PUBLIC HOUS","n":"1"}
+,{"yr":"1988","value":"(null)","n":"3"}
+,{"yr":"1988","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"1988","value":"PRIVATE/PAROCHIAL SCHOOL","n":"1"}
+,{"yr":"1988","value":"PVT HOUSE","n":"1"}
+,{"yr":"1988","value":"RESIDENCE - APT. HOUSE","n":"17"}
+,{"yr":"1988","value":"RESIDENCE-HOUSE","n":"9"}
+,{"yr":"1988","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"1988","value":"STREET","n":"2"}
+,{"yr":"1989","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1989","value":"GROCERY/BODEGA","n":"1"}
+,{"yr":"1989","value":"HOSPITAL","n":"1"}
+,{"yr":"1989","value":"MULTI DWELL - APT BUILD","n":"1"}
+,{"yr":"1989","value":"(null)","n":"8"}
+,{"yr":"1989","value":"OTHER","n":"5"}
+,{"yr":"1989","value":"RESIDENCE - APT. HOUSE","n":"28"}
+,{"yr":"1989","value":"RESIDENCE-HOUSE","n":"7"}
+,{"yr":"1989","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"1989","value":"STREET","n":"1"}
+,{"yr":"1990","value":"COMMERCIAL BLDG","n":"1"}
+,{"yr":"1990","value":"COMMERCIAL BUILDING","n":"2"}
+,{"yr":"1990","value":"HOSPITAL","n":"1"}
+,{"yr":"1990","value":"MULTI DWELL - APT BUILD","n":"3"}
+,{"yr":"1990","value":"MULTI DWELL - PUBLIC HOUS","n":"2"}
+,{"yr":"1990","value":"(null)","n":"9"}
+,{"yr":"1990","value":"PUBLIC BUILDING","n":"1"}
+,{"yr":"1990","value":"PVT HOUSE","n":"1"}
+,{"yr":"1990","value":"RESIDENCE - APT. HOUSE","n":"19"}
+,{"yr":"1990","value":"RESIDENCE-HOUSE","n":"14"}
+,{"yr":"1990","value":"RESIDENCE - PUBLIC HOUSING","n":"8"}
+,{"yr":"1990","value":"STORE UNCLASSIFIED","n":"1"}
+,{"yr":"1990","value":"STREET","n":"1"}
+,{"yr":"1990","value":"TRANSIT - NYC SUBWAY","n":"1"}
+,{"yr":"1991","value":"BANK","n":"1"}
+,{"yr":"1991","value":"HOTEL/MOTEL","n":"2"}
+,{"yr":"1991","value":"JEWELRY STORE","n":"1"}
+,{"yr":"1991","value":"MULTI DWELL - APT BUILD","n":"4"}
+,{"yr":"1991","value":"(null)","n":"3"}
+,{"yr":"1991","value":"OTHER","n":"3"}
+,{"yr":"1991","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"1991","value":"PUBLIC BUILDING","n":"1"}
+,{"yr":"1991","value":"RESIDENCE - APT. HOUSE","n":"33"}
+,{"yr":"1991","value":"RESIDENCE-HOUSE","n":"14"}
+,{"yr":"1991","value":"RESIDENCE - PUBLIC HOUSING","n":"2"}
+,{"yr":"1991","value":"RESTAURANT/DINER","n":"2"}
+,{"yr":"1991","value":"STREET","n":"1"}
+,{"yr":"1992","value":"CHURCH","n":"1"}
+,{"yr":"1992","value":"COMMERCIAL BUILDING","n":"2"}
+,{"yr":"1992","value":"MULTI DWELL - APT BUILD","n":"3"}
+,{"yr":"1992","value":"NONE","n":"1"}
+,{"yr":"1992","value":"(null)","n":"9"}
+,{"yr":"1992","value":"OTHER","n":"3"}
+,{"yr":"1992","value":"PUBLIC BUILDING","n":"1"}
+,{"yr":"1992","value":"PUBLIC SCHOOL","n":"1"}
+,{"yr":"1992","value":"RESIDENCE - APT. HOUSE","n":"33"}
+,{"yr":"1992","value":"RESIDENCE-HOUSE","n":"17"}
+,{"yr":"1992","value":"RESIDENCE - PUBLIC HOUSING","n":"7"}
+,{"yr":"1993","value":"CHECK CASHING BUSINESS","n":"1"}
+,{"yr":"1993","value":"COLLEGE/UNIVERSITY","n":"1"}
+,{"yr":"1993","value":"MULTI DWELL - APT BUILD","n":"2"}
+,{"yr":"1993","value":"MULTI DWELL - PUBLIC HOUS","n":"2"}
+,{"yr":"1993","value":"NONE","n":"1"}
+,{"yr":"1993","value":"(null)","n":"4"}
+,{"yr":"1993","value":"OTHER","n":"7"}
+,{"yr":"1993","value":"PRIVATE/PAROCHIAL SCHOOL","n":"2"}
+,{"yr":"1993","value":"PVT HOUSE","n":"2"}
+,{"yr":"1993","value":"RESIDENCE - APT. HOUSE","n":"36"}
+,{"yr":"1993","value":"RESIDENCE-HOUSE","n":"19"}
+,{"yr":"1993","value":"RESIDENCE - PUBLIC HOUSING","n":"6"}
+,{"yr":"1993","value":"STORE UNCLASSIFIED","n":"1"}
+,{"yr":"1993","value":"STREET","n":"2"}
+,{"yr":"1994","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1994","value":"DOCTOR/DENTIST OFFICE","n":"1"}
+,{"yr":"1994","value":"GAS STATION","n":"1"}
+,{"yr":"1994","value":"GROCERY/BODEGA","n":"1"}
+,{"yr":"1994","value":"GYM/FITNESS FACILITY","n":"1"}
+,{"yr":"1994","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"1994","value":"MULTI DWELL - APT BUILD","n":"1"}
+,{"yr":"1994","value":"MULTI DWELL - PUBLIC HOUS","n":"2"}
+,{"yr":"1994","value":"(null)","n":"5"}
+,{"yr":"1994","value":"OTHER","n":"2"}
+,{"yr":"1994","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"1994","value":"PUBLIC SCHOOL","n":"3"}
+,{"yr":"1994","value":"RESIDENCE - APT. HOUSE","n":"50"}
+,{"yr":"1994","value":"RESIDENCE-HOUSE","n":"33"}
+,{"yr":"1994","value":"RESIDENCE - PUBLIC HOUSING","n":"10"}
+,{"yr":"1994","value":"STORAGE FACILITY","n":"1"}
+,{"yr":"1994","value":"STORE UNCLASSIFIED","n":"1"}
+,{"yr":"1994","value":"STREET","n":"4"}
+,{"yr":"1995","value":"BANK","n":"1"}
+,{"yr":"1995","value":"BAR/NIGHT CLUB","n":"1"}
+,{"yr":"1995","value":"CHAIN STORE","n":"1"}
+,{"yr":"1995","value":"COLLEGE/UNIVERSITY","n":"1"}
+,{"yr":"1995","value":"COMMERCIAL BUILDING","n":"2"}
+,{"yr":"1995","value":"DOCTOR/DENTIST OFFICE","n":"2"}
+,{"yr":"1995","value":"GROCERY/BODEGA","n":"2"}
+,{"yr":"1995","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"1995","value":"HOSPITAL","n":"1"}
+,{"yr":"1995","value":"HOTEL/MOTEL","n":"2"}
+,{"yr":"1995","value":"MULTI DWELL - APT BUILD","n":"1"}
+,{"yr":"1995","value":"(null)","n":"5"}
+,{"yr":"1995","value":"OTHER","n":"5"}
+,{"yr":"1995","value":"PARKING LOT/GARAGE (PUBLIC)","n":"1"}
+,{"yr":"1995","value":"PRIVATE/PAROCHIAL SCHOOL","n":"1"}
+,{"yr":"1995","value":"PUBLIC BUILDING","n":"1"}
+,{"yr":"1995","value":"PVT HOUSE","n":"1"}
+,{"yr":"1995","value":"RESIDENCE - APT. HOUSE","n":"58"}
+,{"yr":"1995","value":"RESIDENCE-HOUSE","n":"38"}
+,{"yr":"1995","value":"RESIDENCE - PUBLIC HOUSING","n":"7"}
+,{"yr":"1995","value":"STREET","n":"3"}
+,{"yr":"1996","value":"BANK","n":"1"}
+,{"yr":"1996","value":"COMMERCIAL BUILDING","n":"3"}
+,{"yr":"1996","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1996","value":"DEPT STORE","n":"1"}
+,{"yr":"1996","value":"GROCERY/BODEGA","n":"1"}
+,{"yr":"1996","value":"GYM/FITNESS FACILITY","n":"1"}
+,{"yr":"1996","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"1996","value":"MULTI DWELL - APT BUILD","n":"1"}
+,{"yr":"1996","value":"(null)","n":"2"}
+,{"yr":"1996","value":"OTHER","n":"4"}
+,{"yr":"1996","value":"PARKING LOT/GARAGE (PUBLIC)","n":"1"}
+,{"yr":"1996","value":"PRIVATE/PAROCHIAL SCHOOL","n":"1"}
+,{"yr":"1996","value":"PUBLIC BUILDING","n":"3"}
+,{"yr":"1996","value":"RESIDENCE - APT. HOUSE","n":"82"}
+,{"yr":"1996","value":"RESIDENCE-HOUSE","n":"44"}
+,{"yr":"1996","value":"RESIDENCE - PUBLIC HOUSING","n":"11"}
+,{"yr":"1996","value":"STORAGE FACILITY","n":"1"}
+,{"yr":"1996","value":"STREET","n":"2"}
+,{"yr":"1997","value":"ABANDONED BUILDING","n":"1"}
+,{"yr":"1997","value":"CLOTHING/BOUTIQUE","n":"1"}
+,{"yr":"1997","value":"COMMERCIAL BUILDING","n":"1"}
+,{"yr":"1997","value":"GROCERY/BODEGA","n":"1"}
+,{"yr":"1997","value":"HOSPITAL","n":"1"}
+,{"yr":"1997","value":"HOTEL/MOTEL","n":"2"}
+,{"yr":"1997","value":"LIQUOR STORE","n":"1"}
+,{"yr":"1997","value":"(null)","n":"3"}
+,{"yr":"1997","value":"OTHER","n":"4"}
+,{"yr":"1997","value":"PUBLIC BUILDING","n":"1"}
+,{"yr":"1997","value":"PVT HOUSE","n":"1"}
+,{"yr":"1997","value":"RESIDENCE - APT. HOUSE","n":"93"}
+,{"yr":"1997","value":"RESIDENCE-HOUSE","n":"60"}
+,{"yr":"1997","value":"RESIDENCE - PUBLIC HOUSING","n":"19"}
+,{"yr":"1997","value":"STORE UNCLASSIFIED","n":"1"}
+,{"yr":"1998","value":"ATM","n":"1"}
+,{"yr":"1998","value":"BANK","n":"2"}
+,{"yr":"1998","value":"CHAIN STORE","n":"1"}
+,{"yr":"1998","value":"COMMERCIAL BUILDING","n":"4"}
+,{"yr":"1998","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1998","value":"DOCTOR/DENTIST OFFICE","n":"2"}
+,{"yr":"1998","value":"HOTEL/MOTEL","n":"3"}
+,{"yr":"1998","value":"MULTI DWELL - PUBLIC HOUS","n":"1"}
+,{"yr":"1998","value":"(null)","n":"3"}
+,{"yr":"1998","value":"OTHER","n":"2"}
+,{"yr":"1998","value":"PUBLIC BUILDING","n":"3"}
+,{"yr":"1998","value":"PUBLIC SCHOOL","n":"2"}
+,{"yr":"1998","value":"RESIDENCE - APT. HOUSE","n":"139"}
+,{"yr":"1998","value":"RESIDENCE-HOUSE","n":"95"}
+,{"yr":"1998","value":"RESIDENCE - PUBLIC HOUSING","n":"30"}
+,{"yr":"1998","value":"STORE UNCLASSIFIED","n":"1"}
+,{"yr":"1998","value":"STREET","n":"7"}
+,{"yr":"1999","value":"ATM","n":"2"}
+,{"yr":"1999","value":"BANK","n":"1"}
+,{"yr":"1999","value":"BEAUTY & NAIL SALON","n":"1"}
+,{"yr":"1999","value":"CHURCH","n":"1"}
+,{"yr":"1999","value":"COLLEGE/UNIVERSITY","n":"3"}
+,{"yr":"1999","value":"COMMERCIAL BUILDING","n":"10"}
+,{"yr":"1999","value":"CONSTRUCTION SITE","n":"1"}
+,{"yr":"1999","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"1999","value":"DOCTOR/DENTIST OFFICE","n":"1"}
+,{"yr":"1999","value":"GROCERY/BODEGA","n":"2"}
+,{"yr":"1999","value":"GYM/FITNESS FACILITY","n":"1"}
+,{"yr":"1999","value":"HOTEL/MOTEL","n":"1"}
+,{"yr":"1999","value":"(null)","n":"5"}
+,{"yr":"1999","value":"OTHER","n":"6"}
+,{"yr":"1999","value":"PARKING LOT/GARAGE (PUBLIC)","n":"1"}
+,{"yr":"1999","value":"PUBLIC BUILDING","n":"1"}
+,{"yr":"1999","value":"RESIDENCE - APT. HOUSE","n":"203"}
+,{"yr":"1999","value":"RESIDENCE-HOUSE","n":"125"}
+,{"yr":"1999","value":"RESIDENCE - PUBLIC HOUSING","n":"37"}
+,{"yr":"1999","value":"SOCIAL CLUB/POLICY","n":"1"}
+,{"yr":"1999","value":"STREET","n":"4"}
+,{"yr":"2000","value":"ABANDONED BUILDING","n":"1"}
+,{"yr":"2000","value":"BANK","n":"6"}
+,{"yr":"2000","value":"BAR/NIGHT CLUB","n":"1"}
+,{"yr":"2000","value":"BEAUTY & NAIL SALON","n":"1"}
+,{"yr":"2000","value":"BRIDGE","n":"1"}
+,{"yr":"2000","value":"CHAIN STORE","n":"7"}
+,{"yr":"2000","value":"CHECK CASHING BUSINESS","n":"1"}
+,{"yr":"2000","value":"CHURCH","n":"1"}
+,{"yr":"2000","value":"CLOTHING/BOUTIQUE","n":"5"}
+,{"yr":"2000","value":"COMMERCIAL BUILDING","n":"22"}
+,{"yr":"2000","value":"CONSTRUCTION SITE","n":"3"}
+,{"yr":"2000","value":"DEPARTMENT STORE","n":"7"}
+,{"yr":"2000","value":"DOCTOR/DENTIST OFFICE","n":"3"}
+,{"yr":"2000","value":"DRUG STORE","n":"3"}
+,{"yr":"2000","value":"DRY CLEANER/LAUNDRY","n":"1"}
+,{"yr":"2000","value":"FACTORY/WAREHOUSE","n":"1"}
+,{"yr":"2000","value":"FAST FOOD","n":"2"}
+,{"yr":"2000","value":"FOOD SUPERMARKET","n":"3"}
+,{"yr":"2000","value":"GAS STATION","n":"1"}
+,{"yr":"2000","value":"GROCERY/BODEGA","n":"2"}
+,{"yr":"2000","value":"GYM/FITNESS FACILITY","n":"4"}
+,{"yr":"2000","value":"HOMELESS SHELTER","n":"2"}
+,{"yr":"2000","value":"HOSPITAL","n":"1"}
+,{"yr":"2000","value":"HOTEL/MOTEL","n":"2"}
+,{"yr":"2000","value":"JEWELRY","n":"1"}
+,{"yr":"2000","value":"LIQUOR STORE","n":"1"}
+,{"yr":"2000","value":"MAILBOX OUTSIDE","n":"1"}
+,{"yr":"2000","value":"MULTI DWELL - APT BUILD","n":"1"}
+,{"yr":"2000","value":"MULTI DWELL - PUBLIC HOUS","n":"4"}
+,{"yr":"2000","value":"(null)","n":"15"}
+,{"yr":"2000","value":"OPEN AREAS (OPEN LOTS)","n":"1"}
+,{"yr":"2000","value":"OTHER","n":"32"}
+,{"yr":"2000","value":"PARKING LOT/GARAGE (PRIVATE)","n":"2"}
+,{"yr":"2000","value":"PARKING LOT/GARAGE (PUBLIC)","n":"6"}
+,{"yr":"2000","value":"PARK/PLAYGROUND","n":"4"}
+,{"yr":"2000","value":"PRIVATE/PAROCHIAL SCHOOL","n":"1"}
+,{"yr":"2000","value":"PUBLIC BUILDING","n":"6"}
+,{"yr":"2000","value":"PUBLIC SCHOOL","n":"8"}
+,{"yr":"2000","value":"REAL ESTATE","n":"1"}
+,{"yr":"2000","value":"RESIDENCE - APT. HOUSE","n":"412"}
+,{"yr":"2000","value":"RESIDENCE-HOUSE","n":"261"}
+,{"yr":"2000","value":"RESIDENCE - PUBLIC HOUSING","n":"83"}
+,{"yr":"2000","value":"RESTAURANT/DINER","n":"7"}
+,{"yr":"2000","value":"SMALL MERCHANT","n":"1"}
+,{"yr":"2000","value":"STORAGE FACILITY","n":"1"}
+,{"yr":"2000","value":"STORE UNCLASSIFIED","n":"4"}
+,{"yr":"2000","value":"STREET","n":"146"}
+,{"yr":"2000","value":"SYNAGOGUE","n":"1"}
+,{"yr":"2000","value":"TELECOMM. STORE","n":"1"}
+,{"yr":"2000","value":"TRANSIT - NYC SUBWAY","n":"5"}
+,{"yr":"2000","value":"TUNNEL","n":"1"}
+,{"yr":"2000","value":"VARIETY STORE","n":"1"}
+,{"yr":"2001","value":"ATM","n":"3"}
+,{"yr":"2001","value":"BANK","n":"7"}
+,{"yr":"2001","value":"BAR/NIGHT CLUB","n":"7"}
+,{"yr":"2001","value":"BEAUTY & NAIL SALON","n":"1"}
+,{"yr":"2001","value":"CANDY STORE","n":"2"}
+,{"yr":"2001","value":"CHAIN STORE","n":"9"}
+,{"yr":"2001","value":"CHECK CASHING BUSINESS","n":"1"}
+,{"yr":"2001","value":"CHURCH","n":"3"}
+,{"yr":"2001","value":"CLOTHING/BOUTIQUE","n":"4"}
+,{"yr":"2001","value":"COLLEGE/UNIVERSITY","n":"1"}
+,{"yr":"2001","value":"COMMERCIAL BUILDING","n":"37"}
+,{"yr":"2001","value":"CONSTRUCTION SITE","n":"1"}
+,{"yr":"2001","value":"DEPARTMENT STORE","n":"6"}
+,{"yr":"2001","value":"DOCTOR/DENTIST OFFICE","n":"4"}
+,{"yr":"2001","value":"DRUG STORE","n":"3"}
+,{"yr":"2001","value":"FACTORY/WAREHOUSE","n":"1"}
+,{"yr":"2001","value":"FAST FOOD","n":"2"}
+,{"yr":"2001","value":"FOOD SUPERMARKET","n":"1"}
+,{"yr":"2001","value":"GROCERY/BODEGA","n":"2"}
+,{"yr":"2001","value":"GYM/FITNESS FACILITY","n":"2"}
+,{"yr":"2001","value":"HIGHWAY/PARKWAY","n":"1"}
+,{"yr":"2001","value":"HOMELESS SHELTER","n":"2"}
+,{"yr":"2001","value":"HOSPITAL","n":"5"}
+,{"yr":"2001","value":"HOTEL/MOTEL","n":"5"}
+,{"yr":"2001","value":"MULTI DWELL - PUBLIC HOUS","n":"1"}
+,{"yr":"2001","value":"NONE","n":"1"}
+,{"yr":"2001","value":"(null)","n":"11"}
+,{"yr":"2001","value":"OTHER","n":"29"}
+,{"yr":"2001","value":"OTHER HOUSE OF WORSHIP","n":"1"}
+,{"yr":"2001","value":"PARKING LOT/GARAGE (PRIVATE)","n":"1"}
+,{"yr":"2001","value":"PARKING LOT/GARAGE (PUBLIC)","n":"1"}
+,{"yr":"2001","value":"PARK/PLAYGROUND","n":"4"}
+,{"yr":"2001","value":"PHOTO/COPY","n":"1"}
+,{"yr":"2001","value":"PRIVATE/PAROCHIAL SCHOOL","n":"4"}
+,{"yr":"2001","value":"PUBLIC BUILDING","n":"10"}
+,{"yr":"2001","value":"PUBLIC SCHOOL","n":"5"}
+,{"yr":"2001","value":"RESIDENCE - APT. HOUSE","n":"526"}
+,{"yr":"2001","value":"RESIDENCE-HOUSE","n":"237"}
+,{"yr":"2001","value":"RESIDENCE - PUBLIC HOUSING","n":"105"}
+,{"yr":"2001","value":"RESTAURANT/DINER","n":"4"}
+,{"yr":"2001","value":"SMALL MERCHANT","n":"3"}
+,{"yr":"2001","value":"SOCIAL CLUB/POLICY","n":"1"}
+,{"yr":"2001","value":"STORAGE FACILITY","n":"2"}
+,{"yr":"2001","value":"STORE UNCLASSIFIED","n":"2"}
+,{"yr":"2001","value":"STREET","n":"106"}
+,{"yr":"2001","value":"TRANSIT - NYC SUBWAY","n":"3"}
+,{"yr":"2001","value":"VARIETY STORE","n":"1"}
+,{"yr":"2002","value":"AIRPORT TERMINAL","n":"2"}
+,{"yr":"2002","value":"ATM","n":"2"}
+,{"yr":"2002","value":"BANK","n":"2"}
+,{"yr":"2002","value":"BAR/NIGHT CLUB","n":"7"}
+,{"yr":"2002","value":"BUS (NYC TRANSIT)","n":"1"}
+,{"yr":"2002","value":"BUS TERMINAL","n":"1"}
+,{"yr":"2002","value":"CHAIN STORE","n":"14"}
+,{"yr":"2002","value":"CHECK CASHING BUSINESS","n":"3"}
+,{"yr":"2002","value":"CHURCH","n":"7"}
+,{"yr":"2002","value":"CLOTHING/BOUTIQUE","n":"2"}
+,{"yr":"2002","value":"COMMERCIAL BUILDING","n":"35"}
+,{"yr":"2002","value":"CONSTRUCTION SITE","n":"1"}
+,{"yr":"2002","value":"DEPARTMENT STORE","n":"3"}
+,{"yr":"2002","value":"DOCTOR/DENTIST OFFICE","n":"4"}
+,{"yr":"2002","value":"DRUG STORE","n":"6"}
+,{"yr":"2002","value":"DRY CLEANER/LAUNDRY","n":"1"}
+,{"yr":"2002","value":"FACTORY/WAREHOUSE","n":"1"}
+,{"yr":"2002","value":"FOOD SUPERMARKET","n":"1"}
+,{"yr":"2002","value":"GROCERY/BODEGA","n":"7"}
+,{"yr":"2002","value":"GYM/FITNESS FACILITY","n":"1"}
+,{"yr":"2002","value":"HIGHWAY/PARKWAY","n":"1"}
+,{"yr":"2002","value":"HOMELESS SHELTER","n":"3"}
+,{"yr":"2002","value":"HOSPITAL","n":"3"}
+,{"yr":"2002","value":"HOTEL/MOTEL","n":"4"}
+,{"yr":"2002","value":"LIQUOR STORE","n":"1"}
+,{"yr":"2002","value":"MAILBOX INSIDE","n":"1"}
+,{"yr":"2002","value":"MULTI DWELL - APT BUILD","n":"1"}
+,{"yr":"2002","value":"(null)","n":"14"}
+,{"yr":"2002","value":"OPEN AREAS (OPEN LOTS)","n":"1"}
+,{"yr":"2002","value":"OTHER","n":"46"}
+,{"yr":"2002","value":"PARKING LOT/GARAGE (PUBLIC)","n":"1"}
+,{"yr":"2002","value":"PARK/PLAYGROUND","n":"1"}
+,{"yr":"2002","value":"PRIVATE/PAROCHIAL SCHOOL","n":"1"}
+,{"yr":"2002","value":"PUBLIC BUILDING","n":"8"}
+,{"yr":"2002","value":"PUBLIC SCHOOL","n":"6"}
+,{"yr":"2002","value":"REAL ESTATE","n":"1"}
+,{"yr":"2002","value":"RESIDENCE - APT. HOUSE","n":"609"}
+,{"yr":"2002","value":"RESIDENCE-HOUSE","n":"335"}
+,{"yr":"2002","value":"RESIDENCE - PUBLIC HOUSING","n":"99"}
+,{"yr":"2002","value":"RESTAURANT/DINER","n":"4"}
+,{"yr":"2002","value":"SMALL MERCHANT","n":"2"}
+,{"yr":"2002","value":"SOCIAL CLUB/POLICY","n":"1"}
+,{"yr":"2002","value":"STREET","n":"80"}
+,{"yr":"2002","value":"TRANSIT FACILITY (OTHER)","n":"1"}
+,{"yr":"2002","value":"TRANSIT - NYC SUBWAY","n":"3"}
+,{"yr":"2003","value":"ABANDONED BUILDING","n":"1"}
+,{"yr":"2003","value":"AIRPORT TERMINAL","n":"1"}
+,{"yr":"2003","value":"ATM","n":"1"}
+,{"yr":"2003","value":"BANK","n":"13"}
+,{"yr":"2003","value":"BAR/NIGHT CLUB","n":"9"}
+,{"yr":"2003","value":"BEAUTY & NAIL SALON","n":"1"}
+,{"yr":"2003","value":"BRIDGE","n":"1"}
+,{"yr":"2003","value":"BUS (NYC TRANSIT)","n":"2"}
+,{"yr":"2003","value":"CHAIN STORE","n":"5"}
+,{"yr":"2003","value":"CHECK CASHING BUSINESS","n":"2"}
+,{"yr":"2003","value":"CHURCH","n":"1"}
+,{"yr":"2003","value":"CLOTHING/BOUTIQUE","n":"3"}
+,{"yr":"2003","value":"COLLEGE/UNIVERSITY","n":"1"}
+,{"yr":"2003","value":"COMMERCIAL BLDG","n":"1"}
+,{"yr":"2003","value":"COMMERCIAL BUILDING","n":"49"}
+,{"yr":"2003","value":"CONSTRUCTION SITE","n":"1"}
+,{"yr":"2003","value":"DEPARTMENT STORE","n":"1"}
+,{"yr":"2003","value":"DOCTOR/DENTIST OFFICE","n":"10"}
+,{"yr":"2003","value":"DRUG STORE","n":"1"}
+,{"yr":"2003","value":"FAST FOOD","n":"2"}
+,{"yr":"2003","value":"FOOD SUPERMARKET","n":"1"}
+,{"yr":"2003","value":"GAS STATION","n":"1"}
+,{"yr":"2003","value":"GROCERY/BODEGA","n":"3"}
+,{"yr":"2003","value":"GYM/FITNESS FACILITY","n":"4"}
+,{"yr":"2003","value":"HOSPITAL","n":"5"}
+,{"yr":"2003","value":"HOTEL/MOTEL","n":"3"}
+,{"yr":"2003","value":"MULTI DWELL - APT BUILD","n":"1"}
+,{"yr":"2003","value":"(null)","n":"10"}
+,{"yr":"2003","value":"OPEN AREAS (OPEN LOTS)","n":"1"}
+,{"yr":"2003","value":"OTHER","n":"62"}
+,{"yr":"2003","value":"OTHER HOUSE OF WORSHIP","n":"1"}
+,{"yr":"2003","value":"PARKING LOT/GARAGE (PRIVATE)","n":"3"}
+,{"yr":"2003","value":"PARKING LOT/GARAGE (PUBLIC)","n":"3"}
+,{"yr":"2003","value":"PARK/PLAYGROUND","n":"4"}
+,{"yr":"2003","value":"PHOTO/COPY","n":"1"}
+,{"yr":"2003","value":"PRIVATE/PAROCHIAL SCHOOL","n":"3"}
+,{"yr":"2003","value":"PUBLIC BUILDING","n":"15"}
+,{"yr":"2003","value":"PUBLIC SCHOOL","n":"3"}
+,{"yr":"2003","value":"RESIDENCE - APT. HOUSE","n":"780"}
+,{"yr":"2003","value":"RESIDENCE-HOUSE","n":"417"}
+,{"yr":"2003","value":"RESIDENCE - PUBLIC HOUSING","n":"120"}
+,{"yr":"2003","value":"RESTAURANT/DINER","n":"2"}
+,{"yr":"2003","value":"SMALL MERCHANT","n":"1"}
+,{"yr":"2003","value":"SOCIAL CLUB/POLICY","n":"1"}
+,{"yr":"2003","value":"STORAGE FACILITY","n":"5"}
+,{"yr":"2003","value":"STORE UNCLASSIFIED","n":"6"}
+,{"yr":"2003","value":"STREET","n":"133"}
+,{"yr":"2003","value":"TRANSIT - NYC SUBWAY","n":"5"}
+,{"yr":"2004","value":"ABANDONED BUILDING","n":"1"}
+,{"yr":"2004","value":"ATM","n":"2"}
+,{"yr":"2004","value":"BANK","n":"17"}
+,{"yr":"2004","value":"BAR/NIGHT CLUB","n":"5"}
+,{"yr":"2004","value":"BEAUTY & NAIL SALON","n":"4"}
+,{"yr":"2004","value":"BUS (NYC TRANSIT)","n":"1"}
+,{"yr":"2004","value":"BUS STOP","n":"2"}
+,{"yr":"2004","value":"CANDY STORE","n":"2"}
+,{"yr":"2004","value":"CHAIN STORE","n":"7"}
+,{"yr":"2004","value":"CHECK CASHING BUSINESS","n":"1"}
+,{"yr":"2004","value":"CHURCH","n":"5"}
+,{"yr":"2004","value":"CLOTHING/BOUTIQUE","n":"3"}
+,{"yr":"2004","value":"COLLEGE/UNIVERSITY","n":"1"}
+,{"yr":"2004","value":"COMMERCIAL BUILDING","n":"98"}
+,{"yr":"2004","value":"CONSTRUCTION SITE","n":"1"}
+,{"yr":"2004","value":"DAYCARE FACILITY","n":"1"}
+,{"yr":"2004","value":"DEPARTMENT STORE","n":"7"}
+,{"yr":"2004","value":"DOCTOR/DENTIST OFFICE","n":"9"}
+,{"yr":"2004","value":"DRUG STORE","n":"2"}
+,{"yr":"2004","value":"DRY CLEANER/LAUNDRY","n":"1"}
+,{"yr":"2004","value":"FACTORY/WAREHOUSE","n":"1"}
+,{"yr":"2004","value":"FAST FOOD","n":"1"}
+,{"yr":"2004","value":"FOOD SUPERMARKET","n":"1"}
+,{"yr":"2004","value":"GAS STATION","n":"3"}
+,{"yr":"2004","value":"GROCERY/BODEGA","n":"6"}
+,{"yr":"2004","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"2004","value":"HOSPITAL","n":"8"}
+,{"yr":"2004","value":"HOTEL/MOTEL","n":"10"}
+,{"yr":"2004","value":"LOAN COMPANY","n":"1"}
+,{"yr":"2004","value":"MOSQUE","n":"2"}
+,{"yr":"2004","value":"MULTI DWELL - APT BUILD","n":"2"}
+,{"yr":"2004","value":"MULTI DWELL - PUBLIC HOUS","n":"1"}
+,{"yr":"2004","value":"NONE","n":"1"}
+,{"yr":"2004","value":"(null)","n":"18"}
+,{"yr":"2004","value":"OPEN AREAS (OPEN LOTS)","n":"5"}
+,{"yr":"2004","value":"OTHER","n":"71"}
+,{"yr":"2004","value":"PARKING LOT/GARAGE (PRIVATE)","n":"6"}
+,{"yr":"2004","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2"}
+,{"yr":"2004","value":"PARK/PLAYGROUND","n":"5"}
+,{"yr":"2004","value":"PRIVATE/PAROCHIAL SCHOOL","n":"2"}
+,{"yr":"2004","value":"PUBLIC BUILDING","n":"20"}
+,{"yr":"2004","value":"PUBLIC SCHOOL","n":"8"}
+,{"yr":"2004","value":"PVT HOUSE","n":"1"}
+,{"yr":"2004","value":"RESIDENCE - APT. HOUSE","n":"1033"}
+,{"yr":"2004","value":"RESIDENCE-HOUSE","n":"548"}
+,{"yr":"2004","value":"RESIDENCE - PUBLIC HOUSING","n":"147"}
+,{"yr":"2004","value":"RESTAURANT/DINER","n":"6"}
+,{"yr":"2004","value":"SMALL MERCHANT","n":"4"}
+,{"yr":"2004","value":"SOCIAL CLUB/POLICY","n":"1"}
+,{"yr":"2004","value":"STORAGE FACILITY","n":"4"}
+,{"yr":"2004","value":"STORE UNCLASSIFIED","n":"13"}
+,{"yr":"2004","value":"STREET","n":"151"}
+,{"yr":"2004","value":"TAXI (LIVERY LICENSED)","n":"1"}
+,{"yr":"2004","value":"TELECOMM. STORE","n":"2"}
+,{"yr":"2004","value":"TRANSIT FACILITY (OTHER)","n":"1"}
+,{"yr":"2004","value":"TRANSIT - NYC SUBWAY","n":"5"}
+,{"yr":"2004","value":"VARIETY STORE","n":"2"}
+,{"yr":"2005","value":"ABANDONED BUILDING","n":"2"}
+,{"yr":"2005","value":"AIRPORT TERMINAL","n":"41"}
+,{"yr":"2005","value":"ATM","n":"26"}
+,{"yr":"2005","value":"BANK","n":"163"}
+,{"yr":"2005","value":"BAR/NIGHT CLUB","n":"69"}
+,{"yr":"2005","value":"BEAUTY & NAIL SALON","n":"18"}
+,{"yr":"2005","value":"BOOK/CARD","n":"2"}
+,{"yr":"2005","value":"BUS (NYC TRANSIT)","n":"9"}
+,{"yr":"2005","value":"BUS (OTHER)","n":"7"}
+,{"yr":"2005","value":"BUS STOP","n":"3"}
+,{"yr":"2005","value":"BUS TERMINAL","n":"2"}
+,{"yr":"2005","value":"CANDY STORE","n":"8"}
+,{"yr":"2005","value":"CEMETERY","n":"2"}
+,{"yr":"2005","value":"CHAIN STORE","n":"95"}
+,{"yr":"2005","value":"CHECK CASHING BUSINESS","n":"37"}
+,{"yr":"2005","value":"CHURCH","n":"21"}
+,{"yr":"2005","value":"CLOTHING/BOUTIQUE","n":"50"}
+,{"yr":"2005","value":"COMMERCIAL BLDG","n":"1"}
+,{"yr":"2005","value":"COMMERCIAL BUILDING","n":"597"}
+,{"yr":"2005","value":"CONSTRUCTION SITE","n":"17"}
+,{"yr":"2005","value":"DEPARTMENT STORE","n":"56"}
+,{"yr":"2005","value":"DOCTOR/DENTIST OFFICE","n":"45"}
+,{"yr":"2005","value":"DRUG STORE","n":"22"}
+,{"yr":"2005","value":"DRY CLEANER/LAUNDRY","n":"11"}
+,{"yr":"2005","value":"FACTORY/WAREHOUSE","n":"18"}
+,{"yr":"2005","value":"FAST FOOD","n":"19"}
+,{"yr":"2005","value":"FERRY/FERRY TERMINAL","n":"2"}
+,{"yr":"2005","value":"FOOD SUPERMARKET","n":"19"}
+,{"yr":"2005","value":"GAS STATION","n":"31"}
+,{"yr":"2005","value":"GROCERY/BODEGA","n":"36"}
+,{"yr":"2005","value":"GYM/FITNESS FACILITY","n":"19"}
+,{"yr":"2005","value":"HIGHWAY/PARKWAY","n":"5"}
+,{"yr":"2005","value":"HOSPITAL","n":"71"}
+,{"yr":"2005","value":"HOTEL/MOTEL","n":"39"}
+,{"yr":"2005","value":"JEWELRY","n":"15"}
+,{"yr":"2005","value":"LIQUOR STORE","n":"4"}
+,{"yr":"2005","value":"LOAN COMPANY","n":"5"}
+,{"yr":"2005","value":"MARINA/PIER","n":"4"}
+,{"yr":"2005","value":"MULTI DWELL - APT BUILD","n":"3"}
+,{"yr":"2005","value":"MULTI DWELL - PUBLIC HOUS","n":"1"}
+,{"yr":"2005","value":"NONE","n":"2"}
+,{"yr":"2005","value":"(null)","n":"92"}
+,{"yr":"2005","value":"OPEN AREAS (OPEN LOTS)","n":"17"}
+,{"yr":"2005","value":"OTHER","n":"404"}
+,{"yr":"2005","value":"OTHER HOUSE OF WORSHIP","n":"2"}
+,{"yr":"2005","value":"PARKING LOT/GARAGE (PRIVATE)","n":"70"}
+,{"yr":"2005","value":"PARKING LOT/GARAGE (PUBLIC)","n":"36"}
+,{"yr":"2005","value":"PARK/PLAYGROUND","n":"32"}
+,{"yr":"2005","value":"PHOTO/COPY","n":"4"}
+,{"yr":"2005","value":"PRIVATE/PAROCHIAL SCHOOL","n":"24"}
+,{"yr":"2005","value":"PUBLIC BUILDING","n":"79"}
+,{"yr":"2005","value":"PUBLIC SCHOOL","n":"190"}
+,{"yr":"2005","value":"PVT HOUSE","n":"1"}
+,{"yr":"2005","value":"RESIDENCE - APT. HOUSE","n":"3696"}
+,{"yr":"2005","value":"RESIDENCE-HOUSE","n":"2411"}
+,{"yr":"2005","value":"RESIDENCE - PUBLIC HOUSING","n":"509"}
+,{"yr":"2005","value":"RESTAURANT/DINER","n":"72"}
+,{"yr":"2005","value":"SHOE","n":"5"}
+,{"yr":"2005","value":"SMALL MERCHANT","n":"34"}
+,{"yr":"2005","value":"SOCIAL CLUB/POLICY","n":"4"}
+,{"yr":"2005","value":"SOCIAL CLUB/POLICY LOCATI","n":"1"}
+,{"yr":"2005","value":"STORAGE FACILITY","n":"31"}
+,{"yr":"2005","value":"STORE UNCLASSIFIED","n":"58"}
+,{"yr":"2005","value":"STREET","n":"1465"}
+,{"yr":"2005","value":"SYNAGOGUE","n":"10"}
+,{"yr":"2005","value":"TAXI (LIVERY LICENSED)","n":"6"}
+,{"yr":"2005","value":"TAXI (YELLOW LICENSED)","n":"5"}
+,{"yr":"2005","value":"TELECOMM. STORE","n":"10"}
+,{"yr":"2005","value":"TRANSIT FACILITY (OTHER)","n":"13"}
+,{"yr":"2005","value":"TRANSIT - NYC SUBWAY","n":"51"}
+,{"yr":"2005","value":"TUNNEL","n":"1"}
+,{"yr":"2005","value":"VARIETY STORE","n":"3"}
+,{"yr":"2005","value":"VIDEO STORE","n":"4"}
+,{"yr":"2006","value":"ABANDONED BUILDING","n":"116"}
+,{"yr":"2006","value":"AIRPORT TERMINAL","n":"770"}
+,{"yr":"2006","value":"ATM","n":"449"}
+,{"yr":"2006","value":"BANK","n":"2291"}
+,{"yr":"2006","value":"BAR/NIGHT CLUB","n":"5400"}
+,{"yr":"2006","value":"BEAUTY & NAIL SALON","n":"1344"}
+,{"yr":"2006","value":"BEAUTY/NAIL SALON","n":"2"}
+,{"yr":"2006","value":"BOOK/CARD","n":"244"}
+,{"yr":"2006","value":"BRIDGE","n":"760"}
+,{"yr":"2006","value":"BUS (NYC TRANSIT)","n":"841"}
+,{"yr":"2006","value":"BUS (OTHER)","n":"277"}
+,{"yr":"2006","value":"BUS STOP","n":"288"}
+,{"yr":"2006","value":"BUS TERMINAL","n":"453"}
+,{"yr":"2006","value":"CANDY STORE","n":"884"}
+,{"yr":"2006","value":"CEMETERY","n":"114"}
+,{"yr":"2006","value":"CHAIN STORE","n":"8243"}
+,{"yr":"2006","value":"CHECK CASHING BUSINESS","n":"556"}
+,{"yr":"2006","value":"CHURCH","n":"1040"}
+,{"yr":"2006","value":"CLOTHING BOUTIQUE","n":"1"}
+,{"yr":"2006","value":"CLOTHING/BOUTIQUE","n":"3458"}
+,{"yr":"2006","value":"COLLEGE/UNIVERSITY","n":"7"}
+,{"yr":"2006","value":"COMMERCIAL BLDG","n":"5"}
+,{"yr":"2006","value":"COMMERCIAL BUILDING","n":"16360"}
+,{"yr":"2006","value":"CONSTRUCTION SITE","n":"993"}
+,{"yr":"2006","value":"DEPARTMENT STORE","n":"6816"}
+,{"yr":"2006","value":"DOCTOR/DENTIST OFFICE","n":"1244"}
+,{"yr":"2006","value":"DRUG STORE","n":"2885"}
+,{"yr":"2006","value":"DRY CLEANER/LAUNDRY","n":"1080"}
+,{"yr":"2006","value":"FACTORY/WAREHOUSE","n":"614"}
+,{"yr":"2006","value":"FAST FOOD","n":"2055"}
+,{"yr":"2006","value":"FERRY/FERRY TERMINAL","n":"91"}
+,{"yr":"2006","value":"FOOD SUPERMARKET","n":"2170"}
+,{"yr":"2006","value":"GAS STATION","n":"1574"}
+,{"yr":"2006","value":"GROCERY/BODEGA","n":"4486"}
+,{"yr":"2006","value":"GYM/FITNESS FACILITY","n":"1759"}
+,{"yr":"2006","value":"HIGHWAY/PARKWAY","n":"1301"}
+,{"yr":"2006","value":"HOSPITAL","n":"2382"}
+,{"yr":"2006","value":"HOTEL/MOTEL","n":"1947"}
+,{"yr":"2006","value":"JEWELRY","n":"413"}
+,{"yr":"2006","value":"JEWELRY STORE","n":"1"}
+,{"yr":"2006","value":"LIQUOR STORE","n":"203"}
+,{"yr":"2006","value":"LOAN COMPANY","n":"64"}
+,{"yr":"2006","value":"MARINA/PIER","n":"214"}
+,{"yr":"2006","value":"MOSQUE","n":"56"}
+,{"yr":"2006","value":"MULTI DWELL - APT BUILD","n":"162"}
+,{"yr":"2006","value":"MULTI DWELL - PUBLIC HOUS","n":"65"}
+,{"yr":"2006","value":"NONE","n":"53"}
+,{"yr":"2006","value":"(null)","n":"7606"}
+,{"yr":"2006","value":"OPEN AREAS (OPEN LOTS)","n":"940"}
+,{"yr":"2006","value":"OTHER","n":"13905"}
+,{"yr":"2006","value":"OTHER HOUSE OF WORSHIP","n":"87"}
+,{"yr":"2006","value":"PARKING LOT/GARAGE (PRIVATE)","n":"4547"}
+,{"yr":"2006","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2626"}
+,{"yr":"2006","value":"PARK/PLAYGROUND","n":"4714"}
+,{"yr":"2006","value":"PHOTO/COPY","n":"92"}
+,{"yr":"2006","value":"PRIVATE/PAROCHIAL SCHOOL","n":"1114"}
+,{"yr":"2006","value":"PUBLIC BUILDING","n":"3069"}
+,{"yr":"2006","value":"PUBLIC SCHOOL","n":"8501"}
+,{"yr":"2006","value":"PVT HOUSE","n":"39"}
+,{"yr":"2006","value":"REAL ESTATE","n":"1"}
+,{"yr":"2006","value":"RESIDENCE - APT. HOUSE","n":"103775"}
+,{"yr":"2006","value":"RESIDENCE-HOUSE","n":"63862"}
+,{"yr":"2006","value":"RESIDENCE - PUBLIC HOUSING","n":"34916"}
+,{"yr":"2006","value":"RESTAURANT/DINER","n":"5460"}
+,{"yr":"2006","value":"SCHOOL","n":"1"}
+,{"yr":"2006","value":"SHOE","n":"383"}
+,{"yr":"2006","value":"SMALL MERCHANT","n":"1897"}
+,{"yr":"2006","value":"SOCIAL CLUB/POLICY","n":"353"}
+,{"yr":"2006","value":"SOCIAL CLUB/POLICY LOCATI","n":"2"}
+,{"yr":"2006","value":"STORAGE FACILITY","n":"447"}
+,{"yr":"2006","value":"STORE UNCLASSIFIED","n":"2639"}
+,{"yr":"2006","value":"STREET","n":"179400"}
+,{"yr":"2006","value":"SUPERMARKET","n":"2"}
+,{"yr":"2006","value":"SYNAGOGUE","n":"233"}
+,{"yr":"2006","value":"TAXI (LIVERY LICENSED)","n":"365"}
+,{"yr":"2006","value":"TAXI/LIVERY (UNLICENSED)","n":"99"}
+,{"yr":"2006","value":"TAXI (YELLOW LICENSED)","n":"407"}
+,{"yr":"2006","value":"TELECOMM. STORE","n":"493"}
+,{"yr":"2006","value":"TRAMWAY","n":"2"}
+,{"yr":"2006","value":"TRANSIT FACILITY (OTHER)","n":"422"}
+,{"yr":"2006","value":"TRANSIT - NYC SUBWAY","n":"9842"}
+,{"yr":"2006","value":"TUNNEL","n":"321"}
+,{"yr":"2006","value":"VARIETY STORE","n":"749"}
+,{"yr":"2006","value":"VIDEO STORE","n":"377"}
+,{"yr":"2007","value":"ABANDONED BUILDING","n":"151"}
+,{"yr":"2007","value":"AIRPORT TERMINAL","n":"995"}
+,{"yr":"2007","value":"ATM","n":"492"}
+,{"yr":"2007","value":"BANK","n":"2229"}
+,{"yr":"2007","value":"BAR/NIGHT CLUB","n":"5364"}
+,{"yr":"2007","value":"BEAUTY & NAIL SALON","n":"1299"}
+,{"yr":"2007","value":"BEAUTY/NAIL SALON","n":"2"}
+,{"yr":"2007","value":"BOOK/CARD","n":"211"}
+,{"yr":"2007","value":"BRIDGE","n":"643"}
+,{"yr":"2007","value":"BUS (NYC TRANSIT)","n":"911"}
+,{"yr":"2007","value":"BUS (OTHER)","n":"287"}
+,{"yr":"2007","value":"BUS STOP","n":"354"}
+,{"yr":"2007","value":"BUS TERMINAL","n":"429"}
+,{"yr":"2007","value":"CANDY STORE","n":"753"}
+,{"yr":"2007","value":"CEMETERY","n":"145"}
+,{"yr":"2007","value":"CHAIN STORE","n":"8679"}
+,{"yr":"2007","value":"CHECK CASHING BUSINESS","n":"546"}
+,{"yr":"2007","value":"CHURCH","n":"1022"}
+,{"yr":"2007","value":"CLOTHING BOUTIQUE","n":"1"}
+,{"yr":"2007","value":"CLOTHING/BOUTIQUE","n":"3274"}
+,{"yr":"2007","value":"COLLEGE/UNIVERSITY","n":"431"}
+,{"yr":"2007","value":"COMMERCIAL BLDG","n":"2"}
+,{"yr":"2007","value":"COMMERCIAL BUILDING","n":"15148"}
+,{"yr":"2007","value":"CONSTRUCTION SITE","n":"1046"}
+,{"yr":"2007","value":"DEPARTMENT STORE","n":"8208"}
+,{"yr":"2007","value":"DOCTOR/DENTIST OFFICE","n":"1276"}
+,{"yr":"2007","value":"DRUG STORE","n":"3171"}
+,{"yr":"2007","value":"DRY CLEANER/LAUNDRY","n":"1052"}
+,{"yr":"2007","value":"FACTORY/WAREHOUSE","n":"686"}
+,{"yr":"2007","value":"FAST FOOD","n":"2163"}
+,{"yr":"2007","value":"FERRY/FERRY TERMINAL","n":"97"}
+,{"yr":"2007","value":"FOOD SUPERMARKET","n":"2210"}
+,{"yr":"2007","value":"GAS STATION","n":"1350"}
+,{"yr":"2007","value":"GROCERY/BODEGA","n":"4904"}
+,{"yr":"2007","value":"GYM/FITNESS FACILITY","n":"1623"}
+,{"yr":"2007","value":"HIGHWAY/PARKWAY","n":"1519"}
+,{"yr":"2007","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"2007","value":"HOSPITAL","n":"2556"}
+,{"yr":"2007","value":"HOTEL/MOTEL","n":"1877"}
+,{"yr":"2007","value":"JEWELRY","n":"384"}
+,{"yr":"2007","value":"JEWELRY STORE","n":"1"}
+,{"yr":"2007","value":"LIQUOR STORE","n":"240"}
+,{"yr":"2007","value":"LOAN COMPANY","n":"70"}
+,{"yr":"2007","value":"MARINA/PIER","n":"251"}
+,{"yr":"2007","value":"MOSQUE","n":"57"}
+,{"yr":"2007","value":"MULTI DWELL - APT BUILD","n":"140"}
+,{"yr":"2007","value":"MULTI DWELL - PUBLIC HOUS","n":"52"}
+,{"yr":"2007","value":"(null)","n":"5306"}
+,{"yr":"2007","value":"OPEN AREAS (OPEN LOTS)","n":"936"}
+,{"yr":"2007","value":"OTHER","n":"14529"}
+,{"yr":"2007","value":"OTHER HOUSE OF WORSHIP","n":"100"}
+,{"yr":"2007","value":"PARKING LOT/GARAGE (PRIVATE)","n":"3699"}
+,{"yr":"2007","value":"PARKING LOT/GARAGE (PUBLIC)","n":"3571"}
+,{"yr":"2007","value":"PARK/PLAYGROUND","n":"5134"}
+,{"yr":"2007","value":"PHOTO/COPY","n":"86"}
+,{"yr":"2007","value":"PRIVATE/PAROCHIAL SCHOOL","n":"1064"}
+,{"yr":"2007","value":"PUBLIC BUILDING","n":"3484"}
+,{"yr":"2007","value":"PUBLIC SCHOOL","n":"8105"}
+,{"yr":"2007","value":"PVT HOUSE","n":"44"}
+,{"yr":"2007","value":"RESIDENCE - APT. HOUSE","n":"101386"}
+,{"yr":"2007","value":"RESIDENCE-HOUSE","n":"64350"}
+,{"yr":"2007","value":"RESIDENCE - PUBLIC HOUSING","n":"36232"}
+,{"yr":"2007","value":"RESTAURANT/DINER","n":"5613"}
+,{"yr":"2007","value":"SHOE","n":"400"}
+,{"yr":"2007","value":"SMALL MERCHANT","n":"1973"}
+,{"yr":"2007","value":"SOCIAL CLUB/POLICY","n":"348"}
+,{"yr":"2007","value":"SOCIAL CLUB/POLICY LOCATI","n":"3"}
+,{"yr":"2007","value":"STORAGE FACILITY","n":"449"}
+,{"yr":"2007","value":"STORE UNCLASSIFIED","n":"2827"}
+,{"yr":"2007","value":"STREET","n":"183548"}
+,{"yr":"2007","value":"SYNAGOGUE","n":"236"}
+,{"yr":"2007","value":"TAXI (LIVERY LICENSED)","n":"349"}
+,{"yr":"2007","value":"TAXI/LIVERY (UNLICENSED)","n":"89"}
+,{"yr":"2007","value":"TAXI (YELLOW LICENSED)","n":"427"}
+,{"yr":"2007","value":"TELECOMM. STORE","n":"604"}
+,{"yr":"2007","value":"TRAMWAY","n":"7"}
+,{"yr":"2007","value":"TRANSIT FACILITY (OTHER)","n":"492"}
+,{"yr":"2007","value":"TRANSIT - NYC SUBWAY","n":"10423"}
+,{"yr":"2007","value":"TUNNEL","n":"262"}
+,{"yr":"2007","value":"VARIETY STORE","n":"831"}
+,{"yr":"2007","value":"VIDEO STORE","n":"305"}
+,{"yr":"2008","value":"ABANDONED BUILDING","n":"151"}
+,{"yr":"2008","value":"AIRPORT TERMINAL","n":"1549"}
+,{"yr":"2008","value":"ATM","n":"393"}
+,{"yr":"2008","value":"BANK","n":"2509"}
+,{"yr":"2008","value":"BAR/NIGHT CLUB","n":"5621"}
+,{"yr":"2008","value":"BEAUTY & NAIL SALON","n":"1238"}
+,{"yr":"2008","value":"BEAUTY/NAIL SALON","n":"2"}
+,{"yr":"2008","value":"BOOK/CARD","n":"153"}
+,{"yr":"2008","value":"BRIDGE","n":"639"}
+,{"yr":"2008","value":"BUS (NYC TRANSIT)","n":"984"}
+,{"yr":"2008","value":"BUS (OTHER)","n":"271"}
+,{"yr":"2008","value":"BUS STOP","n":"485"}
+,{"yr":"2008","value":"BUS TERMINAL","n":"428"}
+,{"yr":"2008","value":"CANDY STORE","n":"629"}
+,{"yr":"2008","value":"CEMETERY","n":"113"}
+,{"yr":"2008","value":"CHAIN STORE","n":"9652"}
+,{"yr":"2008","value":"CHECK CASHING BUSINESS","n":"516"}
+,{"yr":"2008","value":"CHURCH","n":"959"}
+,{"yr":"2008","value":"CLOTHING/BOUTIQUE","n":"3316"}
+,{"yr":"2008","value":"COLLEGE/UNIVERSITY","n":"1129"}
+,{"yr":"2008","value":"COMMERCIAL BLDG","n":"7"}
+,{"yr":"2008","value":"COMMERCIAL BUILDING","n":"13054"}
+,{"yr":"2008","value":"CONSTRUCTION SITE","n":"1113"}
+,{"yr":"2008","value":"DEPARTMENT STORE","n":"9186"}
+,{"yr":"2008","value":"DEPT STORE","n":"1"}
+,{"yr":"2008","value":"DOCTOR/DENTIST","n":"1"}
+,{"yr":"2008","value":"DOCTOR/DENTIST OFFICE","n":"1189"}
+,{"yr":"2008","value":"DRUG STORE","n":"3547"}
+,{"yr":"2008","value":"DRY CLEANER/LAUNDRY","n":"987"}
+,{"yr":"2008","value":"FACTORY/WAREHOUSE","n":"635"}
+,{"yr":"2008","value":"FAST FOOD","n":"2220"}
+,{"yr":"2008","value":"FERRY/FERRY TERMINAL","n":"133"}
+,{"yr":"2008","value":"FOOD SUPERMARKET","n":"2631"}
+,{"yr":"2008","value":"GAS STATION","n":"1328"}
+,{"yr":"2008","value":"GROCERY/BODEGA","n":"4660"}
+,{"yr":"2008","value":"GYM/FITNESS FACILITY","n":"1532"}
+,{"yr":"2008","value":"HIGHWAY/PARKWAY","n":"1473"}
+,{"yr":"2008","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"2008","value":"HOSPITAL","n":"2332"}
+,{"yr":"2008","value":"HOTEL/MOTEL","n":"1727"}
+,{"yr":"2008","value":"JEWELRY","n":"348"}
+,{"yr":"2008","value":"LIQUOR STORE","n":"267"}
+,{"yr":"2008","value":"LOAN COMPANY","n":"34"}
+,{"yr":"2008","value":"MARINA/PIER","n":"261"}
+,{"yr":"2008","value":"MOSQUE","n":"64"}
+,{"yr":"2008","value":"MULTI DWELL - APT BUILD","n":"142"}
+,{"yr":"2008","value":"MULTI DWELL - PUBLIC HOUS","n":"76"}
+,{"yr":"2008","value":"(null)","n":"224"}
+,{"yr":"2008","value":"OPEN AREAS (OPEN LOTS)","n":"960"}
+,{"yr":"2008","value":"OTHER","n":"13406"}
+,{"yr":"2008","value":"OTHER HOUSE OF WORSHIP","n":"79"}
+,{"yr":"2008","value":"PARKING LOT/GARAGE (PRIVATE)","n":"3053"}
+,{"yr":"2008","value":"PARKING LOT/GARAGE (PUBLIC)","n":"3802"}
+,{"yr":"2008","value":"PARK/PLAYGROUND","n":"5706"}
+,{"yr":"2008","value":"PHOTO/COPY","n":"89"}
+,{"yr":"2008","value":"PRIVATE/PAROCHIAL SCHOOL","n":"629"}
+,{"yr":"2008","value":"PUBLIC BUILDING","n":"3369"}
+,{"yr":"2008","value":"PUBLIC SCHOOL","n":"7617"}
+,{"yr":"2008","value":"PVT HOUSE","n":"41"}
+,{"yr":"2008","value":"RESIDENCE - APT. HOUSE","n":"102823"}
+,{"yr":"2008","value":"RESIDENCE-HOUSE","n":"56001"}
+,{"yr":"2008","value":"RESIDENCE - PUBLIC HOUSING","n":"38649"}
+,{"yr":"2008","value":"RESTAURANT/DINER","n":"5270"}
+,{"yr":"2008","value":"SHOE","n":"370"}
+,{"yr":"2008","value":"SHOE STORE","n":"1"}
+,{"yr":"2008","value":"SMALL MERCHANT","n":"2182"}
+,{"yr":"2008","value":"SOCIAL CLUB/POLICY","n":"343"}
+,{"yr":"2008","value":"STORAGE FACILITY","n":"482"}
+,{"yr":"2008","value":"STORE UNCLASSIFIED","n":"2887"}
+,{"yr":"2008","value":"STREET","n":"187245"}
+,{"yr":"2008","value":"SUPERMARKET","n":"1"}
+,{"yr":"2008","value":"SYNAGOGUE","n":"179"}
+,{"yr":"2008","value":"TAXI (LIVERY LICENSED)","n":"325"}
+,{"yr":"2008","value":"TAXI/LIVERY (UNLICENSED)","n":"70"}
+,{"yr":"2008","value":"TAXI (YELLOW LICENSED)","n":"362"}
+,{"yr":"2008","value":"TELECOMM. STORE","n":"631"}
+,{"yr":"2008","value":"TRAMWAY","n":"10"}
+,{"yr":"2008","value":"TRANSIT FACILITY (OTHER)","n":"442"}
+,{"yr":"2008","value":"TRANSIT - NYC SUBWAY","n":"10805"}
+,{"yr":"2008","value":"TUNNEL","n":"220"}
+,{"yr":"2008","value":"VARIETY STORE","n":"804"}
+,{"yr":"2008","value":"VIDEO STORE","n":"246"}
+,{"yr":"2009","value":"ABANDONED BUILDING","n":"154"}
+,{"yr":"2009","value":"AIRPORT TERMINAL","n":"1601"}
+,{"yr":"2009","value":"ATM","n":"394"}
+,{"yr":"2009","value":"BANK","n":"2072"}
+,{"yr":"2009","value":"BAR/NIGHT CLUB","n":"5368"}
+,{"yr":"2009","value":"BEAUTY & NAIL SALON","n":"1114"}
+,{"yr":"2009","value":"BEAUTY/NAIL SALON","n":"1"}
+,{"yr":"2009","value":"BOOK/CARD","n":"139"}
+,{"yr":"2009","value":"BRIDGE","n":"504"}
+,{"yr":"2009","value":"BUS (NYC TRANSIT)","n":"888"}
+,{"yr":"2009","value":"BUS (OTHER)","n":"254"}
+,{"yr":"2009","value":"BUS STOP","n":"758"}
+,{"yr":"2009","value":"BUS TERMINAL","n":"405"}
+,{"yr":"2009","value":"CANDY STORE","n":"597"}
+,{"yr":"2009","value":"CEMETERY","n":"40"}
+,{"yr":"2009","value":"CHAIN STORE","n":"8774"}
+,{"yr":"2009","value":"CHECK CASHING BUSINESS","n":"500"}
+,{"yr":"2009","value":"CHURCH","n":"835"}
+,{"yr":"2009","value":"CLOTHING/BOUTIQUE","n":"4530"}
+,{"yr":"2009","value":"COLLEGE/UNIVERSITY","n":"1180"}
+,{"yr":"2009","value":"COMMERCIAL BLDG","n":"4"}
+,{"yr":"2009","value":"COMMERCIAL BUILDING","n":"12539"}
+,{"yr":"2009","value":"CONSTRUCTION SITE","n":"774"}
+,{"yr":"2009","value":"DEPARTMENT STORE","n":"9458"}
+,{"yr":"2009","value":"DOCTOR/DENTIST OFFICE","n":"1283"}
+,{"yr":"2009","value":"DRUG STORE","n":"3922"}
+,{"yr":"2009","value":"DRY CLEANER/LAUNDRY","n":"893"}
+,{"yr":"2009","value":"FACTORY/WAREHOUSE","n":"522"}
+,{"yr":"2009","value":"FAST FOOD","n":"1935"}
+,{"yr":"2009","value":"FERRY/FERRY TERMINAL","n":"111"}
+,{"yr":"2009","value":"FOOD SUPERMARKET","n":"2745"}
+,{"yr":"2009","value":"GAS STATION","n":"1079"}
+,{"yr":"2009","value":"GROCERY/BODEGA","n":"4706"}
+,{"yr":"2009","value":"GYM/FITNESS FACILITY","n":"1497"}
+,{"yr":"2009","value":"HIGHWAY/PARKWAY","n":"1457"}
+,{"yr":"2009","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"2009","value":"HOSPITAL","n":"2323"}
+,{"yr":"2009","value":"HOTEL/MOTEL","n":"1708"}
+,{"yr":"2009","value":"JEWELRY","n":"346"}
+,{"yr":"2009","value":"LIQUOR STORE","n":"277"}
+,{"yr":"2009","value":"LOAN COMPANY","n":"39"}
+,{"yr":"2009","value":"MARINA/PIER","n":"188"}
+,{"yr":"2009","value":"MOBILE FOOD","n":"1"}
+,{"yr":"2009","value":"MOSQUE","n":"53"}
+,{"yr":"2009","value":"MULTI DWELL - APT BUILD","n":"116"}
+,{"yr":"2009","value":"MULTI DWELL - PUBLIC HOUS","n":"60"}
+,{"yr":"2009","value":"(null)","n":"215"}
+,{"yr":"2009","value":"OPEN AREAS (OPEN LOTS)","n":"771"}
+,{"yr":"2009","value":"OTHER","n":"12457"}
+,{"yr":"2009","value":"OTHER HOUSE OF WORSHIP","n":"64"}
+,{"yr":"2009","value":"PARKING LOT/GARAGE (PRIVATE)","n":"2891"}
+,{"yr":"2009","value":"PARKING LOT/GARAGE (PUBLIC)","n":"3293"}
+,{"yr":"2009","value":"PARK/PLAYGROUND","n":"5749"}
+,{"yr":"2009","value":"PHOTO/COPY","n":"69"}
+,{"yr":"2009","value":"PRIVATE/PAROCHIAL SCHOOL","n":"482"}
+,{"yr":"2009","value":"PUBLIC BUILDING","n":"3495"}
+,{"yr":"2009","value":"PUBLIC SCHOOL","n":"7071"}
+,{"yr":"2009","value":"PVT HOUSE","n":"41"}
+,{"yr":"2009","value":"RESIDENCE - APT. HOUSE","n":"107381"}
+,{"yr":"2009","value":"RESIDENCE-HOUSE","n":"44998"}
+,{"yr":"2009","value":"RESIDENCE - PUBLIC HOUSING","n":"40278"}
+,{"yr":"2009","value":"RESTAURANT/DINER","n":"4908"}
+,{"yr":"2009","value":"SHOE","n":"389"}
+,{"yr":"2009","value":"SMALL MERCHANT","n":"2277"}
+,{"yr":"2009","value":"SOCIAL CLUB/POLICY","n":"291"}
+,{"yr":"2009","value":"STORAGE FACILITY","n":"444"}
+,{"yr":"2009","value":"STORE UNCLASSIFIED","n":"2289"}
+,{"yr":"2009","value":"STREET","n":"179457"}
+,{"yr":"2009","value":"SYNAGOGUE","n":"205"}
+,{"yr":"2009","value":"TAXI (LIVERY LICENSED)","n":"359"}
+,{"yr":"2009","value":"TAXI/LIVERY (UNLICENSED)","n":"88"}
+,{"yr":"2009","value":"TAXI (YELLOW LICENSED)","n":"373"}
+,{"yr":"2009","value":"TELECOMM. STORE","n":"642"}
+,{"yr":"2009","value":"TRAMWAY","n":"13"}
+,{"yr":"2009","value":"TRANSIT FACILITY (OTHER)","n":"388"}
+,{"yr":"2009","value":"TRANSIT - NYC SUBWAY","n":"10677"}
+,{"yr":"2009","value":"TUNNEL","n":"258"}
+,{"yr":"2009","value":"VARIETY STORE","n":"607"}
+,{"yr":"2009","value":"VIDEO STORE","n":"182"}
+,{"yr":"2010","value":"ABANDONED BUILDING","n":"180"}
+,{"yr":"2010","value":"AIRPORT TERMINAL","n":"1465"}
+,{"yr":"2010","value":"ATM","n":"393"}
+,{"yr":"2010","value":"BANK","n":"2161"}
+,{"yr":"2010","value":"BAR/NIGHT CLUB","n":"5508"}
+,{"yr":"2010","value":"BEAUTY & NAIL SALON","n":"1243"}
+,{"yr":"2010","value":"BOOK/CARD","n":"170"}
+,{"yr":"2010","value":"BRIDGE","n":"523"}
+,{"yr":"2010","value":"BUS (NYC TRANSIT)","n":"992"}
+,{"yr":"2010","value":"BUS (OTHER)","n":"265"}
+,{"yr":"2010","value":"BUS STOP","n":"614"}
+,{"yr":"2010","value":"BUS TERMINAL","n":"355"}
+,{"yr":"2010","value":"CANDY STORE","n":"611"}
+,{"yr":"2010","value":"CEMETERY","n":"45"}
+,{"yr":"2010","value":"CHAIN STORE","n":"8800"}
+,{"yr":"2010","value":"CHECK CASHING BUSINESS","n":"515"}
+,{"yr":"2010","value":"CHURCH","n":"946"}
+,{"yr":"2010","value":"CLOTHING/BOUTIQUE","n":"4751"}
+,{"yr":"2010","value":"COLLEGE/UNIVERSITY","n":"1175"}
+,{"yr":"2010","value":"COMMERCIAL BLDG","n":"8"}
+,{"yr":"2010","value":"COMMERCIAL BUILDING","n":"11852"}
+,{"yr":"2010","value":"CONSTRUCTION SITE","n":"738"}
+,{"yr":"2010","value":"DEPARTMENT STORE","n":"10335"}
+,{"yr":"2010","value":"DOCTOR/DENTIST OFFICE","n":"1174"}
+,{"yr":"2010","value":"DRUG STORE","n":"3788"}
+,{"yr":"2010","value":"DRY CLEANER/LAUNDRY","n":"899"}
+,{"yr":"2010","value":"FACTORY/WAREHOUSE","n":"539"}
+,{"yr":"2010","value":"FAST FOOD","n":"2018"}
+,{"yr":"2010","value":"FERRY/FERRY TERMINAL","n":"126"}
+,{"yr":"2010","value":"FOOD SUPERMARKET","n":"2673"}
+,{"yr":"2010","value":"GAS STATION","n":"1057"}
+,{"yr":"2010","value":"GROCERY/BODEGA","n":"5005"}
+,{"yr":"2010","value":"GYM/FITNESS FACILITY","n":"1495"}
+,{"yr":"2010","value":"HIGHWAY/PARKWAY","n":"1374"}
+,{"yr":"2010","value":"HOMELESS SHELTER","n":"4"}
+,{"yr":"2010","value":"HOSPITAL","n":"2274"}
+,{"yr":"2010","value":"HOTEL/MOTEL","n":"1859"}
+,{"yr":"2010","value":"JEWELRY","n":"392"}
+,{"yr":"2010","value":"JEWELRY STORE","n":"1"}
+,{"yr":"2010","value":"LIQUOR STORE","n":"274"}
+,{"yr":"2010","value":"LOAN COMPANY","n":"29"}
+,{"yr":"2010","value":"MAILBOX OUTSIDE","n":"2"}
+,{"yr":"2010","value":"MARINA/PIER","n":"223"}
+,{"yr":"2010","value":"MOSQUE","n":"65"}
+,{"yr":"2010","value":"MULTI DWELL - APT BUILD","n":"125"}
+,{"yr":"2010","value":"MULTI DWELL - PUBLIC HOUS","n":"75"}
+,{"yr":"2010","value":"(null)","n":"245"}
+,{"yr":"2010","value":"OPEN AREAS (OPEN LOTS)","n":"820"}
+,{"yr":"2010","value":"OTHER","n":"14111"}
+,{"yr":"2010","value":"OTHER HOUSE OF WORSHIP","n":"77"}
+,{"yr":"2010","value":"PARKING LOT/GARAGE (PRIVATE)","n":"2731"}
+,{"yr":"2010","value":"PARKING LOT/GARAGE (PUBLIC)","n":"3222"}
+,{"yr":"2010","value":"PARK/PLAYGROUND","n":"6737"}
+,{"yr":"2010","value":"PHOTO/COPY","n":"60"}
+,{"yr":"2010","value":"PRIVATE/PAROCHIAL SCHOOL","n":"467"}
+,{"yr":"2010","value":"PUBLIC BUILDING","n":"3550"}
+,{"yr":"2010","value":"PUBLIC SCHOOL","n":"6939"}
+,{"yr":"2010","value":"PVT HOUSE","n":"54"}
+,{"yr":"2010","value":"REAL ESTATE","n":"2"}
+,{"yr":"2010","value":"RESIDENCE - APT. HOUSE","n":"106070"}
+,{"yr":"2010","value":"RESIDENCE-HOUSE","n":"44836"}
+,{"yr":"2010","value":"RESIDENCE - PUBLIC HOUSING","n":"39804"}
+,{"yr":"2010","value":"RESTAURANT/DINER","n":"5332"}
+,{"yr":"2010","value":"SHOE","n":"336"}
+,{"yr":"2010","value":"SMALL MERCHANT","n":"2526"}
+,{"yr":"2010","value":"SOCIAL CLUB/POLICY","n":"355"}
+,{"yr":"2010","value":"SOCIAL CLUB/POLICY LOCATI","n":"1"}
+,{"yr":"2010","value":"STORAGE FACILITY","n":"473"}
+,{"yr":"2010","value":"STORE UNCLASSIFIED","n":"2384"}
+,{"yr":"2010","value":"STREET","n":"176124"}
+,{"yr":"2010","value":"SUPERMARKET","n":"1"}
+,{"yr":"2010","value":"SYNAGOGUE","n":"174"}
+,{"yr":"2010","value":"TAXI (LIVERY LICENSED)","n":"374"}
+,{"yr":"2010","value":"TAXI/LIVERY (UNLICENSED)","n":"98"}
+,{"yr":"2010","value":"TAXI (YELLOW LICENSED)","n":"409"}
+,{"yr":"2010","value":"TELECOMM. STORE","n":"625"}
+,{"yr":"2010","value":"TRAMWAY","n":"9"}
+,{"yr":"2010","value":"TRANSIT FACILITY (OTHER)","n":"430"}
+,{"yr":"2010","value":"TRANSIT - NYC SUBWAY","n":"10829"}
+,{"yr":"2010","value":"TUNNEL","n":"281"}
+,{"yr":"2010","value":"VARIETY STORE","n":"633"}
+,{"yr":"2010","value":"VIDEO STORE","n":"183"}
+,{"yr":"2011","value":"ABANDONED BUILDING","n":"205"}
+,{"yr":"2011","value":"AIRPORT TERMINAL","n":"1643"}
+,{"yr":"2011","value":"ATM","n":"371"}
+,{"yr":"2011","value":"BANK","n":"1919"}
+,{"yr":"2011","value":"BAR/NIGHT CLUB","n":"5550"}
+,{"yr":"2011","value":"BEAUTY & NAIL SALON","n":"1327"}
+,{"yr":"2011","value":"BEAUTY/NAIL SALON","n":"2"}
+,{"yr":"2011","value":"BOOK/CARD","n":"167"}
+,{"yr":"2011","value":"BRIDGE","n":"446"}
+,{"yr":"2011","value":"BUS (NYC TRANSIT)","n":"1058"}
+,{"yr":"2011","value":"BUS (OTHER)","n":"255"}
+,{"yr":"2011","value":"BUS STOP","n":"411"}
+,{"yr":"2011","value":"BUS TERMINAL","n":"269"}
+,{"yr":"2011","value":"CANDY STORE","n":"585"}
+,{"yr":"2011","value":"CEMETERY","n":"52"}
+,{"yr":"2011","value":"CHAIN STORE","n":"9041"}
+,{"yr":"2011","value":"CHECK CASHING BUSINESS","n":"517"}
+,{"yr":"2011","value":"CHURCH","n":"883"}
+,{"yr":"2011","value":"CLOTHING/BOUTIQUE","n":"4479"}
+,{"yr":"2011","value":"COLLEGE/UNIVERSITY","n":"1041"}
+,{"yr":"2011","value":"COMMERCIAL BLDG","n":"4"}
+,{"yr":"2011","value":"COMMERCIAL BUILDING","n":"11705"}
+,{"yr":"2011","value":"CONSTRUCTION SITE","n":"698"}
+,{"yr":"2011","value":"DEPARTMENT STORE","n":"10834"}
+,{"yr":"2011","value":"DOCTOR/DENTIST OFFICE","n":"1119"}
+,{"yr":"2011","value":"DRUG STORE","n":"3555"}
+,{"yr":"2011","value":"DRY CLEANER/LAUNDRY","n":"962"}
+,{"yr":"2011","value":"FACTORY/WAREHOUSE","n":"482"}
+,{"yr":"2011","value":"FAST FOOD","n":"2000"}
+,{"yr":"2011","value":"FERRY/FERRY TERMINAL","n":"139"}
+,{"yr":"2011","value":"FOOD SUPERMARKET","n":"2681"}
+,{"yr":"2011","value":"GAS STATION","n":"1057"}
+,{"yr":"2011","value":"GROCERY/BODEGA","n":"5532"}
+,{"yr":"2011","value":"GYM/FITNESS FACILITY","n":"1534"}
+,{"yr":"2011","value":"HIGHWAY/PARKWAY","n":"1228"}
+,{"yr":"2011","value":"HOMELESS SHELTER","n":"1"}
+,{"yr":"2011","value":"HOSPITAL","n":"2260"}
+,{"yr":"2011","value":"HOTEL/MOTEL","n":"1830"}
+,{"yr":"2011","value":"JEWELRY","n":"474"}
+,{"yr":"2011","value":"LIQUOR STORE","n":"322"}
+,{"yr":"2011","value":"LOAN COMPANY","n":"30"}
+,{"yr":"2011","value":"MARINA/PIER","n":"197"}
+,{"yr":"2011","value":"MOSQUE","n":"74"}
+,{"yr":"2011","value":"MULTI DWELL - APT BUILD","n":"136"}
+,{"yr":"2011","value":"MULTI DWELL - PUBLIC HOUS","n":"87"}
+,{"yr":"2011","value":"(null)","n":"194"}
+,{"yr":"2011","value":"OPEN AREAS (OPEN LOTS)","n":"820"}
+,{"yr":"2011","value":"OTHER","n":"14634"}
+,{"yr":"2011","value":"OTHER HOUSE OF WORSHIP","n":"83"}
+,{"yr":"2011","value":"PARKING LOT/GARAGE (PRIVATE)","n":"2622"}
+,{"yr":"2011","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2952"}
+,{"yr":"2011","value":"PARK/PLAYGROUND","n":"6091"}
+,{"yr":"2011","value":"PHOTO/COPY","n":"63"}
+,{"yr":"2011","value":"PRIVATE/PAROCHIAL SCHOOL","n":"480"}
+,{"yr":"2011","value":"PUBLIC BUILDING","n":"3437"}
+,{"yr":"2011","value":"PUBLIC SCHOOL","n":"6471"}
+,{"yr":"2011","value":"PVT HOUSE","n":"65"}
+,{"yr":"2011","value":"REAL ESTATE","n":"5"}
+,{"yr":"2011","value":"RESIDENCE - APT. HOUSE","n":"103753"}
+,{"yr":"2011","value":"RESIDENCE-HOUSE","n":"45203"}
+,{"yr":"2011","value":"RESIDENCE - PUBLIC HOUSING","n":"39245"}
+,{"yr":"2011","value":"RESTAURANT/DINER","n":"5205"}
+,{"yr":"2011","value":"SHOE","n":"291"}
+,{"yr":"2011","value":"SMALL MERCHANT","n":"2933"}
+,{"yr":"2011","value":"SOCIAL CLUB/POLICY","n":"289"}
+,{"yr":"2011","value":"SOCIAL CLUB/POLICY LOCATI","n":"2"}
+,{"yr":"2011","value":"STORAGE FACILITY","n":"483"}
+,{"yr":"2011","value":"STORE UNCLASSIFIED","n":"2258"}
+,{"yr":"2011","value":"STREET","n":"168366"}
+,{"yr":"2011","value":"SUPERMARKET","n":"1"}
+,{"yr":"2011","value":"SYNAGOGUE","n":"152"}
+,{"yr":"2011","value":"TAXI (LIVERY LICENSED)","n":"401"}
+,{"yr":"2011","value":"TAXI/LIVERY (UNLICENSED)","n":"90"}
+,{"yr":"2011","value":"TAXI (YELLOW LICENSED)","n":"417"}
+,{"yr":"2011","value":"TELECOMM. STORE","n":"654"}
+,{"yr":"2011","value":"TRAMWAY","n":"13"}
+,{"yr":"2011","value":"TRANSIT FACILITY (OTHER)","n":"423"}
+,{"yr":"2011","value":"TRANSIT - NYC SUBWAY","n":"10503"}
+,{"yr":"2011","value":"TUNNEL","n":"272"}
+,{"yr":"2011","value":"VARIETY STORE","n":"758"}
+,{"yr":"2011","value":"VIDEO STORE","n":"171"}
+,{"yr":"2012","value":"ABANDONED BUILDING","n":"188"}
+,{"yr":"2012","value":"AIRPORT TERMINAL","n":"1481"}
+,{"yr":"2012","value":"ATM","n":"475"}
+,{"yr":"2012","value":"BANK","n":"2136"}
+,{"yr":"2012","value":"BAR/NIGHT CLUB","n":"6320"}
+,{"yr":"2012","value":"BEAUTY & NAIL SALON","n":"1308"}
+,{"yr":"2012","value":"BEAUTY/NAIL SALON","n":"2"}
+,{"yr":"2012","value":"BOOK/CARD","n":"123"}
+,{"yr":"2012","value":"BRIDGE","n":"395"}
+,{"yr":"2012","value":"BUS (NYC TRANSIT)","n":"1274"}
+,{"yr":"2012","value":"BUS (OTHER)","n":"266"}
+,{"yr":"2012","value":"BUS STOP","n":"359"}
+,{"yr":"2012","value":"BUS TERMINAL","n":"235"}
+,{"yr":"2012","value":"CANDY STORE","n":"592"}
+,{"yr":"2012","value":"CEMETERY","n":"38"}
+,{"yr":"2012","value":"CHAIN STORE","n":"8921"}
+,{"yr":"2012","value":"CHECK CASHING BUSINESS","n":"563"}
+,{"yr":"2012","value":"CHURCH","n":"900"}
+,{"yr":"2012","value":"CLOTHING BOUTIQUE","n":"2"}
+,{"yr":"2012","value":"CLOTHING/BOUTIQUE","n":"4520"}
+,{"yr":"2012","value":"COLLEGE/UNIVERSITY","n":"1222"}
+,{"yr":"2012","value":"COMMERCIAL BLDG","n":"4"}
+,{"yr":"2012","value":"COMMERCIAL BUILDING","n":"12412"}
+,{"yr":"2012","value":"CONSTRUCTION SITE","n":"691"}
+,{"yr":"2012","value":"DEPARTMENT STORE","n":"9897"}
+,{"yr":"2012","value":"DEPT STORE","n":"2"}
+,{"yr":"2012","value":"DOCTOR/DENTIST","n":"1"}
+,{"yr":"2012","value":"DOCTOR/DENTIST OFFICE","n":"1314"}
+,{"yr":"2012","value":"DRUG STORE","n":"3810"}
+,{"yr":"2012","value":"DRY CLEANER/LAUNDRY","n":"1051"}
+,{"yr":"2012","value":"FACTORY/WAREHOUSE","n":"513"}
+,{"yr":"2012","value":"FAST FOOD","n":"2279"}
+,{"yr":"2012","value":"FERRY/FERRY TERMINAL","n":"137"}
+,{"yr":"2012","value":"FOOD SUPERMARKET","n":"2915"}
+,{"yr":"2012","value":"GAS STATION","n":"1102"}
+,{"yr":"2012","value":"GROCERY/BODEGA","n":"6021"}
+,{"yr":"2012","value":"GYM/FITNESS FACILITY","n":"1556"}
+,{"yr":"2012","value":"HIGHWAY/PARKWAY","n":"1213"}
+,{"yr":"2012","value":"HOMELESS SHELTER","n":"3"}
+,{"yr":"2012","value":"HOSPITAL","n":"2270"}
+,{"yr":"2012","value":"HOTEL/MOTEL","n":"2179"}
+,{"yr":"2012","value":"JEWELRY","n":"405"}
+,{"yr":"2012","value":"LIQUOR STORE","n":"357"}
+,{"yr":"2012","value":"LOAN COMPANY","n":"28"}
+,{"yr":"2012","value":"MARINA/PIER","n":"202"}
+,{"yr":"2012","value":"MOBILE FOOD","n":"51"}
+,{"yr":"2012","value":"MOSQUE","n":"92"}
+,{"yr":"2012","value":"MULTI DWELL - APT BUILD","n":"96"}
+,{"yr":"2012","value":"MULTI DWELL - PUBLIC HOUS","n":"53"}
+,{"yr":"2012","value":"(null)","n":"225"}
+,{"yr":"2012","value":"OPEN AREAS (OPEN LOTS)","n":"768"}
+,{"yr":"2012","value":"OTHER","n":"14657"}
+,{"yr":"2012","value":"OTHER HOUSE OF WORSHIP","n":"73"}
+,{"yr":"2012","value":"PARKING LOT/GARAGE (PRIVATE)","n":"2674"}
+,{"yr":"2012","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2860"}
+,{"yr":"2012","value":"PARK/PLAYGROUND","n":"6826"}
+,{"yr":"2012","value":"PHOTO/COPY","n":"55"}
+,{"yr":"2012","value":"PRIVATE/PAROCHIAL SCHOOL","n":"462"}
+,{"yr":"2012","value":"PUBLIC BUILDING","n":"3292"}
+,{"yr":"2012","value":"PUBLIC SCHOOL","n":"6069"}
+,{"yr":"2012","value":"PVT HOUSE","n":"42"}
+,{"yr":"2012","value":"REAL ESTATE","n":"115"}
+,{"yr":"2012","value":"RESIDENCE - APT. HOUSE","n":"108429"}
+,{"yr":"2012","value":"RESIDENCE-HOUSE","n":"46623"}
+,{"yr":"2012","value":"RESIDENCE - PUBLIC HOUSING","n":"39724"}
+,{"yr":"2012","value":"RESTAURANT/DINER","n":"5998"}
+,{"yr":"2012","value":"SHOE","n":"383"}
+,{"yr":"2012","value":"SMALL MERCHANT","n":"2233"}
+,{"yr":"2012","value":"SOCIAL CLUB/POLICY","n":"333"}
+,{"yr":"2012","value":"STORAGE FACILITY","n":"500"}
+,{"yr":"2012","value":"STORE UNCLASSIFIED","n":"2228"}
+,{"yr":"2012","value":"STREET","n":"164935"}
+,{"yr":"2012","value":"SYNAGOGUE","n":"223"}
+,{"yr":"2012","value":"TAXI (LIVERY LICENSED)","n":"436"}
+,{"yr":"2012","value":"TAXI/LIVERY (UNLICENSED)","n":"98"}
+,{"yr":"2012","value":"TAXI (YELLOW LICENSED)","n":"493"}
+,{"yr":"2012","value":"TELECOMM. STORE","n":"654"}
+,{"yr":"2012","value":"TRAMWAY","n":"11"}
+,{"yr":"2012","value":"TRANSIT FACILITY (OTHER)","n":"355"}
+,{"yr":"2012","value":"TRANSIT - NYC SUBWAY","n":"10180"}
+,{"yr":"2012","value":"TUNNEL","n":"297"}
+,{"yr":"2012","value":"VARIETY STORE","n":"739"}
+,{"yr":"2012","value":"VIDEO STORE","n":"142"}
+,{"yr":"2013","value":"ABANDONED BUILDING","n":"177"}
+,{"yr":"2013","value":"AIRPORT TERMINAL","n":"1271"}
+,{"yr":"2013","value":"ATM","n":"458"}
+,{"yr":"2013","value":"BANK","n":"1931"}
+,{"yr":"2013","value":"BAR/NIGHT CLUB","n":"6667"}
+,{"yr":"2013","value":"BEAUTY & NAIL SALON","n":"1341"}
+,{"yr":"2013","value":"BEAUTY/NAIL SALON","n":"1"}
+,{"yr":"2013","value":"BOOK/CARD","n":"147"}
+,{"yr":"2013","value":"BRIDGE","n":"455"}
+,{"yr":"2013","value":"BUS (NYC TRANSIT)","n":"1328"}
+,{"yr":"2013","value":"BUS (OTHER)","n":"262"}
+,{"yr":"2013","value":"BUS STOP","n":"409"}
+,{"yr":"2013","value":"BUS TERMINAL","n":"322"}
+,{"yr":"2013","value":"CANDY STORE","n":"605"}
+,{"yr":"2013","value":"CEMETERY","n":"45"}
+,{"yr":"2013","value":"CHAIN STORE","n":"9786"}
+,{"yr":"2013","value":"CHECK CASHING BUSINESS","n":"548"}
+,{"yr":"2013","value":"CHURCH","n":"900"}
+,{"yr":"2013","value":"CLOTHING/BOUTIQUE","n":"4752"}
+,{"yr":"2013","value":"COLLEGE/UNIVERSITY","n":"1168"}
+,{"yr":"2013","value":"COMMERCIAL BLDG","n":"1"}
+,{"yr":"2013","value":"COMMERCIAL BUILDING","n":"12753"}
+,{"yr":"2013","value":"CONSTRUCTION SITE","n":"696"}
+,{"yr":"2013","value":"DAYCARE FACILITY","n":"1"}
+,{"yr":"2013","value":"DEPARTMENT STORE","n":"10337"}
+,{"yr":"2013","value":"DOCTOR/DENTIST OFFICE","n":"1211"}
+,{"yr":"2013","value":"DRUG STORE","n":"4030"}
+,{"yr":"2013","value":"DRY CLEANER/LAUNDRY","n":"1156"}
+,{"yr":"2013","value":"FACTORY/WAREHOUSE","n":"542"}
+,{"yr":"2013","value":"FAST FOOD","n":"2528"}
+,{"yr":"2013","value":"FERRY/FERRY TERMINAL","n":"149"}
+,{"yr":"2013","value":"FOOD SUPERMARKET","n":"2912"}
+,{"yr":"2013","value":"GAS STATION","n":"1146"}
+,{"yr":"2013","value":"GROCERY/BODEGA","n":"6687"}
+,{"yr":"2013","value":"GYM/FITNESS FACILITY","n":"1701"}
+,{"yr":"2013","value":"HIGHWAY/PARKWAY","n":"1354"}
+,{"yr":"2013","value":"HOMELESS SHELTER","n":"2"}
+,{"yr":"2013","value":"HOSPITAL","n":"2437"}
+,{"yr":"2013","value":"HOTEL/MOTEL","n":"2218"}
+,{"yr":"2013","value":"JEWELRY","n":"356"}
+,{"yr":"2013","value":"LIQUOR STORE","n":"363"}
+,{"yr":"2013","value":"LOAN COMPANY","n":"28"}
+,{"yr":"2013","value":"MAILBOX OUTSIDE","n":"1"}
+,{"yr":"2013","value":"MARINA/PIER","n":"197"}
+,{"yr":"2013","value":"MOBILE FOOD","n":"76"}
+,{"yr":"2013","value":"MOSQUE","n":"51"}
+,{"yr":"2013","value":"MULTI DWELL - APT BUILD","n":"77"}
+,{"yr":"2013","value":"MULTI DWELL - PUBLIC HOUS","n":"55"}
+,{"yr":"2013","value":"(null)","n":"194"}
+,{"yr":"2013","value":"OPEN AREAS (OPEN LOTS)","n":"725"}
+,{"yr":"2013","value":"OTHER","n":"13365"}
+,{"yr":"2013","value":"OTHER HOUSE OF WORSHIP","n":"67"}
+,{"yr":"2013","value":"PARKING LOT/GARAGE (PRIVATE)","n":"2362"}
+,{"yr":"2013","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2693"}
+,{"yr":"2013","value":"PARK/PLAYGROUND","n":"7217"}
+,{"yr":"2013","value":"PHOTO/COPY","n":"69"}
+,{"yr":"2013","value":"PRIVATE/PAROCHIAL SCHOOL","n":"520"}
+,{"yr":"2013","value":"PUBLIC BUILDING","n":"3141"}
+,{"yr":"2013","value":"PUBLIC SCHOOL","n":"5565"}
+,{"yr":"2013","value":"PVT HOUSE","n":"31"}
+,{"yr":"2013","value":"REAL ESTATE","n":"179"}
+,{"yr":"2013","value":"RESIDENCE - APT. HOUSE","n":"106855"}
+,{"yr":"2013","value":"RESIDENCE-HOUSE","n":"46625"}
+,{"yr":"2013","value":"RESIDENCE - PUBLIC HOUSING","n":"38684"}
+,{"yr":"2013","value":"RESTAURANT/DINER","n":"6255"}
+,{"yr":"2013","value":"SHOE","n":"311"}
+,{"yr":"2013","value":"SMALL MERCHANT","n":"1907"}
+,{"yr":"2013","value":"SOCIAL CLUB/POLICY","n":"328"}
+,{"yr":"2013","value":"STORAGE FACILITY","n":"453"}
+,{"yr":"2013","value":"STORE UNCLASSIFIED","n":"2107"}
+,{"yr":"2013","value":"STREET","n":"156909"}
+,{"yr":"2013","value":"SYNAGOGUE","n":"187"}
+,{"yr":"2013","value":"TAXI (LIVERY LICENSED)","n":"440"}
+,{"yr":"2013","value":"TAXI/LIVERY (UNLICENSED)","n":"110"}
+,{"yr":"2013","value":"TAXI (YELLOW LICENSED)","n":"558"}
+,{"yr":"2013","value":"TELECOMM. STORE","n":"712"}
+,{"yr":"2013","value":"TRAMWAY","n":"16"}
+,{"yr":"2013","value":"TRANSIT FACILITY (OTHER)","n":"413"}
+,{"yr":"2013","value":"TRANSIT - NYC SUBWAY","n":"10510"}
+,{"yr":"2013","value":"TUNNEL","n":"306"}
+,{"yr":"2013","value":"VARIETY STORE","n":"703"}
+,{"yr":"2013","value":"VIDEO STORE","n":"137"}
+,{"yr":"2014","value":"ABANDONED BUILDING","n":"218"}
+,{"yr":"2014","value":"AIRPORT TERMINAL","n":"1713"}
+,{"yr":"2014","value":"ATM","n":"434"}
+,{"yr":"2014","value":"BANK","n":"1930"}
+,{"yr":"2014","value":"BAR/NIGHT CLUB","n":"5924"}
+,{"yr":"2014","value":"BEAUTY & NAIL SALON","n":"1367"}
+,{"yr":"2014","value":"BEAUTY/NAIL SALON","n":"3"}
+,{"yr":"2014","value":"BOOK/CARD","n":"140"}
+,{"yr":"2014","value":"BRIDGE","n":"524"}
+,{"yr":"2014","value":"BUS (NYC TRANSIT)","n":"1175"}
+,{"yr":"2014","value":"BUS (OTHER)","n":"271"}
+,{"yr":"2014","value":"BUS STOP","n":"404"}
+,{"yr":"2014","value":"BUS TERMINAL","n":"354"}
+,{"yr":"2014","value":"CANDY STORE","n":"610"}
+,{"yr":"2014","value":"CEMETERY","n":"33"}
+,{"yr":"2014","value":"CHAIN STORE","n":"10930"}
+,{"yr":"2014","value":"CHECK CASHING BUSINESS","n":"604"}
+,{"yr":"2014","value":"CHURCH","n":"854"}
+,{"yr":"2014","value":"CLOTHING/BOUTIQUE","n":"4566"}
+,{"yr":"2014","value":"COLLEGE/UNIVERSITY","n":"1058"}
+,{"yr":"2014","value":"COMMERCIAL BLDG","n":"4"}
+,{"yr":"2014","value":"COMMERCIAL BUILDING","n":"12989"}
+,{"yr":"2014","value":"CONSTRUCTION SITE","n":"774"}
+,{"yr":"2014","value":"DAYCARE FACILITY","n":"1"}
+,{"yr":"2014","value":"DEPARTMENT STORE","n":"10752"}
+,{"yr":"2014","value":"DOCTOR/DENTIST OFFICE","n":"1235"}
+,{"yr":"2014","value":"DRUG STORE","n":"4432"}
+,{"yr":"2014","value":"DRY CLEANER/LAUNDRY","n":"1101"}
+,{"yr":"2014","value":"FACTORY/WAREHOUSE","n":"516"}
+,{"yr":"2014","value":"FAST FOOD","n":"2727"}
+,{"yr":"2014","value":"FERRY/FERRY TERMINAL","n":"172"}
+,{"yr":"2014","value":"FOOD SUPERMARKET","n":"3119"}
+,{"yr":"2014","value":"GAS STATION","n":"1099"}
+,{"yr":"2014","value":"GROCERY/BODEGA","n":"6940"}
+,{"yr":"2014","value":"GYM/FITNESS FACILITY","n":"1715"}
+,{"yr":"2014","value":"HIGHWAY/PARKWAY","n":"1648"}
+,{"yr":"2014","value":"HOMELESS SHELTER","n":"2"}
+,{"yr":"2014","value":"HOSPITAL","n":"2377"}
+,{"yr":"2014","value":"HOTEL/MOTEL","n":"2257"}
+,{"yr":"2014","value":"JEWELRY","n":"358"}
+,{"yr":"2014","value":"LIQUOR STORE","n":"438"}
+,{"yr":"2014","value":"LOAN COMPANY","n":"28"}
+,{"yr":"2014","value":"MARINA/PIER","n":"208"}
+,{"yr":"2014","value":"MOBILE FOOD","n":"81"}
+,{"yr":"2014","value":"MOSQUE","n":"63"}
+,{"yr":"2014","value":"MULTI DWELL - APT BUILD","n":"74"}
+,{"yr":"2014","value":"MULTI DWELL - PUBLIC HOUS","n":"49"}
+,{"yr":"2014","value":"(null)","n":"191"}
+,{"yr":"2014","value":"OPEN AREAS (OPEN LOTS)","n":"625"}
+,{"yr":"2014","value":"OTHER","n":"13496"}
+,{"yr":"2014","value":"OTHER HOUSE OF WORSHIP","n":"61"}
+,{"yr":"2014","value":"PARKING LOT/GARAGE (PRIVATE)","n":"2468"}
+,{"yr":"2014","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2464"}
+,{"yr":"2014","value":"PARK/PLAYGROUND","n":"6550"}
+,{"yr":"2014","value":"PHOTO/COPY","n":"74"}
+,{"yr":"2014","value":"PRIVATE/PAROCHIAL SCHOOL","n":"511"}
+,{"yr":"2014","value":"PUBLIC BUILDING","n":"3197"}
+,{"yr":"2014","value":"PUBLIC SCHOOL","n":"5123"}
+,{"yr":"2014","value":"PVT HOUSE","n":"42"}
+,{"yr":"2014","value":"REAL ESTATE","n":"187"}
+,{"yr":"2014","value":"RESIDENCE - APT. HOUSE","n":"108168"}
+,{"yr":"2014","value":"RESIDENCE-HOUSE","n":"46103"}
+,{"yr":"2014","value":"RESIDENCE - PUBLIC HOUSING","n":"36917"}
+,{"yr":"2014","value":"RESTAURANT/DINER","n":"6197"}
+,{"yr":"2014","value":"SHOE","n":"366"}
+,{"yr":"2014","value":"SMALL MERCHANT","n":"2023"}
+,{"yr":"2014","value":"SOCIAL CLUB/POLICY","n":"275"}
+,{"yr":"2014","value":"STORAGE FACILITY","n":"446"}
+,{"yr":"2014","value":"STORE UNCLASSIFIED","n":"2086"}
+,{"yr":"2014","value":"STREET","n":"152041"}
+,{"yr":"2014","value":"SYNAGOGUE","n":"145"}
+,{"yr":"2014","value":"TAXI (LIVERY LICENSED)","n":"503"}
+,{"yr":"2014","value":"TAXI/LIVERY (UNLICENSED)","n":"89"}
+,{"yr":"2014","value":"TAXI (YELLOW LICENSED)","n":"645"}
+,{"yr":"2014","value":"TELECOMM. STORE","n":"769"}
+,{"yr":"2014","value":"TRAMWAY","n":"15"}
+,{"yr":"2014","value":"TRANSIT FACILITY (OTHER)","n":"436"}
+,{"yr":"2014","value":"TRANSIT - NYC SUBWAY","n":"10942"}
+,{"yr":"2014","value":"TUNNEL","n":"270"}
+,{"yr":"2014","value":"VARIETY STORE","n":"784"}
+,{"yr":"2014","value":"VIDEO STORE","n":"97"}
+,{"yr":"2015","value":"ABANDONED BUILDING","n":"345"}
+,{"yr":"2015","value":"AIRPORT TERMINAL","n":"1801"}
+,{"yr":"2015","value":"ATM","n":"395"}
+,{"yr":"2015","value":"BANK","n":"1994"}
+,{"yr":"2015","value":"BAR/NIGHT CLUB","n":"5353"}
+,{"yr":"2015","value":"BEAUTY & NAIL SALON","n":"1432"}
+,{"yr":"2015","value":"BEAUTY/NAIL SALON","n":"1"}
+,{"yr":"2015","value":"BOOK/CARD","n":"151"}
+,{"yr":"2015","value":"BRIDGE","n":"589"}
+,{"yr":"2015","value":"BUS (NYC TRANSIT)","n":"1108"}
+,{"yr":"2015","value":"BUS (OTHER)","n":"223"}
+,{"yr":"2015","value":"BUS STOP","n":"368"}
+,{"yr":"2015","value":"BUS TERMINAL","n":"368"}
+,{"yr":"2015","value":"CANDY STORE","n":"608"}
+,{"yr":"2015","value":"CEMETERY","n":"40"}
+,{"yr":"2015","value":"CHAIN STORE","n":"12174"}
+,{"yr":"2015","value":"CHECK CASHING BUSINESS","n":"710"}
+,{"yr":"2015","value":"CHURCH","n":"817"}
+,{"yr":"2015","value":"CLOTHING/BOUTIQUE","n":"4450"}
+,{"yr":"2015","value":"COLLEGE/UNIVERSITY","n":"1035"}
+,{"yr":"2015","value":"COMMERCIAL BLDG","n":"9"}
+,{"yr":"2015","value":"COMMERCIAL BUILDING","n":"12365"}
+,{"yr":"2015","value":"CONSTRUCTION SITE","n":"866"}
+,{"yr":"2015","value":"DAYCARE FACILITY","n":"1"}
+,{"yr":"2015","value":"DEPARTMENT STORE","n":"11079"}
+,{"yr":"2015","value":"DOCTOR/DENTIST OFFICE","n":"1200"}
+,{"yr":"2015","value":"DRUG STORE","n":"4279"}
+,{"yr":"2015","value":"DRY CLEANER/LAUNDRY","n":"1093"}
+,{"yr":"2015","value":"FACTORY/WAREHOUSE","n":"494"}
+,{"yr":"2015","value":"FAST FOOD","n":"2841"}
+,{"yr":"2015","value":"FERRY/FERRY TERMINAL","n":"190"}
+,{"yr":"2015","value":"FOOD SUPERMARKET","n":"2877"}
+,{"yr":"2015","value":"GAS STATION","n":"1073"}
+,{"yr":"2015","value":"GROCERY/BODEGA","n":"7303"}
+,{"yr":"2015","value":"GYM/FITNESS FACILITY","n":"1586"}
+,{"yr":"2015","value":"HIGHWAY/PARKWAY","n":"1984"}
+,{"yr":"2015","value":"HOMELESS SHELTER","n":"7"}
+,{"yr":"2015","value":"HOSPITAL","n":"2372"}
+,{"yr":"2015","value":"HOTEL/MOTEL","n":"2240"}
+,{"yr":"2015","value":"JEWELRY","n":"334"}
+,{"yr":"2015","value":"LIQUOR STORE","n":"492"}
+,{"yr":"2015","value":"LOAN COMPANY","n":"21"}
+,{"yr":"2015","value":"MAILBOX OUTSIDE","n":"1"}
+,{"yr":"2015","value":"MARINA/PIER","n":"218"}
+,{"yr":"2015","value":"MOBILE FOOD","n":"93"}
+,{"yr":"2015","value":"MOSQUE","n":"88"}
+,{"yr":"2015","value":"MULTI DWELL - APT BUILD","n":"63"}
+,{"yr":"2015","value":"MULTI DWELL - PUBLIC HOUS","n":"52"}
+,{"yr":"2015","value":"(null)","n":"217"}
+,{"yr":"2015","value":"OPEN AREAS (OPEN LOTS)","n":"590"}
+,{"yr":"2015","value":"OTHER","n":"14140"}
+,{"yr":"2015","value":"OTHER HOUSE OF WORSHIP","n":"63"}
+,{"yr":"2015","value":"PARKING LOT/GARAGE (PRIVATE)","n":"2399"}
+,{"yr":"2015","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2293"}
+,{"yr":"2015","value":"PARK/PLAYGROUND","n":"6000"}
+,{"yr":"2015","value":"PHOTO/COPY","n":"57"}
+,{"yr":"2015","value":"PRIVATE/PAROCHIAL SCHOOL","n":"495"}
+,{"yr":"2015","value":"PUBLIC BUILDING","n":"2805"}
+,{"yr":"2015","value":"PUBLIC SCHOOL","n":"4796"}
+,{"yr":"2015","value":"PVT HOUSE","n":"32"}
+,{"yr":"2015","value":"REAL ESTATE","n":"172"}
+,{"yr":"2015","value":"RESIDENCE - APT. HOUSE","n":"104507"}
+,{"yr":"2015","value":"RESIDENCE-HOUSE","n":"44020"}
+,{"yr":"2015","value":"RESIDENCE - PUBLIC HOUSING","n":"36644"}
+,{"yr":"2015","value":"RESTAURANT/DINER","n":"6131"}
+,{"yr":"2015","value":"SHOE","n":"368"}
+,{"yr":"2015","value":"SHOE STORE","n":"1"}
+,{"yr":"2015","value":"SMALL MERCHANT","n":"2010"}
+,{"yr":"2015","value":"SOCIAL CLUB/POLICY","n":"321"}
+,{"yr":"2015","value":"SOCIAL CLUB/POLICY LOCATI","n":"2"}
+,{"yr":"2015","value":"STORAGE FACILITY","n":"418"}
+,{"yr":"2015","value":"STORE UNCLASSIFIED","n":"1927"}
+,{"yr":"2015","value":"STREET","n":"144627"}
+,{"yr":"2015","value":"SYNAGOGUE","n":"151"}
+,{"yr":"2015","value":"TAXI (LIVERY LICENSED)","n":"576"}
+,{"yr":"2015","value":"TAXI/LIVERY (UNLICENSED)","n":"66"}
+,{"yr":"2015","value":"TAXI (YELLOW LICENSED)","n":"671"}
+,{"yr":"2015","value":"TELECOMM. STORE","n":"865"}
+,{"yr":"2015","value":"TRAMWAY","n":"6"}
+,{"yr":"2015","value":"TRANSIT FACILITY (OTHER)","n":"420"}
+,{"yr":"2015","value":"TRANSIT - NYC SUBWAY","n":"11244"}
+,{"yr":"2015","value":"TUNNEL","n":"238"}
+,{"yr":"2015","value":"VARIETY STORE","n":"650"}
+,{"yr":"2015","value":"VIDEO STORE","n":"105"}
+,{"yr":"2016","value":"ABANDONED BUILDING","n":"238"}
+,{"yr":"2016","value":"AIRPORT TERMINAL","n":"1556"}
+,{"yr":"2016","value":"ATM","n":"499"}
+,{"yr":"2016","value":"BANK","n":"2207"}
+,{"yr":"2016","value":"BAR/NIGHT CLUB","n":"5519"}
+,{"yr":"2016","value":"BEAUTY & NAIL SALON","n":"1405"}
+,{"yr":"2016","value":"BEAUTY/NAIL SALON","n":"2"}
+,{"yr":"2016","value":"BOOK/CARD","n":"141"}
+,{"yr":"2016","value":"BRIDGE","n":"538"}
+,{"yr":"2016","value":"BUS (NYC TRANSIT)","n":"1123"}
+,{"yr":"2016","value":"BUS (OTHER)","n":"183"}
+,{"yr":"2016","value":"BUS STOP","n":"354"}
+,{"yr":"2016","value":"BUS TERMINAL","n":"361"}
+,{"yr":"2016","value":"CANDY STORE","n":"651"}
+,{"yr":"2016","value":"CEMETERY","n":"30"}
+,{"yr":"2016","value":"CHAIN STORE","n":"12143"}
+,{"yr":"2016","value":"CHECK CASHING BUSINESS","n":"605"}
+,{"yr":"2016","value":"CHURCH","n":"814"}
+,{"yr":"2016","value":"CLOTHING/BOUTIQUE","n":"3852"}
+,{"yr":"2016","value":"COLLEGE/UNIVERSITY","n":"925"}
+,{"yr":"2016","value":"COMMERCIAL BLDG","n":"3"}
+,{"yr":"2016","value":"COMMERCIAL BUILDING","n":"12456"}
+,{"yr":"2016","value":"CONSTRUCTION SITE","n":"757"}
+,{"yr":"2016","value":"DEPARTMENT STORE","n":"10339"}
+,{"yr":"2016","value":"DOCTOR/DENTIST OFFICE","n":"1148"}
+,{"yr":"2016","value":"DRUG STORE","n":"4716"}
+,{"yr":"2016","value":"DRY CLEANER/LAUNDRY","n":"1161"}
+,{"yr":"2016","value":"FACTORY/WAREHOUSE","n":"430"}
+,{"yr":"2016","value":"FAST FOOD","n":"2726"}
+,{"yr":"2016","value":"FERRY/FERRY TERMINAL","n":"222"}
+,{"yr":"2016","value":"FOOD SUPERMARKET","n":"2724"}
+,{"yr":"2016","value":"GAS STATION","n":"1111"}
+,{"yr":"2016","value":"GROCERY/BODEGA","n":"7643"}
+,{"yr":"2016","value":"GYM/FITNESS FACILITY","n":"1506"}
+,{"yr":"2016","value":"HIGHWAY/PARKWAY","n":"1670"}
+,{"yr":"2016","value":"HOMELESS SHELTER","n":"8"}
+,{"yr":"2016","value":"HOSPITAL","n":"2437"}
+,{"yr":"2016","value":"HOTEL/MOTEL","n":"2591"}
+,{"yr":"2016","value":"JEWELRY","n":"315"}
+,{"yr":"2016","value":"LIQUOR STORE","n":"505"}
+,{"yr":"2016","value":"LOAN COMPANY","n":"24"}
+,{"yr":"2016","value":"MAILBOX INSIDE","n":"4"}
+,{"yr":"2016","value":"MAILBOX OUTSIDE","n":"21"}
+,{"yr":"2016","value":"MARINA/PIER","n":"204"}
+,{"yr":"2016","value":"MOBILE FOOD","n":"100"}
+,{"yr":"2016","value":"MOSQUE","n":"98"}
+,{"yr":"2016","value":"MULTI DWELL - APT BUILD","n":"71"}
+,{"yr":"2016","value":"MULTI DWELL - PUBLIC HOUS","n":"45"}
+,{"yr":"2016","value":"(null)","n":"167"}
+,{"yr":"2016","value":"OPEN AREAS (OPEN LOTS)","n":"558"}
+,{"yr":"2016","value":"OTHER","n":"13969"}
+,{"yr":"2016","value":"OTHER HOUSE OF WORSHIP","n":"66"}
+,{"yr":"2016","value":"PARKING LOT/GARAGE (PRIVATE)","n":"2108"}
+,{"yr":"2016","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2201"}
+,{"yr":"2016","value":"PARK/PLAYGROUND","n":"5985"}
+,{"yr":"2016","value":"PHOTO/COPY","n":"62"}
+,{"yr":"2016","value":"PRIVATE/PAROCHIAL SCHOOL","n":"519"}
+,{"yr":"2016","value":"PUBLIC BUILDING","n":"2594"}
+,{"yr":"2016","value":"PUBLIC SCHOOL","n":"4845"}
+,{"yr":"2016","value":"PVT HOUSE","n":"33"}
+,{"yr":"2016","value":"REAL ESTATE","n":"174"}
+,{"yr":"2016","value":"RESIDENCE - APT. HOUSE","n":"103999"}
+,{"yr":"2016","value":"RESIDENCE-HOUSE","n":"45188"}
+,{"yr":"2016","value":"RESIDENCE - PUBLIC HOUSING","n":"38223"}
+,{"yr":"2016","value":"RESTAURANT/DINER","n":"6300"}
+,{"yr":"2016","value":"SHOE","n":"342"}
+,{"yr":"2016","value":"SMALL MERCHANT","n":"1768"}
+,{"yr":"2016","value":"SOCIAL CLUB/POLICY","n":"295"}
+,{"yr":"2016","value":"STORAGE FACILITY","n":"375"}
+,{"yr":"2016","value":"STORE UNCLASSIFIED","n":"1917"}
+,{"yr":"2016","value":"STREET","n":"143278"}
+,{"yr":"2016","value":"SYNAGOGUE","n":"165"}
+,{"yr":"2016","value":"TAXI (LIVERY LICENSED)","n":"666"}
+,{"yr":"2016","value":"TAXI/LIVERY (UNLICENSED)","n":"56"}
+,{"yr":"2016","value":"TAXI (YELLOW LICENSED)","n":"669"}
+,{"yr":"2016","value":"TELECOMM. STORE","n":"877"}
+,{"yr":"2016","value":"TRAMWAY","n":"4"}
+,{"yr":"2016","value":"TRANSIT FACILITY (OTHER)","n":"466"}
+,{"yr":"2016","value":"TRANSIT - NYC SUBWAY","n":"11854"}
+,{"yr":"2016","value":"TUNNEL","n":"247"}
+,{"yr":"2016","value":"VARIETY STORE","n":"559"}
+,{"yr":"2016","value":"VIDEO STORE","n":"70"}
+,{"yr":"2017","value":"ABANDONED BUILDING","n":"292"}
+,{"yr":"2017","value":"AIRPORT TERMINAL","n":"1219"}
+,{"yr":"2017","value":"ATM","n":"419"}
+,{"yr":"2017","value":"BANK","n":"2209"}
+,{"yr":"2017","value":"BAR/NIGHT CLUB","n":"4978"}
+,{"yr":"2017","value":"BEAUTY & NAIL SALON","n":"1411"}
+,{"yr":"2017","value":"BOOK/CARD","n":"203"}
+,{"yr":"2017","value":"BRIDGE","n":"565"}
+,{"yr":"2017","value":"BUS (NYC TRANSIT)","n":"1111"}
+,{"yr":"2017","value":"BUS (OTHER)","n":"239"}
+,{"yr":"2017","value":"BUS STOP","n":"370"}
+,{"yr":"2017","value":"BUS TERMINAL","n":"378"}
+,{"yr":"2017","value":"CANDY STORE","n":"630"}
+,{"yr":"2017","value":"CEMETERY","n":"41"}
+,{"yr":"2017","value":"CHAIN STORE","n":"13837"}
+,{"yr":"2017","value":"CHECK CASH","n":"1"}
+,{"yr":"2017","value":"CHECK CASHING BUSINESS","n":"606"}
+,{"yr":"2017","value":"CHURCH","n":"841"}
+,{"yr":"2017","value":"CLOTHING/BOUTIQUE","n":"4062"}
+,{"yr":"2017","value":"COLLEGE/UNIVERSITY","n":"939"}
+,{"yr":"2017","value":"COMMERCIAL BLDG","n":"3"}
+,{"yr":"2017","value":"COMMERCIAL BUILDING","n":"12959"}
+,{"yr":"2017","value":"CONSTRUCTION SITE","n":"910"}
+,{"yr":"2017","value":"DAYCARE FACILITY","n":"1"}
+,{"yr":"2017","value":"DEPARTMENT STORE","n":"9700"}
+,{"yr":"2017","value":"DOCTOR/DENTIST OFFICE","n":"1088"}
+,{"yr":"2017","value":"DRUG STORE","n":"5680"}
+,{"yr":"2017","value":"DRY CLEANER/LAUNDRY","n":"1112"}
+,{"yr":"2017","value":"FACTORY/WAREHOUSE","n":"459"}
+,{"yr":"2017","value":"FAST FOOD","n":"2699"}
+,{"yr":"2017","value":"FERRY/FERRY TERMINAL","n":"196"}
+,{"yr":"2017","value":"FOOD SUPERMARKET","n":"2665"}
+,{"yr":"2017","value":"GAS STATION","n":"1126"}
+,{"yr":"2017","value":"GROCERY/BODEGA","n":"7745"}
+,{"yr":"2017","value":"GYM/FITNESS FACILITY","n":"1623"}
+,{"yr":"2017","value":"HIGHWAY/PARKWAY","n":"1418"}
+,{"yr":"2017","value":"HOMELESS SHELTER","n":"8"}
+,{"yr":"2017","value":"HOSPITAL","n":"2460"}
+,{"yr":"2017","value":"HOTEL/MOTEL","n":"2731"}
+,{"yr":"2017","value":"JEWELRY","n":"303"}
+,{"yr":"2017","value":"JEWELRY STORE","n":"2"}
+,{"yr":"2017","value":"LIQUOR STORE","n":"488"}
+,{"yr":"2017","value":"LOAN COMPANY","n":"34"}
+,{"yr":"2017","value":"MAILBOX INSIDE","n":"50"}
+,{"yr":"2017","value":"MAILBOX OUTSIDE","n":"481"}
+,{"yr":"2017","value":"MARINA/PIER","n":"212"}
+,{"yr":"2017","value":"MOBILE FOOD","n":"80"}
+,{"yr":"2017","value":"MOSQUE","n":"94"}
+,{"yr":"2017","value":"MULTI DWELL - APT BUILD","n":"53"}
+,{"yr":"2017","value":"MULTI DWELL - PUBLIC HOUS","n":"41"}
+,{"yr":"2017","value":"(null)","n":"166"}
+,{"yr":"2017","value":"OPEN AREAS (OPEN LOTS)","n":"548"}
+,{"yr":"2017","value":"OTHER","n":"14025"}
+,{"yr":"2017","value":"OTHER HOUSE OF WORSHIP","n":"65"}
+,{"yr":"2017","value":"PARKING LOT/GARAGE (PRIVATE)","n":"2062"}
+,{"yr":"2017","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2201"}
+,{"yr":"2017","value":"PARK/PLAYGROUND","n":"5360"}
+,{"yr":"2017","value":"PHOTO/COPY","n":"54"}
+,{"yr":"2017","value":"PRIVATE/PAROCHIAL SCHOOL","n":"458"}
+,{"yr":"2017","value":"PUBLIC BUILDING","n":"2545"}
+,{"yr":"2017","value":"PUBLIC SCHOOL","n":"4738"}
+,{"yr":"2017","value":"PVT HOUSE","n":"14"}
+,{"yr":"2017","value":"REAL ESTATE","n":"151"}
+,{"yr":"2017","value":"RESIDENCE - APT. HOUSE","n":"102125"}
+,{"yr":"2017","value":"RESIDENCE-HOUSE","n":"43148"}
+,{"yr":"2017","value":"RESIDENCE - PUBLIC HOUSING","n":"37169"}
+,{"yr":"2017","value":"RESTAURANT/DINER","n":"5978"}
+,{"yr":"2017","value":"SHOE","n":"334"}
+,{"yr":"2017","value":"SMALL MERCHANT","n":"1696"}
+,{"yr":"2017","value":"SOCIAL CLUB/POLICY","n":"263"}
+,{"yr":"2017","value":"STORAGE FACILITY","n":"390"}
+,{"yr":"2017","value":"STORE UNCLASSIFIED","n":"1840"}
+,{"yr":"2017","value":"STREET","n":"136864"}
+,{"yr":"2017","value":"SYNAGOGUE","n":"171"}
+,{"yr":"2017","value":"TAXI (LIVERY LICENSED)","n":"553"}
+,{"yr":"2017","value":"TAXI/LIVERY (UNLICENSED)","n":"69"}
+,{"yr":"2017","value":"TAXI (YELLOW LICENSED)","n":"522"}
+,{"yr":"2017","value":"TELECOMM. STORE","n":"958"}
+,{"yr":"2017","value":"TRAMWAY","n":"11"}
+,{"yr":"2017","value":"TRANSIT FACILITY (OTHER)","n":"406"}
+,{"yr":"2017","value":"TRANSIT - NYC SUBWAY","n":"11930"}
+,{"yr":"2017","value":"TUNNEL","n":"251"}
+,{"yr":"2017","value":"VARIETY STORE","n":"632"}
+,{"yr":"2017","value":"VIDEO STORE","n":"87"}
+,{"yr":"2018","value":"ABANDONED BUILDING","n":"159"}
+,{"yr":"2018","value":"AIRPORT TERMINAL","n":"840"}
+,{"yr":"2018","value":"ATM","n":"343"}
+,{"yr":"2018","value":"BANK","n":"2062"}
+,{"yr":"2018","value":"BAR/NIGHT CLUB","n":"5087"}
+,{"yr":"2018","value":"BEAUTY & NAIL SALON","n":"1396"}
+,{"yr":"2018","value":"BEAUTY/NAIL SALON","n":"1"}
+,{"yr":"2018","value":"BOOK/CARD","n":"186"}
+,{"yr":"2018","value":"BRIDGE","n":"445"}
+,{"yr":"2018","value":"BUS (NYC TRANSIT)","n":"1152"}
+,{"yr":"2018","value":"BUS (OTHER)","n":"245"}
+,{"yr":"2018","value":"BUS STOP","n":"333"}
+,{"yr":"2018","value":"BUS TERMINAL","n":"451"}
+,{"yr":"2018","value":"CANDY STORE","n":"579"}
+,{"yr":"2018","value":"CEMETERY","n":"42"}
+,{"yr":"2018","value":"CHAIN STORE","n":"15099"}
+,{"yr":"2018","value":"CHECK CASHING BUSINESS","n":"549"}
+,{"yr":"2018","value":"CHURCH","n":"811"}
+,{"yr":"2018","value":"CLOTHING/BOUTIQUE","n":"4373"}
+,{"yr":"2018","value":"COLLEGE/UNIVERSITY","n":"986"}
+,{"yr":"2018","value":"COMMERCIAL BLDG","n":"5"}
+,{"yr":"2018","value":"COMMERCIAL BUILDING","n":"12850"}
+,{"yr":"2018","value":"CONSTRUCTION SITE","n":"1069"}
+,{"yr":"2018","value":"DAYCARE FACILITY","n":"1"}
+,{"yr":"2018","value":"DEPARTMENT STORE","n":"10714"}
+,{"yr":"2018","value":"DOCTOR/DENTIST OFFICE","n":"1165"}
+,{"yr":"2018","value":"DRUG STORE","n":"6385"}
+,{"yr":"2018","value":"DRY CLEANER/LAUNDRY","n":"1107"}
+,{"yr":"2018","value":"FACTORY/WAREHOUSE","n":"419"}
+,{"yr":"2018","value":"FAST FOOD","n":"2911"}
+,{"yr":"2018","value":"FERRY/FERRY TERMINAL","n":"138"}
+,{"yr":"2018","value":"FOOD SUPERMARKET","n":"2870"}
+,{"yr":"2018","value":"GAS STATION","n":"1232"}
+,{"yr":"2018","value":"GROCERY/BODEGA","n":"8065"}
+,{"yr":"2018","value":"GYM/FITNESS FACILITY","n":"1460"}
+,{"yr":"2018","value":"HIGHWAY/PARKWAY","n":"1410"}
+,{"yr":"2018","value":"HOMELESS SHELTER","n":"43"}
+,{"yr":"2018","value":"HOSPITAL","n":"2482"}
+,{"yr":"2018","value":"HOTEL/MOTEL","n":"2856"}
+,{"yr":"2018","value":"JEWELRY","n":"280"}
+,{"yr":"2018","value":"LIQUOR STORE","n":"525"}
+,{"yr":"2018","value":"LOAN COMPANY","n":"20"}
+,{"yr":"2018","value":"MAILBOX INSIDE","n":"315"}
+,{"yr":"2018","value":"MAILBOX OUTSIDE","n":"3003"}
+,{"yr":"2018","value":"MARINA/PIER","n":"176"}
+,{"yr":"2018","value":"MOBILE FOOD","n":"111"}
+,{"yr":"2018","value":"MOSQUE","n":"77"}
+,{"yr":"2018","value":"MULTI DWELL - APT BUILD","n":"72"}
+,{"yr":"2018","value":"MULTI DWELL - PUBLIC HOUS","n":"40"}
+,{"yr":"2018","value":"(null)","n":"160"}
+,{"yr":"2018","value":"OPEN AREAS (OPEN LOTS)","n":"545"}
+,{"yr":"2018","value":"OTHER","n":"15233"}
+,{"yr":"2018","value":"OTHER HOUSE OF WORSHIP","n":"76"}
+,{"yr":"2018","value":"PARKING LOT/GARAGE (PRIVATE)","n":"1861"}
+,{"yr":"2018","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2041"}
+,{"yr":"2018","value":"PARK/PLAYGROUND","n":"4588"}
+,{"yr":"2018","value":"PHOTO/COPY","n":"44"}
+,{"yr":"2018","value":"PRIVATE/PAROCHIAL SCHOOL","n":"530"}
+,{"yr":"2018","value":"PUBLIC BUILDING","n":"2470"}
+,{"yr":"2018","value":"PUBLIC SCHOOL","n":"4238"}
+,{"yr":"2018","value":"PVT HOUSE","n":"18"}
+,{"yr":"2018","value":"REAL ESTATE","n":"154"}
+,{"yr":"2018","value":"RESIDENCE - APT. HOUSE","n":"103838"}
+,{"yr":"2018","value":"RESIDENCE-HOUSE","n":"43525"}
+,{"yr":"2018","value":"RESIDENCE - PUBLIC HOUSING","n":"33365"}
+,{"yr":"2018","value":"RESTAURANT/DINER","n":"6249"}
+,{"yr":"2018","value":"SHOE","n":"322"}
+,{"yr":"2018","value":"SHOE STORE","n":"2"}
+,{"yr":"2018","value":"SMALL MERCHANT","n":"1510"}
+,{"yr":"2018","value":"SOCIAL CLUB/POLICY","n":"271"}
+,{"yr":"2018","value":"STORAGE FACILITY","n":"491"}
+,{"yr":"2018","value":"STORE UNCLASSIFIED","n":"1647"}
+,{"yr":"2018","value":"STREET","n":"127544"}
+,{"yr":"2018","value":"SUPERMARKET","n":"1"}
+,{"yr":"2018","value":"SYNAGOGUE","n":"150"}
+,{"yr":"2018","value":"TAXI (LIVERY LICENSED)","n":"622"}
+,{"yr":"2018","value":"TAXI/LIVERY (UNLICENSED)","n":"81"}
+,{"yr":"2018","value":"TAXI (YELLOW LICENSED)","n":"432"}
+,{"yr":"2018","value":"TELECOMM. STORE","n":"775"}
+,{"yr":"2018","value":"TRAMWAY","n":"10"}
+,{"yr":"2018","value":"TRANSIT FACILITY (OTHER)","n":"401"}
+,{"yr":"2018","value":"TRANSIT - NYC SUBWAY","n":"11948"}
+,{"yr":"2018","value":"TUNNEL","n":"202"}
+,{"yr":"2018","value":"VARIETY STORE","n":"587"}
+,{"yr":"2018","value":"VIDEO STORE","n":"60"}
+,{"yr":"2019","value":"ABANDONED BUILDING","n":"119"}
+,{"yr":"2019","value":"AIRPORT TERMINAL","n":"806"}
+,{"yr":"2019","value":"ATM","n":"263"}
+,{"yr":"2019","value":"BANK","n":"1722"}
+,{"yr":"2019","value":"BAR/NIGHT CLUB","n":"4550"}
+,{"yr":"2019","value":"BEAUTY & NAIL SALON","n":"1300"}
+,{"yr":"2019","value":"BEAUTY/NAIL SALON","n":"1"}
+,{"yr":"2019","value":"BOOK/CARD","n":"193"}
+,{"yr":"2019","value":"BRIDGE","n":"430"}
+,{"yr":"2019","value":"BUS (NYC TRANSIT)","n":"1216"}
+,{"yr":"2019","value":"BUS (OTHER)","n":"255"}
+,{"yr":"2019","value":"BUS STOP","n":"392"}
+,{"yr":"2019","value":"BUS TERMINAL","n":"350"}
+,{"yr":"2019","value":"CANDY STORE","n":"578"}
+,{"yr":"2019","value":"CEMETERY","n":"41"}
+,{"yr":"2019","value":"CHAIN STORE","n":"16376"}
+,{"yr":"2019","value":"CHECK CASHING BUSINESS","n":"439"}
+,{"yr":"2019","value":"CHURCH","n":"760"}
+,{"yr":"2019","value":"CLOTHING/BOUTIQUE","n":"4488"}
+,{"yr":"2019","value":"COLLEGE/UNIVERSITY","n":"872"}
+,{"yr":"2019","value":"COMMERCIAL BLDG","n":"2"}
+,{"yr":"2019","value":"COMMERCIAL BUILDING","n":"12239"}
+,{"yr":"2019","value":"CONSTRUCTION SITE","n":"929"}
+,{"yr":"2019","value":"DAYCARE FACILITY","n":"16"}
+,{"yr":"2019","value":"DEPARTMENT STORE","n":"10453"}
+,{"yr":"2019","value":"DOCTOR/DENTIST OFFICE","n":"1132"}
+,{"yr":"2019","value":"DRUG STORE","n":"7336"}
+,{"yr":"2019","value":"DRY CLEANER/LAUNDRY","n":"1091"}
+,{"yr":"2019","value":"FACTORY/WAREHOUSE","n":"359"}
+,{"yr":"2019","value":"FAST FOOD","n":"3022"}
+,{"yr":"2019","value":"FERRY/FERRY TERMINAL","n":"138"}
+,{"yr":"2019","value":"FOOD SUPERMARKET","n":"2642"}
+,{"yr":"2019","value":"GAS STATION","n":"1109"}
+,{"yr":"2019","value":"GROCERY/BODEGA","n":"7912"}
+,{"yr":"2019","value":"GYM/FITNESS FACILITY","n":"1583"}
+,{"yr":"2019","value":"HIGHWAY/PARKWAY","n":"1529"}
+,{"yr":"2019","value":"HOMELESS SHELTER","n":"1696"}
+,{"yr":"2019","value":"HOSPITAL","n":"2417"}
+,{"yr":"2019","value":"HOTEL/MOTEL","n":"2756"}
+,{"yr":"2019","value":"JEWELRY","n":"298"}
+,{"yr":"2019","value":"LIQUOR STORE","n":"592"}
+,{"yr":"2019","value":"LOAN COMPANY","n":"29"}
+,{"yr":"2019","value":"MAILBOX INSIDE","n":"199"}
+,{"yr":"2019","value":"MAILBOX OUTSIDE","n":"1897"}
+,{"yr":"2019","value":"MARINA/PIER","n":"195"}
+,{"yr":"2019","value":"MOBILE FOOD","n":"126"}
+,{"yr":"2019","value":"MOSQUE","n":"105"}
+,{"yr":"2019","value":"MULTI DWELL - APT BUILD","n":"65"}
+,{"yr":"2019","value":"MULTI DWELL - PUBLIC HOUS","n":"46"}
+,{"yr":"2019","value":"(null)","n":"177"}
+,{"yr":"2019","value":"OPEN AREAS (OPEN LOTS)","n":"535"}
+,{"yr":"2019","value":"OTHER","n":"14000"}
+,{"yr":"2019","value":"OTHER HOUSE OF WORSHIP","n":"63"}
+,{"yr":"2019","value":"PARKING LOT/GARAGE (PRIVATE)","n":"1832"}
+,{"yr":"2019","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2040"}
+,{"yr":"2019","value":"PARK/PLAYGROUND","n":"4585"}
+,{"yr":"2019","value":"PHOTO/COPY","n":"46"}
+,{"yr":"2019","value":"PRIVATE/PAROCHIAL SCHOOL","n":"479"}
+,{"yr":"2019","value":"PUBLIC BUILDING","n":"2192"}
+,{"yr":"2019","value":"PUBLIC SCHOOL","n":"3712"}
+,{"yr":"2019","value":"PVT HOUSE","n":"19"}
+,{"yr":"2019","value":"REAL ESTATE","n":"146"}
+,{"yr":"2019","value":"RESIDENCE - APT. HOUSE","n":"101489"}
+,{"yr":"2019","value":"RESIDENCE-HOUSE","n":"45437"}
+,{"yr":"2019","value":"RESIDENCE - PUBLIC HOUSING","n":"32788"}
+,{"yr":"2019","value":"RESTAURANT/DINER","n":"5931"}
+,{"yr":"2019","value":"SHOE","n":"354"}
+,{"yr":"2019","value":"SMALL MERCHANT","n":"1377"}
+,{"yr":"2019","value":"SOCIAL CLUB/POLICY","n":"321"}
+,{"yr":"2019","value":"SOCIAL CLUB/POLICY LOCATI","n":"2"}
+,{"yr":"2019","value":"STORAGE FACILITY","n":"430"}
+,{"yr":"2019","value":"STORE UNCLASSIFIED","n":"1479"}
+,{"yr":"2019","value":"STREET","n":"128178"}
+,{"yr":"2019","value":"SUPERMARKET","n":"1"}
+,{"yr":"2019","value":"SYNAGOGUE","n":"178"}
+,{"yr":"2019","value":"TAXI (LIVERY LICENSED)","n":"509"}
+,{"yr":"2019","value":"TAXI/LIVERY (UNLICENSED)","n":"81"}
+,{"yr":"2019","value":"TAXI (YELLOW LICENSED)","n":"387"}
+,{"yr":"2019","value":"TELECOMM. STORE","n":"761"}
+,{"yr":"2019","value":"TRAMWAY","n":"9"}
+,{"yr":"2019","value":"TRANSIT FACILITY (OTHER)","n":"332"}
+,{"yr":"2019","value":"TRANSIT - NYC SUBWAY","n":"11884"}
+,{"yr":"2019","value":"TUNNEL","n":"229"}
+,{"yr":"2019","value":"VARIETY STORE","n":"509"}
+,{"yr":"2019","value":"VIDEO STORE","n":"52"}
+,{"yr":"2020","value":"ABANDONED BUILDING","n":"131"}
+,{"yr":"2020","value":"AIRPORT TERMINAL","n":"444"}
+,{"yr":"2020","value":"ATM","n":"301"}
+,{"yr":"2020","value":"BANK","n":"1386"}
+,{"yr":"2020","value":"BAR/NIGHT CLUB","n":"1558"}
+,{"yr":"2020","value":"BEAUTY & NAIL SALON","n":"1089"}
+,{"yr":"2020","value":"BOOK/CARD","n":"81"}
+,{"yr":"2020","value":"BRIDGE","n":"290"}
+,{"yr":"2020","value":"BUS (NYC TRANSIT)","n":"977"}
+,{"yr":"2020","value":"BUS (OTHER)","n":"124"}
+,{"yr":"2020","value":"BUS STOP","n":"311"}
+,{"yr":"2020","value":"BUS TERMINAL","n":"187"}
+,{"yr":"2020","value":"CANDY STORE","n":"512"}
+,{"yr":"2020","value":"CEMETERY","n":"37"}
+,{"yr":"2020","value":"CHAIN STORE","n":"14692"}
+,{"yr":"2020","value":"CHECK CASHING BUSINESS","n":"414"}
+,{"yr":"2020","value":"CHURCH","n":"516"}
+,{"yr":"2020","value":"CLOTHING/BOUTIQUE","n":"2948"}
+,{"yr":"2020","value":"COLLEGE/UNIVERSITY","n":"312"}
+,{"yr":"2020","value":"COMMERCIAL BLDG","n":"4"}
+,{"yr":"2020","value":"COMMERCIAL BUILDING","n":"8938"}
+,{"yr":"2020","value":"CONSTRUCTION SITE","n":"995"}
+,{"yr":"2020","value":"DAYCARE FACILITY","n":"39"}
+,{"yr":"2020","value":"DEPARTMENT STORE","n":"6693"}
+,{"yr":"2020","value":"DOCTOR/DENTIST OFFICE","n":"973"}
+,{"yr":"2020","value":"DRUG STORE","n":"8589"}
+,{"yr":"2020","value":"DRY CLEANER/LAUNDRY","n":"1031"}
+,{"yr":"2020","value":"FACTORY/WAREHOUSE","n":"291"}
+,{"yr":"2020","value":"FAST FOOD","n":"2217"}
+,{"yr":"2020","value":"FERRY/FERRY TERMINAL","n":"80"}
+,{"yr":"2020","value":"FOOD SUPERMARKET","n":"2220"}
+,{"yr":"2020","value":"GAS STATION","n":"1264"}
+,{"yr":"2020","value":"GROCERY/BODEGA","n":"7197"}
+,{"yr":"2020","value":"GYM/FITNESS FACILITY","n":"759"}
+,{"yr":"2020","value":"HIGHWAY/PARKWAY","n":"1348"}
+,{"yr":"2020","value":"HOMELESS SHELTER","n":"2489"}
+,{"yr":"2020","value":"HOSPITAL","n":"1795"}
+,{"yr":"2020","value":"HOTEL/MOTEL","n":"2888"}
+,{"yr":"2020","value":"JEWELRY","n":"289"}
+,{"yr":"2020","value":"LIQUOR STORE","n":"659"}
+,{"yr":"2020","value":"LOAN COMPANY","n":"16"}
+,{"yr":"2020","value":"MAILBOX INSIDE","n":"187"}
+,{"yr":"2020","value":"MAILBOX OUTSIDE","n":"1019"}
+,{"yr":"2020","value":"MARINA/PIER","n":"123"}
+,{"yr":"2020","value":"MOBILE FOOD","n":"114"}
+,{"yr":"2020","value":"MOSQUE","n":"43"}
+,{"yr":"2020","value":"MULTI DWELL - APT BUILD","n":"65"}
+,{"yr":"2020","value":"MULTI DWELL - PUBLIC HOUS","n":"71"}
+,{"yr":"2020","value":"(null)","n":"301"}
+,{"yr":"2020","value":"OPEN AREAS (OPEN LOTS)","n":"473"}
+,{"yr":"2020","value":"OTHER","n":"9461"}
+,{"yr":"2020","value":"OTHER HOUSE OF WORSHIP","n":"32"}
+,{"yr":"2020","value":"PARKING LOT/GARAGE (PRIVATE)","n":"1890"}
+,{"yr":"2020","value":"PARKING LOT/GARAGE (PUBLIC)","n":"1887"}
+,{"yr":"2020","value":"PARK/PLAYGROUND","n":"3105"}
+,{"yr":"2020","value":"PHOTO/COPY","n":"44"}
+,{"yr":"2020","value":"PRIVATE/PAROCHIAL SCHOOL","n":"248"}
+,{"yr":"2020","value":"PUBLIC BUILDING","n":"1344"}
+,{"yr":"2020","value":"PUBLIC SCHOOL","n":"1108"}
+,{"yr":"2020","value":"PVT HOUSE","n":"23"}
+,{"yr":"2020","value":"REAL ESTATE","n":"112"}
+,{"yr":"2020","value":"RESIDENCE - APT. HOUSE","n":"99478"}
+,{"yr":"2020","value":"RESIDENCE-HOUSE","n":"44575"}
+,{"yr":"2020","value":"RESIDENCE - PUBLIC HOUSING","n":"30686"}
+,{"yr":"2020","value":"RESTAURANT/DINER","n":"4846"}
+,{"yr":"2020","value":"SHOE","n":"190"}
+,{"yr":"2020","value":"SMALL MERCHANT","n":"1218"}
+,{"yr":"2020","value":"SOCIAL CLUB/POLICY","n":"111"}
+,{"yr":"2020","value":"SOCIAL CLUB/POLICY LOCATI","n":"3"}
+,{"yr":"2020","value":"STORAGE FACILITY","n":"450"}
+,{"yr":"2020","value":"STORE UNCLASSIFIED","n":"1109"}
+,{"yr":"2020","value":"STREET","n":"123359"}
+,{"yr":"2020","value":"SYNAGOGUE","n":"168"}
+,{"yr":"2020","value":"TAXI (LIVERY LICENSED)","n":"327"}
+,{"yr":"2020","value":"TAXI/LIVERY (UNLICENSED)","n":"39"}
+,{"yr":"2020","value":"TAXI (YELLOW LICENSED)","n":"122"}
+,{"yr":"2020","value":"TELECOMM. STORE","n":"793"}
+,{"yr":"2020","value":"TRAMWAY","n":"4"}
+,{"yr":"2020","value":"TRANSIT FACILITY (OTHER)","n":"215"}
+,{"yr":"2020","value":"TRANSIT - NYC SUBWAY","n":"7170"}
+,{"yr":"2020","value":"TUNNEL","n":"155"}
+,{"yr":"2020","value":"VARIETY STORE","n":"475"}
+,{"yr":"2020","value":"VIDEO STORE","n":"50"}
+,{"yr":"2021","value":"ABANDONED BUILDING","n":"172"}
+,{"yr":"2021","value":"AIRPORT TERMINAL","n":"744"}
+,{"yr":"2021","value":"ATM","n":"343"}
+,{"yr":"2021","value":"BANK","n":"1694"}
+,{"yr":"2021","value":"BAR/NIGHT CLUB","n":"2351"}
+,{"yr":"2021","value":"BEAUTY & NAIL SALON","n":"1238"}
+,{"yr":"2021","value":"BEAUTY/NAIL SALON","n":"1"}
+,{"yr":"2021","value":"BOOK/CARD","n":"106"}
+,{"yr":"2021","value":"BRIDGE","n":"319"}
+,{"yr":"2021","value":"BUS (NYC TRANSIT)","n":"912"}
+,{"yr":"2021","value":"BUS (OTHER)","n":"121"}
+,{"yr":"2021","value":"BUS STOP","n":"311"}
+,{"yr":"2021","value":"BUS TERMINAL","n":"222"}
+,{"yr":"2021","value":"CANDY STORE","n":"478"}
+,{"yr":"2021","value":"CEMETERY","n":"32"}
+,{"yr":"2021","value":"CHAIN STORE","n":"20356"}
+,{"yr":"2021","value":"CHECK CASHING BUSINESS","n":"349"}
+,{"yr":"2021","value":"CHURCH","n":"532"}
+,{"yr":"2021","value":"CLOTHING/BOUTIQUE","n":"3527"}
+,{"yr":"2021","value":"COLLEGE/UNIVERSITY","n":"333"}
+,{"yr":"2021","value":"COMMERCIAL BLDG","n":"6"}
+,{"yr":"2021","value":"COMMERCIAL BUILDING","n":"10580"}
+,{"yr":"2021","value":"CONSTRUCTION SITE","n":"943"}
+,{"yr":"2021","value":"DAYCARE FACILITY","n":"19"}
+,{"yr":"2021","value":"DEPARTMENT STORE","n":"11478"}
+,{"yr":"2021","value":"DEPT STORE","n":"1"}
+,{"yr":"2021","value":"DOCTOR/DENTIST OFFICE","n":"1031"}
+,{"yr":"2021","value":"DRUG STORE","n":"9551"}
+,{"yr":"2021","value":"DRY CLEANER/LAUNDRY","n":"927"}
+,{"yr":"2021","value":"FACTORY/WAREHOUSE","n":"341"}
+,{"yr":"2021","value":"FAST FOOD","n":"2250"}
+,{"yr":"2021","value":"FERRY/FERRY TERMINAL","n":"90"}
+,{"yr":"2021","value":"FOOD SUPERMARKET","n":"1732"}
+,{"yr":"2021","value":"GAS STATION","n":"1250"}
+,{"yr":"2021","value":"GROCERY/BODEGA","n":"6847"}
+,{"yr":"2021","value":"GYM/FITNESS FACILITY","n":"787"}
+,{"yr":"2021","value":"HIGHWAY/PARKWAY","n":"1639"}
+,{"yr":"2021","value":"HOMELESS SHELTER","n":"2589"}
+,{"yr":"2021","value":"HOSPITAL","n":"2015"}
+,{"yr":"2021","value":"HOTEL/MOTEL","n":"3408"}
+,{"yr":"2021","value":"JEWELRY","n":"241"}
+,{"yr":"2021","value":"LIQUOR STORE","n":"547"}
+,{"yr":"2021","value":"LOAN COMPANY","n":"24"}
+,{"yr":"2021","value":"MAILBOX INSIDE","n":"179"}
+,{"yr":"2021","value":"MAILBOX OUTSIDE","n":"807"}
+,{"yr":"2021","value":"MARINA/PIER","n":"146"}
+,{"yr":"2021","value":"MOBILE FOOD","n":"87"}
+,{"yr":"2021","value":"MOSQUE","n":"80"}
+,{"yr":"2021","value":"MULTI DWELL - APT BUILD","n":"63"}
+,{"yr":"2021","value":"MULTI DWELL - PUBLIC HOUS","n":"88"}
+,{"yr":"2021","value":"(null)","n":"404"}
+,{"yr":"2021","value":"OPEN AREAS (OPEN LOTS)","n":"414"}
+,{"yr":"2021","value":"OTHER","n":"9537"}
+,{"yr":"2021","value":"OTHER HOUSE OF WORSHIP","n":"49"}
+,{"yr":"2021","value":"PARKING LOT/GARAGE (PRIVATE)","n":"1682"}
+,{"yr":"2021","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2015"}
+,{"yr":"2021","value":"PARK/PLAYGROUND","n":"3761"}
+,{"yr":"2021","value":"PHOTO/COPY","n":"28"}
+,{"yr":"2021","value":"PRIVATE/PAROCHIAL SCHOOL","n":"300"}
+,{"yr":"2021","value":"PUBLIC BUILDING","n":"1417"}
+,{"yr":"2021","value":"PUBLIC SCHOOL","n":"1728"}
+,{"yr":"2021","value":"PVT HOUSE","n":"19"}
+,{"yr":"2021","value":"REAL ESTATE","n":"104"}
+,{"yr":"2021","value":"RESIDENCE - APT. HOUSE","n":"108673"}
+,{"yr":"2021","value":"RESIDENCE-HOUSE","n":"46859"}
+,{"yr":"2021","value":"RESIDENCE - PUBLIC HOUSING","n":"32293"}
+,{"yr":"2021","value":"RESTAURANT/DINER","n":"4903"}
+,{"yr":"2021","value":"SHOE","n":"200"}
+,{"yr":"2021","value":"SMALL MERCHANT","n":"1347"}
+,{"yr":"2021","value":"SOCIAL CLUB/POLICY","n":"152"}
+,{"yr":"2021","value":"STORAGE FACILITY","n":"446"}
+,{"yr":"2021","value":"STORE UNCLASSIFIED","n":"1136"}
+,{"yr":"2021","value":"STREET","n":"127951"}
+,{"yr":"2021","value":"SYNAGOGUE","n":"185"}
+,{"yr":"2021","value":"TAXI (LIVERY LICENSED)","n":"271"}
+,{"yr":"2021","value":"TAXI/LIVERY (UNLICENSED)","n":"41"}
+,{"yr":"2021","value":"TAXI (YELLOW LICENSED)","n":"111"}
+,{"yr":"2021","value":"TELECOMM. STORE","n":"714"}
+,{"yr":"2021","value":"TRAMWAY","n":"11"}
+,{"yr":"2021","value":"TRANSIT FACILITY (OTHER)","n":"281"}
+,{"yr":"2021","value":"TRANSIT - NYC SUBWAY","n":"8756"}
+,{"yr":"2021","value":"TUNNEL","n":"171"}
+,{"yr":"2021","value":"VARIETY STORE","n":"447"}
+,{"yr":"2021","value":"VIDEO STORE","n":"38"}
+,{"yr":"2022","value":"ABANDONED BUILDING","n":"165"}
+,{"yr":"2022","value":"AIRPORT TERMINAL","n":"804"}
+,{"yr":"2022","value":"ATM","n":"317"}
+,{"yr":"2022","value":"BANK","n":"1848"}
+,{"yr":"2022","value":"BAR/NIGHT CLUB","n":"4255"}
+,{"yr":"2022","value":"BEAUTY & NAIL SALON","n":"1357"}
+,{"yr":"2022","value":"BEAUTY/NAIL SALON","n":"3"}
+,{"yr":"2022","value":"BOOK/CARD","n":"89"}
+,{"yr":"2022","value":"BRIDGE","n":"313"}
+,{"yr":"2022","value":"BUS (NYC TRANSIT)","n":"1120"}
+,{"yr":"2022","value":"BUS (OTHER)","n":"189"}
+,{"yr":"2022","value":"BUS STOP","n":"320"}
+,{"yr":"2022","value":"BUS TERMINAL","n":"253"}
+,{"yr":"2022","value":"CANDY STORE","n":"604"}
+,{"yr":"2022","value":"CEMETERY","n":"39"}
+,{"yr":"2022","value":"CHAIN STORE","n":"29920"}
+,{"yr":"2022","value":"CHECK CASHING BUSINESS","n":"435"}
+,{"yr":"2022","value":"CHURCH","n":"659"}
+,{"yr":"2022","value":"CLOTHING/BOUTIQUE","n":"5211"}
+,{"yr":"2022","value":"COLLEGE/UNIVERSITY","n":"508"}
+,{"yr":"2022","value":"COMMERCIAL BLDG","n":"7"}
+,{"yr":"2022","value":"COMMERCIAL BUILDING","n":"12601"}
+,{"yr":"2022","value":"CONSTRUCTION SITE","n":"1165"}
+,{"yr":"2022","value":"DAYCARE FACILITY","n":"101"}
+,{"yr":"2022","value":"DEPARTMENT STORE","n":"15059"}
+,{"yr":"2022","value":"DOCTOR/DENTIST OFFICE","n":"1164"}
+,{"yr":"2022","value":"DRUG STORE","n":"14399"}
+,{"yr":"2022","value":"DRY CLEANER/LAUNDRY","n":"975"}
+,{"yr":"2022","value":"FACTORY/WAREHOUSE","n":"374"}
+,{"yr":"2022","value":"FAST FOOD","n":"2837"}
+,{"yr":"2022","value":"FERRY/FERRY TERMINAL","n":"126"}
+,{"yr":"2022","value":"FOOD SUPERMARKET","n":"2066"}
+,{"yr":"2022","value":"GAS STATION","n":"1598"}
+,{"yr":"2022","value":"GROCERY/BODEGA","n":"8374"}
+,{"yr":"2022","value":"GYM/FITNESS FACILITY","n":"1164"}
+,{"yr":"2022","value":"HIGHWAY/PARKWAY","n":"1897"}
+,{"yr":"2022","value":"HOMELESS SHELTER","n":"5238"}
+,{"yr":"2022","value":"HOSPITAL","n":"2333"}
+,{"yr":"2022","value":"HOTEL/MOTEL","n":"2979"}
+,{"yr":"2022","value":"JEWELRY","n":"336"}
+,{"yr":"2022","value":"LIQUOR STORE","n":"575"}
+,{"yr":"2022","value":"LOAN COMPANY","n":"14"}
+,{"yr":"2022","value":"MAILBOX INSIDE","n":"397"}
+,{"yr":"2022","value":"MAILBOX OUTSIDE","n":"1256"}
+,{"yr":"2022","value":"MARINA/PIER","n":"150"}
+,{"yr":"2022","value":"MOBILE FOOD","n":"141"}
+,{"yr":"2022","value":"MOSQUE","n":"116"}
+,{"yr":"2022","value":"MULTI DWELL - APT BUILD","n":"101"}
+,{"yr":"2022","value":"MULTI DWELL - PUBLIC HOUS","n":"48"}
+,{"yr":"2022","value":"(null)","n":"1061"}
+,{"yr":"2022","value":"OPEN AREAS (OPEN LOTS)","n":"561"}
+,{"yr":"2022","value":"OTHER","n":"10961"}
+,{"yr":"2022","value":"OTHER HOUSE OF WORSHIP","n":"57"}
+,{"yr":"2022","value":"PARKING LOT/GARAGE (PRIVATE)","n":"1928"}
+,{"yr":"2022","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2531"}
+,{"yr":"2022","value":"PARK/PLAYGROUND","n":"4495"}
+,{"yr":"2022","value":"PHOTO/COPY","n":"77"}
+,{"yr":"2022","value":"PHOTO/COPY STORE","n":"1"}
+,{"yr":"2022","value":"PRIVATE/PAROCHIAL SCHOOL","n":"495"}
+,{"yr":"2022","value":"PUBLIC BUILDING","n":"1680"}
+,{"yr":"2022","value":"PUBLIC SCHOOL","n":"3500"}
+,{"yr":"2022","value":"PVT HOUSE","n":"32"}
+,{"yr":"2022","value":"REAL ESTATE","n":"117"}
+,{"yr":"2022","value":"RESIDENCE - APT. HOUSE","n":"117443"}
+,{"yr":"2022","value":"RESIDENCE-HOUSE","n":"50053"}
+,{"yr":"2022","value":"RESIDENCE - PUBLIC HOUSING","n":"33613"}
+,{"yr":"2022","value":"RESTAURANT/DINER","n":"5947"}
+,{"yr":"2022","value":"SHOE","n":"273"}
+,{"yr":"2022","value":"SMALL MERCHANT","n":"1592"}
+,{"yr":"2022","value":"SOCIAL CLUB/POLICY","n":"202"}
+,{"yr":"2022","value":"SOCIAL CLUB/POLICY LOCATI","n":"2"}
+,{"yr":"2022","value":"STORAGE FACILITY","n":"569"}
+,{"yr":"2022","value":"STORE UNCLASSIFIED","n":"1587"}
+,{"yr":"2022","value":"STREET","n":"152557"}
+,{"yr":"2022","value":"SUPERMARKET","n":"2"}
+,{"yr":"2022","value":"SYNAGOGUE","n":"184"}
+,{"yr":"2022","value":"TAXI (LIVERY LICENSED)","n":"253"}
+,{"yr":"2022","value":"TAXI/LIVERY (UNLICENSED)","n":"46"}
+,{"yr":"2022","value":"TAXI (YELLOW LICENSED)","n":"130"}
+,{"yr":"2022","value":"TELECOMM. STORE","n":"688"}
+,{"yr":"2022","value":"TRAMWAY","n":"46"}
+,{"yr":"2022","value":"TRANSIT FACILITY (OTHER)","n":"537"}
+,{"yr":"2022","value":"TRANSIT - NYC SUBWAY","n":"11134"}
+,{"yr":"2022","value":"TUNNEL","n":"334"}
+,{"yr":"2022","value":"VARIETY STORE","n":"582"}
+,{"yr":"2022","value":"VIDEO STORE","n":"52"}
+,{"yr":"2023","value":"ABANDONED BUILDING","n":"132"}
+,{"yr":"2023","value":"AIRPORT TERMINAL","n":"1152"}
+,{"yr":"2023","value":"ATM","n":"327"}
+,{"yr":"2023","value":"BANK","n":"1843"}
+,{"yr":"2023","value":"BAR/NIGHT CLUB","n":"4152"}
+,{"yr":"2023","value":"BEAUTY & NAIL SALON","n":"1284"}
+,{"yr":"2023","value":"BEAUTY/NAIL SALON","n":"2"}
+,{"yr":"2023","value":"BOOK/CARD","n":"103"}
+,{"yr":"2023","value":"BRIDGE","n":"335"}
+,{"yr":"2023","value":"BUS (NYC TRANSIT)","n":"1234"}
+,{"yr":"2023","value":"BUS (OTHER)","n":"222"}
+,{"yr":"2023","value":"BUS STOP","n":"395"}
+,{"yr":"2023","value":"BUS TERMINAL","n":"306"}
+,{"yr":"2023","value":"CANDY STORE","n":"570"}
+,{"yr":"2023","value":"CEMETERY","n":"37"}
+,{"yr":"2023","value":"CHAIN STORE","n":"27888"}
+,{"yr":"2023","value":"CHECK CASHING BUSINESS","n":"377"}
+,{"yr":"2023","value":"CHURCH","n":"581"}
+,{"yr":"2023","value":"CLOTHING/BOUTIQUE","n":"5079"}
+,{"yr":"2023","value":"COLLEGE/UNIVERSITY","n":"598"}
+,{"yr":"2023","value":"COMMERCIAL BLDG","n":"5"}
+,{"yr":"2023","value":"COMMERCIAL BUILDING","n":"11225"}
+,{"yr":"2023","value":"CONSTRUCTION SITE","n":"971"}
+,{"yr":"2023","value":"DAYCARE FACILITY","n":"193"}
+,{"yr":"2023","value":"DEPARTMENT STORE","n":"13946"}
+,{"yr":"2023","value":"DOCTOR/DENTIST OFFICE","n":"1000"}
+,{"yr":"2023","value":"DRUG STORE","n":"11002"}
+,{"yr":"2023","value":"DRY CLEANER/LAUNDRY","n":"914"}
+,{"yr":"2023","value":"FACTORY/WAREHOUSE","n":"315"}
+,{"yr":"2023","value":"FAST FOOD","n":"2865"}
+,{"yr":"2023","value":"FERRY/FERRY TERMINAL","n":"169"}
+,{"yr":"2023","value":"FOOD SUPERMARKET","n":"2170"}
+,{"yr":"2023","value":"GAS STATION","n":"1404"}
+,{"yr":"2023","value":"GROCERY/BODEGA","n":"7942"}
+,{"yr":"2023","value":"GYM/FITNESS FACILITY","n":"1237"}
+,{"yr":"2023","value":"HIGHWAY/PARKWAY","n":"1943"}
+,{"yr":"2023","value":"HOMELESS SHELTER","n":"8399"}
+,{"yr":"2023","value":"HOSPITAL","n":"2241"}
+,{"yr":"2023","value":"HOTEL/MOTEL","n":"2369"}
+,{"yr":"2023","value":"JEWELRY","n":"305"}
+,{"yr":"2023","value":"LIQUOR STORE","n":"543"}
+,{"yr":"2023","value":"LOAN COMPANY","n":"21"}
+,{"yr":"2023","value":"MAILBOX INSIDE","n":"254"}
+,{"yr":"2023","value":"MAILBOX OUTSIDE","n":"1101"}
+,{"yr":"2023","value":"MARINA/PIER","n":"161"}
+,{"yr":"2023","value":"MOBILE FOOD","n":"149"}
+,{"yr":"2023","value":"MOSQUE","n":"84"}
+,{"yr":"2023","value":"MULTI DWELL - APT BUILD","n":"101"}
+,{"yr":"2023","value":"MULTI DWELL - PUBLIC HOUS","n":"34"}
+,{"yr":"2023","value":"(null)","n":"22189"}
+,{"yr":"2023","value":"OPEN AREAS (OPEN LOTS)","n":"557"}
+,{"yr":"2023","value":"OTHER","n":"9591"}
+,{"yr":"2023","value":"OTHER HOUSE OF WORSHIP","n":"43"}
+,{"yr":"2023","value":"PARKING LOT/GARAGE (PRIVATE)","n":"1769"}
+,{"yr":"2023","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2410"}
+,{"yr":"2023","value":"PARK/PLAYGROUND","n":"4577"}
+,{"yr":"2023","value":"PHOTO/COPY","n":"59"}
+,{"yr":"2023","value":"PRIVATE/PAROCHIAL SCHOOL","n":"497"}
+,{"yr":"2023","value":"PUBLIC BUILDING","n":"1600"}
+,{"yr":"2023","value":"PUBLIC SCHOOL","n":"3680"}
+,{"yr":"2023","value":"PVT HOUSE","n":"24"}
+,{"yr":"2023","value":"REAL ESTATE","n":"116"}
+,{"yr":"2023","value":"RESIDENCE - APT. HOUSE","n":"114575"}
+,{"yr":"2023","value":"RESIDENCE-HOUSE","n":"47638"}
+,{"yr":"2023","value":"RESIDENCE - PUBLIC HOUSING","n":"35527"}
+,{"yr":"2023","value":"RESTAURANT/DINER","n":"5076"}
+,{"yr":"2023","value":"SHOE","n":"286"}
+,{"yr":"2023","value":"SMALL MERCHANT","n":"1438"}
+,{"yr":"2023","value":"SMOKE SHOP","n":"421"}
+,{"yr":"2023","value":"SOCIAL CLUB/POLICY","n":"229"}
+,{"yr":"2023","value":"STORAGE FACILITY","n":"553"}
+,{"yr":"2023","value":"STORE UNCLASSIFIED","n":"1372"}
+,{"yr":"2023","value":"STREET","n":"162594"}
+,{"yr":"2023","value":"SYNAGOGUE","n":"217"}
+,{"yr":"2023","value":"TAXI (LIVERY LICENSED)","n":"214"}
+,{"yr":"2023","value":"TAXI/LIVERY (UNLICENSED)","n":"38"}
+,{"yr":"2023","value":"TAXI (YELLOW LICENSED)","n":"114"}
+,{"yr":"2023","value":"TELECOMM. STORE","n":"424"}
+,{"yr":"2023","value":"TRAMWAY","n":"9"}
+,{"yr":"2023","value":"TRANSIT FACILITY (OTHER)","n":"933"}
+,{"yr":"2023","value":"TRANSIT - NYC SUBWAY","n":"14142"}
+,{"yr":"2023","value":"TUNNEL","n":"377"}
+,{"yr":"2023","value":"VARIETY STORE","n":"466"}
+,{"yr":"2023","value":"VIDEO STORE","n":"33"}
+,{"yr":"2024","value":"ABANDONED BUILDING","n":"82"}
+,{"yr":"2024","value":"AIRPORT TERMINAL","n":"1526"}
+,{"yr":"2024","value":"ATM","n":"225"}
+,{"yr":"2024","value":"BANK","n":"1584"}
+,{"yr":"2024","value":"BAR/NIGHT CLUB","n":"4188"}
+,{"yr":"2024","value":"BEAUTY & NAIL SALON","n":"1234"}
+,{"yr":"2024","value":"BOOK/CARD","n":"129"}
+,{"yr":"2024","value":"BRIDGE","n":"485"}
+,{"yr":"2024","value":"BUS (NYC TRANSIT)","n":"1610"}
+,{"yr":"2024","value":"BUS (OTHER)","n":"278"}
+,{"yr":"2024","value":"BUS STOP","n":"583"}
+,{"yr":"2024","value":"BUS TERMINAL","n":"431"}
+,{"yr":"2024","value":"CANDY STORE","n":"597"}
+,{"yr":"2024","value":"CEMETERY","n":"42"}
+,{"yr":"2024","value":"CHAIN STORE","n":"31453"}
+,{"yr":"2024","value":"CHECK CASHING BUSINESS","n":"321"}
+,{"yr":"2024","value":"CHURCH","n":"642"}
+,{"yr":"2024","value":"CLOTHING/BOUTIQUE","n":"5365"}
+,{"yr":"2024","value":"COLLEGE/UNIVERSITY","n":"744"}
+,{"yr":"2024","value":"COMMERCIAL BLDG","n":"2"}
+,{"yr":"2024","value":"COMMERCIAL BUILDING","n":"11565"}
+,{"yr":"2024","value":"CONSTRUCTION SITE","n":"1030"}
+,{"yr":"2024","value":"DAYCARE FACILITY","n":"220"}
+,{"yr":"2024","value":"DEPARTMENT STORE","n":"14030"}
+,{"yr":"2024","value":"DOCTOR/DENTIST OFFICE","n":"881"}
+,{"yr":"2024","value":"DRUG STORE","n":"9685"}
+,{"yr":"2024","value":"DRY CLEANER/LAUNDRY","n":"910"}
+,{"yr":"2024","value":"FACTORY/WAREHOUSE","n":"255"}
+,{"yr":"2024","value":"FAST FOOD","n":"2797"}
+,{"yr":"2024","value":"FERRY/FERRY TERMINAL","n":"159"}
+,{"yr":"2024","value":"FOOD SUPERMARKET","n":"2308"}
+,{"yr":"2024","value":"GAS STATION","n":"1456"}
+,{"yr":"2024","value":"GROCERY/BODEGA","n":"7814"}
+,{"yr":"2024","value":"GYM/FITNESS FACILITY","n":"1264"}
+,{"yr":"2024","value":"HIGHWAY/PARKWAY","n":"1981"}
+,{"yr":"2024","value":"HOMELESS SHELTER","n":"8787"}
+,{"yr":"2024","value":"HOSPITAL","n":"2220"}
+,{"yr":"2024","value":"HOTEL/MOTEL","n":"2205"}
+,{"yr":"2024","value":"JEWELRY","n":"327"}
+,{"yr":"2024","value":"LIQUOR STORE","n":"562"}
+,{"yr":"2024","value":"LOAN COMPANY","n":"15"}
+,{"yr":"2024","value":"MAILBOX INSIDE","n":"229"}
+,{"yr":"2024","value":"MAILBOX OUTSIDE","n":"783"}
+,{"yr":"2024","value":"MARINA/PIER","n":"186"}
+,{"yr":"2024","value":"MOBILE FOOD","n":"129"}
+,{"yr":"2024","value":"MOSQUE","n":"122"}
+,{"yr":"2024","value":"MULTI DWELL - APT BUILD","n":"87"}
+,{"yr":"2024","value":"MULTI DWELL - PUBLIC HOUS","n":"33"}
+,{"yr":"2024","value":"(null)","n":"13004"}
+,{"yr":"2024","value":"OPEN AREAS (OPEN LOTS)","n":"598"}
+,{"yr":"2024","value":"OTHER","n":"9929"}
+,{"yr":"2024","value":"OTHER HOUSE OF WORSHIP","n":"43"}
+,{"yr":"2024","value":"PARKING LOT/GARAGE (PRIVATE)","n":"1796"}
+,{"yr":"2024","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2199"}
+,{"yr":"2024","value":"PARK/PLAYGROUND","n":"5265"}
+,{"yr":"2024","value":"PHOTO/COPY","n":"45"}
+,{"yr":"2024","value":"PHOTO/COPY STORE","n":"2"}
+,{"yr":"2024","value":"PRIVATE/PAROCHIAL SCHOOL","n":"480"}
+,{"yr":"2024","value":"PUBLIC BUILDING","n":"1777"}
+,{"yr":"2024","value":"PUBLIC SCHOOL","n":"3352"}
+,{"yr":"2024","value":"PVT HOUSE","n":"12"}
+,{"yr":"2024","value":"REAL ESTATE","n":"115"}
+,{"yr":"2024","value":"RESIDENCE - APT. HOUSE","n":"119123"}
+,{"yr":"2024","value":"RESIDENCE-HOUSE","n":"48967"}
+,{"yr":"2024","value":"RESIDENCE - PUBLIC HOUSING","n":"35017"}
+,{"yr":"2024","value":"RESTAURANT/DINER","n":"4810"}
+,{"yr":"2024","value":"SHOE","n":"275"}
+,{"yr":"2024","value":"SMALL MERCHANT","n":"1422"}
+,{"yr":"2024","value":"SMOKE SHOP","n":"623"}
+,{"yr":"2024","value":"SOCIAL CLUB/POLICY","n":"209"}
+,{"yr":"2024","value":"STORAGE FACILITY","n":"626"}
+,{"yr":"2024","value":"STORE UNCLASSIFIED","n":"1325"}
+,{"yr":"2024","value":"STREET","n":"169929"}
+,{"yr":"2024","value":"SUPERMARKET","n":"2"}
+,{"yr":"2024","value":"SYNAGOGUE","n":"197"}
+,{"yr":"2024","value":"TAXI (LIVERY LICENSED)","n":"235"}
+,{"yr":"2024","value":"TAXI/LIVERY (UNLICENSED)","n":"33"}
+,{"yr":"2024","value":"TAXI (YELLOW LICENSED)","n":"139"}
+,{"yr":"2024","value":"TELECOMM. STORE","n":"411"}
+,{"yr":"2024","value":"TRAMWAY","n":"28"}
+,{"yr":"2024","value":"TRANSIT FACILITY (OTHER)","n":"1935"}
+,{"yr":"2024","value":"TRANSIT - NYC SUBWAY","n":"25864"}
+,{"yr":"2024","value":"TUNNEL","n":"345"}
+,{"yr":"2024","value":"VARIETY STORE","n":"461"}
+,{"yr":"2024","value":"VIDEO STORE","n":"38"}
+,{"yr":"2025","value":"ABANDONED BUILDING","n":"114"}
+,{"yr":"2025","value":"AIRPORT TERMINAL","n":"1746"}
+,{"yr":"2025","value":"ATM","n":"209"}
+,{"yr":"2025","value":"BANK","n":"1526"}
+,{"yr":"2025","value":"BAR/NIGHT CLUB","n":"4120"}
+,{"yr":"2025","value":"BEAUTY & NAIL SALON","n":"1209"}
+,{"yr":"2025","value":"BOOK/CARD","n":"102"}
+,{"yr":"2025","value":"BRIDGE","n":"500"}
+,{"yr":"2025","value":"BUS (NYC TRANSIT)","n":"1625"}
+,{"yr":"2025","value":"BUS (OTHER)","n":"306"}
+,{"yr":"2025","value":"BUS STOP","n":"674"}
+,{"yr":"2025","value":"BUS TERMINAL","n":"403"}
+,{"yr":"2025","value":"CANDY STORE","n":"550"}
+,{"yr":"2025","value":"CEMETERY","n":"28"}
+,{"yr":"2025","value":"CHAIN STORE","n":"28875"}
+,{"yr":"2025","value":"CHECK CASHING BUSINESS","n":"328"}
+,{"yr":"2025","value":"CHURCH","n":"594"}
+,{"yr":"2025","value":"CLOTHING/BOUTIQUE","n":"5010"}
+,{"yr":"2025","value":"COLLEGE/UNIVERSITY","n":"707"}
+,{"yr":"2025","value":"COMMERCIAL BUILDING","n":"9904"}
+,{"yr":"2025","value":"CONSTRUCTION SITE","n":"779"}
+,{"yr":"2025","value":"DAYCARE FACILITY","n":"193"}
+,{"yr":"2025","value":"DEPARTMENT STORE","n":"11509"}
+,{"yr":"2025","value":"DEPT STORE","n":"1"}
+,{"yr":"2025","value":"DOCTOR/DENTIST OFFICE","n":"879"}
+,{"yr":"2025","value":"DRUG STORE","n":"7615"}
+,{"yr":"2025","value":"DRY CLEANER/LAUNDRY","n":"883"}
+,{"yr":"2025","value":"FACTORY/WAREHOUSE","n":"251"}
+,{"yr":"2025","value":"FAST FOOD","n":"2857"}
+,{"yr":"2025","value":"FERRY/FERRY TERMINAL","n":"162"}
+,{"yr":"2025","value":"FOOD SUPERMARKET","n":"2242"}
+,{"yr":"2025","value":"GAS STATION","n":"1194"}
+,{"yr":"2025","value":"GROCERY/BODEGA","n":"8074"}
+,{"yr":"2025","value":"GYM/FITNESS FACILITY","n":"1258"}
+,{"yr":"2025","value":"HIGHWAY/PARKWAY","n":"1793"}
+,{"yr":"2025","value":"HOMELESS SHELTER","n":"8939"}
+,{"yr":"2025","value":"HOSPITAL","n":"2394"}
+,{"yr":"2025","value":"HOTEL/MOTEL","n":"2008"}
+,{"yr":"2025","value":"JEWELRY","n":"258"}
+,{"yr":"2025","value":"LIQUOR STORE","n":"545"}
+,{"yr":"2025","value":"LOAN COMPANY","n":"12"}
+,{"yr":"2025","value":"MAILBOX INSIDE","n":"209"}
+,{"yr":"2025","value":"MAILBOX OUTSIDE","n":"761"}
+,{"yr":"2025","value":"MARINA/PIER","n":"155"}
+,{"yr":"2025","value":"MOBILE FOOD","n":"147"}
+,{"yr":"2025","value":"MOSQUE","n":"95"}
+,{"yr":"2025","value":"MULTI DWELL - APT BUILD","n":"60"}
+,{"yr":"2025","value":"MULTI DWELL - PUBLIC HOUS","n":"27"}
+,{"yr":"2025","value":"(null)","n":"1812"}
+,{"yr":"2025","value":"OPEN AREAS (OPEN LOTS)","n":"495"}
+,{"yr":"2025","value":"OTHER","n":"10510"}
+,{"yr":"2025","value":"OTHER HOUSE OF WORSHIP","n":"38"}
+,{"yr":"2025","value":"PARKING LOT/GARAGE (PRIVATE)","n":"1699"}
+,{"yr":"2025","value":"PARKING LOT/GARAGE (PUBLIC)","n":"2045"}
+,{"yr":"2025","value":"PARK/PLAYGROUND","n":"5198"}
+,{"yr":"2025","value":"PHOTO/COPY","n":"32"}
+,{"yr":"2025","value":"PHOTO/COPY STORE","n":"1"}
+,{"yr":"2025","value":"PRIVATE/PAROCHIAL SCHOOL","n":"424"}
+,{"yr":"2025","value":"PUBLIC BUILDING","n":"1834"}
+,{"yr":"2025","value":"PUBLIC SCHOOL","n":"2833"}
+,{"yr":"2025","value":"PVT HOUSE","n":"6"}
+,{"yr":"2025","value":"REAL ESTATE","n":"73"}
+,{"yr":"2025","value":"RESIDENCE - APT. HOUSE","n":"122685"}
+,{"yr":"2025","value":"RESIDENCE-HOUSE","n":"49907"}
+,{"yr":"2025","value":"RESIDENCE - PUBLIC HOUSING","n":"34979"}
+,{"yr":"2025","value":"RESTAURANT/DINER","n":"4435"}
+,{"yr":"2025","value":"SHOE","n":"169"}
+,{"yr":"2025","value":"SMALL MERCHANT","n":"1109"}
+,{"yr":"2025","value":"SMOKE SHOP","n":"238"}
+,{"yr":"2025","value":"SOCIAL CLUB/POLICY","n":"232"}
+,{"yr":"2025","value":"STORAGE FACILITY","n":"457"}
+,{"yr":"2025","value":"STORE UNCLASSIFIED","n":"1114"}
+,{"yr":"2025","value":"STREET","n":"174013"}
+,{"yr":"2025","value":"SYNAGOGUE","n":"187"}
+,{"yr":"2025","value":"TAXI (LIVERY LICENSED)","n":"248"}
+,{"yr":"2025","value":"TAXI/LIVERY (UNLICENSED)","n":"35"}
+,{"yr":"2025","value":"TAXI (YELLOW LICENSED)","n":"202"}
+,{"yr":"2025","value":"TELECOMM. STORE","n":"330"}
+,{"yr":"2025","value":"TRAMWAY","n":"41"}
+,{"yr":"2025","value":"TRANSIT FACILITY (OTHER)","n":"2216"}
+,{"yr":"2025","value":"TRANSIT - NYC SUBWAY","n":"33691"}
+,{"yr":"2025","value":"TUNNEL","n":"134"}
+,{"yr":"2025","value":"VARIETY STORE","n":"379"}
+,{"yr":"2025","value":"VIDEO STORE","n":"37"}
+,{"value":"BANK","n":"4"}
+,{"value":"BAR/NIGHT CLUB","n":"5"}
+,{"value":"BEAUTY & NAIL SALON","n":"1"}
+,{"value":"BUS (NYC TRANSIT)","n":"2"}
+,{"value":"CANDY STORE","n":"1"}
+,{"value":"CHAIN STORE","n":"2"}
+,{"value":"CHURCH","n":"2"}
+,{"value":"CLOTHING/BOUTIQUE","n":"6"}
+,{"value":"COLLEGE/UNIVERSITY","n":"1"}
+,{"value":"COMMERCIAL BUILDING","n":"28"}
+,{"value":"CONSTRUCTION SITE","n":"2"}
+,{"value":"DEPARTMENT STORE","n":"6"}
+,{"value":"DOCTOR/DENTIST OFFICE","n":"2"}
+,{"value":"DRUG STORE","n":"5"}
+,{"value":"DRY CLEANER/LAUNDRY","n":"1"}
+,{"value":"FACTORY/WAREHOUSE","n":"1"}
+,{"value":"FAST FOOD","n":"2"}
+,{"value":"FOOD SUPERMARKET","n":"1"}
+,{"value":"GAS STATION","n":"2"}
+,{"value":"GROCERY/BODEGA","n":"7"}
+,{"value":"GYM/FITNESS FACILITY","n":"4"}
+,{"value":"HIGHWAY/PARKWAY","n":"1"}
+,{"value":"HOSPITAL","n":"3"}
+,{"value":"HOTEL/MOTEL","n":"4"}
+,{"value":"JEWELRY","n":"1"}
+,{"value":"LIQUOR STORE","n":"1"}
+,{"value":"OTHER","n":"18"}
+,{"value":"PARKING LOT/GARAGE (PRIVATE)","n":"5"}
+,{"value":"PARKING LOT/GARAGE (PUBLIC)","n":"4"}
+,{"value":"PARK/PLAYGROUND","n":"7"}
+,{"value":"PRIVATE/PAROCHIAL SCHOOL","n":"1"}
+,{"value":"PUBLIC BUILDING","n":"5"}
+,{"value":"PUBLIC SCHOOL","n":"8"}
+,{"value":"RESIDENCE - APT. HOUSE","n":"156"}
+,{"value":"RESIDENCE-HOUSE","n":"82"}
+,{"value":"RESIDENCE - PUBLIC HOUSING","n":"23"}
+,{"value":"RESTAURANT/DINER","n":"15"}
+,{"value":"SMALL MERCHANT","n":"1"}
+,{"value":"STORAGE FACILITY","n":"1"}
+,{"value":"STORE UNCLASSIFIED","n":"5"}
+,{"value":"STREET","n":"222"}
+,{"value":"TAXI (YELLOW LICENSED)","n":"1"}
+,{"value":"TRANSIT - NYC SUBWAY","n":"5"}
+,{"value":"VARIETY STORE","n":"1"}]
