@@ -89,6 +89,10 @@ See [importance.csv](results/importance.csv).
 
 [results/env_only/summary.md](results/env_only/summary.md): the 15 attributes alone, trained on NYC and tested on Chicago 2025. Logistic AUC 0.638 (95% CI 0.551–0.736) and AP 0.550 against chance 0.410. LightGBM AUC 0.565 (0.483–0.658). With 10% of Chicago 2024 added: logistic AUC 0.636, LightGBM 0.582. In LA every interval includes chance. Environment alone carries a weak but real signal for Chicago with logistic regression. Top LightGBM weightage: rail-station distance, late-night places, ATM age and police-station distance.
 
+## XGBoost, environment only (exploratory, amendment A5)
+
+[results/env_only/xgboost/summary.md](results/env_only/xgboost/summary.md): with NYC training, Chicago 2025 AUC is 0.583 (95% CI 0.509–0.668); with 10% of Chicago 2024 added it is 0.588 (0.510–0.679). That is close to LightGBM (0.565/0.582) and below logistic regression (0.638/0.636). For LA, AUC is 0.581 and the interval includes chance. The top weightages match LightGBM.
+
 ## Amendments (made before any outcome linkage)
 
 [amendments.md](amendments.md): A1 switched to ohsome v2 / the OSM history API after v1 returned

@@ -10,3 +10,4 @@ shapely
 requests
 joblib
 threadpoolctl
+xgboost==3.4.1

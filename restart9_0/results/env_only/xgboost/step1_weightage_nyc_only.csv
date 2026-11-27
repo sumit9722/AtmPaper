@@ -1,0 +1,16 @@
+feature,gain,split,mean_abs_shap,direction_corr,gain_pct,split_pct,mean_abs_shap_pct,attribute,effect
+log1p_dist_rail_m,788.2310,154.0000,0.3025,-0.7692,16.1476,13.1399,17.4085,Distance to rail/subway station,higher value -> less risk
+atm_mapped_age_years,589.5580,128.0000,0.2000,0.8458,12.0776,10.9215,11.5098,ATM age (years mapped),higher value -> more risk
+log1p_night_poi_250m,546.7941,92.0000,0.2900,0.8658,11.2015,7.8498,16.6904,Late-night places within 250 m,higher value -> more risk
+log1p_poi_24_7_250m,540.8978,78.0000,0.2586,0.8346,11.0807,6.6553,14.8831,24/7 places within 250 m,higher value -> more risk
+log1p_dist_police_m,504.3983,143.0000,0.1631,-0.5798,10.3330,12.2014,9.3849,Distance to police station,higher value -> less risk
+log1p_dist_bar_m,452.9112,118.0000,0.1205,0.6788,9.2783,10.0683,6.9326,Distance to nearest bar,higher value -> more risk
+log1p_dist_highway_m,417.8081,125.0000,0.0765,-0.4876,8.5591,10.6655,4.4006,Distance to highway,higher value -> less risk
+log1p_dist_liquor_m,397.8416,106.0000,0.1462,-0.7638,8.1501,9.0444,8.4131,Distance to nearest liquor store,higher value -> less risk
+fdic_branch_age_years,304.8169,108.0000,0.0706,,6.2444,9.2150,4.0624,Bank-branch age,mixed / none
+log1p_light_outage_311_100m,166.8818,59.0000,0.0530,0.3786,3.4187,5.0341,3.0480,Streetlight outages within 100 m (311),higher value -> more risk
+log1p_bars_250m,70.3978,30.0000,0.0141,-0.3792,1.4422,2.5597,0.8105,Bars within 250 m,higher value -> less risk
+log1p_liquor_250m,60.3632,20.0000,0.0246,0.3613,1.2366,1.7065,1.4151,Liquor stores within 250 m,higher value -> more risk
+open_weekend,15.9777,4.0000,0.0046,0.3667,0.3273,0.3413,0.2631,Open at weekends,higher value -> more risk
+hours_known,15.0800,4.0000,0.0105,0.7914,0.3089,0.3413,0.6016,Branch hours listed,higher value -> more risk
+open_late,9.4650,3.0000,0.0031,0.6595,0.1939,0.2560,0.1764,Open late,higher value -> more risk

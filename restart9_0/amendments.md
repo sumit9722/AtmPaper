@@ -43,3 +43,11 @@ prior-crime inputs (`scripts/env_only.py`). Designs and tuning match A3 (NYC onl
 NYC + 10% Chicago 2024 → Chicago 2025, same 20 random draws and purge). The reference is chance
 (AUC 0.5; AP = test prevalence). This asks whether environment alone ranks ATM risk. It does not
 replace the frozen comparison with the crime-history baseline.
+
+## A5 — XGBoost on the environment-only design (2026-11-27, exploratory, team request)
+
+XGBoost added to A4 with identical features, designs, Chicago draws and inner spatial CV
+(`scripts/xgb_env_only.py`). Fixed settings: learning rate 0.03, subsample 0.8, colsample 0.8,
+L2 1, hist trees, seed 9. Grid: max_depth {2, 3, 4} × min_child_weight {1, 5} ×
+n_estimators {100, 300}. A third learner on the same data adds another comparison, so its
+result is descriptive.
