@@ -1,0 +1,213 @@
+rank_past_crime,name,osm_type,latitude,longitude,risk_score_past_crime,rank_lgbm_attributes,risk_score_lgbm_attributes,actual_crime_2025,actual_incidents_2025,osm_id,row_id
+1,Fifth Third Bank,atm,41.8857138,-87.627908,0.9501,1,0.9291,1,5,node/2364021933,osm_continuity_full_year:osm_b46ca4add9f7dc30:2025
+2,North Community Bank,atm,41.879397,-87.6262184,0.8973,2,0.9227,1,7,node/1699221033,osm_continuity_full_year:osm_8eb2b6a10e207be0:2025
+3,,atm,41.9581216,-87.6531056,0.8864,35,0.7670,1,2,node/10801204167,osm_continuity_full_year:osm_ac96c07b5e242ccb:2025
+4,Fifth Third Bank,atm,41.9107081,-87.6496263,0.8843,7,0.8665,1,3,node/11638940448,osm_continuity_full_year:osm_f5b3429d04e3f7cb:2025
+5,Huntington Bank,bank,41.8819343,-87.6263964,0.8837,6,0.8734,1,3,node/2819255360,osm_continuity_full_year:osm_5d997098e8a849f8:2025
+6,Chase,atm,41.8808545,-87.6297664,0.8796,4,0.9024,1,1,node/1619741435,osm_continuity_full_year:osm_736e689ecbd2d330:2025
+7,Wintrust,bank,41.8783739,-87.6274862,0.8680,3,0.9084,1,4,node/10977487803,osm_continuity_full_year:osm_0579579d6b85d3b4:2025
+8,Chase,bank,41.7289147,-87.5514303,0.8619,16,0.8177,1,5,node/7055438576,osm_continuity_full_year:osm_1d7c8d7c55ccfa05:2025
+9,Bank of America,atm,41.8820752,-87.6333301,0.8581,8,0.8506,1,4,node/10925526285,osm_continuity_full_year:osm_2405ccc11c3cc718:2025
+10,Fifth Third Bank,bank,41.8523186,-87.688774,0.8573,23,0.8028,1,1,node/2581037147,osm_continuity_full_year:osm_c124d716be241231:2025
+11,Bank of America,atm,41.9109488,-87.653262,0.8569,9,0.8461,1,1,node/11152174542,osm_continuity_full_year:osm_260f0b2bf948f502:2025
+12,Bank of America,atm,41.9786692,-87.6603454,0.8561,17,0.8100,1,7,node/11005449299,osm_continuity_full_year:osm_8536ac0c5aef4268:2025
+13,Bank of America,bank,41.922689,-87.645207,0.8550,32,0.7729,1,2,node/2607221645,osm_continuity_full_year:osm_0fc04a65ea817f2c:2025
+14,,atm,41.8742687,-87.6256686,0.8535,10,0.8363,1,8,node/9850354309,osm_continuity_full_year:osm_fefc7ff5e1831c8e:2025
+15,,atm,41.7515141,-87.6048854,0.8527,15,0.8197,1,2,node/6171410909,osm_continuity_full_year:osm_5a7f3ff2cb843b9e:2025
+16,Chase,bank,41.8810447,-87.6849237,0.8463,11,0.8362,1,5,node/6239068410,osm_continuity_full_year:osm_d593cb81614b34f2:2025
+17,PNC Bank,bank,41.8667426,-87.7101165,0.8366,27,0.7876,1,3,node/8442102023,osm_continuity_full_year:osm_7938c037e2bac104:2025
+18,PNC Bank,bank,41.889377,-87.6322709,0.8359,29,0.7815,1,2,node/11161522378,osm_continuity_full_year:osm_1bb2e212de00f326:2025
+19,Bank of America,bank,41.8793373,-87.6275121,0.8359,37,0.7659,1,1,node/10857072630,osm_continuity_full_year:osm_bd14292f6c22e564:2025
+20,Bank of America,bank,41.9083605,-87.6344407,0.8354,39,0.7417,1,1,node/2393465766,osm_continuity_full_year:osm_f25288e6b3e3aa05:2025
+21,Athena Bitcoin ATM,atm,41.9316422,-87.713179,0.8352,24,0.8013,1,3,node/5620503155,osm_continuity_full_year:osm_fe3b6a048eeac68d:2025
+22,PNC Bank,bank,41.8022377,-87.588064,0.8342,13,0.8205,0,0,node/7347217048,osm_continuity_full_year:osm_c045426365566bf6:2025
+23,PNC Bank,atm,41.9447215,-87.6543797,0.8206,26,0.7979,1,5,node/2975043104,osm_continuity_full_year:osm_fbb7357c73dc6d65:2025
+24,Bank of America,bank,41.891083,-87.6245012,0.8196,43,0.7335,1,3,node/3343162070,osm_continuity_full_year:osm_34f00f6eaae16eca:2025
+25,Bank of America,bank,41.8926031,-87.6294874,0.8161,59,0.6643,1,2,node/2578986748,osm_continuity_full_year:osm_71fd413077c59ee5:2025
+26,South Central Bank,bank,41.8499953,-87.6318184,0.8148,36,0.7662,1,1,node/6654380714,osm_continuity_full_year:osm_88da1fa17f2b79b5:2025
+27,Byline Bank,bank,41.8445127,-87.7161966,0.8141,38,0.7584,0,0,node/7621687885,osm_continuity_full_year:osm_6896354e7a7dfac5:2025
+28,Chase,atm,41.8677265,-87.6272542,0.8136,5,0.9013,1,1,node/2362605047,osm_continuity_full_year:osm_3da2c5e93e24a7ef:2025
+29,Chase,bank,41.9104181,-87.6746855,0.8097,28,0.7834,1,3,node/3656001361,osm_continuity_full_year:osm_b700d718b027d39e:2025
+30,Bank of America,bank,41.852321,-87.6846067,0.7979,19,0.8084,1,5,node/4076939410,osm_continuity_full_year:osm_671e1620241f2227:2025
+31,North Community Bank,bank,41.9329205,-87.6483674,0.7971,54,0.6840,1,2,node/2946757910,osm_continuity_full_year:osm_a1712288a56f6fe3:2025
+32,Huntington Bank,bank,41.9615668,-87.6534459,0.7960,40,0.7383,1,1,node/5960444182,osm_continuity_full_year:osm_61f1ea97bbdbd534:2025
+33,,atm,41.8924713,-87.634971,0.7952,75,0.6001,1,2,node/10040180144,osm_continuity_full_year:osm_2184509d0ee7ba31:2025
+34,Chase,bank,41.9293704,-87.6487217,0.7849,65,0.6340,0,0,node/2946691475,osm_continuity_full_year:osm_1eb25a5cdc57b7c6:2025
+35,Chase,bank,41.7657108,-87.5736324,0.7835,102,0.5170,1,7,node/7205249191,osm_continuity_full_year:osm_96051458d43d2b32:2025
+36,Bank of America,atm,41.7800375,-87.6413094,0.7787,33,0.7711,1,5,node/10281450903,osm_continuity_full_year:osm_79a68ba2d57a0d3c:2025
+37,PNC Bank,bank,41.9047672,-87.6343143,0.7767,100,0.5192,0,0,node/11518279816,osm_continuity_full_year:osm_5950f9edf3c1c7b9:2025
+38,Wintrust Bank - Little Village,bank,41.8445918,-87.7096925,0.7762,53,0.6892,0,0,node/7621687888,osm_continuity_full_year:osm_e926a9a02c6273b8:2025
+39,Byline Bank,bank,41.9399008,-87.6445943,0.7746,49,0.7005,0,0,node/5699638585,osm_continuity_full_year:osm_62588e3aca13079f:2025
+40,PNC Bank,atm,41.8671,-87.6243246,0.7730,14,0.8198,1,1,node/2379330760,osm_continuity_full_year:osm_7d55d14fa2a4cad0:2025
+41,Associated Bank,bank,41.809359,-87.6071683,0.7714,52,0.6950,1,7,node/7799912086,osm_continuity_full_year:osm_72da7413733bf668:2025
+42,Bank of America,atm,41.8444561,-87.7198506,0.7679,47,0.7081,1,3,node/7621669583,osm_continuity_full_year:osm_0ef10b9fa456b713:2025
+43,Chase,bank,41.8927798,-87.6237818,0.7671,83,0.5749,0,0,node/3343162098,osm_continuity_full_year:osm_cd530e351ee1a911:2025
+44,Lakeside Bank,bank,41.8866683,-87.6299052,0.7648,78,0.5836,0,0,node/2578981199,osm_continuity_full_year:osm_471d93cce4c9ef2c:2025
+45,First America Bank,bank,41.8805716,-87.629124,0.7606,30,0.7802,1,1,node/2443320558,osm_continuity_full_year:osm_7debc7557c2bc438:2025
+46,Chase,bank,41.886677,-87.628322,0.7601,46,0.7136,0,0,node/10941242473,osm_continuity_full_year:osm_67e8ba1ec98e94e5:2025
+47,Citibank,atm,41.8821649,-87.6401663,0.7585,25,0.8012,1,2,node/2882848821,osm_continuity_full_year:osm_debeebd889c60e49:2025
+48,BMO,bank,41.8830906,-87.6306257,0.7568,64,0.6341,1,2,node/2953447604,osm_continuity_full_year:osm_d6208d58b94c989f:2025
+49,Chase,atm,41.8791841,-87.6311941,0.7557,63,0.6381,1,1,node/1619646627,osm_continuity_full_year:osm_d65f8a1760c60212:2025
+50,Citibank,atm,41.9185,-87.6487057,0.7521,41,0.7336,0,0,node/2968827508,osm_continuity_full_year:osm_88c554286bed2f27:2025
+51,Citibank,bank,41.8830561,-87.6296643,0.7497,18,0.8088,1,3,node/2446587647,osm_continuity_full_year:osm_585d20725d248c56:2025
+52,Bank of America,bank,41.8830256,-87.6291418,0.7459,21,0.8052,0,0,node/4196289889,osm_continuity_full_year:osm_bb73da3ffb03bb47:2025
+53,Byline Bank,bank,41.9183076,-87.6486944,0.7452,42,0.7336,0,0,node/2623046302,osm_continuity_full_year:osm_d110cd4328ebb78b:2025
+54,Citibank,bank,41.9183759,-87.6482353,0.7427,60,0.6619,0,0,node/2100347502,osm_continuity_full_year:osm_1963e34b60d701ae:2025
+55,Bank of America,bank,41.8796568,-87.6321268,0.7425,115,0.4726,0,0,node/1631359640,osm_continuity_full_year:osm_10824324360873f1:2025
+56,Chase,bank,41.8064225,-87.6646138,0.7424,103,0.5156,1,2,node/8633150401,osm_continuity_full_year:osm_13b856119f24e4aa:2025
+57,BMO,bank,41.8801691,-87.6320569,0.7418,87,0.5607,0,0,node/11394519432,osm_continuity_full_year:osm_0eae8a2a57abc7ba:2025
+58,Chase,bank,41.8661335,-87.6659579,0.7410,44,0.7306,1,1,node/9441031550,osm_continuity_full_year:osm_48781874024a2c32:2025
+59,Chase,bank,41.8825065,-87.6325842,0.7390,62,0.6546,0,0,node/2953447605,osm_continuity_full_year:osm_93f82999b5286085:2025
+60,U.S. Bank,bank,41.8857869,-87.725974,0.7388,12,0.8286,0,0,node/9516667422,osm_continuity_full_year:osm_db5936fe6e0085d8:2025
+61,Bank of America,bank,41.799408,-87.5902835,0.7312,56,0.6670,1,1,node/4114640712,osm_continuity_full_year:osm_bcc976188398dd82:2025
+62,Citibank,bank,41.922961,-87.697161,0.7256,20,0.8074,1,1,node/2422426097,osm_continuity_full_year:osm_d15bdfb2d5fe9cfb:2025
+63,,atm,41.8977218,-87.6969333,0.7221,86,0.5634,0,0,node/2564179763,osm_continuity_full_year:osm_9a6b0f996d6d0418:2025
+64,First American Bank,atm,41.8758208,-87.6267949,0.7082,55,0.6691,0,0,node/5876411497,osm_continuity_full_year:osm_347e1033be38abcc:2025
+65,Chase,bank,41.9470201,-87.6573455,0.7072,94,0.5370,1,2,node/9969724825,osm_continuity_full_year:osm_21166bfd67a31b71:2025
+66,Chase,bank,41.8814504,-87.6371778,0.7026,90,0.5563,0,0,node/4467166091,osm_continuity_full_year:osm_3dd9889f21d8882b:2025
+67,Fifth Third Bank,bank,41.8817815,-87.6364074,0.7015,79,0.5825,0,0,node/4467166090,osm_continuity_full_year:osm_117326c9f912257a:2025
+68,U.S. Bank,bank,41.8811709,-87.6365901,0.7003,76,0.5980,0,0,node/10925526111,osm_continuity_full_year:osm_829b95d419142626:2025
+69,U.S. Bank,bank,41.7795505,-87.645457,0.6998,73,0.6056,1,3,node/6174999047,osm_continuity_full_year:osm_9dc0d3f887ef3f93:2025
+70,BankFinancial,bank,41.7952736,-87.5928092,0.6998,89,0.5593,0,0,node/5706227384,osm_continuity_full_year:osm_a2378da131021580:2025
+71,State Bank of Texas,bank,41.9974622,-87.6953772,0.6972,108,0.5040,0,0,node/9604814838,osm_continuity_full_year:osm_af2621eae2eda7ce:2025
+72,Fifth Third Bank,bank,41.9687718,-87.6892891,0.6945,70,0.6162,0,0,node/1860706922,osm_continuity_full_year:osm_37e66580451a84f3:2025
+73,Bank of America,atm,41.8822351,-87.6413761,0.6945,66,0.6270,1,3,node/12342387635,osm_continuity_full_year:osm_df5f62627c358805:2025
+74,,atm,41.8313628,-87.6464508,0.6889,57,0.6668,1,3,node/10649886256,osm_continuity_full_year:osm_efd168999d5ed5bb:2025
+75,Fifth Third Bank,atm,41.9688253,-87.689929,0.6888,92,0.5433,0,0,node/9104747101,osm_continuity_full_year:osm_531ca2a4c0412406:2025
+76,,atm,41.961986,-87.6521937,0.6861,122,0.4607,0,0,node/10801204170,osm_continuity_full_year:osm_ce10825ab7654fcf:2025
+77,,atm,41.8784699,-87.6390056,0.6861,31,0.7773,0,0,node/8199213517,osm_continuity_full_year:osm_ed37ce438f6c7edc:2025
+78,PNC Bank,atm,41.7807687,-87.6451142,0.6828,81,0.5795,0,0,node/8166594654,osm_continuity_full_year:osm_b929e111cf7ddf70:2025
+79,Bank of America,bank,41.8779237,-87.6370998,0.6817,50,0.6971,0,0,node/4191703938,osm_continuity_full_year:osm_6726d7c226bc4959:2025
+80,PNC Bank,bank,41.8306765,-87.6267971,0.6794,58,0.6647,1,1,node/8095607615,osm_continuity_full_year:osm_2c488cab4dbe1ff1:2025
+81,RockItCoin - The Galleria Bitcoin ATM,atm,41.8957836,-87.6377335,0.6756,106,0.5073,1,2,node/6172761009,osm_continuity_full_year:osm_7a230f19462886b4:2025
+82,Citibank,bank,41.8794897,-87.634998,0.6707,45,0.7167,0,0,node/4191703940,osm_continuity_full_year:osm_709750e3f95e741b:2025
+83,Chase,bank,41.8309183,-87.617605,0.6615,88,0.5596,1,5,node/8095601794,osm_continuity_full_year:osm_fdede13422287015:2025
+84,Wintrust Bank,bank,41.8812946,-87.686692,0.6600,68,0.6206,1,3,node/6239099433,osm_continuity_full_year:osm_74c4c76d2126edf4:2025
+85,Pacific Global Bank,bank,41.8502275,-87.6318334,0.6561,118,0.4642,0,0,node/6723254318,osm_continuity_full_year:osm_2efdcb2ba9711a96:2025
+86,Fifth Third Bank,bank,41.7996723,-87.5910453,0.6541,93,0.5396,0,0,node/4114593406,osm_continuity_full_year:osm_35b96ae6853258d4:2025
+87,Bank of America,atm,41.9154825,-87.6871338,0.6541,34,0.7673,1,2,node/9971213329,osm_continuity_full_year:osm_40c418b65f827c41:2025
+88,Chase,bank,41.9252645,-87.6481578,0.6541,105,0.5111,0,0,node/7901484014,osm_continuity_full_year:osm_5255911186a23be7:2025
+89,Byline Bank,bank,41.9109273,-87.6345181,0.6521,74,0.6020,1,1,node/4191676725,osm_continuity_full_year:osm_118262e5fbe880fc:2025
+90,,atm,41.9691016,-87.7621393,0.6512,61,0.6604,1,2,node/4172392092,osm_continuity_full_year:osm_5ad97427552aab25:2025
+91,Wintrust Bank,bank,41.9475745,-87.657029,0.6478,123,0.4522,1,4,node/9969724830,osm_continuity_full_year:osm_40d8b80e8907918c:2025
+92,Chase,bank,41.9106235,-87.6773072,0.6478,80,0.5823,1,1,node/11159638317,osm_continuity_full_year:osm_ed6f9967b419a6b0:2025
+93,Chase,bank,41.8818093,-87.6301275,0.6455,128,0.4392,1,1,node/7874466232,osm_continuity_full_year:osm_666d95a2f733813b:2025
+94,Cathay Bank,atm,41.853066,-87.6339642,0.6411,151,0.3755,1,1,node/11365898406,osm_continuity_full_year:osm_c38f81acb11e3569:2025
+95,Chase,bank,41.9788437,-87.6924186,0.6282,129,0.4349,1,1,node/7388012083,osm_continuity_full_year:osm_83464e135e9935d2:2025
+96,BMO,atm,41.9254593,-87.6567108,0.6205,91,0.5500,0,0,node/463772323,osm_continuity_full_year:osm_ae0708d52370fd18:2025
+97,PNC Bank,bank,41.9194289,-87.6365691,0.6173,72,0.6065,0,0,node/2673655696,osm_continuity_full_year:osm_985705c0fea51d27:2025
+98,U.S. Bank,atm,41.7794832,-87.6469619,0.6145,117,0.4648,0,0,node/12081723141,osm_continuity_full_year:osm_78e2d5c47d989c2f:2025
+99,Belmont Bank & Trust,bank,41.9033818,-87.677071,0.6114,146,0.3998,1,1,node/7442221183,osm_continuity_full_year:osm_a6922f08bfa4678f:2025
+100,Chase,bank,41.938831,-87.7675604,0.6094,132,0.4269,1,2,node/7491820603,osm_continuity_full_year:osm_7f7377fdb24a8e5d:2025
+101,Vincennes Currency Exchange Bitcoin ATM,atm,41.7583088,-87.6316161,0.5980,97,0.5252,0,0,node/6172802045,osm_continuity_full_year:osm_1f7004ecb59c4351:2025
+102,PNC Bank,bank,41.9098845,-87.711369,0.5905,95,0.5319,1,1,node/4499383719,osm_continuity_full_year:osm_49b3ae52c8d5e3f6:2025
+103,Chase,atm,41.8844712,-87.6239911,0.5904,22,0.8033,0,0,node/2427403729,osm_continuity_full_year:osm_128bebfe878393a5:2025
+104,Byline Bank,bank,41.8853902,-87.6329468,0.5817,96,0.5296,0,0,node/9332235762,osm_continuity_full_year:osm_4eb185fdc766070c:2025
+105,Bank of America,atm,41.9551938,-87.6792315,0.5782,136,0.4208,1,1,node/9354635425,osm_continuity_full_year:osm_f2e9f3a62b369c6c:2025
+106,PNC Bank,bank,41.8869491,-87.6242141,0.5746,114,0.4870,0,0,node/1648106606,osm_continuity_full_year:osm_9359723db7957047:2025
+107,Chase,bank,41.8993102,-87.6284687,0.5721,166,0.3307,0,0,node/11165541519,osm_continuity_full_year:osm_2a30bc909c4e1790:2025
+108,Triton,atm,41.961584,-87.6757437,0.5691,48,0.7070,0,0,node/2200792416,osm_continuity_full_year:osm_ac778fb1a62cc6d1:2025
+109,RBC,bank,41.794814,-87.7234876,0.5672,98,0.5237,0,0,node/6140726708,osm_continuity_full_year:osm_32e5e406c426a10a:2025
+110,Chase,bank,41.9029764,-87.6316302,0.5670,133,0.4249,1,3,node/11161523752,osm_continuity_full_year:osm_30a1771927f59d5f:2025
+111,Pulaski Savings Bank,bank,41.8362738,-87.6512526,0.5642,125,0.4465,0,0,node/5111736794,osm_continuity_full_year:osm_23ebf3474c01cf3f:2025
+112,Chase,bank,41.8845618,-87.6522875,0.5602,84,0.5679,0,0,node/11272453396,osm_continuity_full_year:osm_99442118470e983b:2025
+113,Countryside Bank,bank,41.9424126,-87.6524676,0.5588,170,0.3244,0,0,node/5695558675,osm_continuity_full_year:osm_86b99cd975326db3:2025
+114,Wells Fargo,bank,41.8964808,-87.62954,0.5574,51,0.6955,1,1,node/11088285633,osm_continuity_full_year:osm_f5b77208a9c7a43e:2025
+115,Huntington Bank,atm,41.9633354,-87.6566759,0.5530,99,0.5232,0,0,node/5960448217,osm_continuity_full_year:osm_0042918a23f7fc2b:2025
+116,Chase,bank,41.9373148,-87.6489453,0.5530,67,0.6213,1,5,node/1939880101,osm_continuity_full_year:osm_906ea1a8cb8329ea:2025
+117,,atm,41.9754822,-87.692827,0.5482,119,0.4637,0,0,node/2406131496,osm_continuity_full_year:osm_1627930176b605fe:2025
+118,,atm,41.7914033,-87.5895277,0.5482,107,0.5050,1,1,node/9008319602,osm_continuity_full_year:osm_63165796cb2b087d:2025
+119,PNC Bank,bank,41.9618859,-87.6555074,0.5469,139,0.4158,1,2,node/10222355679,osm_continuity_full_year:osm_d4f3f2c8afa98ff8:2025
+120,South Central Bank,bank,41.887065,-87.6531381,0.5453,178,0.3116,0,0,node/6540532722,osm_continuity_full_year:osm_9df79b6aee608294:2025
+121,Chase,bank,41.8306272,-87.6457994,0.5442,131,0.4316,0,0,node/8117817852,osm_continuity_full_year:osm_a7bcce196f9518e6:2025
+122,Bank of America,bank,41.8833826,-87.6374938,0.5404,137,0.4170,0,0,node/11098538515,osm_continuity_full_year:osm_4574ca3f30c8bf88:2025
+123,Wintrust Bank,bank,41.9544038,-87.678187,0.5361,147,0.3959,0,0,node/9354635433,osm_continuity_full_year:osm_e1aa8fffd32f75b8:2025
+124,Hyde Park Bank,atm,41.799448,-87.5881907,0.5353,121,0.4620,0,0,node/9321310697,osm_continuity_full_year:osm_900eb9dbcd4213ce:2025
+125,Hyde Park Bank,bank,41.7993364,-87.5881954,0.5317,116,0.4678,0,0,node/7347217047,osm_continuity_full_year:osm_bf8c04247f4b24bf:2025
+126,Chase,bank,41.9208759,-87.6636559,0.5295,130,0.4323,1,1,node/463772266,osm_continuity_full_year:osm_1c57d2928e8c202e:2025
+127,Hyde Park Bank,atm,41.7989622,-87.5879916,0.5243,143,0.4090,0,0,node/10301964668,osm_continuity_full_year:osm_5f5b438986debefd:2025
+128,Bank of America,atm,41.741993,-87.586039,0.5224,120,0.4628,1,1,node/7205270180,osm_continuity_full_year:osm_0fdbcb9131e7700b:2025
+129,Chase,bank,41.8556218,-87.6274106,0.5223,152,0.3753,0,0,node/6646187182,osm_continuity_full_year:osm_0273e9f595c42c1b:2025
+130,Fifth Third Bank,bank,41.8784768,-87.6354223,0.5223,71,0.6140,0,0,node/10945307454,osm_continuity_full_year:osm_7719adc20bf3125f:2025
+131,Chase,bank,41.8794284,-87.6414853,0.5183,109,0.4974,0,0,node/1619740979,osm_continuity_full_year:osm_f5882e14ad0affeb:2025
+132,PNC Bank,atm,41.9763742,-87.7876462,0.5152,112,0.4873,1,2,node/4251112646,osm_continuity_full_year:osm_871dc0151a6eeddf:2025
+133,PNC Bank,atm,41.9766351,-87.7876377,0.5152,113,0.4873,1,2,node/4251112647,osm_continuity_full_year:osm_d57e5ca7d05d8de6:2025
+134,Citibank,bank,41.8319268,-87.6463464,0.5150,149,0.3830,1,1,node/8117817854,osm_continuity_full_year:osm_c917873afcd5784d:2025
+135,Fifth Third Bank,bank,41.9259046,-87.6485235,0.5120,148,0.3934,0,0,node/10169469582,osm_continuity_full_year:osm_030ee13dd0566375:2025
+136,Citibank,bank,41.8544973,-87.6322385,0.5077,180,0.3109,0,0,node/10231658904,osm_continuity_full_year:osm_6ba601d50b617a51:2025
+137,BMO,bank,41.9858228,-87.6691487,0.5070,110,0.4952,1,2,node/3015697001,osm_continuity_full_year:osm_33c140c798f1455d:2025
+138,Bank of America,atm,41.882122,-87.6391015,0.5054,77,0.5909,0,0,node/2882733066,osm_continuity_full_year:osm_448825fc55fb470e:2025
+139,American Metro Bank,bank,41.85262,-87.6340754,0.4959,185,0.3009,1,1,node/11365898405,osm_continuity_full_year:osm_558d5a5033b940aa:2025
+140,Chase,bank,41.8968432,-87.7072273,0.4959,158,0.3507,0,0,node/5452020399,osm_continuity_full_year:osm_7c2af236d1296558:2025
+141,Chase,atm,41.9106586,-87.6776421,0.4934,82,0.5779,1,1,node/3575366256,osm_continuity_full_year:osm_6f264e3e31046cd5:2025
+142,Chase,bank,41.7999202,-87.5962971,0.4934,124,0.4478,0,0,node/4114593403,osm_continuity_full_year:osm_74b5665b3882b1fa:2025
+143,Chase,bank,41.9180136,-87.6523079,0.4909,69,0.6182,0,0,node/10157544903,osm_continuity_full_year:osm_9d9e79c8cd623cca:2025
+144,Self-Help Federal Credit Union,bank,41.736426,-87.608031,0.4856,181,0.3093,0,0,node/6936158607,osm_continuity_full_year:osm_aab4319274d92696:2025
+145,Bank of America,bank,41.750487,-87.6458582,0.4743,184,0.3041,0,0,node/10281450900,osm_continuity_full_year:osm_0af15afeb11d9af8:2025
+146,Chase,atm,41.9104924,-87.6888668,0.4743,101,0.5187,1,3,node/3618330010,osm_continuity_full_year:osm_5754718511708e62:2025
+147,Fifth Third Bank,bank,41.9475755,-87.6472309,0.4743,156,0.3625,1,1,node/7393995549,osm_continuity_full_year:osm_9d8fb01338e09908:2025
+148,BMO,bank,41.8769359,-87.6399594,0.4743,111,0.4924,0,0,node/9928185350,osm_continuity_full_year:osm_a4bff05f91b67ea9:2025
+149,Chase,bank,41.8511511,-87.6864277,0.4682,144,0.4065,0,0,node/4076939425,osm_continuity_full_year:osm_2b9de4bdda27fcf1:2025
+150,BMO,bank,41.8812487,-87.7235436,0.4682,161,0.3372,0,0,node/8442098357,osm_continuity_full_year:osm_3750d1178852f2e9:2025
+151,Old National Bank,bank,41.9180501,-87.6486596,0.4584,189,0.2895,0,0,node/2623046303,osm_continuity_full_year:osm_d9d1adca19aa75d1:2025
+152,Huntington Bank,bank,41.9552675,-87.7446496,0.4515,160,0.3386,0,0,node/9899427640,osm_continuity_full_year:osm_a90ad56fde6c3b4b:2025
+153,Chase,bank,41.9698191,-87.7081001,0.4478,165,0.3321,0,0,node/8063110946,osm_continuity_full_year:osm_c4cd542f853746be:2025
+154,Popmoney,atm,41.7953014,-87.5968501,0.4440,192,0.2852,0,0,node/9008316200,osm_continuity_full_year:osm_79b5590edc878ed6:2025
+155,Chase,bank,41.7670069,-87.6648343,0.4402,159,0.3391,0,0,node/8166594663,osm_continuity_full_year:osm_9dab24349570fc70:2025
+156,Chase,bank,41.7372372,-87.6058794,0.4402,171,0.3234,0,0,node/9815014569,osm_continuity_full_year:osm_fd8388a5094f88cc:2025
+157,Athena Bitcon ATM,atm,41.8689382,-87.6396307,0.4361,141,0.4129,0,0,node/5632877418,osm_continuity_full_year:osm_6fbab9da0646a9d3:2025
+158,Chase,bank,41.7078573,-87.6204542,0.4320,182,0.3075,0,0,node/7304771028,osm_continuity_full_year:osm_86e2f7a9601c740c:2025
+159,Athena Bitcoin ATM,atm,41.9172409,-87.6997032,0.4320,162,0.3355,1,1,node/5620495188,osm_continuity_full_year:osm_9571b8bb53bfd2de:2025
+160,,atm,41.9759905,-87.6682755,0.4233,153,0.3721,1,1,node/11887094970,osm_continuity_full_year:osm_ae4f39bec82bc9a4:2025
+161,Maroon Financial Credit Union,bank,41.794402,-87.6001286,0.4138,154,0.3669,0,0,node/2354194808,osm_continuity_full_year:osm_488e5a3f15fa4caf:2025
+162,,atm,41.9715818,-87.7130376,0.4138,168,0.3299,0,0,node/5127071821,osm_continuity_full_year:osm_5464a79bd0808d91:2025
+163,Maroon Financial Credit Union,atm,41.794403,-87.600004,0.4138,155,0.3669,0,0,node/2354403062,osm_continuity_full_year:osm_78412d3c67f57df1:2025
+164,Chase,bank,41.9364043,-87.7265228,0.4036,177,0.3137,0,0,node/3882556827,osm_continuity_full_year:osm_06b2765bc4d545f8:2025
+165,Fifth Third Bank,atm,41.9530933,-87.6792155,0.4036,169,0.3255,0,0,node/11501045272,osm_continuity_full_year:osm_8996fc95dc822cf8:2025
+166,Fifth Third Bank,atm,41.7280909,-87.5504483,0.4036,145,0.4039,1,1,node/7055442287,osm_continuity_full_year:osm_d1adb74cb968c7e7:2025
+167,,atm,41.8668956,-87.6461322,0.4036,176,0.3144,0,0,node/10045394957,osm_continuity_full_year:osm_fa7292efd692efca:2025
+168,U.S. Bank,bank,41.9170287,-87.6574216,0.3982,196,0.2626,0,0,node/10559892386,osm_continuity_full_year:osm_56c793d320bb2329:2025
+169,,atm,41.9685334,-87.7308837,0.3982,174,0.3160,0,0,node/7111019425,osm_continuity_full_year:osm_64e81f97439ee7c5:2025
+170,Bank of America,bank,41.920573,-87.6627146,0.3925,190,0.2888,1,1,node/3883921390,osm_continuity_full_year:osm_4056b038e33e225a:2025
+171,First American Bank,bank,41.9184831,-87.6386328,0.3925,175,0.3157,1,1,node/11446705242,osm_continuity_full_year:osm_5ac2f8bc1d5bdbd2:2025
+172,Huntington Bank,bank,41.9354299,-87.6699525,0.3925,85,0.5665,0,0,node/495655728,osm_continuity_full_year:osm_7a8c04750e107523:2025
+173,Chase,bank,41.868051,-87.64002,0.3865,104,0.5125,0,0,node/8117903925,osm_continuity_full_year:osm_de189b655677e1f9:2025
+174,,atm,41.9540434,-87.6761729,0.3802,193,0.2832,0,0,node/12312843602,osm_continuity_full_year:osm_5e897eb5c2bc32bf:2025
+175,Hyde Park Bank,bank,41.7912567,-87.5943116,0.3736,173,0.3206,0,0,node/4114593399,osm_continuity_full_year:osm_88f3d6d96c109fed:2025
+176,Bank of America,atm,41.7506871,-87.6833737,0.3666,191,0.2871,0,0,node/10281450901,osm_continuity_full_year:osm_2e75852078bc26c0:2025
+177,Bank of America,atm,41.9686234,-87.6789364,0.3666,142,0.4117,0,0,node/9272791657,osm_continuity_full_year:osm_31445e2098fd7c9a:2025
+178,Bank of America,atm,41.9785816,-87.9064233,0.3649,183,0.3057,0,0,node/6323950528,osm_continuity_full_year:osm_1efadd46f350448c:2025
+179,Bank of America,atm,41.9761982,-87.9046807,0.3649,127,0.4404,0,0,node/2285134805,osm_continuity_full_year:osm_e8b3bf21e6e76b30:2025
+180,BMO,atm,41.9766605,-87.9054582,0.3649,135,0.4226,0,0,node/6321771533,osm_continuity_full_year:osm_ef2b63c21eaba141:2025
+181,Huntington Bank,bank,41.9668209,-87.7668321,0.3592,197,0.2620,0,0,node/2876689577,osm_continuity_full_year:osm_b87ede939cffee14:2025
+182,Wintrust Bank,bank,41.8627677,-87.6924538,0.3513,157,0.3576,0,0,node/9336850869,osm_continuity_full_year:osm_217d94b2a10c4b9c:2025
+183,Citibank,bank,41.8103448,-87.5945321,0.3513,126,0.4427,0,0,node/7352799771,osm_continuity_full_year:osm_b378b264e62d95dc:2025
+184,Chase,bank,41.9661228,-87.7595751,0.3429,134,0.4241,0,0,node/4269213206,osm_continuity_full_year:osm_48e0aca6ee2b2b14:2025
+185,,atm,41.9714634,-87.7465339,0.3429,164,0.3341,0,0,node/4206058125,osm_continuity_full_year:osm_579d376588bc0ff6:2025
+186,Huntington Bank,bank,41.7203592,-87.5832025,0.3429,186,0.2937,0,0,node/11300504646,osm_continuity_full_year:osm_ed7587bd129bd2ee:2025
+187,BMO,bank,41.7432283,-87.6326261,0.3339,187,0.2937,0,0,node/9246482728,osm_continuity_full_year:osm_d30d1da7f8bfad1c:2025
+188,Chase,bank,41.7229321,-87.5772641,0.3339,179,0.3110,0,0,node/9400612354,osm_continuity_full_year:osm_ecfeb2b83ad013af:2025
+189,Bank of America,atm,41.7052384,-87.6430203,0.3135,202,0.2424,1,1,node/10073956277,osm_continuity_full_year:osm_a0047c394144aa4f:2025
+190,BMO,bank,41.945554,-87.7006652,0.3018,167,0.3300,0,0,node/3012468316,osm_continuity_full_year:osm_aa6f2524c6afcaca:2025
+191,Bank of America,atm,41.95347,-87.7891427,0.3018,200,0.2492,0,0,node/12068933664,osm_continuity_full_year:osm_f1d0a96612692c96:2025
+192,BMO,atm,41.9788163,-87.9063568,0.2940,188,0.2931,0,0,node/11593802965,osm_continuity_full_year:osm_e1a6aadff9187e05:2025
+193,Bank of America,atm,41.9808961,-87.7729393,0.2889,172,0.3212,0,0,node/4263932178,osm_continuity_full_year:osm_62d6e81acfd19039:2025
+194,U.S. Bank,bank,41.8272803,-87.6413159,0.2889,206,0.2099,1,1,node/10062522233,osm_continuity_full_year:osm_96653e5c67e0822e:2025
+195,U.S. Bank,bank,41.6942734,-87.599297,0.2889,208,0.2004,0,0,node/11968595498,osm_continuity_full_year:osm_f116e4d438af5efc:2025
+196,Citibank,atm,41.7911369,-87.5983011,0.2889,201,0.2444,0,0,node/10112363441,osm_continuity_full_year:osm_f49cb3dc8e20b2f7:2025
+197,Chase,bank,41.9894959,-87.7336213,0.2744,211,0.1818,0,0,node/7178468991,osm_continuity_full_year:osm_4bdbbaacc682c831:2025
+198,U.S. Bank,bank,41.9923184,-87.7995147,0.2744,205,0.2112,0,0,node/6704751034,osm_continuity_full_year:osm_f5513e6b0a633c4f:2025
+199,Bank of America,atm,41.9770337,-87.9057203,0.2386,150,0.3763,0,0,node/11593802967,osm_continuity_full_year:osm_1373be8a9a5bdf18:2025
+200,BMO,atm,41.9756426,-87.9033561,0.2386,163,0.3348,0,0,node/2285134861,osm_continuity_full_year:osm_24d693251aece468:2025
+201,Bank of America,atm,41.9756411,-87.9031653,0.2386,194,0.2679,0,0,node/2322673336,osm_continuity_full_year:osm_7af592c81cedc301:2025
+202,BMO,atm,41.7858765,-87.7418846,0.2386,195,0.2655,0,0,node/11380207952,osm_continuity_full_year:osm_7ca2ed34bc91aa78:2025
+203,Chase,atm,41.7892482,-87.6047039,0.2386,198,0.2498,0,0,node/5545653465,osm_continuity_full_year:osm_89a4393397d6bd5b:2025
+204,U.S. Bank,bank,41.7064352,-87.6575967,0.2386,209,0.1991,0,0,node/9653824911,osm_continuity_full_year:osm_c642fb08f9c67899:2025
+205,Bank of America,atm,41.785551,-87.7425038,0.2386,212,0.1703,0,0,node/12001509260,osm_continuity_full_year:osm_e1b0b641b06baa23:2025
+206,,atm,41.7882615,-87.603784,0.2152,203,0.2248,0,0,node/9328037715,osm_continuity_full_year:osm_63b3a16f78100906:2025
+207,Bank of America,atm,41.7867017,-87.7453884,0.2152,207,0.2068,0,0,node/12001509245,osm_continuity_full_year:osm_f23ee26f23d314c8:2025
+208,BMO,atm,41.7883386,-87.7418282,0.2152,204,0.2158,0,0,node/11597541625,osm_continuity_full_year:osm_f49d2430d12c4a49:2025
+209,Citibank,atm,41.789367,-87.6017688,0.1851,210,0.1955,0,0,node/9033428595,osm_continuity_full_year:osm_42598feeb34b7496:2025
+210,BMO,atm,41.9753809,-87.9000428,0.1851,138,0.4162,0,0,node/2322673377,osm_continuity_full_year:osm_85c465ac4502525f:2025
+211,PNC Bank,bank,41.9962402,-87.7863372,0.1851,199,0.2492,0,0,node/7716241551,osm_continuity_full_year:osm_95f18993deb26d79:2025
+212,Bank of America,atm,41.9751388,-87.900494,0.1851,140,0.4147,0,0,node/2322673373,osm_continuity_full_year:osm_aea714a3fc5e1e67:2025

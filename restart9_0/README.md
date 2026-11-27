@@ -77,6 +77,10 @@ See [importance.csv](results/importance.csv).
   311 calls reflect reporting habits as well as darkness. Branch hours are tagged for
   50–56% of NYC sites but only 7–22% in Chicago.
 
+## Ranked 2025 predictions
+
+[results/ranked_2025/](results/ranked_2025/summary.md) lists every test ATM per city with its risk rank, bank name, coordinates, both models' scores and what actually happened in 2025. Produced by `scripts/rank_predictions.py` from the saved predictions (no refitting). Among the 10% of ATMs the past-crime model ranked riskiest, all 21 in Chicago, all 11 in LA and 59 of 61 in NYC had a robbery or burglary within 50 m in 2025 (city rates 41%, 33%, 56%).
+
 ## Amendments (made before any outcome linkage)
 
 [amendments.md](amendments.md): A1 switched to ohsome v2 / the OSM history API after v1 returned
