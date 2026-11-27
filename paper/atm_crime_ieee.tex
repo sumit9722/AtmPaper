@@ -197,6 +197,17 @@ from, and sharing no census geography with, that fold's test sites. This is repe
 \textit{Full adaptation} uses all eligible Chicago 2024 rows under the same purge.
 \textit{Pooled within-city} trains on all three cities with five purged spatial folds.
 
+\subsection{Home-City Comparison (Exploratory)}
+To measure what is lost by borrowing a model from another city, we compare NYC-trained and Chicago-trained models
+on the same 212 Chicago 2025 sites. Two further environment-only feature sets are used. E19 adds four block-group
+measures to the 15 attributes: population density (ACS 2022), housing units per acre, transit service frequency and
+distance to the nearest transit stop (EPA Smart Location Database). E107 contains 107 cleaned ACS and EPA
+variables. The Chicago-trained XGBoost models reproduce an independent within-city analysis by a team member. That
+analysis used the same estimator, an eight-configuration grid, four-fold spatial tuning with a 1 km purge and
+training-only column exclusion. Here it is re-run on the corrected cohort. Logistic models use the pipeline above.
+Because 180 of the 212 test sites also appear in Chicago's 2024 training data, we also refit Chicago models after
+removing training sites within 1,500 m of each test fold.
+
 \subsection{Metrics, Uncertainty and Pre-registration}
 The primary metric is average precision (AP),
 \begin{equation}
@@ -314,6 +325,39 @@ New York City$^{b}$ & 56\% & 97\% (59/61) & 89\% & 37\% \\
 \end{tabular}
 \end{table}
 
+\subsection{Home-City Versus Borrowed Models}
+Table~\ref{tab:home} compares training on Chicago's own 2024 data with training on NYC. Past crime transferred
+almost fully. The NYC-trained logistic model reached AUC 0.793 against 0.804 for the Chicago-trained one (paired
+difference $+0.010$, 95\% interval $-0.003$ to $+0.024$). Environment-only models scored higher when trained in
+Chicago: XGBoost with E107 reached 0.705 against 0.585 from NYC (difference $+0.120$, interval $+0.053$ to
+$+0.199$). This reproduces the team member's earlier within-city estimate (AUC 0.706) on corrected labels. However,
+85\% of the test sites were seen in training. When nearby Chicago training sites were removed, the same model fell
+to 0.492. The purged refits use small and uneven training sets (even the crime-only logistic model fell to 0.634),
+so they bound rather than measure the advantage. Within Chicago, adding E107 to past crime left XGBoost almost
+unchanged (AUC 0.773 to 0.781; AP 0.665 to 0.670). From NYC, the compact E19 set transferred better than E107
+(logistic 0.667 against 0.636).
+
+\begin{table}[t]
+\caption{Chicago 2025 ROC-AUC: Chicago-trained vs NYC-trained}
+\label{tab:home}
+\centering
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lcccc}
+\toprule
+& \multicolumn{2}{c}{XGBoost} & \multicolumn{2}{c}{Logistic} \\
+Features & Chicago & NYC & Chicago & NYC \\
+\midrule
+Past crime & 0.773 & 0.781 & \textbf{0.804} & 0.793 \\
+E19 (environment) & 0.682 & 0.633 & 0.689 & 0.667 \\
+E107 (environment) & 0.705 & 0.585 & 0.697 & 0.636 \\
+Past crime + E19 & 0.792 & 0.780 & 0.765 & 0.765 \\
+Past crime + E107 & 0.781 & 0.792 & 0.753 & 0.746 \\
+\bottomrule
+\multicolumn{5}{p{7.6cm}}{\footnotesize Trained on 2024 data from the named city; 212 test sites, 180 of them
+also in the Chicago training data. Chance AUC is 0.50.}
+\end{tabular}
+\end{table}
+
 \section{Discussion}
 \textit{Why the attributes did not transfer.} First, crime history already summarizes much of what the attributes
 measure: a site near a busy station or late-night strip has usually had crime before. Second, the meaning of an
@@ -321,6 +365,12 @@ attribute is city-specific. Rail stations, late-night venues and liquor stores s
 in NYC, Chicago and LA, and the training base rates differ (63\% in NYC against 41\% in Chicago). Third, several
 measures are proxies with uneven coverage. OSM completeness varies~\cite{haklay2010}, 311 volumes reflect reporting
 habits, and opening hours are sparsely tagged outside NYC.
+
+\textit{Borrowed crime history is enough.} A crime-history model trained in NYC ranked Chicago sites as well
+as one trained in Chicago. Environment-only models gained from home-city training mainly when the same sites recurred
+in both years. Fixed block-group environment values effectively identify a location, so such a model can learn
+which locations had crime before. Within-city environment-only accuracy should therefore not be read as evidence of
+an environmental mechanism.
 
 \textit{Importance is not evidence of value.} LightGBM assigned over half of its gain to attributes, yet none improved
 Chicago accuracy. Feature importance describes what a fitted model uses on its training distribution~\cite{strobl2007}.
