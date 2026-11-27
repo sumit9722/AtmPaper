@@ -85,6 +85,10 @@ See [importance.csv](results/importance.csv).
 
 [results/weightage/summary.md](results/weightage/summary.md): LightGBM weightage (% of total gain) and Chicago 2025 AP/ROC-AUC. Step 1 (NYC only): LightGBM + attributes AUC 0.773 vs past-crime logistic 0.793. Step 2 (NYC + a random 10% of Chicago 2024, 20 draws): AUC 0.763 vs 0.794; the attribute model was better in 0 of 20 draws. Past crime carries about 40% of the weightage; lighting, bars, liquor-store counts and branch hours carry under 1% each.
 
+## Environment-only models, no past crime (exploratory, amendment A4)
+
+[results/env_only/summary.md](results/env_only/summary.md): the 15 attributes alone, trained on NYC and tested on Chicago 2025. Logistic AUC 0.638 (95% CI 0.551–0.736) and AP 0.550 against chance 0.410. LightGBM AUC 0.565 (0.483–0.658). With 10% of Chicago 2024 added: logistic AUC 0.636, LightGBM 0.582. In LA every interval includes chance. Environment alone carries a weak but real signal for Chicago with logistic regression. Top LightGBM weightage: rail-station distance, late-night places, ATM age and police-station distance.
+
 ## Amendments (made before any outcome linkage)
 
 [amendments.md](amendments.md): A1 switched to ohsome v2 / the OSM history API after v1 returned

@@ -1,0 +1,1073 @@
+step,target,model,row_id,observed,score
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_0042918a23f7fc2b:2025,0,0.48788
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_0273e9f595c42c1b:2025,0,0.48847
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_030ee13dd0566375:2025,0,0.21615
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_0579579d6b85d3b4:2025,1,0.90854
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_06b2765bc4d545f8:2025,0,0.28163
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_0af15afeb11d9af8:2025,0,0.39972
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_0eae8a2a57abc7ba:2025,0,0.49287
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_0ef10b9fa456b713:2025,1,0.41697
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_0fc04a65ea817f2c:2025,1,0.30667
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_0fdbcb9131e7700b:2025,1,0.31081
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_10824324360873f1:2025,0,0.33525
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_117326c9f912257a:2025,0,0.63299
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_118262e5fbe880fc:2025,1,0.67115
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_128bebfe878393a5:2025,0,0.92558
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_1373be8a9a5bdf18:2025,0,0.48356
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_13b856119f24e4aa:2025,1,0.32422
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_1627930176b605fe:2025,0,0.38377
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_1963e34b60d701ae:2025,0,0.12218
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_1bb2e212de00f326:2025,1,0.48079
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_1c57d2928e8c202e:2025,1,0.15488
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_1d7c8d7c55ccfa05:2025,1,0.37953
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_1eb25a5cdc57b7c6:2025,0,0.11095
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_1efadd46f350448c:2025,0,0.17348
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_1f7004ecb59c4351:2025,0,0.54392
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_21166bfd67a31b71:2025,1,0.51783
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_217d94b2a10c4b9c:2025,0,0.50631
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_2184509d0ee7ba31:2025,1,0.29603
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_23ebf3474c01cf3f:2025,0,0.24352
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_2405ccc11c3cc718:2025,1,0.75973
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_24d693251aece468:2025,0,0.51130
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_260f0b2bf948f502:2025,1,0.39778
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_2a30bc909c4e1790:2025,0,0.25481
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_2b9de4bdda27fcf1:2025,0,0.38433
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_2c488cab4dbe1ff1:2025,1,0.44906
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_2e75852078bc26c0:2025,0,0.16542
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_2efdcb2ba9711a96:2025,0,0.38931
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_30a1771927f59d5f:2025,1,0.48174
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_31445e2098fd7c9a:2025,0,0.39120
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_32e5e406c426a10a:2025,0,0.42066
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_33c140c798f1455d:2025,1,0.45157
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_347e1033be38abcc:2025,0,0.71773
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_34f00f6eaae16eca:2025,1,0.37303
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_35b96ae6853258d4:2025,0,0.48031
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_3750d1178852f2e9:2025,0,0.19272
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_37e66580451a84f3:2025,0,0.59948
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_3da2c5e93e24a7ef:2025,1,0.88647
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_3dd9889f21d8882b:2025,0,0.64343
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_4056b038e33e225a:2025,1,0.12340
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_40c418b65f827c41:2025,1,0.84449
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_40d8b80e8907918c:2025,1,0.42023
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_42598feeb34b7496:2025,0,0.24943
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_448825fc55fb470e:2025,0,0.78325
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_4574ca3f30c8bf88:2025,0,0.54435
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_471d93cce4c9ef2c:2025,0,0.59523
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_48781874024a2c32:2025,1,0.26325
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_488e5a3f15fa4caf:2025,0,0.43372
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_48e0aca6ee2b2b14:2025,0,0.56427
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_49b3ae52c8d5e3f6:2025,1,0.58975
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_4bdbbaacc682c831:2025,0,0.10206
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_4eb185fdc766070c:2025,0,0.60370
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_5255911186a23be7:2025,0,0.28885
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_531ca2a4c0412406:2025,0,0.51641
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_5464a79bd0808d91:2025,0,0.35285
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_558d5a5033b940aa:2025,1,0.26149
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_56c793d320bb2329:2025,0,0.11223
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_5754718511708e62:2025,1,0.59798
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_579d376588bc0ff6:2025,0,0.32338
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_585d20725d248c56:2025,1,0.82418
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_5950f9edf3c1c7b9:2025,0,0.27521
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_5a7f3ff2cb843b9e:2025,1,0.40660
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_5ac2f8bc1d5bdbd2:2025,1,0.16606
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_5ad97427552aab25:2025,1,0.38998
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_5d997098e8a849f8:2025,1,0.65105
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_5e897eb5c2bc32bf:2025,0,0.17503
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_5f5b438986debefd:2025,0,0.25640
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_61f1ea97bbdbd534:2025,1,0.39322
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_62588e3aca13079f:2025,0,0.23718
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_62d6e81acfd19039:2025,0,0.43124
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_63165796cb2b087d:2025,1,0.47989
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_63b3a16f78100906:2025,0,0.31069
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_64e81f97439ee7c5:2025,0,0.53878
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_666d95a2f733813b:2025,1,0.44977
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_671e1620241f2227:2025,1,0.26658
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_6726d7c226bc4959:2025,0,0.83316
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_67e8ba1ec98e94e5:2025,0,0.78502
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_6896354e7a7dfac5:2025,0,0.28954
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_6ba601d50b617a51:2025,0,0.22670
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_6f264e3e31046cd5:2025,1,0.69844
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_6fbab9da0646a9d3:2025,0,0.66261
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_709750e3f95e741b:2025,0,0.83370
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_71fd413077c59ee5:2025,1,0.50916
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_72da7413733bf668:2025,1,0.22353
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_736e689ecbd2d330:2025,1,0.92949
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_74b5665b3882b1fa:2025,0,0.37319
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_74c4c76d2126edf4:2025,1,0.65780
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_7719adc20bf3125f:2025,0,0.82133
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_78412d3c67f57df1:2025,0,0.43372
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_78e2d5c47d989c2f:2025,0,0.25556
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_7938c037e2bac104:2025,1,0.50625
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_79a68ba2d57a0d3c:2025,1,0.17063
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_79b5590edc878ed6:2025,0,0.17571
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_7a230f19462886b4:2025,1,0.32482
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_7a8c04750e107523:2025,0,0.68457
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_7af592c81cedc301:2025,0,0.34282
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_7c2af236d1296558:2025,0,0.25612
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_7ca2ed34bc91aa78:2025,0,0.55716
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_7d55d14fa2a4cad0:2025,1,0.74142
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_7debc7557c2bc438:2025,1,0.88935
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_7f7377fdb24a8e5d:2025,1,0.12006
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_829b95d419142626:2025,0,0.80683
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_83464e135e9935d2:2025,1,0.14538
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_8536ac0c5aef4268:2025,1,0.18536
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_85c465ac4502525f:2025,0,0.73021
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_86b99cd975326db3:2025,0,0.24155
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_86e2f7a9601c740c:2025,0,0.17987
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_871dc0151a6eeddf:2025,1,0.66335
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_88c554286bed2f27:2025,0,0.24019
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_88da1fa17f2b79b5:2025,1,0.46092
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_88f3d6d96c109fed:2025,0,0.49445
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_8996fc95dc822cf8:2025,0,0.29818
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_89a4393397d6bd5b:2025,0,0.33385
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_8eb2b6a10e207be0:2025,1,0.94414
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_900eb9dbcd4213ce:2025,0,0.43344
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_906ea1a8cb8329ea:2025,1,0.71913
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_9359723db7957047:2025,0,0.44973
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_93f82999b5286085:2025,0,0.67105
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_9571b8bb53bfd2de:2025,1,0.25073
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_95f18993deb26d79:2025,0,0.34711
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_96051458d43d2b32:2025,1,0.18539
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_96653e5c67e0822e:2025,1,0.32334
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_985705c0fea51d27:2025,0,0.13525
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_99442118470e983b:2025,0,0.73198
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_9a6b0f996d6d0418:2025,0,0.28549
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_9d8fb01338e09908:2025,1,0.36433
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_9d9e79c8cd623cca:2025,0,0.61716
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_9dab24349570fc70:2025,0,0.28272
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_9dc0d3f887ef3f93:2025,1,0.33750
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_9df79b6aee608294:2025,0,0.18181
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_a0047c394144aa4f:2025,1,0.11240
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_a1712288a56f6fe3:2025,1,0.19690
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_a2378da131021580:2025,0,0.35908
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_a4bff05f91b67ea9:2025,0,0.69227
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_a6922f08bfa4678f:2025,1,0.22472
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_a7bcce196f9518e6:2025,0,0.25557
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_a90ad56fde6c3b4b:2025,0,0.22240
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_aa6f2524c6afcaca:2025,0,0.47713
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_aab4319274d92696:2025,0,0.13335
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_ac778fb1a62cc6d1:2025,0,0.67674
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_ac96c07b5e242ccb:2025,1,0.23833
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_ae0708d52370fd18:2025,0,0.34966
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_ae4f39bec82bc9a4:2025,1,0.18214
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_aea714a3fc5e1e67:2025,0,0.70912
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_af2621eae2eda7ce:2025,0,0.24185
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_b378b264e62d95dc:2025,0,0.37548
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_b46ca4add9f7dc30:2025,1,0.93389
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_b700d718b027d39e:2025,1,0.48278
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_b87ede939cffee14:2025,0,0.27087
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_b929e111cf7ddf70:2025,0,0.25295
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_bb73da3ffb03bb47:2025,0,0.89532
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_bcc976188398dd82:2025,1,0.54577
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_bd14292f6c22e564:2025,1,0.70349
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_bf8c04247f4b24bf:2025,0,0.37463
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_c045426365566bf6:2025,0,0.36180
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_c124d716be241231:2025,1,0.20475
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_c38f81acb11e3569:2025,1,0.17834
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_c4cd542f853746be:2025,0,0.35585
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_c642fb08f9c67899:2025,0,0.21656
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_c917873afcd5784d:2025,1,0.21957
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_cd530e351ee1a911:2025,0,0.35694
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_ce10825ab7654fcf:2025,0,0.22473
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_d110cd4328ebb78b:2025,0,0.24019
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_d15bdfb2d5fe9cfb:2025,1,0.77691
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_d1adb74cb968c7e7:2025,1,0.27548
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_d30d1da7f8bfad1c:2025,0,0.24622
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_d4f3f2c8afa98ff8:2025,1,0.22359
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_d57e5ca7d05d8de6:2025,1,0.66335
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_d593cb81614b34f2:2025,1,0.40962
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_d6208d58b94c989f:2025,1,0.53363
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_d65f8a1760c60212:2025,1,0.64353
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_d9d1adca19aa75d1:2025,0,0.12408
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_db5936fe6e0085d8:2025,0,0.68152
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_de189b655677e1f9:2025,0,0.65335
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_debeebd889c60e49:2025,1,0.76735
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_df5f62627c358805:2025,1,0.55674
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_e1a6aadff9187e05:2025,0,0.22449
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_e1aa8fffd32f75b8:2025,0,0.13121
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_e1b0b641b06baa23:2025,0,0.16295
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_e8b3bf21e6e76b30:2025,0,0.49033
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_e926a9a02c6273b8:2025,0,0.36038
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_ecfeb2b83ad013af:2025,0,0.31447
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_ed37ce438f6c7edc:2025,0,0.82925
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_ed6f9967b419a6b0:2025,1,0.56299
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_ed7587bd129bd2ee:2025,0,0.18939
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_ef2b63c21eaba141:2025,0,0.42823
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_efd168999d5ed5bb:2025,1,0.16036
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_f116e4d438af5efc:2025,0,0.19767
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_f1d0a96612692c96:2025,0,0.18219
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_f23ee26f23d314c8:2025,0,0.32816
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_f25288e6b3e3aa05:2025,1,0.19120
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_f2e9f3a62b369c6c:2025,1,0.30947
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_f49cb3dc8e20b2f7:2025,0,0.29865
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_f49d2430d12c4a49:2025,0,0.22202
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_f5513e6b0a633c4f:2025,0,0.18029
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_f5882e14ad0affeb:2025,0,0.56372
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_f5b3429d04e3f7cb:2025,1,0.73857
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_f5b77208a9c7a43e:2025,1,0.81056
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_fa7292efd692efca:2025,0,0.32722
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_fbb7357c73dc6d65:2025,1,0.37052
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_fd8388a5094f88cc:2025,0,0.21022
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_fdede13422287015:2025,1,0.54907
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_fe3b6a048eeac68d:2025,1,0.26146
+1 NYC only,Chicago,LGBM,osm_continuity_full_year:osm_fefc7ff5e1831c8e:2025,1,0.63107
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_014bade356de8576:2025,0,0.25866
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_03259db495571d8f:2025,0,0.38681
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_03dab16097ee4d1e:2025,0,0.20732
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_07a1cefea9a0226c:2025,0,0.35636
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_0c51d1fbe0ee55bf:2025,1,0.20559
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_0e49ee71300eea8e:2025,1,0.34417
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_102eed9ccb607e9b:2025,0,0.34514
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_12e3df52ad87a9d3:2025,1,0.39116
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_15008710f3f794f5:2025,0,0.28781
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_18d09a894dad9362:2025,1,0.35328
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_1a8127bf2ff01214:2025,0,0.76077
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_1b1bc3de2ec80794:2025,1,0.30915
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_1b71579b9480aa90:2025,0,0.22705
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_1c88282eed3fd0d6:2025,0,0.29786
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_1d8c1ebcb24998ee:2025,0,0.21828
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_1e3c7cf390e7487b:2025,0,0.14732
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_200f98b33cafd974:2025,0,0.18872
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_271f0a831b171770:2025,1,0.39770
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_281e5927b4e88030:2025,0,0.77007
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_2828eb57c13a3e3e:2025,0,0.72754
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_2829cbb634b809fd:2025,0,0.17739
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_2859dc6781af74db:2025,1,0.20932
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_29e219b883a8a76a:2025,0,0.45823
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_2df586f5fa1eabcc:2025,0,0.42841
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_310443f81b1ef774:2025,1,0.53378
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_33c86f52e8470392:2025,0,0.71047
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_354840ed151fd4b3:2025,1,0.35533
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_35b71861482dcb99:2025,0,0.69605
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_36d5a291d4ec20b0:2025,1,0.62130
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_379eb2cd018efd43:2025,0,0.17437
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_3ab6f01da2389ca9:2025,0,0.17611
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_3bbf8e5efcd1fd19:2025,0,0.14459
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_44639b2345bcfd85:2025,0,0.29687
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_466d5a7e76775475:2025,0,0.28008
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_4719ea3af999b9a2:2025,0,0.24321
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_475c94380329453d:2025,0,0.33347
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_48a3604d797a406f:2025,1,0.57054
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_4f6e0aea72720770:2025,1,0.49066
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_54881f31ad9e4837:2025,0,0.50811
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_565d0a017d7d74f1:2025,1,0.29986
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_5dca21be795d8cdc:2025,0,0.49928
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_62262ce7915b8abc:2025,0,0.41723
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_6419771c5ca8560d:2025,1,0.22067
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_6527939bb65ee635:2025,1,0.13634
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_67499c0074882abc:2025,0,0.31668
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_68e4ed0618d585a1:2025,0,0.19396
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_6a3c9c9a8750dfba:2025,0,0.14914
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_6be55b11e002a5af:2025,0,0.12297
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_6cfaa26064f44e0c:2025,0,0.40991
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_6e67362679e109df:2025,1,0.89200
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_6f9872f8baf6f1db:2025,0,0.57954
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_70e34c04ffa2232d:2025,0,0.33680
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_7273ae29b5662c32:2025,0,0.19496
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_73367da6ad9ee0cf:2025,0,0.72956
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_7433e945891b2e50:2025,0,0.51901
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_74d79c52a688b0d3:2025,1,0.39223
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_76582b2c38dca5ae:2025,0,0.76697
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_799a1c0e0925ba26:2025,1,0.16000
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_7fdbcbfe3511fb31:2025,0,0.22240
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_808762e773b97e04:2025,1,0.41421
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_82214bd538ce56db:2025,0,0.12650
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_8262e191f5d1605c:2025,1,0.41611
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_834e72517b239b6a:2025,0,0.24506
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_83b4c522a2f77128:2025,1,0.39051
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_8af86b2ec8986a32:2025,1,0.38613
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_8b9291b4fa084864:2025,0,0.33649
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_8ba68d919ff52f29:2025,0,0.23149
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_8e2bfc5ec208e772:2025,0,0.18657
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_950e5b991e672537:2025,1,0.39345
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_95cdd8d55afdf44b:2025,0,0.38613
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_9759ca4eded01b97:2025,0,0.33772
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_9a6f18ca22498549:2025,0,0.58778
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_9c2d63654c39add7:2025,0,0.27651
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_a02604b5498177c8:2025,0,0.34033
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_a454c529fb46dd75:2025,1,0.28364
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_a5431b4b2e3ef1c1:2025,1,0.35322
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_a5ded4ca1fb3ae54:2025,0,0.11070
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_a93eeaaaea194a71:2025,0,0.29333
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_ad9cf2f04fbda0a6:2025,0,0.30705
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_b1163ced88382877:2025,0,0.43660
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_b3518ddad5385d24:2025,0,0.58531
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_bb53fcc8aec1f370:2025,1,0.44131
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_c232e22026a723c6:2025,1,0.14208
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_c270dab149530597:2025,0,0.15011
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_c97f1a5b2e6d92e8:2025,1,0.21710
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_cd23c2d088481604:2025,0,0.47271
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_cee61e2f8d9dc944:2025,0,0.35664
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_cf1fd69ef6a13508:2025,0,0.32357
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_cff3cf183e7b7ceb:2025,0,0.61675
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_d113c1100ebb6fee:2025,1,0.31473
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_d3dfe9586404ae6e:2025,0,0.50707
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_d6cce56b49440874:2025,0,0.22067
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_d8023680fe707441:2025,0,0.70483
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_da76cfb7a7843dbc:2025,1,0.32435
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_ddaf9bb627a8994b:2025,0,0.27702
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_de452b0797cc7867:2025,1,0.18877
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_e0148cb8b723b841:2025,0,0.31742
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_e14840a916d3dd08:2025,1,0.30218
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_e46a6de87b7cbdd3:2025,0,0.27702
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_e5300ab1cbe74d41:2025,0,0.45428
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_e952f14ed506c36e:2025,0,0.21129
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_ed27583f1619b4d2:2025,0,0.17202
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_f15b5f97f3002eec:2025,0,0.52272
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_f25379ac6bd31f03:2025,0,0.41524
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_f28b558de9dd0238:2025,1,0.49531
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_f390c088ad196ede:2025,0,0.33198
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_f7da94641d66195c:2025,1,0.19586
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_f9d5d013c5fb114e:2025,1,0.38639
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_fa46eaa34d47bd0a:2025,0,0.19764
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_fd1e461fd84cdb08:2025,1,0.30662
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_ffb531a93b0ab216:2025,1,0.34680
+1 NYC only,Los Angeles,LGBM,osm_continuity_full_year:osm_fff19f94278a1930:2025,0,0.36545
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_0042918a23f7fc2b:2025,0,0.54101
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_0273e9f595c42c1b:2025,0,0.57769
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_030ee13dd0566375:2025,0,0.43137
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_0579579d6b85d3b4:2025,1,0.71909
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_06b2765bc4d545f8:2025,0,0.34834
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_0af15afeb11d9af8:2025,0,0.34131
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_0eae8a2a57abc7ba:2025,0,0.57667
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_0ef10b9fa456b713:2025,1,0.30055
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_0fc04a65ea817f2c:2025,1,0.50040
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_0fdbcb9131e7700b:2025,1,0.36089
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_10824324360873f1:2025,0,0.61232
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_117326c9f912257a:2025,0,0.61086
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_118262e5fbe880fc:2025,1,0.66566
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_128bebfe878393a5:2025,0,0.73757
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_1373be8a9a5bdf18:2025,0,0.41533
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_13b856119f24e4aa:2025,1,0.27011
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_1627930176b605fe:2025,0,0.46335
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_1963e34b60d701ae:2025,0,0.41775
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_1bb2e212de00f326:2025,1,0.50642
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_1c57d2928e8c202e:2025,1,0.45005
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_1d7c8d7c55ccfa05:2025,1,0.57015
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_1eb25a5cdc57b7c6:2025,0,0.30093
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_1efadd46f350448c:2025,0,0.36165
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_1f7004ecb59c4351:2025,0,0.51498
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_21166bfd67a31b71:2025,1,0.58423
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_217d94b2a10c4b9c:2025,0,0.34036
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_2184509d0ee7ba31:2025,1,0.45550
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_23ebf3474c01cf3f:2025,0,0.42731
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_2405ccc11c3cc718:2025,1,0.65258
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_24d693251aece468:2025,0,0.46919
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_260f0b2bf948f502:2025,1,0.46762
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_2a30bc909c4e1790:2025,0,0.47543
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_2b9de4bdda27fcf1:2025,0,0.41995
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_2c488cab4dbe1ff1:2025,1,0.52348
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_2e75852078bc26c0:2025,0,0.33030
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_2efdcb2ba9711a96:2025,0,0.36987
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_30a1771927f59d5f:2025,1,0.56477
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_31445e2098fd7c9a:2025,0,0.51228
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_32e5e406c426a10a:2025,0,0.40465
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_33c140c798f1455d:2025,1,0.47378
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_347e1033be38abcc:2025,0,0.68921
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_34f00f6eaae16eca:2025,1,0.56463
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_35b96ae6853258d4:2025,0,0.53899
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_3750d1178852f2e9:2025,0,0.32651
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_37e66580451a84f3:2025,0,0.54436
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_3da2c5e93e24a7ef:2025,1,0.75097
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_3dd9889f21d8882b:2025,0,0.64010
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_4056b038e33e225a:2025,1,0.38977
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_40c418b65f827c41:2025,1,0.57886
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_40d8b80e8907918c:2025,1,0.53492
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_42598feeb34b7496:2025,0,0.37697
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_448825fc55fb470e:2025,0,0.66591
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_4574ca3f30c8bf88:2025,0,0.53965
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_471d93cce4c9ef2c:2025,0,0.50982
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_48781874024a2c32:2025,1,0.43618
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_488e5a3f15fa4caf:2025,0,0.41009
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_48e0aca6ee2b2b14:2025,0,0.43969
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_49b3ae52c8d5e3f6:2025,1,0.37706
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_4bdbbaacc682c831:2025,0,0.25078
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_4eb185fdc766070c:2025,0,0.61973
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_5255911186a23be7:2025,0,0.53754
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_531ca2a4c0412406:2025,0,0.44416
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_5464a79bd0808d91:2025,0,0.30820
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_558d5a5033b940aa:2025,1,0.36479
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_56c793d320bb2329:2025,0,0.42273
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_5754718511708e62:2025,1,0.51516
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_579d376588bc0ff6:2025,0,0.42719
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_585d20725d248c56:2025,1,0.68471
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_5950f9edf3c1c7b9:2025,0,0.55100
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_5a7f3ff2cb843b9e:2025,1,0.49958
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_5ac2f8bc1d5bdbd2:2025,1,0.33765
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_5ad97427552aab25:2025,1,0.60041
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_5d997098e8a849f8:2025,1,0.64669
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_5e897eb5c2bc32bf:2025,0,0.40926
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_5f5b438986debefd:2025,0,0.42262
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_61f1ea97bbdbd534:2025,1,0.43827
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_62588e3aca13079f:2025,0,0.42994
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_62d6e81acfd19039:2025,0,0.46879
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_63165796cb2b087d:2025,1,0.55985
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_63b3a16f78100906:2025,0,0.41514
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_64e81f97439ee7c5:2025,0,0.41560
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_666d95a2f733813b:2025,1,0.64290
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_671e1620241f2227:2025,1,0.44432
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_6726d7c226bc4959:2025,0,0.72171
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_67e8ba1ec98e94e5:2025,0,0.61493
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_6896354e7a7dfac5:2025,0,0.37466
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_6ba601d50b617a51:2025,0,0.46265
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_6f264e3e31046cd5:2025,1,0.64567
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_6fbab9da0646a9d3:2025,0,0.62961
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_709750e3f95e741b:2025,0,0.69556
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_71fd413077c59ee5:2025,1,0.57704
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_72da7413733bf668:2025,1,0.39577
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_736e689ecbd2d330:2025,1,0.72325
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_74b5665b3882b1fa:2025,0,0.49541
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_74c4c76d2126edf4:2025,1,0.50685
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_7719adc20bf3125f:2025,0,0.65693
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_78412d3c67f57df1:2025,0,0.42990
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_78e2d5c47d989c2f:2025,0,0.49462
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_7938c037e2bac104:2025,1,0.49976
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_79a68ba2d57a0d3c:2025,1,0.36941
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_79b5590edc878ed6:2025,0,0.31388
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_7a230f19462886b4:2025,1,0.59589
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_7a8c04750e107523:2025,0,0.55780
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_7af592c81cedc301:2025,0,0.44768
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_7c2af236d1296558:2025,0,0.44517
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_7ca2ed34bc91aa78:2025,0,0.38750
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_7d55d14fa2a4cad0:2025,1,0.65664
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_7debc7557c2bc438:2025,1,0.66671
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_7f7377fdb24a8e5d:2025,1,0.24273
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_829b95d419142626:2025,0,0.59746
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_83464e135e9935d2:2025,1,0.34305
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_8536ac0c5aef4268:2025,1,0.44137
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_85c465ac4502525f:2025,0,0.56883
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_86b99cd975326db3:2025,0,0.43853
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_86e2f7a9601c740c:2025,0,0.44131
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_871dc0151a6eeddf:2025,1,0.56292
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_88c554286bed2f27:2025,0,0.46254
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_88da1fa17f2b79b5:2025,1,0.37723
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_88f3d6d96c109fed:2025,0,0.33394
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_8996fc95dc822cf8:2025,0,0.32133
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_89a4393397d6bd5b:2025,0,0.45078
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_8eb2b6a10e207be0:2025,1,0.76054
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_900eb9dbcd4213ce:2025,0,0.53507
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_906ea1a8cb8329ea:2025,1,0.67063
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_9359723db7957047:2025,0,0.58498
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_93f82999b5286085:2025,0,0.65791
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_9571b8bb53bfd2de:2025,1,0.56533
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_95f18993deb26d79:2025,0,0.48014
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_96051458d43d2b32:2025,1,0.42333
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_96653e5c67e0822e:2025,1,0.28052
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_985705c0fea51d27:2025,0,0.36602
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_99442118470e983b:2025,0,0.62012
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_9a6b0f996d6d0418:2025,0,0.33069
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_9d8fb01338e09908:2025,1,0.51947
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_9d9e79c8cd623cca:2025,0,0.49334
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_9dab24349570fc70:2025,0,0.40193
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_9dc0d3f887ef3f93:2025,1,0.55305
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_9df79b6aee608294:2025,0,0.43172
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_a0047c394144aa4f:2025,1,0.28047
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_a1712288a56f6fe3:2025,1,0.40984
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_a2378da131021580:2025,0,0.34162
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_a4bff05f91b67ea9:2025,0,0.62680
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_a6922f08bfa4678f:2025,1,0.50898
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_a7bcce196f9518e6:2025,0,0.38946
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_a90ad56fde6c3b4b:2025,0,0.30065
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_aa6f2524c6afcaca:2025,0,0.36919
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_aab4319274d92696:2025,0,0.36971
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_ac778fb1a62cc6d1:2025,0,0.59898
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_ac96c07b5e242ccb:2025,1,0.39298
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_ae0708d52370fd18:2025,0,0.54432
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_ae4f39bec82bc9a4:2025,1,0.45242
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_aea714a3fc5e1e67:2025,0,0.54946
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_af2621eae2eda7ce:2025,0,0.24817
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_b378b264e62d95dc:2025,0,0.52164
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_b46ca4add9f7dc30:2025,1,0.81583
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_b700d718b027d39e:2025,1,0.48193
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_b87ede939cffee14:2025,0,0.31871
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_b929e111cf7ddf70:2025,0,0.46160
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_bb73da3ffb03bb47:2025,0,0.64468
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_bcc976188398dd82:2025,1,0.54505
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_bd14292f6c22e564:2025,1,0.64910
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_bf8c04247f4b24bf:2025,0,0.55393
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_c045426365566bf6:2025,0,0.54334
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_c124d716be241231:2025,1,0.39416
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_c38f81acb11e3569:2025,1,0.37475
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_c4cd542f853746be:2025,0,0.35357
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_c642fb08f9c67899:2025,0,0.35442
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_c917873afcd5784d:2025,1,0.34001
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_cd530e351ee1a911:2025,0,0.59335
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_ce10825ab7654fcf:2025,0,0.44144
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_d110cd4328ebb78b:2025,0,0.45801
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_d15bdfb2d5fe9cfb:2025,1,0.72617
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_d1adb74cb968c7e7:2025,1,0.56586
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_d30d1da7f8bfad1c:2025,0,0.31269
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_d4f3f2c8afa98ff8:2025,1,0.51592
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_d57e5ca7d05d8de6:2025,1,0.56549
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_d593cb81614b34f2:2025,1,0.55038
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_d6208d58b94c989f:2025,1,0.63359
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_d65f8a1760c60212:2025,1,0.68820
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_d9d1adca19aa75d1:2025,0,0.40736
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_db5936fe6e0085d8:2025,0,0.49414
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_de189b655677e1f9:2025,0,0.62217
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_debeebd889c60e49:2025,1,0.65432
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_df5f62627c358805:2025,1,0.57580
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_e1a6aadff9187e05:2025,0,0.38368
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_e1aa8fffd32f75b8:2025,0,0.38813
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_e1b0b641b06baa23:2025,0,0.33219
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_e8b3bf21e6e76b30:2025,0,0.45548
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_e926a9a02c6273b8:2025,0,0.28396
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_ecfeb2b83ad013af:2025,0,0.39760
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_ed37ce438f6c7edc:2025,0,0.76070
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_ed6f9967b419a6b0:2025,1,0.62147
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_ed7587bd129bd2ee:2025,0,0.27430
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_ef2b63c21eaba141:2025,0,0.42495
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_efd168999d5ed5bb:2025,1,0.30896
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_f116e4d438af5efc:2025,0,0.37825
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_f1d0a96612692c96:2025,0,0.23434
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_f23ee26f23d314c8:2025,0,0.32842
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_f25288e6b3e3aa05:2025,1,0.45519
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_f2e9f3a62b369c6c:2025,1,0.47151
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_f49cb3dc8e20b2f7:2025,0,0.40656
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_f49d2430d12c4a49:2025,0,0.39031
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_f5513e6b0a633c4f:2025,0,0.38998
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_f5882e14ad0affeb:2025,0,0.65104
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_f5b3429d04e3f7cb:2025,1,0.56817
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_f5b77208a9c7a43e:2025,1,0.66236
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_fa7292efd692efca:2025,0,0.50343
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_fbb7357c73dc6d65:2025,1,0.62118
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_fd8388a5094f88cc:2025,0,0.39257
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_fdede13422287015:2025,1,0.58122
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_fe3b6a048eeac68d:2025,1,0.44124
+1 NYC only,Chicago,LR,osm_continuity_full_year:osm_fefc7ff5e1831c8e:2025,1,0.64918
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_014bade356de8576:2025,0,0.41224
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_03259db495571d8f:2025,0,0.50419
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_03dab16097ee4d1e:2025,0,0.26726
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_07a1cefea9a0226c:2025,0,0.41334
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_0c51d1fbe0ee55bf:2025,1,0.50492
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_0e49ee71300eea8e:2025,1,0.37909
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_102eed9ccb607e9b:2025,0,0.43599
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_12e3df52ad87a9d3:2025,1,0.30736
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_15008710f3f794f5:2025,0,0.39096
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_18d09a894dad9362:2025,1,0.37626
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_1a8127bf2ff01214:2025,0,0.68898
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_1b1bc3de2ec80794:2025,1,0.33940
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_1b71579b9480aa90:2025,0,0.33394
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_1c88282eed3fd0d6:2025,0,0.22225
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_1d8c1ebcb24998ee:2025,0,0.31974
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_1e3c7cf390e7487b:2025,0,0.16265
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_200f98b33cafd974:2025,0,0.29662
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_271f0a831b171770:2025,1,0.47669
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_281e5927b4e88030:2025,0,0.62851
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_2828eb57c13a3e3e:2025,0,0.54708
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_2829cbb634b809fd:2025,0,0.46771
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_2859dc6781af74db:2025,1,0.45927
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_29e219b883a8a76a:2025,0,0.47975
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_2df586f5fa1eabcc:2025,0,0.63464
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_310443f81b1ef774:2025,1,0.62179
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_33c86f52e8470392:2025,0,0.53027
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_354840ed151fd4b3:2025,1,0.42811
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_35b71861482dcb99:2025,0,0.57517
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_36d5a291d4ec20b0:2025,1,0.61920
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_379eb2cd018efd43:2025,0,0.25586
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_3ab6f01da2389ca9:2025,0,0.39947
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_3bbf8e5efcd1fd19:2025,0,0.40960
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_44639b2345bcfd85:2025,0,0.25394
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_466d5a7e76775475:2025,0,0.42755
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_4719ea3af999b9a2:2025,0,0.33706
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_475c94380329453d:2025,0,0.40315
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_48a3604d797a406f:2025,1,0.62983
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_4f6e0aea72720770:2025,1,0.41479
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_54881f31ad9e4837:2025,0,0.57968
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_565d0a017d7d74f1:2025,1,0.38937
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_5dca21be795d8cdc:2025,0,0.27858
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_62262ce7915b8abc:2025,0,0.54997
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_6419771c5ca8560d:2025,1,0.29647
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_6527939bb65ee635:2025,1,0.34727
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_67499c0074882abc:2025,0,0.24260
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_68e4ed0618d585a1:2025,0,0.40612
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_6a3c9c9a8750dfba:2025,0,0.32121
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_6be55b11e002a5af:2025,0,0.25878
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_6cfaa26064f44e0c:2025,0,0.29744
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_6e67362679e109df:2025,1,0.62211
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_6f9872f8baf6f1db:2025,0,0.38249
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_70e34c04ffa2232d:2025,0,0.41531
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_7273ae29b5662c32:2025,0,0.50819
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_73367da6ad9ee0cf:2025,0,0.58975
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_7433e945891b2e50:2025,0,0.49025
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_74d79c52a688b0d3:2025,1,0.42177
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_76582b2c38dca5ae:2025,0,0.71802
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_799a1c0e0925ba26:2025,1,0.31675
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_7fdbcbfe3511fb31:2025,0,0.43385
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_808762e773b97e04:2025,1,0.40050
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_82214bd538ce56db:2025,0,0.44417
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_8262e191f5d1605c:2025,1,0.35051
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_834e72517b239b6a:2025,0,0.23187
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_83b4c522a2f77128:2025,1,0.44633
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_8af86b2ec8986a32:2025,1,0.27749
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_8b9291b4fa084864:2025,0,0.32203
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_8ba68d919ff52f29:2025,0,0.38786
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_8e2bfc5ec208e772:2025,0,0.34011
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_950e5b991e672537:2025,1,0.43040
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_95cdd8d55afdf44b:2025,0,0.27762
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_9759ca4eded01b97:2025,0,0.44897
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_9a6f18ca22498549:2025,0,0.40917
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_9c2d63654c39add7:2025,0,0.30704
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_a02604b5498177c8:2025,0,0.31815
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_a454c529fb46dd75:2025,1,0.32458
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_a5431b4b2e3ef1c1:2025,1,0.56428
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_a5ded4ca1fb3ae54:2025,0,0.20559
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_a93eeaaaea194a71:2025,0,0.21415
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_ad9cf2f04fbda0a6:2025,0,0.42135
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_b1163ced88382877:2025,0,0.54255
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_b3518ddad5385d24:2025,0,0.40651
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_bb53fcc8aec1f370:2025,1,0.66662
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_c232e22026a723c6:2025,1,0.31682
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_c270dab149530597:2025,0,0.42367
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_c97f1a5b2e6d92e8:2025,1,0.44654
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_cd23c2d088481604:2025,0,0.49580
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_cee61e2f8d9dc944:2025,0,0.27749
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_cf1fd69ef6a13508:2025,0,0.55140
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_cff3cf183e7b7ceb:2025,0,0.42158
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_d113c1100ebb6fee:2025,1,0.61994
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_d3dfe9586404ae6e:2025,0,0.51087
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_d6cce56b49440874:2025,0,0.29786
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_d8023680fe707441:2025,0,0.53359
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_da76cfb7a7843dbc:2025,1,0.45451
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_ddaf9bb627a8994b:2025,0,0.33662
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_de452b0797cc7867:2025,1,0.27387
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_e0148cb8b723b841:2025,0,0.21933
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_e14840a916d3dd08:2025,1,0.43252
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_e46a6de87b7cbdd3:2025,0,0.33837
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_e5300ab1cbe74d41:2025,0,0.35674
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_e952f14ed506c36e:2025,0,0.46718
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_ed27583f1619b4d2:2025,0,0.25788
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_f15b5f97f3002eec:2025,0,0.55525
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_f25379ac6bd31f03:2025,0,0.42380
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_f28b558de9dd0238:2025,1,0.63329
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_f390c088ad196ede:2025,0,0.35611
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_f7da94641d66195c:2025,1,0.34525
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_f9d5d013c5fb114e:2025,1,0.51404
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_fa46eaa34d47bd0a:2025,0,0.22546
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_fd1e461fd84cdb08:2025,1,0.49834
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_ffb531a93b0ab216:2025,1,0.33738
+1 NYC only,Los Angeles,LR,osm_continuity_full_year:osm_fff19f94278a1930:2025,0,0.38101
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_0042918a23f7fc2b:2025,0,0.53996
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_0273e9f595c42c1b:2025,0,0.53446
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_030ee13dd0566375:2025,0,0.32696
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_0579579d6b85d3b4:2025,1,0.84452
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_06b2765bc4d545f8:2025,0,0.40278
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_0af15afeb11d9af8:2025,0,0.44411
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_0eae8a2a57abc7ba:2025,0,0.48220
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_0ef10b9fa456b713:2025,1,0.46570
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_0fc04a65ea817f2c:2025,1,0.42417
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_0fdbcb9131e7700b:2025,1,0.38182
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_10824324360873f1:2025,0,0.44090
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_117326c9f912257a:2025,0,0.56110
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_118262e5fbe880fc:2025,1,0.68820
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_128bebfe878393a5:2025,0,0.87174
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_1373be8a9a5bdf18:2025,0,0.57922
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_13b856119f24e4aa:2025,1,0.37033
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_1627930176b605fe:2025,0,0.38704
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_1963e34b60d701ae:2025,0,0.24919
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_1bb2e212de00f326:2025,1,0.51222
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_1c57d2928e8c202e:2025,1,0.28306
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_1d7c8d7c55ccfa05:2025,1,0.53086
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_1eb25a5cdc57b7c6:2025,0,0.26971
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_1efadd46f350448c:2025,0,0.30274
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_1f7004ecb59c4351:2025,0,0.48567
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_21166bfd67a31b71:2025,1,0.56388
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_217d94b2a10c4b9c:2025,0,0.44438
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_2184509d0ee7ba31:2025,1,0.40537
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_23ebf3474c01cf3f:2025,0,0.33129
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_2405ccc11c3cc718:2025,1,0.74623
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_24d693251aece468:2025,0,0.51542
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_260f0b2bf948f502:2025,1,0.43706
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_2a30bc909c4e1790:2025,0,0.33253
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_2b9de4bdda27fcf1:2025,0,0.46447
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_2c488cab4dbe1ff1:2025,1,0.47123
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_2e75852078bc26c0:2025,0,0.28632
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_2efdcb2ba9711a96:2025,0,0.41351
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_30a1771927f59d5f:2025,1,0.48768
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_31445e2098fd7c9a:2025,0,0.43095
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_32e5e406c426a10a:2025,0,0.40184
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_33c140c798f1455d:2025,1,0.45271
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_347e1033be38abcc:2025,0,0.69964
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_34f00f6eaae16eca:2025,1,0.49593
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_35b96ae6853258d4:2025,0,0.66362
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_3750d1178852f2e9:2025,0,0.28605
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_37e66580451a84f3:2025,0,0.49851
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_3da2c5e93e24a7ef:2025,1,0.83889
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_3dd9889f21d8882b:2025,0,0.66938
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_4056b038e33e225a:2025,1,0.27766
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_40c418b65f827c41:2025,1,0.77382
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_40d8b80e8907918c:2025,1,0.51872
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_42598feeb34b7496:2025,0,0.31401
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_448825fc55fb470e:2025,0,0.71624
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_4574ca3f30c8bf88:2025,0,0.48803
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_471d93cce4c9ef2c:2025,0,0.54091
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_48781874024a2c32:2025,1,0.34723
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_488e5a3f15fa4caf:2025,0,0.44897
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_48e0aca6ee2b2b14:2025,0,0.48656
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_49b3ae52c8d5e3f6:2025,1,0.52694
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_4bdbbaacc682c831:2025,0,0.22774
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_4eb185fdc766070c:2025,0,0.62029
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_5255911186a23be7:2025,0,0.41087
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_531ca2a4c0412406:2025,0,0.45903
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_5464a79bd0808d91:2025,0,0.31275
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_558d5a5033b940aa:2025,1,0.35387
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_56c793d320bb2329:2025,0,0.23600
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_5754718511708e62:2025,1,0.59378
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_579d376588bc0ff6:2025,0,0.39209
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_585d20725d248c56:2025,1,0.80100
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_5950f9edf3c1c7b9:2025,0,0.38449
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_5a7f3ff2cb843b9e:2025,1,0.42136
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_5ac2f8bc1d5bdbd2:2025,1,0.28346
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_5ad97427552aab25:2025,1,0.48852
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_5d997098e8a849f8:2025,1,0.71161
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_5e897eb5c2bc32bf:2025,0,0.29966
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_5f5b438986debefd:2025,0,0.44721
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_61f1ea97bbdbd534:2025,1,0.45212
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_62588e3aca13079f:2025,0,0.30191
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_62d6e81acfd19039:2025,0,0.44651
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_63165796cb2b087d:2025,1,0.47588
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_63b3a16f78100906:2025,0,0.38119
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_64e81f97439ee7c5:2025,0,0.54941
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_666d95a2f733813b:2025,1,0.57639
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_671e1620241f2227:2025,1,0.37127
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_6726d7c226bc4959:2025,0,0.76880
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_67e8ba1ec98e94e5:2025,0,0.73716
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_6896354e7a7dfac5:2025,0,0.38062
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_6ba601d50b617a51:2025,0,0.31828
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_6f264e3e31046cd5:2025,1,0.62634
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_6fbab9da0646a9d3:2025,0,0.61480
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_709750e3f95e741b:2025,0,0.82465
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_71fd413077c59ee5:2025,1,0.52669
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_72da7413733bf668:2025,1,0.35716
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_736e689ecbd2d330:2025,1,0.88114
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_74b5665b3882b1fa:2025,0,0.45226
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_74c4c76d2126edf4:2025,1,0.68514
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_7719adc20bf3125f:2025,0,0.75314
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_78412d3c67f57df1:2025,0,0.44861
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_78e2d5c47d989c2f:2025,0,0.32510
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_7938c037e2bac104:2025,1,0.50844
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_79a68ba2d57a0d3c:2025,1,0.23888
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_79b5590edc878ed6:2025,0,0.28113
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_7a230f19462886b4:2025,1,0.40495
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_7a8c04750e107523:2025,0,0.59268
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_7af592c81cedc301:2025,0,0.38762
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_7c2af236d1296558:2025,0,0.40968
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_7ca2ed34bc91aa78:2025,0,0.52512
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_7d55d14fa2a4cad0:2025,1,0.75271
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_7debc7557c2bc438:2025,1,0.81651
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_7f7377fdb24a8e5d:2025,1,0.24718
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_829b95d419142626:2025,0,0.75784
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_83464e135e9935d2:2025,1,0.24032
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_8536ac0c5aef4268:2025,1,0.28445
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_85c465ac4502525f:2025,0,0.73651
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_86b99cd975326db3:2025,0,0.32079
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_86e2f7a9601c740c:2025,0,0.27159
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_871dc0151a6eeddf:2025,1,0.63706
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_88c554286bed2f27:2025,0,0.35095
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_88da1fa17f2b79b5:2025,1,0.43092
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_88f3d6d96c109fed:2025,0,0.41360
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_8996fc95dc822cf8:2025,0,0.33250
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_89a4393397d6bd5b:2025,0,0.38310
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_8eb2b6a10e207be0:2025,1,0.89792
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_900eb9dbcd4213ce:2025,0,0.53001
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_906ea1a8cb8329ea:2025,1,0.68600
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_9359723db7957047:2025,0,0.55509
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_93f82999b5286085:2025,0,0.70088
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_9571b8bb53bfd2de:2025,1,0.37524
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_95f18993deb26d79:2025,0,0.49363
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_96051458d43d2b32:2025,1,0.30024
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_96653e5c67e0822e:2025,1,0.34300
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_985705c0fea51d27:2025,0,0.27550
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_99442118470e983b:2025,0,0.68895
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_9a6b0f996d6d0418:2025,0,0.43171
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_9d8fb01338e09908:2025,1,0.49145
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_9d9e79c8cd623cca:2025,0,0.66862
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_9dab24349570fc70:2025,0,0.32032
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_9dc0d3f887ef3f93:2025,1,0.32160
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_9df79b6aee608294:2025,0,0.30435
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_a0047c394144aa4f:2025,1,0.26193
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_a1712288a56f6fe3:2025,1,0.28561
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_a2378da131021580:2025,0,0.38136
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_a4bff05f91b67ea9:2025,0,0.64341
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_a6922f08bfa4678f:2025,1,0.37154
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_a7bcce196f9518e6:2025,0,0.33691
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_a90ad56fde6c3b4b:2025,0,0.24525
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_aa6f2524c6afcaca:2025,0,0.45349
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_aab4319274d92696:2025,0,0.29062
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_ac778fb1a62cc6d1:2025,0,0.71121
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_ac96c07b5e242ccb:2025,1,0.34829
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_ae0708d52370fd18:2025,0,0.44396
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_ae4f39bec82bc9a4:2025,1,0.31887
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_aea714a3fc5e1e67:2025,0,0.72656
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_af2621eae2eda7ce:2025,0,0.33199
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_b378b264e62d95dc:2025,0,0.47261
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_b46ca4add9f7dc30:2025,1,0.88393
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_b700d718b027d39e:2025,1,0.52321
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_b87ede939cffee14:2025,0,0.33714
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_b929e111cf7ddf70:2025,0,0.27414
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_bb73da3ffb03bb47:2025,0,0.81267
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_bcc976188398dd82:2025,1,0.64999
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_bd14292f6c22e564:2025,1,0.67811
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_bf8c04247f4b24bf:2025,0,0.54854
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_c045426365566bf6:2025,0,0.49064
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_c124d716be241231:2025,1,0.27427
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_c38f81acb11e3569:2025,1,0.31317
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_c4cd542f853746be:2025,0,0.38893
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_c642fb08f9c67899:2025,0,0.32538
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_c917873afcd5784d:2025,1,0.31923
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_cd530e351ee1a911:2025,0,0.48573
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_ce10825ab7654fcf:2025,0,0.36482
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_d110cd4328ebb78b:2025,0,0.35108
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_d15bdfb2d5fe9cfb:2025,1,0.73058
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_d1adb74cb968c7e7:2025,1,0.47822
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_d30d1da7f8bfad1c:2025,0,0.34312
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_d4f3f2c8afa98ff8:2025,1,0.30798
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_d57e5ca7d05d8de6:2025,1,0.63637
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_d593cb81614b34f2:2025,1,0.54390
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_d6208d58b94c989f:2025,1,0.59927
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_d65f8a1760c60212:2025,1,0.68259
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_d9d1adca19aa75d1:2025,0,0.24318
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_db5936fe6e0085d8:2025,0,0.69955
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_de189b655677e1f9:2025,0,0.61658
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_debeebd889c60e49:2025,1,0.76430
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_df5f62627c358805:2025,1,0.56152
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_e1a6aadff9187e05:2025,0,0.32459
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_e1aa8fffd32f75b8:2025,0,0.25014
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_e1b0b641b06baa23:2025,0,0.27008
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_e8b3bf21e6e76b30:2025,0,0.54468
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_e926a9a02c6273b8:2025,0,0.37590
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_ecfeb2b83ad013af:2025,0,0.39459
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_ed37ce438f6c7edc:2025,0,0.79002
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_ed6f9967b419a6b0:2025,1,0.54192
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_ed7587bd129bd2ee:2025,0,0.31338
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_ef2b63c21eaba141:2025,0,0.46804
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_efd168999d5ed5bb:2025,1,0.25818
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_f116e4d438af5efc:2025,0,0.28203
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_f1d0a96612692c96:2025,0,0.29209
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_f23ee26f23d314c8:2025,0,0.35194
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_f25288e6b3e3aa05:2025,1,0.32290
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_f2e9f3a62b369c6c:2025,1,0.36124
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_f49cb3dc8e20b2f7:2025,0,0.38754
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_f49d2430d12c4a49:2025,0,0.32556
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_f5513e6b0a633c4f:2025,0,0.35761
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_f5882e14ad0affeb:2025,0,0.61365
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_f5b3429d04e3f7cb:2025,1,0.76155
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_f5b77208a9c7a43e:2025,1,0.78214
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_fa7292efd692efca:2025,0,0.43038
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_fbb7357c73dc6d65:2025,1,0.42599
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_fd8388a5094f88cc:2025,0,0.29347
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_fdede13422287015:2025,1,0.58750
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_fe3b6a048eeac68d:2025,1,0.33303
+2 draw-averaged,Chicago,LGBM,osm_continuity_full_year:osm_fefc7ff5e1831c8e:2025,1,0.64123
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_0042918a23f7fc2b:2025,0,0.54959
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_0273e9f595c42c1b:2025,0,0.58059
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_030ee13dd0566375:2025,0,0.44086
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_0579579d6b85d3b4:2025,1,0.71673
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_06b2765bc4d545f8:2025,0,0.35825
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_0af15afeb11d9af8:2025,0,0.35398
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_0eae8a2a57abc7ba:2025,0,0.57196
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_0ef10b9fa456b713:2025,1,0.31846
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_0fc04a65ea817f2c:2025,1,0.51102
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_0fdbcb9131e7700b:2025,1,0.37126
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_10824324360873f1:2025,0,0.60792
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_117326c9f912257a:2025,0,0.60979
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_118262e5fbe880fc:2025,1,0.66831
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_128bebfe878393a5:2025,0,0.74080
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_1373be8a9a5bdf18:2025,0,0.43513
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_13b856119f24e4aa:2025,1,0.29132
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_1627930176b605fe:2025,0,0.46343
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_1963e34b60d701ae:2025,0,0.43054
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_1bb2e212de00f326:2025,1,0.50623
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_1c57d2928e8c202e:2025,1,0.45739
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_1d7c8d7c55ccfa05:2025,1,0.57431
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_1eb25a5cdc57b7c6:2025,0,0.30512
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_1efadd46f350448c:2025,0,0.38051
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_1f7004ecb59c4351:2025,0,0.51906
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_21166bfd67a31b71:2025,1,0.59707
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_217d94b2a10c4b9c:2025,0,0.36493
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_2184509d0ee7ba31:2025,1,0.46419
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_23ebf3474c01cf3f:2025,0,0.43944
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_2405ccc11c3cc718:2025,1,0.65185
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_24d693251aece468:2025,0,0.48604
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_260f0b2bf948f502:2025,1,0.46336
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_2a30bc909c4e1790:2025,0,0.47940
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_2b9de4bdda27fcf1:2025,0,0.42473
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_2c488cab4dbe1ff1:2025,1,0.52084
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_2e75852078bc26c0:2025,0,0.32887
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_2efdcb2ba9711a96:2025,0,0.37817
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_30a1771927f59d5f:2025,1,0.56543
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_31445e2098fd7c9a:2025,0,0.52116
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_32e5e406c426a10a:2025,0,0.42306
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_33c140c798f1455d:2025,1,0.48422
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_347e1033be38abcc:2025,0,0.68609
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_34f00f6eaae16eca:2025,1,0.56980
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_35b96ae6853258d4:2025,0,0.56141
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_3750d1178852f2e9:2025,0,0.33542
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_37e66580451a84f3:2025,0,0.54994
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_3da2c5e93e24a7ef:2025,1,0.75366
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_3dd9889f21d8882b:2025,0,0.63661
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_4056b038e33e225a:2025,1,0.39531
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_40c418b65f827c41:2025,1,0.59068
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_40d8b80e8907918c:2025,1,0.54889
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_42598feeb34b7496:2025,0,0.38999
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_448825fc55fb470e:2025,0,0.65798
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_4574ca3f30c8bf88:2025,0,0.53698
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_471d93cce4c9ef2c:2025,0,0.50554
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_48781874024a2c32:2025,1,0.44457
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_488e5a3f15fa4caf:2025,0,0.42309
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_48e0aca6ee2b2b14:2025,0,0.44590
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_49b3ae52c8d5e3f6:2025,1,0.38368
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_4bdbbaacc682c831:2025,0,0.25874
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_4eb185fdc766070c:2025,0,0.61698
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_5255911186a23be7:2025,0,0.54543
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_531ca2a4c0412406:2025,0,0.45089
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_5464a79bd0808d91:2025,0,0.30941
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_558d5a5033b940aa:2025,1,0.36895
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_56c793d320bb2329:2025,0,0.43019
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_5754718511708e62:2025,1,0.52308
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_579d376588bc0ff6:2025,0,0.43253
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_585d20725d248c56:2025,1,0.68087
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_5950f9edf3c1c7b9:2025,0,0.55838
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_5a7f3ff2cb843b9e:2025,1,0.50156
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_5ac2f8bc1d5bdbd2:2025,1,0.34932
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_5ad97427552aab25:2025,1,0.60315
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_5d997098e8a849f8:2025,1,0.64984
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_5e897eb5c2bc32bf:2025,0,0.42079
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_5f5b438986debefd:2025,0,0.44259
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_61f1ea97bbdbd534:2025,1,0.45744
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_62588e3aca13079f:2025,0,0.42888
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_62d6e81acfd19039:2025,0,0.48077
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_63165796cb2b087d:2025,1,0.57181
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_63b3a16f78100906:2025,0,0.43231
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_64e81f97439ee7c5:2025,0,0.42086
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_666d95a2f733813b:2025,1,0.64063
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_671e1620241f2227:2025,1,0.45492
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_6726d7c226bc4959:2025,0,0.71583
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_67e8ba1ec98e94e5:2025,0,0.61523
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_6896354e7a7dfac5:2025,0,0.39088
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_6ba601d50b617a51:2025,0,0.46316
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_6f264e3e31046cd5:2025,1,0.65780
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_6fbab9da0646a9d3:2025,0,0.62758
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_709750e3f95e741b:2025,0,0.68960
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_71fd413077c59ee5:2025,1,0.58592
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_72da7413733bf668:2025,1,0.40419
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_736e689ecbd2d330:2025,1,0.72078
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_74b5665b3882b1fa:2025,0,0.50036
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_74c4c76d2126edf4:2025,1,0.51585
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_7719adc20bf3125f:2025,0,0.65200
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_78412d3c67f57df1:2025,0,0.44189
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_78e2d5c47d989c2f:2025,0,0.49908
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_7938c037e2bac104:2025,1,0.51256
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_79a68ba2d57a0d3c:2025,1,0.37173
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_79b5590edc878ed6:2025,0,0.33480
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_7a230f19462886b4:2025,1,0.59827
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_7a8c04750e107523:2025,0,0.56014
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_7af592c81cedc301:2025,0,0.46689
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_7c2af236d1296558:2025,0,0.44828
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_7ca2ed34bc91aa78:2025,0,0.40608
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_7d55d14fa2a4cad0:2025,1,0.66511
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_7debc7557c2bc438:2025,1,0.66684
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_7f7377fdb24a8e5d:2025,1,0.25258
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_829b95d419142626:2025,0,0.59590
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_83464e135e9935d2:2025,1,0.34242
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_8536ac0c5aef4268:2025,1,0.44600
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_85c465ac4502525f:2025,0,0.58496
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_86b99cd975326db3:2025,0,0.44536
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_86e2f7a9601c740c:2025,0,0.45272
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_871dc0151a6eeddf:2025,1,0.56662
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_88c554286bed2f27:2025,0,0.47363
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_88da1fa17f2b79b5:2025,1,0.38229
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_88f3d6d96c109fed:2025,0,0.35041
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_8996fc95dc822cf8:2025,0,0.33156
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_89a4393397d6bd5b:2025,0,0.46125
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_8eb2b6a10e207be0:2025,1,0.76146
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_900eb9dbcd4213ce:2025,0,0.55636
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_906ea1a8cb8329ea:2025,1,0.67181
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_9359723db7957047:2025,0,0.59065
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_93f82999b5286085:2025,0,0.65858
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_9571b8bb53bfd2de:2025,1,0.56796
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_95f18993deb26d79:2025,0,0.48412
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_96051458d43d2b32:2025,1,0.43975
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_96653e5c67e0822e:2025,1,0.28543
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_985705c0fea51d27:2025,0,0.37645
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_99442118470e983b:2025,0,0.62757
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_9a6b0f996d6d0418:2025,0,0.36229
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_9d8fb01338e09908:2025,1,0.52474
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_9d9e79c8cd623cca:2025,0,0.49626
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_9dab24349570fc70:2025,0,0.40768
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_9dc0d3f887ef3f93:2025,1,0.55053
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_9df79b6aee608294:2025,0,0.44419
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_a0047c394144aa4f:2025,1,0.29821
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_a1712288a56f6fe3:2025,1,0.41184
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_a2378da131021580:2025,0,0.36416
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_a4bff05f91b67ea9:2025,0,0.62442
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_a6922f08bfa4678f:2025,1,0.53151
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_a7bcce196f9518e6:2025,0,0.39474
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_a90ad56fde6c3b4b:2025,0,0.30079
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_aa6f2524c6afcaca:2025,0,0.38027
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_aab4319274d92696:2025,0,0.38688
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_ac778fb1a62cc6d1:2025,0,0.61113
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_ac96c07b5e242ccb:2025,1,0.40956
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_ae0708d52370fd18:2025,0,0.54277
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_ae4f39bec82bc9a4:2025,1,0.45890
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_aea714a3fc5e1e67:2025,0,0.56610
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_af2621eae2eda7ce:2025,0,0.25400
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_b378b264e62d95dc:2025,0,0.52409
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_b46ca4add9f7dc30:2025,1,0.81659
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_b700d718b027d39e:2025,1,0.48866
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_b87ede939cffee14:2025,0,0.33289
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_b929e111cf7ddf70:2025,0,0.45790
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_bb73da3ffb03bb47:2025,0,0.64428
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_bcc976188398dd82:2025,1,0.56671
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_bd14292f6c22e564:2025,1,0.64429
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_bf8c04247f4b24bf:2025,0,0.57428
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_c045426365566bf6:2025,0,0.56650
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_c124d716be241231:2025,1,0.40133
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_c38f81acb11e3569:2025,1,0.38036
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_c4cd542f853746be:2025,0,0.36023
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_c642fb08f9c67899:2025,0,0.35958
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_c917873afcd5784d:2025,1,0.34119
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_cd530e351ee1a911:2025,0,0.59617
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_ce10825ab7654fcf:2025,0,0.46452
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_d110cd4328ebb78b:2025,0,0.46939
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_d15bdfb2d5fe9cfb:2025,1,0.72801
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_d1adb74cb968c7e7:2025,1,0.57487
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_d30d1da7f8bfad1c:2025,0,0.32812
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_d4f3f2c8afa98ff8:2025,1,0.53176
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_d57e5ca7d05d8de6:2025,1,0.56894
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_d593cb81614b34f2:2025,1,0.55963
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_d6208d58b94c989f:2025,1,0.62860
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_d65f8a1760c60212:2025,1,0.68448
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_d9d1adca19aa75d1:2025,0,0.41905
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_db5936fe6e0085d8:2025,0,0.50647
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_de189b655677e1f9:2025,0,0.62164
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_debeebd889c60e49:2025,1,0.64719
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_df5f62627c358805:2025,1,0.56854
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_e1a6aadff9187e05:2025,0,0.40209
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_e1aa8fffd32f75b8:2025,0,0.39641
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_e1b0b641b06baa23:2025,0,0.35270
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_e8b3bf21e6e76b30:2025,0,0.47462
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_e926a9a02c6273b8:2025,0,0.30505
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_ecfeb2b83ad013af:2025,0,0.41310
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_ed37ce438f6c7edc:2025,0,0.75815
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_ed6f9967b419a6b0:2025,1,0.63631
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_ed7587bd129bd2ee:2025,0,0.28523
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_ef2b63c21eaba141:2025,0,0.44429
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_efd168999d5ed5bb:2025,1,0.31031
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_f116e4d438af5efc:2025,0,0.38042
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_f1d0a96612692c96:2025,0,0.24741
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_f23ee26f23d314c8:2025,0,0.34050
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_f25288e6b3e3aa05:2025,1,0.46408
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_f2e9f3a62b369c6c:2025,1,0.48241
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_f49cb3dc8e20b2f7:2025,0,0.42420
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_f49d2430d12c4a49:2025,0,0.40015
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_f5513e6b0a633c4f:2025,0,0.40240
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_f5882e14ad0affeb:2025,0,0.64723
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_f5b3429d04e3f7cb:2025,1,0.57064
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_f5b77208a9c7a43e:2025,1,0.66886
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_fa7292efd692efca:2025,0,0.51577
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_fbb7357c73dc6d65:2025,1,0.62528
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_fd8388a5094f88cc:2025,0,0.39951
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_fdede13422287015:2025,1,0.58515
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_fe3b6a048eeac68d:2025,1,0.45894
+2 draw-averaged,Chicago,LR,osm_continuity_full_year:osm_fefc7ff5e1831c8e:2025,1,0.65071

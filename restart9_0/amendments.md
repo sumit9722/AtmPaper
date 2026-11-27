@@ -35,3 +35,11 @@ Chicago 2025 predictions, AP and ROC-AUC;
 spatial test fold from Chicago 2024 sites at least 1,500 m from that fold's test sites, repeated
 over 20 seeds. Baselines are past-crime-only logistic and LightGBM on identical data. Results are
 exploratory and do not change the frozen verdict.
+
+## A4 — environment-only models (2026-11-27, exploratory, team request)
+
+At the team's request, models were refitted with the 15 situational attributes only, with no
+prior-crime inputs (`scripts/env_only.py`). Designs and tuning match A3 (NYC only → Chicago/LA 2025;
+NYC + 10% Chicago 2024 → Chicago 2025, same 20 random draws and purge). The reference is chance
+(AUC 0.5; AP = test prevalence). This asks whether environment alone ranks ATM risk. It does not
+replace the frozen comparison with the crime-history baseline.
