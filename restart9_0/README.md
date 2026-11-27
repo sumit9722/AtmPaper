@@ -97,6 +97,15 @@ See [importance.csv](results/importance.csv).
 
 [results/env_only/density_transit/summary.md](results/env_only/density_transit/summary.md): adding the four factors to the environment-only set (E19) raised Chicago AUC for NYC-trained models from 0.638 to 0.667 (logistic), 0.565 to 0.625 (LightGBM) and 0.583 to 0.638 (XGBoost). For LA, logistic AUC rose from 0.594 to 0.662 (95% CI 0.542–0.758). The four factors alone (E4) gave AUC 0.62–0.65 in Chicago. Population density and transit service frequency took 8–12% of the boosted-tree gain each. No paired test of E19 against E15 was run, and this is the sixth exploratory variant evaluated on the same Chicago 2025 test year.
 
+## Chicago-trained vs NYC-trained, teammate XGBoost method (exploratory, amendment A7)
+
+[results/home_vs_nyc/summary.md](results/home_vs_nyc/summary.md) re-runs the `draft/xgboost_model` Chicago XGBoost method on the corrected Restart 7 Chicago data, next to NYC-trained models, on the same 212 Chicago 2025 ATMs.
+
+* The teammate's environment-only result replicates: AUC 0.705 and AP 0.577 with 107 environment variables (0.706 and 0.582 on Restart 6 data). On corrected labels, adding environment to past crime gives no change (AUC 0.773 to 0.781, AP 0.665 to 0.670) rather than the earlier −0.047.
+* Past crime transfers fully: logistic trained on NYC gives AUC 0.793, trained on Chicago 0.804 (difference +0.010, 95% CI −0.003 to +0.024).
+* Environment-only models do better when trained on Chicago (XGBoost E107: 0.705 vs 0.585 from NYC, +0.120 [+0.053, +0.199]). But 180 of 212 test ATMs are the same ATMs seen in Chicago training. With nearby training ATMs purged, the advantage disappears (0.492). The purged design also shrinks and unbalances training, so it is a lower bound.
+* From NYC, the compact E19 set transfers better than the 107 variables (logistic AUC 0.667 vs 0.636; XGBoost 0.633 vs 0.585).
+
 ## Amendments (made before any outcome linkage)
 
 [amendments.md](amendments.md): A1 switched to ohsome v2 / the OSM history API after v1 returned

@@ -60,3 +60,13 @@ Four factors already in the Restart 7 matrices were added to the environment-onl
 transit stop (D4A). All are block-group context shared by nearby ATMs. Sets: E19 (15 attributes
 + these 4) and E4 (these 4 only). Learners, designs, Chicago draws and tuning match A4/A5.
 Results are descriptive.
+
+## A7 — Chicago-trained vs NYC-trained on the same corrected test set (2026-11-27, exploratory)
+
+Merged teammate branch `draft/xgboost_model` (a Chicago-only XGBoost analysis on Restart 6 data).
+Its method (estimator, 8-configuration grid, 4-fold spatial tuning with a 1 km purge, training-only
+column exclusions, seed 17) is re-run by `scripts/home_vs_nyc.py` on the Restart 7 core cohort and
+labels. It is compared with NYC-trained models on the same 212 Chicago 2025 ATMs, with logistic
+regression alongside. Chicago-trained models are reported with and without a 1,500 m purge, because
+the same ATMs recur across years. Feature sets: past crime; E19; E107 (Restart 7 cleaned expanded
+environment); and the combinations.

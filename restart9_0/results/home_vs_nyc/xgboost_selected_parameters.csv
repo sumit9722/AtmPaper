@@ -1,0 +1,11 @@
+set,source,max_depth,n_estimators,min_child_weight,reg_lambda
+CRIME,chicago,2,80,5,5
+CRIME,nyc,2,80,5,5
+E19,chicago,4,120,10,20
+E19,nyc,2,80,5,5
+E107,chicago,4,120,10,20
+E107,nyc,2,80,5,5
+CRIME+E19,chicago,3,80,5,10
+CRIME+E19,nyc,2,80,5,5
+CRIME+E107,chicago,2,80,5,5
+CRIME+E107,nyc,2,80,5,5
