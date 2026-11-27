@@ -93,6 +93,10 @@ See [importance.csv](results/importance.csv).
 
 [results/env_only/xgboost/summary.md](results/env_only/xgboost/summary.md): with NYC training, Chicago 2025 AUC is 0.583 (95% CI 0.509–0.668); with 10% of Chicago 2024 added it is 0.588 (0.510–0.679). That is close to LightGBM (0.565/0.582) and below logistic regression (0.638/0.636). For LA, AUC is 0.581 and the interval includes chance. The top weightages match LightGBM.
 
+## Population density, housing density and public transport (exploratory, amendment A6)
+
+[results/env_only/density_transit/summary.md](results/env_only/density_transit/summary.md): adding the four factors to the environment-only set (E19) raised Chicago AUC for NYC-trained models from 0.638 to 0.667 (logistic), 0.565 to 0.625 (LightGBM) and 0.583 to 0.638 (XGBoost). For LA, logistic AUC rose from 0.594 to 0.662 (95% CI 0.542–0.758). The four factors alone (E4) gave AUC 0.62–0.65 in Chicago. Population density and transit service frequency took 8–12% of the boosted-tree gain each. No paired test of E19 against E15 was run, and this is the sixth exploratory variant evaluated on the same Chicago 2025 test year.
+
 ## Amendments (made before any outcome linkage)
 
 [amendments.md](amendments.md): A1 switched to ohsome v2 / the OSM history API after v1 returned

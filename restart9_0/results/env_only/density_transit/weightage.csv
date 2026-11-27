@@ -1,0 +1,77 @@
+feature,gain,split,mean_abs_shap,direction_corr,gain_pct,split_pct,mean_abs_shap_pct,attribute,effect,learner,step
+log1p_dist_rail_m,480.4863,53.0000,0.2699,-0.8080,17.6612,17.6667,18.7369,Distance to rail/subway station,higher value -> less risk,LGBM,1 NYC only
+log1p_poi_24_7_250m,337.9370,19.0000,0.1808,0.8845,12.4215,6.3333,12.5511,24/7 places within 250 m,higher value -> more risk,LGBM,1 NYC only
+log1p_night_poi_250m,332.4179,33.0000,0.2102,0.8929,12.2186,11.0000,14.5945,Late-night places within 250 m,higher value -> more risk,LGBM,1 NYC only
+log1p_population_density,318.7667,28.0000,0.1440,0.8196,11.7169,9.3333,9.9997,Population density,higher value -> more risk,LGBM,1 NYC only
+atm_mapped_age_years,246.8732,35.0000,0.1429,0.9292,9.0743,11.6667,9.9208,ATM age (years mapped),higher value -> more risk,LGBM,1 NYC only
+log1p_transit_stop_distance,234.3986,24.0000,0.1154,,8.6158,8.0000,8.0116,Distance to transit stop,mixed / none,LGBM,1 NYC only
+log1p_transit_service_density,210.6745,13.0000,0.0732,0.8856,7.7437,4.3333,5.0817,Transit service frequency,higher value -> more risk,LGBM,1 NYC only
+log1p_dist_police_m,161.6287,26.0000,0.0919,-0.5361,5.9410,8.6667,6.3802,Distance to police station,higher value -> less risk,LGBM,1 NYC only
+log1p_dist_bar_m,117.9949,19.0000,0.0631,0.7910,4.3371,6.3333,4.3800,Distance to nearest bar,higher value -> more risk,LGBM,1 NYC only
+log1p_dist_liquor_m,104.0030,18.0000,0.0570,-0.6800,3.8228,6.0000,3.9559,Distance to nearest liquor store,higher value -> less risk,LGBM,1 NYC only
+log1p_housing_density,67.9930,13.0000,0.0340,-0.5705,2.4992,4.3333,2.3575,Housing density,higher value -> less risk,LGBM,1 NYC only
+fdic_branch_age_years,50.9900,9.0000,0.0272,,1.8742,3.0000,1.8873,Bank-branch age,mixed / none,LGBM,1 NYC only
+log1p_dist_highway_m,42.6240,8.0000,0.0216,-0.5522,1.5667,2.6667,1.4970,Distance to highway,higher value -> less risk,LGBM,1 NYC only
+log1p_bars_250m,7.2403,1.0000,0.0051,-0.6975,0.2661,0.3333,0.3528,Bars within 250 m,higher value -> less risk,LGBM,1 NYC only
+log1p_light_outage_311_100m,6.5517,1.0000,0.0042,0.6790,0.2408,0.3333,0.2928,Streetlight outages within 100 m (311),higher value -> more risk,LGBM,1 NYC only
+log1p_liquor_250m,0.0000,0.0000,0.0000,,0.0000,0.0000,0.0000,Liquor stores within 250 m,mixed / none,LGBM,1 NYC only
+hours_known,0.0000,0.0000,0.0000,,0.0000,0.0000,0.0000,Branch hours listed,mixed / none,LGBM,1 NYC only
+open_weekend,0.0000,0.0000,0.0000,,0.0000,0.0000,0.0000,Open at weekends,mixed / none,LGBM,1 NYC only
+open_late,0.0000,0.0000,0.0000,,0.0000,0.0000,0.0000,Open late,mixed / none,LGBM,1 NYC only
+atm_mapped_age_years,,,,0.8940,8.5851,,,ATM age (years mapped),,LGBM,2 NYC + 10% Chicago
+fdic_branch_age_years,,,,,1.4769,,,Bank-branch age,,LGBM,2 NYC + 10% Chicago
+hours_known,,,,0.7720,0.0560,,,Branch hours listed,,LGBM,2 NYC + 10% Chicago
+log1p_bars_250m,,,,-0.1487,0.3748,,,Bars within 250 m,,LGBM,2 NYC + 10% Chicago
+log1p_dist_bar_m,,,,0.6113,4.3183,,,Distance to nearest bar,,LGBM,2 NYC + 10% Chicago
+log1p_dist_highway_m,,,,-0.5224,3.1333,,,Distance to highway,,LGBM,2 NYC + 10% Chicago
+log1p_dist_liquor_m,,,,-0.7546,5.2263,,,Distance to nearest liquor store,,LGBM,2 NYC + 10% Chicago
+log1p_dist_police_m,,,,-0.4631,6.2454,,,Distance to police station,,LGBM,2 NYC + 10% Chicago
+log1p_dist_rail_m,,,,-0.8031,16.8034,,,Distance to rail/subway station,,LGBM,2 NYC + 10% Chicago
+log1p_housing_density,,,,-0.5345,2.2519,,,Housing density,,LGBM,2 NYC + 10% Chicago
+log1p_light_outage_311_100m,,,,0.5562,0.8834,,,Streetlight outages within 100 m (311),,LGBM,2 NYC + 10% Chicago
+log1p_liquor_250m,,,,-0.3928,0.1877,,,Liquor stores within 250 m,,LGBM,2 NYC + 10% Chicago
+log1p_night_poi_250m,,,,0.8853,10.1241,,,Late-night places within 250 m,,LGBM,2 NYC + 10% Chicago
+log1p_poi_24_7_250m,,,,0.8725,10.1116,,,24/7 places within 250 m,,LGBM,2 NYC + 10% Chicago
+log1p_population_density,,,,0.8834,10.8708,,,Population density,,LGBM,2 NYC + 10% Chicago
+log1p_transit_service_density,,,,0.9016,10.4079,,,Transit service frequency,,LGBM,2 NYC + 10% Chicago
+log1p_transit_stop_distance,,,,,8.8665,,,Distance to transit stop,,LGBM,2 NYC + 10% Chicago
+open_late,,,,-0.2483,0.0042,,,Open late,,LGBM,2 NYC + 10% Chicago
+open_weekend,,,,0.8573,0.0723,,,Open at weekends,,LGBM,2 NYC + 10% Chicago
+log1p_dist_rail_m,436.7096,45.0000,0.2279,-0.8067,16.4671,15.1515,17.3928,Distance to rail/subway station,higher value -> less risk,XGB,1 NYC only
+log1p_night_poi_250m,396.9182,42.0000,0.2192,0.8868,14.9667,14.1414,16.7301,Late-night places within 250 m,higher value -> more risk,XGB,1 NYC only
+log1p_transit_service_density,314.5356,15.0000,0.0981,0.8922,11.8602,5.0505,7.4843,Transit service frequency,higher value -> more risk,XGB,1 NYC only
+log1p_population_density,281.6495,31.0000,0.1221,0.9056,10.6202,10.4377,9.3192,Population density,higher value -> more risk,XGB,1 NYC only
+log1p_poi_24_7_250m,259.0307,24.0000,0.1666,0.8730,9.7673,8.0808,12.7115,24/7 places within 250 m,higher value -> more risk,XGB,1 NYC only
+log1p_transit_stop_distance,255.6955,18.0000,0.1000,,9.6416,6.0606,7.6336,Distance to transit stop,mixed / none,XGB,1 NYC only
+atm_mapped_age_years,234.3420,32.0000,0.1435,0.9268,8.8364,10.7744,10.9508,ATM age (years mapped),higher value -> more risk,XGB,1 NYC only
+log1p_dist_liquor_m,122.1916,21.0000,0.0647,-0.8079,4.6075,7.0707,4.9403,Distance to nearest liquor store,higher value -> less risk,XGB,1 NYC only
+log1p_dist_police_m,108.0227,19.0000,0.0721,-0.5871,4.0732,6.3973,5.4995,Distance to police station,higher value -> less risk,XGB,1 NYC only
+log1p_dist_bar_m,99.9468,16.0000,0.0419,0.6185,3.7687,5.3872,3.2011,Distance to nearest bar,higher value -> more risk,XGB,1 NYC only
+log1p_dist_highway_m,77.7219,16.0000,0.0195,-0.3801,2.9307,5.3872,1.4862,Distance to highway,higher value -> less risk,XGB,1 NYC only
+log1p_housing_density,27.1417,6.0000,0.0173,-0.5500,1.0234,2.0202,1.3228,Housing density,higher value -> less risk,XGB,1 NYC only
+log1p_light_outage_311_100m,16.5720,4.0000,0.0070,0.3627,0.6249,1.3468,0.5378,Streetlight outages within 100 m (311),higher value -> more risk,XGB,1 NYC only
+fdic_branch_age_years,8.7400,3.0000,0.0036,,0.3296,1.0101,0.2781,Bank-branch age,mixed / none,XGB,1 NYC only
+log1p_bars_250m,6.5008,1.0000,0.0045,-0.5870,0.2451,0.3367,0.3415,Bars within 250 m,higher value -> less risk,XGB,1 NYC only
+log1p_liquor_250m,5.1637,2.0000,0.0007,0.0670,0.1947,0.6734,0.0536,Liquor stores within 250 m,mixed / none,XGB,1 NYC only
+hours_known,1.1334,2.0000,0.0015,0.4500,0.0427,0.6734,0.1166,Branch hours listed,higher value -> more risk,XGB,1 NYC only
+open_weekend,0.0000,0.0000,0.0000,,0.0000,0.0000,0.0000,Open at weekends,mixed / none,XGB,1 NYC only
+open_late,0.0000,0.0000,0.0000,,0.0000,0.0000,0.0000,Open late,mixed / none,XGB,1 NYC only
+atm_mapped_age_years,,,,0.9033,8.8758,,,ATM age (years mapped),,XGB,2 NYC + 10% Chicago
+fdic_branch_age_years,,,,,1.1794,,,Bank-branch age,,XGB,2 NYC + 10% Chicago
+hours_known,,,,0.6113,0.0875,,,Branch hours listed,,XGB,2 NYC + 10% Chicago
+log1p_bars_250m,,,,-0.1471,0.3702,,,Bars within 250 m,,XGB,2 NYC + 10% Chicago
+log1p_dist_bar_m,,,,0.6191,4.4962,,,Distance to nearest bar,,XGB,2 NYC + 10% Chicago
+log1p_dist_highway_m,,,,-0.3853,3.6430,,,Distance to highway,,XGB,2 NYC + 10% Chicago
+log1p_dist_liquor_m,,,,-0.7905,3.6384,,,Distance to nearest liquor store,,XGB,2 NYC + 10% Chicago
+log1p_dist_police_m,,,,-0.5016,4.9693,,,Distance to police station,,XGB,2 NYC + 10% Chicago
+log1p_dist_rail_m,,,,-0.8017,16.0308,,,Distance to rail/subway station,,XGB,2 NYC + 10% Chicago
+log1p_housing_density,,,,-0.1281,2.2771,,,Housing density,,XGB,2 NYC + 10% Chicago
+log1p_light_outage_311_100m,,,,0.4667,1.6065,,,Streetlight outages within 100 m (311),,XGB,2 NYC + 10% Chicago
+log1p_liquor_250m,,,,-0.0730,0.1637,,,Liquor stores within 250 m,,XGB,2 NYC + 10% Chicago
+log1p_night_poi_250m,,,,0.8896,12.4827,,,Late-night places within 250 m,,XGB,2 NYC + 10% Chicago
+log1p_poi_24_7_250m,,,,0.8465,8.4976,,,24/7 places within 250 m,,XGB,2 NYC + 10% Chicago
+log1p_population_density,,,,0.8608,9.0393,,,Population density,,XGB,2 NYC + 10% Chicago
+log1p_transit_service_density,,,,0.8962,12.5673,,,Transit service frequency,,XGB,2 NYC + 10% Chicago
+log1p_transit_stop_distance,,,,,10.0007,,,Distance to transit stop,,XGB,2 NYC + 10% Chicago
+open_late,,,,0.2473,0.0096,,,Open late,,XGB,2 NYC + 10% Chicago
+open_weekend,,,,0.7052,0.0648,,,Open at weekends,,XGB,2 NYC + 10% Chicago

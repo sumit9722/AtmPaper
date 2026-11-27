@@ -51,3 +51,12 @@ XGBoost added to A4 with identical features, designs, Chicago draws and inner sp
 L2 1, hist trees, seed 9. Grid: max_depth {2, 3, 4} × min_child_weight {1, 5} ×
 n_estimators {100, 300}. A third learner on the same data adds another comparison, so its
 result is descriptive.
+
+## A6 — population density, housing density and public transport (2026-11-27, exploratory, team request)
+
+Four factors already in the Restart 7 matrices were added to the environment-only models
+(`scripts/env_density.py`): ACS 2022 population density, EPA SLD gross residential density
+(housing units per acre, D1A), EPA transit service frequency, and EPA distance to the nearest
+transit stop (D4A). All are block-group context shared by nearby ATMs. Sets: E19 (15 attributes
++ these 4) and E4 (these 4 only). Learners, designs, Chicago draws and tuning match A4/A5.
+Results are descriptive.
