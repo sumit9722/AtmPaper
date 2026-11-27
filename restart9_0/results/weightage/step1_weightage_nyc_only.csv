@@ -1,0 +1,18 @@
+feature,gain,split,mean_abs_shap,direction_corr,gain_pct,split_pct,mean_abs_shap_pct,attribute,effect,shap_pct_on_chicago_2025
+log1p_prior_local_50m_retrospective,829.3371,63,0.3901,0.9464,27.2848,21.0000,26.2757,Past crime within 50 m (previous year),higher value -> more risk,28.7545
+log1p_prior_annulus_200_500m_retrospective,434.8842,37,0.1595,0.9165,14.3075,12.3333,10.7422,Past crime 200-500 m (previous year),higher value -> more risk,10.0685
+log1p_dist_rail_m,405.3891,45,0.2109,-0.7946,13.3371,15.0000,14.2019,Distance to rail/subway station,higher value -> less risk,12.4649
+log1p_night_poi_250m,357.9613,31,0.1801,0.8957,11.7768,10.3333,12.1288,Late-night places within 250 m,higher value -> more risk,11.9324
+atm_mapped_age_years,231.0730,34,0.1306,0.8741,7.6022,11.3333,8.7969,ATM age (years mapped),higher value -> more risk,7.3093
+log1p_poi_24_7_250m,206.6476,10,0.1130,0.8505,6.7986,3.3333,7.6082,24/7 places within 250 m,higher value -> more risk,7.0357
+log1p_dist_liquor_m,200.6513,19,0.1042,-0.7982,6.6013,6.3333,7.0160,Distance to nearest liquor store,higher value -> less risk,10.3087
+log1p_dist_police_m,156.0559,27,0.0845,-0.0239,5.1342,9.0000,5.6905,Distance to police station,mixed / none,4.5632
+log1p_dist_bar_m,98.5958,15,0.0658,0.7554,3.2438,5.0000,4.4321,Distance to nearest bar,higher value -> more risk,4.3212
+log1p_dist_highway_m,57.1179,10,0.0223,-0.6719,1.8792,3.3333,1.5047,Distance to highway,higher value -> less risk,1.5792
+fdic_branch_age_years,42.7874,6,0.0136,,1.4077,2.0000,0.9141,Bank-branch age,mixed / none,0.7990
+log1p_liquor_250m,9.9547,1,0.0061,0.7769,0.3275,0.3333,0.4140,Liquor stores within 250 m,higher value -> more risk,0.5647
+log1p_light_outage_311_100m,9.0971,2,0.0041,0.0506,0.2993,0.6667,0.2748,Streetlight outages within 100 m (311),mixed / none,0.2988
+log1p_bars_250m,0.0000,0,0.0000,,0.0000,0.0000,0.0000,Bars within 250 m,mixed / none,0.0000
+hours_known,0.0000,0,0.0000,,0.0000,0.0000,0.0000,Branch hours listed,mixed / none,0.0000
+open_late,0.0000,0,0.0000,,0.0000,0.0000,0.0000,Open late,mixed / none,0.0000
+open_weekend,0.0000,0,0.0000,,0.0000,0.0000,0.0000,Open at weekends,mixed / none,0.0000

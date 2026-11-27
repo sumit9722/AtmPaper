@@ -24,3 +24,14 @@ the true first issue. As a result, the NYC off-premise count jumps from 2,332
 Counts at the cutoff would be strongly biased toward recent licences, so M9L is not
 estimated. Chicago licence features are retained in `features_r9.csv` for reference
 only. A1–A4 (OSM) remain the primary bar/liquor measures.
+
+## A3 — exploratory follow-up requested after the frozen results (2026-11-27)
+
+Not part of the frozen test; added at the team's request after the results were seen.
+`scripts/transfer_weights.py`:
+(1) LightGBM weightage (gain, split and SHAP shares) for the NYC-only D1 model, plus its
+Chicago 2025 predictions, AP and ROC-AUC;
+(2) NYC 2024 + a random 10% of Chicago 2024 (19 site-years) → Chicago 2025. The 10% is drawn per
+spatial test fold from Chicago 2024 sites at least 1,500 m from that fold's test sites, repeated
+over 20 seeds. Baselines are past-crime-only logistic and LightGBM on identical data. Results are
+exploratory and do not change the frozen verdict.

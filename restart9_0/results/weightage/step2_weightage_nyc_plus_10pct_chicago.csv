@@ -1,0 +1,18 @@
+feature,gain,gain_pct_sd,split,mean_abs_shap,direction_corr,gain_pct,split_pct,mean_abs_shap_pct,attribute,effect,gain_pct_sd_across_models
+log1p_prior_local_50m_retrospective,26.7990,4.8383,18.6020,25.9385,0.9554,26.7990,18.6020,25.9385,Past crime within 50 m (previous year),higher value -> more risk,4.8383
+log1p_dist_rail_m,13.4152,0.9840,14.4855,14.0774,-0.7682,13.4152,14.4855,14.0774,Distance to rail/subway station,higher value -> less risk,0.9840
+log1p_prior_annulus_200_500m_retrospective,12.9158,2.3913,10.4850,10.3022,0.9054,12.9158,10.4850,10.3022,Past crime 200-500 m (previous year),higher value -> more risk,2.3913
+log1p_night_poi_250m,9.0907,1.2400,9.5340,10.5929,0.8772,9.0907,9.5340,10.5929,Late-night places within 250 m,higher value -> more risk,1.2400
+log1p_dist_liquor_m,8.3632,1.3978,7.7743,8.3743,-0.7825,8.3632,7.7743,8.3743,Distance to nearest liquor store,higher value -> less risk,1.3978
+atm_mapped_age_years,6.6730,1.1553,9.1468,7.7588,0.8624,6.6730,9.1468,7.7588,ATM age (years mapped),higher value -> more risk,1.1553
+log1p_poi_24_7_250m,6.4662,1.2892,4.2041,7.2825,0.8242,6.4662,4.2041,7.2825,24/7 places within 250 m,higher value -> more risk,1.2892
+log1p_dist_police_m,5.2370,1.8179,8.9720,5.9431,0.0188,5.2370,8.9720,5.9431,Distance to police station,mixed / none,1.8179
+log1p_dist_bar_m,3.9162,1.5334,5.6680,3.9905,0.7389,3.9162,5.6680,3.9905,Distance to nearest bar,higher value -> more risk,1.5334
+log1p_dist_highway_m,3.4554,1.4940,5.5953,2.1926,-0.6254,3.4554,5.5953,2.1926,Distance to highway,higher value -> less risk,1.4940
+fdic_branch_age_years,1.7683,1.5597,2.6616,1.5112,,1.7683,2.6616,1.5112,Bank-branch age,mixed / none,1.5597
+log1p_light_outage_311_100m,0.7819,0.6871,1.1807,0.6257,-0.1007,0.7819,1.1807,0.6257,Streetlight outages within 100 m (311),higher value -> less risk,0.6871
+log1p_liquor_250m,0.6048,0.3249,0.8341,0.6763,0.2297,0.6048,0.8341,0.6763,Liquor stores within 250 m,higher value -> more risk,0.3249
+log1p_bars_250m,0.3324,0.3352,0.5302,0.3569,-0.1595,0.3324,0.5302,0.3569,Bars within 250 m,higher value -> less risk,0.3352
+open_weekend,0.1500,0.1474,0.2780,0.3081,0.8894,0.1500,0.2780,0.3081,Open at weekends,higher value -> more risk,0.1474
+hours_known,0.0203,0.0486,0.0289,0.0478,0.8434,0.0203,0.0289,0.0478,Branch hours listed,higher value -> more risk,0.0486
+open_late,0.0106,0.0302,0.0196,0.0210,0.2187,0.0106,0.0196,0.0210,Open late,higher value -> more risk,0.0302
