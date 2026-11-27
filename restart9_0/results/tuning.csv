@@ -1,0 +1,1105 @@
+design,target,outcome,set,fold,learner,config,inner_mean_ap,inner_folds
+D1,Chicago,O1,M0,0,LR,"{""C"": 0.01}",0.8417958575898418,3
+D1,Chicago,O1,M0,0,LR,"{""C"": 0.1}",0.8421274639739803,3
+D1,Chicago,O1,M0,0,LR,"{""C"": 1.0}",0.8420448756976272,3
+D1,Chicago,O1,M0,0,LR,"{""C"": 10.0}",0.8419152443111552,3
+D1,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8175191429110754,3
+D1,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8117019605106766,3
+D1,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8057418245178908,3
+D1,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.805106937778155,3
+D1,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8154498869289459,3
+D1,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8028137914115495,3
+D1,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8057418245178908,3
+D1,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.805106937778155,3
+D1,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8154498869289459,3
+D1,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8028137914115495,3
+D1,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8057418245178908,3
+D1,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.805106937778155,3
+D1,Chicago,O1,M9,0,LR,"{""C"": 0.01}",0.8303505661407676,3
+D1,Chicago,O1,M9,0,LR,"{""C"": 0.1}",0.8161697982459035,3
+D1,Chicago,O1,M9,0,LR,"{""C"": 1.0}",0.7929484759773707,3
+D1,Chicago,O1,M9,0,LR,"{""C"": 10.0}",0.7855676347602927,3
+D1,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8091277042797943,3
+D1,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8028986970389683,3
+D1,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7888241572553213,3
+D1,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7792526977890804,3
+D1,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8083319025943915,3
+D1,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8035426174001733,3
+D1,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7888241572553213,3
+D1,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7792526977890804,3
+D1,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8083319025943915,3
+D1,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8035426174001733,3
+D1,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7888241572553213,3
+D1,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7792526977890804,3
+D1,Chicago,O1,M9F,0,LR,"{""C"": 0.01}",0.8271781713096065,3
+D1,Chicago,O1,M9F,0,LR,"{""C"": 0.1}",0.8158988481615056,3
+D1,Chicago,O1,M9F,0,LR,"{""C"": 1.0}",0.7915805979402973,3
+D1,Chicago,O1,M9F,0,LR,"{""C"": 10.0}",0.7794390148146665,3
+D1,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7998150871339501,3
+D1,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7934868140154735,3
+D1,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7906129792255453,3
+D1,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7823952328146433,3
+D1,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8042117092613156,3
+D1,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8002690917225301,3
+D1,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7906129792255453,3
+D1,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7823952328146433,3
+D1,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8042117092613156,3
+D1,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8002690917225301,3
+D1,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7906129792255453,3
+D1,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7823952328146433,3
+D1,Chicago,O2,M0,0,LR,"{""C"": 0.01}",0.2469177924076297,3
+D1,Chicago,O2,M0,0,LR,"{""C"": 0.1}",0.24783774093021238,3
+D1,Chicago,O2,M0,0,LR,"{""C"": 1.0}",0.23787065394250065,3
+D1,Chicago,O2,M0,0,LR,"{""C"": 10.0}",0.23837689016346356,3
+D1,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.21629497004450005,3
+D1,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.21771002146245677,3
+D1,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2451958377132176,3
+D1,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.23298270074476904,3
+D1,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.22176029748991732,3
+D1,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.22134980880228863,3
+D1,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.24525275452929088,3
+D1,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.23290444012266823,3
+D1,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.22176029748991732,3
+D1,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.21935828687130499,3
+D1,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.24525275452929088,3
+D1,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.23290444012266823,3
+D1,Chicago,O2,M9,0,LR,"{""C"": 0.01}",0.2858553558171097,3
+D1,Chicago,O2,M9,0,LR,"{""C"": 0.1}",0.2706002929052267,3
+D1,Chicago,O2,M9,0,LR,"{""C"": 1.0}",0.2534736633532839,3
+D1,Chicago,O2,M9,0,LR,"{""C"": 10.0}",0.25426815854924745,3
+D1,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2899905962025083,3
+D1,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.27360485993170086,3
+D1,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.31198298367103205,3
+D1,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.28844349020533494,3
+D1,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.29688785748640817,3
+D1,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2793635426913916,3
+D1,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.31198298367103205,3
+D1,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.28779224382466084,3
+D1,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.29688785748640817,3
+D1,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2793635426913916,3
+D1,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.31198298367103205,3
+D1,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.28779224382466084,3
+D1,Chicago,O2,M9F,0,LR,"{""C"": 0.01}",0.29943796639426973,3
+D1,Chicago,O2,M9F,0,LR,"{""C"": 0.1}",0.269812333432443,3
+D1,Chicago,O2,M9F,0,LR,"{""C"": 1.0}",0.24686532219393675,3
+D1,Chicago,O2,M9F,0,LR,"{""C"": 10.0}",0.2284735756337566,3
+D1,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.28243808268501047,3
+D1,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2725626376119648,3
+D1,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2809426491487069,3
+D1,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.27702586461170453,3
+D1,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.27714084503209224,3
+D1,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.27750373821499563,3
+D1,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2809426491487069,3
+D1,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.27702586461170453,3
+D1,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.27714084503209224,3
+D1,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.27752424346433946,3
+D1,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2809426491487069,3
+D1,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.27702586461170453,3
+D1,Los Angeles,O1,M0,0,LR,"{""C"": 0.01}",0.8417958575898418,3
+D1,Los Angeles,O1,M0,0,LR,"{""C"": 0.1}",0.8421274639739803,3
+D1,Los Angeles,O1,M0,0,LR,"{""C"": 1.0}",0.8420448756976272,3
+D1,Los Angeles,O1,M0,0,LR,"{""C"": 10.0}",0.8419152443111552,3
+D1,Los Angeles,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8175191429110754,3
+D1,Los Angeles,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8117019605106766,3
+D1,Los Angeles,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8057418245178908,3
+D1,Los Angeles,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.805106937778155,3
+D1,Los Angeles,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8154498869289459,3
+D1,Los Angeles,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8028137914115495,3
+D1,Los Angeles,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8057418245178908,3
+D1,Los Angeles,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.805106937778155,3
+D1,Los Angeles,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8154498869289459,3
+D1,Los Angeles,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8028137914115495,3
+D1,Los Angeles,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8057418245178908,3
+D1,Los Angeles,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.805106937778155,3
+D1,Los Angeles,O1,M9,0,LR,"{""C"": 0.01}",0.8303505661407676,3
+D1,Los Angeles,O1,M9,0,LR,"{""C"": 0.1}",0.8161697982459035,3
+D1,Los Angeles,O1,M9,0,LR,"{""C"": 1.0}",0.7929484759773707,3
+D1,Los Angeles,O1,M9,0,LR,"{""C"": 10.0}",0.7855676347602927,3
+D1,Los Angeles,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8091277042797943,3
+D1,Los Angeles,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8028986970389683,3
+D1,Los Angeles,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7888241572553213,3
+D1,Los Angeles,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7792526977890804,3
+D1,Los Angeles,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8083319025943915,3
+D1,Los Angeles,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8035426174001733,3
+D1,Los Angeles,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7888241572553213,3
+D1,Los Angeles,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7792526977890804,3
+D1,Los Angeles,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8083319025943915,3
+D1,Los Angeles,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8035426174001733,3
+D1,Los Angeles,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7888241572553213,3
+D1,Los Angeles,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7792526977890804,3
+D1,Los Angeles,O1,M9F,0,LR,"{""C"": 0.01}",0.8271781713096065,3
+D1,Los Angeles,O1,M9F,0,LR,"{""C"": 0.1}",0.8158988481615056,3
+D1,Los Angeles,O1,M9F,0,LR,"{""C"": 1.0}",0.7915805979402973,3
+D1,Los Angeles,O1,M9F,0,LR,"{""C"": 10.0}",0.7794390148146665,3
+D1,Los Angeles,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7998150871339501,3
+D1,Los Angeles,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7934868140154735,3
+D1,Los Angeles,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7906129792255453,3
+D1,Los Angeles,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7823952328146433,3
+D1,Los Angeles,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8042117092613156,3
+D1,Los Angeles,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8002690917225301,3
+D1,Los Angeles,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7906129792255453,3
+D1,Los Angeles,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7823952328146433,3
+D1,Los Angeles,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8042117092613156,3
+D1,Los Angeles,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8002690917225301,3
+D1,Los Angeles,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7906129792255453,3
+D1,Los Angeles,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7823952328146433,3
+D2,Chicago,O1,M0,0,LR,"{""C"": 0.01}",0.8372781337666657,3
+D2,Chicago,O1,M0,0,LR,"{""C"": 0.1}",0.8377317433917005,3
+D2,Chicago,O1,M0,0,LR,"{""C"": 1.0}",0.8387676048034777,3
+D2,Chicago,O1,M0,0,LR,"{""C"": 10.0}",0.8386193541615352,3
+D2,Chicago,O1,M0,1,LR,"{""C"": 0.01}",0.837755015533805,3
+D2,Chicago,O1,M0,1,LR,"{""C"": 0.1}",0.8385924994022839,3
+D2,Chicago,O1,M0,1,LR,"{""C"": 1.0}",0.8388731606615166,3
+D2,Chicago,O1,M0,1,LR,"{""C"": 10.0}",0.8387991389771229,3
+D2,Chicago,O1,M0,2,LR,"{""C"": 0.01}",0.8375446218891888,3
+D2,Chicago,O1,M0,2,LR,"{""C"": 0.1}",0.838135360502096,3
+D2,Chicago,O1,M0,2,LR,"{""C"": 1.0}",0.8387945199740527,3
+D2,Chicago,O1,M0,2,LR,"{""C"": 10.0}",0.8388050708813348,3
+D2,Chicago,O1,M0,3,LR,"{""C"": 0.01}",0.8435783873737025,3
+D2,Chicago,O1,M0,3,LR,"{""C"": 0.1}",0.8452366591738474,3
+D2,Chicago,O1,M0,3,LR,"{""C"": 1.0}",0.8449706455699385,3
+D2,Chicago,O1,M0,3,LR,"{""C"": 10.0}",0.8452718094495006,3
+D2,Chicago,O1,M0,4,LR,"{""C"": 0.01}",0.8390735190621067,3
+D2,Chicago,O1,M0,4,LR,"{""C"": 0.1}",0.8397330600104551,3
+D2,Chicago,O1,M0,4,LR,"{""C"": 1.0}",0.8404473400988316,3
+D2,Chicago,O1,M0,4,LR,"{""C"": 10.0}",0.8403897517512583,3
+D2,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8189685701985159,3
+D2,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.811349496833195,3
+D2,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8108288711418955,3
+D2,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8127757668994505,3
+D2,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8120820076733027,3
+D2,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8005703536250218,3
+D2,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8107523979075276,3
+D2,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8127672454286952,3
+D2,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8125249160216405,3
+D2,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8000466216545185,3
+D2,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8107523979075276,3
+D2,Chicago,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8127672454286952,3
+D2,Chicago,O1,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8193777915995284,3
+D2,Chicago,O1,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8121783635296219,3
+D2,Chicago,O1,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8135050388203254,3
+D2,Chicago,O1,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8069910557392004,3
+D2,Chicago,O1,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8159199259388851,3
+D2,Chicago,O1,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7965798656763683,3
+D2,Chicago,O1,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.813759978372016,3
+D2,Chicago,O1,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8076483775996751,3
+D2,Chicago,O1,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.815709654976189,3
+D2,Chicago,O1,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7980377021345162,3
+D2,Chicago,O1,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.813759978372016,3
+D2,Chicago,O1,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8076483775996751,3
+D2,Chicago,O1,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.821928659060147,3
+D2,Chicago,O1,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8147272465530584,3
+D2,Chicago,O1,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8022897517342272,3
+D2,Chicago,O1,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8055068597006393,3
+D2,Chicago,O1,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8184225745409867,3
+D2,Chicago,O1,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8027369980237026,3
+D2,Chicago,O1,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8023390672971696,3
+D2,Chicago,O1,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8051997826168854,3
+D2,Chicago,O1,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8185491170596594,3
+D2,Chicago,O1,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8020647004844123,3
+D2,Chicago,O1,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8023390672971696,3
+D2,Chicago,O1,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8051997826168854,3
+D2,Chicago,O1,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8250864210414873,3
+D2,Chicago,O1,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8156048425739254,3
+D2,Chicago,O1,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8127462737345876,3
+D2,Chicago,O1,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8075505768068488,3
+D2,Chicago,O1,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8210013268046975,3
+D2,Chicago,O1,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8097583749535731,3
+D2,Chicago,O1,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8127462737345876,3
+D2,Chicago,O1,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8075505768068488,3
+D2,Chicago,O1,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8209784479722009,3
+D2,Chicago,O1,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8096101000829301,3
+D2,Chicago,O1,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8127462737345876,3
+D2,Chicago,O1,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8075505768068488,3
+D2,Chicago,O1,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8206208061112927,3
+D2,Chicago,O1,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.8098584112534756,3
+D2,Chicago,O1,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.8051171109003775,3
+D2,Chicago,O1,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8095155532947693,3
+D2,Chicago,O1,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8134555640400966,3
+D2,Chicago,O1,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7947021277519234,3
+D2,Chicago,O1,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.805072649374669,3
+D2,Chicago,O1,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8095550597006745,3
+D2,Chicago,O1,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8137085814758432,3
+D2,Chicago,O1,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7930727939390462,3
+D2,Chicago,O1,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.805072649374669,3
+D2,Chicago,O1,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.8095550597006745,3
+D2,Chicago,O1,M9,0,LR,"{""C"": 0.01}",0.8171737148437274,3
+D2,Chicago,O1,M9,0,LR,"{""C"": 0.1}",0.8037851703153623,3
+D2,Chicago,O1,M9,0,LR,"{""C"": 1.0}",0.7873349815599356,3
+D2,Chicago,O1,M9,0,LR,"{""C"": 10.0}",0.782891767716222,3
+D2,Chicago,O1,M9,1,LR,"{""C"": 0.01}",0.8159555133059121,3
+D2,Chicago,O1,M9,1,LR,"{""C"": 0.1}",0.8047804364143755,3
+D2,Chicago,O1,M9,1,LR,"{""C"": 1.0}",0.7902500513237997,3
+D2,Chicago,O1,M9,1,LR,"{""C"": 10.0}",0.7871783652241581,3
+D2,Chicago,O1,M9,2,LR,"{""C"": 0.01}",0.8153704495293059,3
+D2,Chicago,O1,M9,2,LR,"{""C"": 0.1}",0.8030020367656506,3
+D2,Chicago,O1,M9,2,LR,"{""C"": 1.0}",0.7889918087333335,3
+D2,Chicago,O1,M9,2,LR,"{""C"": 10.0}",0.7854189183044218,3
+D2,Chicago,O1,M9,3,LR,"{""C"": 0.01}",0.8211316233782261,3
+D2,Chicago,O1,M9,3,LR,"{""C"": 0.1}",0.8088652242281668,3
+D2,Chicago,O1,M9,3,LR,"{""C"": 1.0}",0.7950432563197373,3
+D2,Chicago,O1,M9,3,LR,"{""C"": 10.0}",0.7929257087591258,3
+D2,Chicago,O1,M9,4,LR,"{""C"": 0.01}",0.8236120446959067,3
+D2,Chicago,O1,M9,4,LR,"{""C"": 0.1}",0.8099972918692137,3
+D2,Chicago,O1,M9,4,LR,"{""C"": 1.0}",0.7894160271812884,3
+D2,Chicago,O1,M9,4,LR,"{""C"": 10.0}",0.7823365883596581,3
+D2,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7941042722108561,3
+D2,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7793759676529805,3
+D2,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7875069386177559,3
+D2,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.762500886660105,3
+D2,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7822425810888998,3
+D2,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7820607593752675,3
+D2,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7874124227309797,3
+D2,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7633556047021294,3
+D2,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7797659210043085,3
+D2,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7823339089101049,3
+D2,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7874124227309797,3
+D2,Chicago,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7633556047021294,3
+D2,Chicago,O1,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7899842242095908,3
+D2,Chicago,O1,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.785104886477534,3
+D2,Chicago,O1,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7917434863286191,3
+D2,Chicago,O1,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7756831972555522,3
+D2,Chicago,O1,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7830907153410801,3
+D2,Chicago,O1,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7786682018441256,3
+D2,Chicago,O1,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7917506189735558,3
+D2,Chicago,O1,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7757876023464539,3
+D2,Chicago,O1,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7807521066514335,3
+D2,Chicago,O1,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.777902422341501,3
+D2,Chicago,O1,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7917506189735558,3
+D2,Chicago,O1,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7757876023464539,3
+D2,Chicago,O1,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7974051226167119,3
+D2,Chicago,O1,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7771562713410436,3
+D2,Chicago,O1,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7820872011835077,3
+D2,Chicago,O1,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7590366285006853,3
+D2,Chicago,O1,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7884976302169339,3
+D2,Chicago,O1,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7701616610860164,3
+D2,Chicago,O1,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7820754014271515,3
+D2,Chicago,O1,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7595059552963951,3
+D2,Chicago,O1,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7888115282305467,3
+D2,Chicago,O1,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7725314867149019,3
+D2,Chicago,O1,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7820754014271515,3
+D2,Chicago,O1,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7595059552963951,3
+D2,Chicago,O1,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7972019808398247,3
+D2,Chicago,O1,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.786331467863871,3
+D2,Chicago,O1,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7909632835719523,3
+D2,Chicago,O1,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7831908398051391,3
+D2,Chicago,O1,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.794385977625895,3
+D2,Chicago,O1,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7882164131636552,3
+D2,Chicago,O1,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7911797366753904,3
+D2,Chicago,O1,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7828934188692439,3
+D2,Chicago,O1,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7944138643830336,3
+D2,Chicago,O1,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7879090231548457,3
+D2,Chicago,O1,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7911797366753904,3
+D2,Chicago,O1,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7828934188692439,3
+D2,Chicago,O1,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7965212769885924,3
+D2,Chicago,O1,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7883787216400867,3
+D2,Chicago,O1,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7852621336858383,3
+D2,Chicago,O1,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7687274933703883,3
+D2,Chicago,O1,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7880364606629628,3
+D2,Chicago,O1,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7854758752059574,3
+D2,Chicago,O1,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7850205799768042,3
+D2,Chicago,O1,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7683101677948122,3
+D2,Chicago,O1,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7875243143578059,3
+D2,Chicago,O1,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7878957406849313,3
+D2,Chicago,O1,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7850205799768042,3
+D2,Chicago,O1,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7683101677948122,3
+D2,Chicago,O1,M9F,0,LR,"{""C"": 0.01}",0.8154228140047853,3
+D2,Chicago,O1,M9F,0,LR,"{""C"": 0.1}",0.8033386544884232,3
+D2,Chicago,O1,M9F,0,LR,"{""C"": 1.0}",0.783511363807352,3
+D2,Chicago,O1,M9F,0,LR,"{""C"": 10.0}",0.7789514517952112,3
+D2,Chicago,O1,M9F,1,LR,"{""C"": 0.01}",0.8137190920847356,3
+D2,Chicago,O1,M9F,1,LR,"{""C"": 0.1}",0.8030943713789802,3
+D2,Chicago,O1,M9F,1,LR,"{""C"": 1.0}",0.7899927215413199,3
+D2,Chicago,O1,M9F,1,LR,"{""C"": 10.0}",0.7845206355439395,3
+D2,Chicago,O1,M9F,2,LR,"{""C"": 0.01}",0.8136295245713105,3
+D2,Chicago,O1,M9F,2,LR,"{""C"": 0.1}",0.8034773666645197,3
+D2,Chicago,O1,M9F,2,LR,"{""C"": 1.0}",0.7887349199055156,3
+D2,Chicago,O1,M9F,2,LR,"{""C"": 10.0}",0.7836232514692615,3
+D2,Chicago,O1,M9F,3,LR,"{""C"": 0.01}",0.8184948284976375,3
+D2,Chicago,O1,M9F,3,LR,"{""C"": 0.1}",0.8055538814259121,3
+D2,Chicago,O1,M9F,3,LR,"{""C"": 1.0}",0.7932036515074005,3
+D2,Chicago,O1,M9F,3,LR,"{""C"": 10.0}",0.7857806701856918,3
+D2,Chicago,O1,M9F,4,LR,"{""C"": 0.01}",0.8215283494594395,3
+D2,Chicago,O1,M9F,4,LR,"{""C"": 0.1}",0.807426047442538,3
+D2,Chicago,O1,M9F,4,LR,"{""C"": 1.0}",0.7858166676567064,3
+D2,Chicago,O1,M9F,4,LR,"{""C"": 10.0}",0.7783204704586003,3
+D2,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7977443284558655,3
+D2,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.787342434743628,3
+D2,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7910108100826791,3
+D2,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7637821198023728,3
+D2,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7896598377451683,3
+D2,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7838768308441817,3
+D2,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7895955719425517,3
+D2,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7636591061250884,3
+D2,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7918650894082705,3
+D2,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7860886519639617,3
+D2,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7895955719425517,3
+D2,Chicago,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7636591061250884,3
+D2,Chicago,O1,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7872244305361065,3
+D2,Chicago,O1,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7828844267307985,3
+D2,Chicago,O1,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7918564193490621,3
+D2,Chicago,O1,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7802912731356031,3
+D2,Chicago,O1,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7871974704785237,3
+D2,Chicago,O1,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7831786784302128,3
+D2,Chicago,O1,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7915810274513942,3
+D2,Chicago,O1,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7795099478035311,3
+D2,Chicago,O1,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7844944178214114,3
+D2,Chicago,O1,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.782997951526682,3
+D2,Chicago,O1,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7915810274513942,3
+D2,Chicago,O1,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7795099478035311,3
+D2,Chicago,O1,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8008034652593716,3
+D2,Chicago,O1,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7835286349456115,3
+D2,Chicago,O1,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7838132690568926,3
+D2,Chicago,O1,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7695327469076675,3
+D2,Chicago,O1,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7911315346202251,3
+D2,Chicago,O1,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7827092178110421,3
+D2,Chicago,O1,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7825144451116897,3
+D2,Chicago,O1,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7697021322481422,3
+D2,Chicago,O1,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7893925319648015,3
+D2,Chicago,O1,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7813216349896525,3
+D2,Chicago,O1,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7825144451116897,3
+D2,Chicago,O1,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7697021322481422,3
+D2,Chicago,O1,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7934533495818403,3
+D2,Chicago,O1,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7862668500686404,3
+D2,Chicago,O1,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7931750498472073,3
+D2,Chicago,O1,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7834103993896665,3
+D2,Chicago,O1,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7881591728038345,3
+D2,Chicago,O1,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7830152164269063,3
+D2,Chicago,O1,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7927279735593707,3
+D2,Chicago,O1,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7828393301553246,3
+D2,Chicago,O1,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7886577577430383,3
+D2,Chicago,O1,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7835878937280111,3
+D2,Chicago,O1,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7927279735593707,3
+D2,Chicago,O1,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7828393301553246,3
+D2,Chicago,O1,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7989070775133884,3
+D2,Chicago,O1,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7858764115440655,3
+D2,Chicago,O1,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7926346743300229,3
+D2,Chicago,O1,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7773193439887395,3
+D2,Chicago,O1,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.793046549296414,3
+D2,Chicago,O1,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7836371039499216,3
+D2,Chicago,O1,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7929683195641278,3
+D2,Chicago,O1,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7780824739846987,3
+D2,Chicago,O1,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7933355508508831,3
+D2,Chicago,O1,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7854899589536664,3
+D2,Chicago,O1,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7929683195641278,3
+D2,Chicago,O1,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7780824739846987,3
+D2,Chicago,O2,M0,0,LR,"{""C"": 0.01}",0.2371615091376904,3
+D2,Chicago,O2,M0,0,LR,"{""C"": 0.1}",0.2366065155972347,3
+D2,Chicago,O2,M0,0,LR,"{""C"": 1.0}",0.22858649814718168,3
+D2,Chicago,O2,M0,0,LR,"{""C"": 10.0}",0.2266210228203888,3
+D2,Chicago,O2,M0,1,LR,"{""C"": 0.01}",0.22811236266875978,3
+D2,Chicago,O2,M0,1,LR,"{""C"": 0.1}",0.22444961610975092,3
+D2,Chicago,O2,M0,1,LR,"{""C"": 1.0}",0.22029487743571927,3
+D2,Chicago,O2,M0,1,LR,"{""C"": 10.0}",0.2195127000414995,3
+D2,Chicago,O2,M0,2,LR,"{""C"": 0.01}",0.22680688140956196,3
+D2,Chicago,O2,M0,2,LR,"{""C"": 0.1}",0.22298599201996697,3
+D2,Chicago,O2,M0,2,LR,"{""C"": 1.0}",0.2206013734732013,3
+D2,Chicago,O2,M0,2,LR,"{""C"": 10.0}",0.21863394959577162,3
+D2,Chicago,O2,M0,3,LR,"{""C"": 0.01}",0.2282094821733118,3
+D2,Chicago,O2,M0,3,LR,"{""C"": 0.1}",0.2240617627204343,3
+D2,Chicago,O2,M0,3,LR,"{""C"": 1.0}",0.21952993460380663,3
+D2,Chicago,O2,M0,3,LR,"{""C"": 10.0}",0.2185882742390357,3
+D2,Chicago,O2,M0,4,LR,"{""C"": 0.01}",0.23347949326708906,3
+D2,Chicago,O2,M0,4,LR,"{""C"": 0.1}",0.22962952288565522,3
+D2,Chicago,O2,M0,4,LR,"{""C"": 1.0}",0.22157095609782043,3
+D2,Chicago,O2,M0,4,LR,"{""C"": 10.0}",0.22213893449217026,3
+D2,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.20428834782415303,3
+D2,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2062186766682336,3
+D2,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2176175023676374,3
+D2,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.21526458315010943,3
+D2,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.21053387850961727,3
+D2,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.1928428388424651,3
+D2,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.21552756639231466,3
+D2,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.21439759060349398,3
+D2,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.21030797230249398,3
+D2,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.19336479086920785,3
+D2,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.21552756639231466,3
+D2,Chicago,O2,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.21439759060349398,3
+D2,Chicago,O2,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.20960305731666254,3
+D2,Chicago,O2,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.21058527637666943,3
+D2,Chicago,O2,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.22376326771918786,3
+D2,Chicago,O2,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.21509755364093472,3
+D2,Chicago,O2,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2093356533363675,3
+D2,Chicago,O2,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.20886244003427715,3
+D2,Chicago,O2,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.22350376449470474,3
+D2,Chicago,O2,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2152173955872683,3
+D2,Chicago,O2,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.21242467144031815,3
+D2,Chicago,O2,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.20931964980395099,3
+D2,Chicago,O2,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.22350376449470474,3
+D2,Chicago,O2,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2152173955872683,3
+D2,Chicago,O2,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.20881681409711872,3
+D2,Chicago,O2,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.20705964510787886,3
+D2,Chicago,O2,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.21010469905825882,3
+D2,Chicago,O2,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.21220223864933063,3
+D2,Chicago,O2,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2031624810246857,3
+D2,Chicago,O2,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.20454360705041497,3
+D2,Chicago,O2,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.20996169211566162,3
+D2,Chicago,O2,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.21199317410187546,3
+D2,Chicago,O2,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.20268597756857107,3
+D2,Chicago,O2,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.20455976827282138,3
+D2,Chicago,O2,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.20996169211566162,3
+D2,Chicago,O2,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.21199317410187546,3
+D2,Chicago,O2,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2000246433054558,3
+D2,Chicago,O2,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.20376558183490298,3
+D2,Chicago,O2,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2083871976549508,3
+D2,Chicago,O2,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.21070978405666127,3
+D2,Chicago,O2,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.20137842575112094,3
+D2,Chicago,O2,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.19408761943607264,3
+D2,Chicago,O2,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.21121381285897464,3
+D2,Chicago,O2,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.21086784552034596,3
+D2,Chicago,O2,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.20127591921743027,3
+D2,Chicago,O2,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.19435519073533872,3
+D2,Chicago,O2,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.21121381285897464,3
+D2,Chicago,O2,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.21086784552034596,3
+D2,Chicago,O2,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.21405183058114066,3
+D2,Chicago,O2,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2047649998585401,3
+D2,Chicago,O2,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2272557645787264,3
+D2,Chicago,O2,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.21092695847807677,3
+D2,Chicago,O2,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.21554135304064018,3
+D2,Chicago,O2,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.19864620966558852,3
+D2,Chicago,O2,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.22668253528056734,3
+D2,Chicago,O2,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.20955639829792905,3
+D2,Chicago,O2,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2160867338369236,3
+D2,Chicago,O2,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.19849647281285296,3
+D2,Chicago,O2,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.22668253528056734,3
+D2,Chicago,O2,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.20955639829792905,3
+D2,Chicago,O2,M9,0,LR,"{""C"": 0.01}",0.27449570993941547,3
+D2,Chicago,O2,M9,0,LR,"{""C"": 0.1}",0.26215060730050604,3
+D2,Chicago,O2,M9,0,LR,"{""C"": 1.0}",0.24646683005229045,3
+D2,Chicago,O2,M9,0,LR,"{""C"": 10.0}",0.24082487294482938,3
+D2,Chicago,O2,M9,1,LR,"{""C"": 0.01}",0.2822549438966179,3
+D2,Chicago,O2,M9,1,LR,"{""C"": 0.1}",0.2678180685111569,3
+D2,Chicago,O2,M9,1,LR,"{""C"": 1.0}",0.2465601596972191,3
+D2,Chicago,O2,M9,1,LR,"{""C"": 10.0}",0.2466994988448121,3
+D2,Chicago,O2,M9,2,LR,"{""C"": 0.01}",0.2828976936271391,3
+D2,Chicago,O2,M9,2,LR,"{""C"": 0.1}",0.2711755969797273,3
+D2,Chicago,O2,M9,2,LR,"{""C"": 1.0}",0.2543189373567753,3
+D2,Chicago,O2,M9,2,LR,"{""C"": 10.0}",0.25132880784682493,3
+D2,Chicago,O2,M9,3,LR,"{""C"": 0.01}",0.28396652331030153,3
+D2,Chicago,O2,M9,3,LR,"{""C"": 0.1}",0.27703905873214096,3
+D2,Chicago,O2,M9,3,LR,"{""C"": 1.0}",0.2624595774925042,3
+D2,Chicago,O2,M9,3,LR,"{""C"": 10.0}",0.2550065914298161,3
+D2,Chicago,O2,M9,4,LR,"{""C"": 0.01}",0.25854261540003964,3
+D2,Chicago,O2,M9,4,LR,"{""C"": 0.1}",0.2399281124167532,3
+D2,Chicago,O2,M9,4,LR,"{""C"": 1.0}",0.2192420008902848,3
+D2,Chicago,O2,M9,4,LR,"{""C"": 10.0}",0.22207412815340652,3
+D2,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2672482119249917,3
+D2,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.25983300307371504,3
+D2,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.3090468676508356,3
+D2,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.3135833605168368,3
+D2,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.29788895817513766,3
+D2,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2854794476230871,3
+D2,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.30642577295021134,3
+D2,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.3181554678787575,3
+D2,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.30126830253632225,3
+D2,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2829178292461345,3
+D2,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.30642577295021134,3
+D2,Chicago,O2,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.3181554678787575,3
+D2,Chicago,O2,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.27505785519021153,3
+D2,Chicago,O2,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2715829979608751,3
+D2,Chicago,O2,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.29770493166031126,3
+D2,Chicago,O2,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.29202449467858815,3
+D2,Chicago,O2,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.30266309051568374,3
+D2,Chicago,O2,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.29499666876436653,3
+D2,Chicago,O2,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2940951789067157,3
+D2,Chicago,O2,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.295148199822247,3
+D2,Chicago,O2,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.3027486295944067,3
+D2,Chicago,O2,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.29421889054532097,3
+D2,Chicago,O2,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2940951789067157,3
+D2,Chicago,O2,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.295148199822247,3
+D2,Chicago,O2,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.26713205634833675,3
+D2,Chicago,O2,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.29064196747236276,3
+D2,Chicago,O2,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.296136230370127,3
+D2,Chicago,O2,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2915771626292077,3
+D2,Chicago,O2,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.27555563097795366,3
+D2,Chicago,O2,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.30349759082509126,3
+D2,Chicago,O2,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.29929063275935,3
+D2,Chicago,O2,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2913135928317757,3
+D2,Chicago,O2,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2744214221244663,3
+D2,Chicago,O2,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2937254419871125,3
+D2,Chicago,O2,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.29929063275935,3
+D2,Chicago,O2,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2913135928317757,3
+D2,Chicago,O2,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2682510020256978,3
+D2,Chicago,O2,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.24218811128692122,3
+D2,Chicago,O2,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2782417633895229,3
+D2,Chicago,O2,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.26322109172199654,3
+D2,Chicago,O2,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.27761239010001443,3
+D2,Chicago,O2,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2630704196740242,3
+D2,Chicago,O2,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.27938802919833333,3
+D2,Chicago,O2,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2603841228720822,3
+D2,Chicago,O2,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2775812417090931,3
+D2,Chicago,O2,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2641929999853682,3
+D2,Chicago,O2,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.27938802919833333,3
+D2,Chicago,O2,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2603841228720822,3
+D2,Chicago,O2,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2866843610887519,3
+D2,Chicago,O2,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2947666859082418,3
+D2,Chicago,O2,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2898145859138092,3
+D2,Chicago,O2,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2948331056738829,3
+D2,Chicago,O2,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.28202276177794,3
+D2,Chicago,O2,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.31182052953361444,3
+D2,Chicago,O2,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.28916474504425116,3
+D2,Chicago,O2,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.29400240051408183,3
+D2,Chicago,O2,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.28457646375583673,3
+D2,Chicago,O2,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.29808597450412716,3
+D2,Chicago,O2,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.28916474504425116,3
+D2,Chicago,O2,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.29400240051408183,3
+D2,Chicago,O2,M9F,0,LR,"{""C"": 0.01}",0.28425790618278945,3
+D2,Chicago,O2,M9F,0,LR,"{""C"": 0.1}",0.26361656844431475,3
+D2,Chicago,O2,M9F,0,LR,"{""C"": 1.0}",0.2370658480994212,3
+D2,Chicago,O2,M9F,0,LR,"{""C"": 10.0}",0.22585503065445764,3
+D2,Chicago,O2,M9F,1,LR,"{""C"": 0.01}",0.29451700992973395,3
+D2,Chicago,O2,M9F,1,LR,"{""C"": 0.1}",0.2782672812431435,3
+D2,Chicago,O2,M9F,1,LR,"{""C"": 1.0}",0.25988994681553845,3
+D2,Chicago,O2,M9F,1,LR,"{""C"": 10.0}",0.2529150502129214,3
+D2,Chicago,O2,M9F,2,LR,"{""C"": 0.01}",0.3004298512602504,3
+D2,Chicago,O2,M9F,2,LR,"{""C"": 0.1}",0.2809606636669803,3
+D2,Chicago,O2,M9F,2,LR,"{""C"": 1.0}",0.26248857608060766,3
+D2,Chicago,O2,M9F,2,LR,"{""C"": 10.0}",0.2551558039113954,3
+D2,Chicago,O2,M9F,3,LR,"{""C"": 0.01}",0.3011708813696138,3
+D2,Chicago,O2,M9F,3,LR,"{""C"": 0.1}",0.28559740220492197,3
+D2,Chicago,O2,M9F,3,LR,"{""C"": 1.0}",0.2666024725306819,3
+D2,Chicago,O2,M9F,3,LR,"{""C"": 10.0}",0.2616917315203018,3
+D2,Chicago,O2,M9F,4,LR,"{""C"": 0.01}",0.2665291455215363,3
+D2,Chicago,O2,M9F,4,LR,"{""C"": 0.1}",0.2453903934619109,3
+D2,Chicago,O2,M9F,4,LR,"{""C"": 1.0}",0.21666258777807687,3
+D2,Chicago,O2,M9F,4,LR,"{""C"": 10.0}",0.21369393536213444,3
+D2,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2662538902942693,3
+D2,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.25005257121753144,3
+D2,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2770095751801952,3
+D2,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2513730587114274,3
+D2,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2652495806906789,3
+D2,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.26279435062338874,3
+D2,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.27911681246035763,3
+D2,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2591271978162904,3
+D2,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2661276733597146,3
+D2,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.26708258987046607,3
+D2,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.27911681246035763,3
+D2,Chicago,O2,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2591271978162904,3
+D2,Chicago,O2,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2907568379675784,3
+D2,Chicago,O2,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.28033484302618633,3
+D2,Chicago,O2,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.3031087985691275,3
+D2,Chicago,O2,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.29049987517795206,3
+D2,Chicago,O2,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.29097292799628915,3
+D2,Chicago,O2,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2910535930805961,3
+D2,Chicago,O2,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.30123097967786067,3
+D2,Chicago,O2,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2957991013307646,3
+D2,Chicago,O2,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2936644465923611,3
+D2,Chicago,O2,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2909324440053776,3
+D2,Chicago,O2,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.30123097967786067,3
+D2,Chicago,O2,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2957991013307646,3
+D2,Chicago,O2,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.26930881677233004,3
+D2,Chicago,O2,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2651664653307487,3
+D2,Chicago,O2,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2780898338053426,3
+D2,Chicago,O2,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2880550661177297,3
+D2,Chicago,O2,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2842187226442696,3
+D2,Chicago,O2,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.28431056727854465,3
+D2,Chicago,O2,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2820887147806826,3
+D2,Chicago,O2,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2940782009251271,3
+D2,Chicago,O2,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.28189156199925525,3
+D2,Chicago,O2,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2847990706271455,3
+D2,Chicago,O2,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2820887147806826,3
+D2,Chicago,O2,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2940782009251271,3
+D2,Chicago,O2,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.27313734938408657,3
+D2,Chicago,O2,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.25452322411144684,3
+D2,Chicago,O2,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.28978976584469535,3
+D2,Chicago,O2,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2663960541883339,3
+D2,Chicago,O2,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2862302545870679,3
+D2,Chicago,O2,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.25950006082665983,3
+D2,Chicago,O2,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.290782993290694,3
+D2,Chicago,O2,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2660751028994383,3
+D2,Chicago,O2,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.28585191515129393,3
+D2,Chicago,O2,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.25606034049582155,3
+D2,Chicago,O2,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.290782993290694,3
+D2,Chicago,O2,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2660751028994383,3
+D2,Chicago,O2,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2762681144407662,3
+D2,Chicago,O2,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2751279345879356,3
+D2,Chicago,O2,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2579470284045208,3
+D2,Chicago,O2,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2751333638058266,3
+D2,Chicago,O2,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.285852644929838,3
+D2,Chicago,O2,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.29319459185328717,3
+D2,Chicago,O2,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.25968771679433295,3
+D2,Chicago,O2,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2689996009069753,3
+D2,Chicago,O2,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2899571860905716,3
+D2,Chicago,O2,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2798328542431879,3
+D2,Chicago,O2,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.25968771679433295,3
+D2,Chicago,O2,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2689996009069753,3
+D3,ALL,O1,M0,0,LR,"{""C"": 0.01}",0.835237981370527,3
+D3,ALL,O1,M0,0,LR,"{""C"": 0.1}",0.8347071877411253,3
+D3,ALL,O1,M0,0,LR,"{""C"": 1.0}",0.8337273513646101,3
+D3,ALL,O1,M0,0,LR,"{""C"": 10.0}",0.8337100898551038,3
+D3,ALL,O1,M0,1,LR,"{""C"": 0.01}",0.814839300056372,3
+D3,ALL,O1,M0,1,LR,"{""C"": 0.1}",0.8155043983142919,3
+D3,ALL,O1,M0,1,LR,"{""C"": 1.0}",0.8163435455455441,3
+D3,ALL,O1,M0,1,LR,"{""C"": 10.0}",0.8165531763402353,3
+D3,ALL,O1,M0,2,LR,"{""C"": 0.01}",0.7978092573871645,3
+D3,ALL,O1,M0,2,LR,"{""C"": 0.1}",0.7981270358333349,3
+D3,ALL,O1,M0,2,LR,"{""C"": 1.0}",0.7978530812011456,3
+D3,ALL,O1,M0,2,LR,"{""C"": 10.0}",0.79755740737606,3
+D3,ALL,O1,M0,3,LR,"{""C"": 0.01}",0.8295601937835165,3
+D3,ALL,O1,M0,3,LR,"{""C"": 0.1}",0.8278296227969845,3
+D3,ALL,O1,M0,3,LR,"{""C"": 1.0}",0.8275702969489237,3
+D3,ALL,O1,M0,3,LR,"{""C"": 10.0}",0.8272668161186392,3
+D3,ALL,O1,M0,4,LR,"{""C"": 0.01}",0.8232215895676612,3
+D3,ALL,O1,M0,4,LR,"{""C"": 0.1}",0.8225984944537691,3
+D3,ALL,O1,M0,4,LR,"{""C"": 1.0}",0.8229334276638985,3
+D3,ALL,O1,M0,4,LR,"{""C"": 10.0}",0.8229649676741785,3
+D3,ALL,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8089103256820298,3
+D3,ALL,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7969176800383627,3
+D3,ALL,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7861226302233989,3
+D3,ALL,O1,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7894565329685377,3
+D3,ALL,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.796954176261488,3
+D3,ALL,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7875944835245609,3
+D3,ALL,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7861226302233989,3
+D3,ALL,O1,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7894565329685377,3
+D3,ALL,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7969442948795056,3
+D3,ALL,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7874892666126213,3
+D3,ALL,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7861226302233989,3
+D3,ALL,O1,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7894565329685377,3
+D3,ALL,O1,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7757193782065519,3
+D3,ALL,O1,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7659307367843282,3
+D3,ALL,O1,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7819009490266802,3
+D3,ALL,O1,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7756536389248948,3
+D3,ALL,O1,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7760541184126063,3
+D3,ALL,O1,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7618575030585548,3
+D3,ALL,O1,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7819009490266802,3
+D3,ALL,O1,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7756536389248948,3
+D3,ALL,O1,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7760541184126063,3
+D3,ALL,O1,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7618575030585548,3
+D3,ALL,O1,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7819009490266802,3
+D3,ALL,O1,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7756536389248948,3
+D3,ALL,O1,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7481404085134719,3
+D3,ALL,O1,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7504159768717441,3
+D3,ALL,O1,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7535000511467969,3
+D3,ALL,O1,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7454391153791887,3
+D3,ALL,O1,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7467025289468111,3
+D3,ALL,O1,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7493624786198523,3
+D3,ALL,O1,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7535000511467969,3
+D3,ALL,O1,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7454391153791887,3
+D3,ALL,O1,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7467025289468111,3
+D3,ALL,O1,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7493624786198523,3
+D3,ALL,O1,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7535000511467969,3
+D3,ALL,O1,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7454391153791887,3
+D3,ALL,O1,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.8039869281352768,3
+D3,ALL,O1,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7940688295192043,3
+D3,ALL,O1,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.797129070270474,3
+D3,ALL,O1,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7925478480260457,3
+D3,ALL,O1,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7963575259707226,3
+D3,ALL,O1,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7905883236386099,3
+D3,ALL,O1,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.797129070270474,3
+D3,ALL,O1,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7925021899841799,3
+D3,ALL,O1,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7963575259707226,3
+D3,ALL,O1,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7910130474252518,3
+D3,ALL,O1,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.797129070270474,3
+D3,ALL,O1,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7925021899841799,3
+D3,ALL,O1,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7485609223678296,3
+D3,ALL,O1,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7428308060802614,3
+D3,ALL,O1,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7595157427959637,3
+D3,ALL,O1,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7581564309589818,3
+D3,ALL,O1,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7444214882659023,3
+D3,ALL,O1,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7323004595167865,3
+D3,ALL,O1,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7595157427959637,3
+D3,ALL,O1,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7579121682060533,3
+D3,ALL,O1,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7444214882659023,3
+D3,ALL,O1,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7324038020315514,3
+D3,ALL,O1,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7595157427959637,3
+D3,ALL,O1,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7579121682060533,3
+D3,ALL,O1,M9,0,LR,"{""C"": 0.01}",0.7858014204903273,3
+D3,ALL,O1,M9,0,LR,"{""C"": 0.1}",0.7716747343990026,3
+D3,ALL,O1,M9,0,LR,"{""C"": 1.0}",0.7492612236155579,3
+D3,ALL,O1,M9,0,LR,"{""C"": 10.0}",0.7455105794472706,3
+D3,ALL,O1,M9,1,LR,"{""C"": 0.01}",0.7874059470527669,3
+D3,ALL,O1,M9,1,LR,"{""C"": 0.1}",0.7935470332878166,3
+D3,ALL,O1,M9,1,LR,"{""C"": 1.0}",0.7806477442475446,3
+D3,ALL,O1,M9,1,LR,"{""C"": 10.0}",0.7747391258948205,3
+D3,ALL,O1,M9,2,LR,"{""C"": 0.01}",0.7697048468362878,3
+D3,ALL,O1,M9,2,LR,"{""C"": 0.1}",0.754327688297642,3
+D3,ALL,O1,M9,2,LR,"{""C"": 1.0}",0.7224912671776503,3
+D3,ALL,O1,M9,2,LR,"{""C"": 10.0}",0.7080561357899359,3
+D3,ALL,O1,M9,3,LR,"{""C"": 0.01}",0.8147695712534636,3
+D3,ALL,O1,M9,3,LR,"{""C"": 0.1}",0.7990202795179974,3
+D3,ALL,O1,M9,3,LR,"{""C"": 1.0}",0.7813069537507799,3
+D3,ALL,O1,M9,3,LR,"{""C"": 10.0}",0.7764026011896393,3
+D3,ALL,O1,M9,4,LR,"{""C"": 0.01}",0.7956474483601012,3
+D3,ALL,O1,M9,4,LR,"{""C"": 0.1}",0.7943690371925823,3
+D3,ALL,O1,M9,4,LR,"{""C"": 1.0}",0.7827225333802842,3
+D3,ALL,O1,M9,4,LR,"{""C"": 10.0}",0.7769624174985226,3
+D3,ALL,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.774179924626382,3
+D3,ALL,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7167194186750067,3
+D3,ALL,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7489278732086336,3
+D3,ALL,O1,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7093009926220986,3
+D3,ALL,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7639956428112499,3
+D3,ALL,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7281171563388686,3
+D3,ALL,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7489278732086336,3
+D3,ALL,O1,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7093009926220986,3
+D3,ALL,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7639956428112499,3
+D3,ALL,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7284573665842794,3
+D3,ALL,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7489278732086336,3
+D3,ALL,O1,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7093009926220986,3
+D3,ALL,O1,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7541649483918009,3
+D3,ALL,O1,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7483872799965422,3
+D3,ALL,O1,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7697272412161569,3
+D3,ALL,O1,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7545518924041494,3
+D3,ALL,O1,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7512005631413986,3
+D3,ALL,O1,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7462988523172728,3
+D3,ALL,O1,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7697272412161569,3
+D3,ALL,O1,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7545518924041494,3
+D3,ALL,O1,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7512005631413986,3
+D3,ALL,O1,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7462988523172728,3
+D3,ALL,O1,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7697272412161569,3
+D3,ALL,O1,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7545518924041494,3
+D3,ALL,O1,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7299768600151358,3
+D3,ALL,O1,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.6982109208469419,3
+D3,ALL,O1,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7341120568281666,3
+D3,ALL,O1,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.6905083039067632,3
+D3,ALL,O1,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7255932146759752,3
+D3,ALL,O1,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.6977573267901173,3
+D3,ALL,O1,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7341120568281666,3
+D3,ALL,O1,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.6905083039067632,3
+D3,ALL,O1,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7255932146759752,3
+D3,ALL,O1,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.6977573267901173,3
+D3,ALL,O1,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7341120568281666,3
+D3,ALL,O1,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.6905083039067632,3
+D3,ALL,O1,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7975145367855226,3
+D3,ALL,O1,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7767222885250032,3
+D3,ALL,O1,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7925890384754334,3
+D3,ALL,O1,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7765686405048212,3
+D3,ALL,O1,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7927613536773087,3
+D3,ALL,O1,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7758335379856254,3
+D3,ALL,O1,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7925559929903843,3
+D3,ALL,O1,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7765674041874832,3
+D3,ALL,O1,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7936581153441259,3
+D3,ALL,O1,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7762782439600017,3
+D3,ALL,O1,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7925559929903843,3
+D3,ALL,O1,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7765674041874832,3
+D3,ALL,O1,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7364087529053197,3
+D3,ALL,O1,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7272150224319627,3
+D3,ALL,O1,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.746691775366879,3
+D3,ALL,O1,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7343671122650166,3
+D3,ALL,O1,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.72894971145208,3
+D3,ALL,O1,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7244484817458338,3
+D3,ALL,O1,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.746691775366879,3
+D3,ALL,O1,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7317503354871967,3
+D3,ALL,O1,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.72894971145208,3
+D3,ALL,O1,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.724347221176048,3
+D3,ALL,O1,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.746691775366879,3
+D3,ALL,O1,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7317503354871967,3
+D3,ALL,O1,M9F,0,LR,"{""C"": 0.01}",0.7881136561731498,3
+D3,ALL,O1,M9F,0,LR,"{""C"": 0.1}",0.7692009253239639,3
+D3,ALL,O1,M9F,0,LR,"{""C"": 1.0}",0.7505430759977262,3
+D3,ALL,O1,M9F,0,LR,"{""C"": 10.0}",0.7458939317549108,3
+D3,ALL,O1,M9F,1,LR,"{""C"": 0.01}",0.7857456378825578,3
+D3,ALL,O1,M9F,1,LR,"{""C"": 0.1}",0.795486742804361,3
+D3,ALL,O1,M9F,1,LR,"{""C"": 1.0}",0.7843610678472803,3
+D3,ALL,O1,M9F,1,LR,"{""C"": 10.0}",0.7692070636437579,3
+D3,ALL,O1,M9F,2,LR,"{""C"": 0.01}",0.7690304043849459,3
+D3,ALL,O1,M9F,2,LR,"{""C"": 0.1}",0.7513564003373391,3
+D3,ALL,O1,M9F,2,LR,"{""C"": 1.0}",0.7214902539442857,3
+D3,ALL,O1,M9F,2,LR,"{""C"": 10.0}",0.7016446130696243,3
+D3,ALL,O1,M9F,3,LR,"{""C"": 0.01}",0.8121007978042453,3
+D3,ALL,O1,M9F,3,LR,"{""C"": 0.1}",0.7959495229018735,3
+D3,ALL,O1,M9F,3,LR,"{""C"": 1.0}",0.7785194255331275,3
+D3,ALL,O1,M9F,3,LR,"{""C"": 10.0}",0.7739025920969493,3
+D3,ALL,O1,M9F,4,LR,"{""C"": 0.01}",0.7947789148079742,3
+D3,ALL,O1,M9F,4,LR,"{""C"": 0.1}",0.787549992332185,3
+D3,ALL,O1,M9F,4,LR,"{""C"": 1.0}",0.7729571906078864,3
+D3,ALL,O1,M9F,4,LR,"{""C"": 10.0}",0.7651641387813296,3
+D3,ALL,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7689044438576383,3
+D3,ALL,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7312468265182613,3
+D3,ALL,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7493119515879773,3
+D3,ALL,O1,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7260318399835484,3
+D3,ALL,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7542791032210249,3
+D3,ALL,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7363246483754916,3
+D3,ALL,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7493119515879773,3
+D3,ALL,O1,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7260318399835484,3
+D3,ALL,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7542791032210249,3
+D3,ALL,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7345054643308581,3
+D3,ALL,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7493119515879773,3
+D3,ALL,O1,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7260318399835484,3
+D3,ALL,O1,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.755358374830875,3
+D3,ALL,O1,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7392488270392148,3
+D3,ALL,O1,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7676206866756758,3
+D3,ALL,O1,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7574560949390787,3
+D3,ALL,O1,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7531122663370322,3
+D3,ALL,O1,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7371397510075456,3
+D3,ALL,O1,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7676206866756758,3
+D3,ALL,O1,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7574560949390787,3
+D3,ALL,O1,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7531122663370322,3
+D3,ALL,O1,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7371397510075456,3
+D3,ALL,O1,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7676206866756758,3
+D3,ALL,O1,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7574560949390787,3
+D3,ALL,O1,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7290061041832301,3
+D3,ALL,O1,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.70127632351317,3
+D3,ALL,O1,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7372550818586542,3
+D3,ALL,O1,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7047264518309421,3
+D3,ALL,O1,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7279410577639166,3
+D3,ALL,O1,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.6974493351714615,3
+D3,ALL,O1,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7372550818586542,3
+D3,ALL,O1,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7047264518309421,3
+D3,ALL,O1,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7279410577639166,3
+D3,ALL,O1,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.6974493351714615,3
+D3,ALL,O1,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7372550818586542,3
+D3,ALL,O1,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7047264518309421,3
+D3,ALL,O1,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7943117833213869,3
+D3,ALL,O1,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7734399303164489,3
+D3,ALL,O1,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7909216623686645,3
+D3,ALL,O1,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7652832276963082,3
+D3,ALL,O1,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7927128917157731,3
+D3,ALL,O1,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7730990038511707,3
+D3,ALL,O1,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7909216623686645,3
+D3,ALL,O1,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7659168882101955,3
+D3,ALL,O1,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7927732958608932,3
+D3,ALL,O1,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7735643028171891,3
+D3,ALL,O1,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7909216623686645,3
+D3,ALL,O1,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7659168882101955,3
+D3,ALL,O1,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.7490328845746492,3
+D3,ALL,O1,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7292892066892914,3
+D3,ALL,O1,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7357914929318917,3
+D3,ALL,O1,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.7318906440821173,3
+D3,ALL,O1,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.740307546208605,3
+D3,ALL,O1,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7295304202636913,3
+D3,ALL,O1,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7357914929318917,3
+D3,ALL,O1,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.731513777057674,3
+D3,ALL,O1,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.740307546208605,3
+D3,ALL,O1,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.7292815409230601,3
+D3,ALL,O1,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.7357914929318917,3
+D3,ALL,O1,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.731513777057674,3
+D3,ALL,O2,M0,0,LR,"{""C"": 0.01}",0.19805762347740652,3
+D3,ALL,O2,M0,0,LR,"{""C"": 0.1}",0.19351582437177461,3
+D3,ALL,O2,M0,0,LR,"{""C"": 1.0}",0.18252954616134845,3
+D3,ALL,O2,M0,0,LR,"{""C"": 10.0}",0.18061730833576886,3
+D3,ALL,O2,M0,1,LR,"{""C"": 0.01}",0.2877371447159793,3
+D3,ALL,O2,M0,1,LR,"{""C"": 0.1}",0.2736721440306072,3
+D3,ALL,O2,M0,1,LR,"{""C"": 1.0}",0.25861687173934617,3
+D3,ALL,O2,M0,1,LR,"{""C"": 10.0}",0.25566679411189824,3
+D3,ALL,O2,M0,2,LR,"{""C"": 0.01}",0.24922894219966474,3
+D3,ALL,O2,M0,2,LR,"{""C"": 0.1}",0.24985507364270923,3
+D3,ALL,O2,M0,2,LR,"{""C"": 1.0}",0.24934312354241758,3
+D3,ALL,O2,M0,2,LR,"{""C"": 10.0}",0.25207741869039774,3
+D3,ALL,O2,M0,3,LR,"{""C"": 0.01}",0.28016028296617324,3
+D3,ALL,O2,M0,3,LR,"{""C"": 0.1}",0.27789850421195716,3
+D3,ALL,O2,M0,3,LR,"{""C"": 1.0}",0.2715373586085251,3
+D3,ALL,O2,M0,3,LR,"{""C"": 10.0}",0.2728881043630875,3
+D3,ALL,O2,M0,4,LR,"{""C"": 0.01}",0.22618967927665404,3
+D3,ALL,O2,M0,4,LR,"{""C"": 0.1}",0.2057440919575683,3
+D3,ALL,O2,M0,4,LR,"{""C"": 1.0}",0.19250453811908538,3
+D3,ALL,O2,M0,4,LR,"{""C"": 10.0}",0.19346198495419697,3
+D3,ALL,O2,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.16639933192022835,3
+D3,ALL,O2,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.14670522208599596,3
+D3,ALL,O2,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.21373374869417383,3
+D3,ALL,O2,M0,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.240066613504018,3
+D3,ALL,O2,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.17802160446044224,3
+D3,ALL,O2,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.15009416241150422,3
+D3,ALL,O2,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.21373374869417383,3
+D3,ALL,O2,M0,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2403649581006082,3
+D3,ALL,O2,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.17802160446044224,3
+D3,ALL,O2,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.15028159680946493,3
+D3,ALL,O2,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.21373374869417383,3
+D3,ALL,O2,M0,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2403649581006082,3
+D3,ALL,O2,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.25555737082372576,3
+D3,ALL,O2,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2691974533394059,3
+D3,ALL,O2,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.23147929530207265,3
+D3,ALL,O2,M0,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.22613330026242237,3
+D3,ALL,O2,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.26423160442713917,3
+D3,ALL,O2,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2617743233814366,3
+D3,ALL,O2,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.23147929530207265,3
+D3,ALL,O2,M0,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.22613330026242237,3
+D3,ALL,O2,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.26423160442713917,3
+D3,ALL,O2,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2617743233814366,3
+D3,ALL,O2,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.23147929530207265,3
+D3,ALL,O2,M0,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.22613330026242237,3
+D3,ALL,O2,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.1878915818582615,3
+D3,ALL,O2,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.17963391593236977,3
+D3,ALL,O2,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.23094419759564602,3
+D3,ALL,O2,M0,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2286830765581215,3
+D3,ALL,O2,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.18751220946491934,3
+D3,ALL,O2,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.1787419908092535,3
+D3,ALL,O2,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.23094419759564602,3
+D3,ALL,O2,M0,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2286830765581215,3
+D3,ALL,O2,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.18751220946491934,3
+D3,ALL,O2,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.1787419908092535,3
+D3,ALL,O2,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.23094419759564602,3
+D3,ALL,O2,M0,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2286830765581215,3
+D3,ALL,O2,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.21743291877619372,3
+D3,ALL,O2,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.22365313491797037,3
+D3,ALL,O2,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2456205494536535,3
+D3,ALL,O2,M0,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.24031745293215548,3
+D3,ALL,O2,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.21531322663444533,3
+D3,ALL,O2,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.22369994541921998,3
+D3,ALL,O2,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2456205494536535,3
+D3,ALL,O2,M0,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.24031745293215548,3
+D3,ALL,O2,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.21531322663444533,3
+D3,ALL,O2,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.22441176909193164,3
+D3,ALL,O2,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2456205494536535,3
+D3,ALL,O2,M0,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.24031745293215548,3
+D3,ALL,O2,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.24326123378045028,3
+D3,ALL,O2,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.19636764187132447,3
+D3,ALL,O2,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.18012600282443414,3
+D3,ALL,O2,M0,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.17102239547428635,3
+D3,ALL,O2,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.23662147216410037,3
+D3,ALL,O2,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.19392362818797207,3
+D3,ALL,O2,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.18012600282443414,3
+D3,ALL,O2,M0,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.17102239547428635,3
+D3,ALL,O2,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.23662147216410037,3
+D3,ALL,O2,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.19392362818797207,3
+D3,ALL,O2,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.18012600282443414,3
+D3,ALL,O2,M0,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.17102239547428635,3
+D3,ALL,O2,M9,0,LR,"{""C"": 0.01}",0.2712350512872652,3
+D3,ALL,O2,M9,0,LR,"{""C"": 0.1}",0.2050233949155887,3
+D3,ALL,O2,M9,0,LR,"{""C"": 1.0}",0.16773278883561363,3
+D3,ALL,O2,M9,0,LR,"{""C"": 10.0}",0.16070973674652836,3
+D3,ALL,O2,M9,1,LR,"{""C"": 0.01}",0.25851779544071646,3
+D3,ALL,O2,M9,1,LR,"{""C"": 0.1}",0.2779986647111686,3
+D3,ALL,O2,M9,1,LR,"{""C"": 1.0}",0.2457199296415292,3
+D3,ALL,O2,M9,1,LR,"{""C"": 10.0}",0.2524813923452314,3
+D3,ALL,O2,M9,2,LR,"{""C"": 0.01}",0.31091413668763995,3
+D3,ALL,O2,M9,2,LR,"{""C"": 0.1}",0.33213381457246677,3
+D3,ALL,O2,M9,2,LR,"{""C"": 1.0}",0.2796437289884537,3
+D3,ALL,O2,M9,2,LR,"{""C"": 10.0}",0.2513070167595491,3
+D3,ALL,O2,M9,3,LR,"{""C"": 0.01}",0.26350306317239786,3
+D3,ALL,O2,M9,3,LR,"{""C"": 0.1}",0.281780570956008,3
+D3,ALL,O2,M9,3,LR,"{""C"": 1.0}",0.28242583731594456,3
+D3,ALL,O2,M9,3,LR,"{""C"": 10.0}",0.27881711430237704,3
+D3,ALL,O2,M9,4,LR,"{""C"": 0.01}",0.23748196108679664,3
+D3,ALL,O2,M9,4,LR,"{""C"": 0.1}",0.22567811567176385,3
+D3,ALL,O2,M9,4,LR,"{""C"": 1.0}",0.20839008559779995,3
+D3,ALL,O2,M9,4,LR,"{""C"": 10.0}",0.1905206009431869,3
+D3,ALL,O2,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.17431214241143325,3
+D3,ALL,O2,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.16379384809236056,3
+D3,ALL,O2,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.18476433692518732,3
+D3,ALL,O2,M9,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.1794051224385863,3
+D3,ALL,O2,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.17259834144922068,3
+D3,ALL,O2,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.16935406048901344,3
+D3,ALL,O2,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.18476433692518732,3
+D3,ALL,O2,M9,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.1794051224385863,3
+D3,ALL,O2,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.17259834144922068,3
+D3,ALL,O2,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.16935406048901344,3
+D3,ALL,O2,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.18476433692518732,3
+D3,ALL,O2,M9,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.1794051224385863,3
+D3,ALL,O2,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.28944994805980934,3
+D3,ALL,O2,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.303874492719933,3
+D3,ALL,O2,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.26492705949361506,3
+D3,ALL,O2,M9,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.33292318944010346,3
+D3,ALL,O2,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.28806442131071697,3
+D3,ALL,O2,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2992748319598444,3
+D3,ALL,O2,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.26492705949361506,3
+D3,ALL,O2,M9,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.33292318944010346,3
+D3,ALL,O2,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.28806442131071697,3
+D3,ALL,O2,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2992748319598444,3
+D3,ALL,O2,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.26492705949361506,3
+D3,ALL,O2,M9,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.33292318944010346,3
+D3,ALL,O2,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2680073451715681,3
+D3,ALL,O2,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2597173097926351,3
+D3,ALL,O2,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.3055608494168902,3
+D3,ALL,O2,M9,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.3083128558626118,3
+D3,ALL,O2,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.27188281924740254,3
+D3,ALL,O2,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2594669664176077,3
+D3,ALL,O2,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.3055608494168902,3
+D3,ALL,O2,M9,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.3083128558626118,3
+D3,ALL,O2,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.27188281924740254,3
+D3,ALL,O2,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2594669664176077,3
+D3,ALL,O2,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.3055608494168902,3
+D3,ALL,O2,M9,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.3083128558626118,3
+D3,ALL,O2,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.26268731533616135,3
+D3,ALL,O2,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2578971067830223,3
+D3,ALL,O2,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.29003495432666826,3
+D3,ALL,O2,M9,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.27299403007815587,3
+D3,ALL,O2,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2657915670084993,3
+D3,ALL,O2,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.27132722121972325,3
+D3,ALL,O2,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.29003495432666826,3
+D3,ALL,O2,M9,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.27299403007815587,3
+D3,ALL,O2,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2657915670084993,3
+D3,ALL,O2,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.27132722121972325,3
+D3,ALL,O2,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.29003495432666826,3
+D3,ALL,O2,M9,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.27299403007815587,3
+D3,ALL,O2,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2927865500642057,3
+D3,ALL,O2,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2933143543024147,3
+D3,ALL,O2,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.23513309760631618,3
+D3,ALL,O2,M9,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2608659738919035,3
+D3,ALL,O2,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2949826757498078,3
+D3,ALL,O2,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2624031553091866,3
+D3,ALL,O2,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.23513309760631618,3
+D3,ALL,O2,M9,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2608659738919035,3
+D3,ALL,O2,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2949826757498078,3
+D3,ALL,O2,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2624031553091866,3
+D3,ALL,O2,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.23513309760631618,3
+D3,ALL,O2,M9,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2608659738919035,3
+D3,ALL,O2,M9F,0,LR,"{""C"": 0.01}",0.2610128278340337,3
+D3,ALL,O2,M9F,0,LR,"{""C"": 0.1}",0.18172450954716343,3
+D3,ALL,O2,M9F,0,LR,"{""C"": 1.0}",0.15195511185428376,3
+D3,ALL,O2,M9F,0,LR,"{""C"": 10.0}",0.1457972556420921,3
+D3,ALL,O2,M9F,1,LR,"{""C"": 0.01}",0.28533258017140867,3
+D3,ALL,O2,M9F,1,LR,"{""C"": 0.1}",0.2827981187798795,3
+D3,ALL,O2,M9F,1,LR,"{""C"": 1.0}",0.2422197311726848,3
+D3,ALL,O2,M9F,1,LR,"{""C"": 10.0}",0.249422659799841,3
+D3,ALL,O2,M9F,2,LR,"{""C"": 0.01}",0.3231676901907124,3
+D3,ALL,O2,M9F,2,LR,"{""C"": 0.1}",0.3311148453622482,3
+D3,ALL,O2,M9F,2,LR,"{""C"": 1.0}",0.2831583767408576,3
+D3,ALL,O2,M9F,2,LR,"{""C"": 10.0}",0.26897931076630105,3
+D3,ALL,O2,M9F,3,LR,"{""C"": 0.01}",0.28809967404575415,3
+D3,ALL,O2,M9F,3,LR,"{""C"": 0.1}",0.2885244340641832,3
+D3,ALL,O2,M9F,3,LR,"{""C"": 1.0}",0.29685563643723445,3
+D3,ALL,O2,M9F,3,LR,"{""C"": 10.0}",0.3118204998562388,3
+D3,ALL,O2,M9F,4,LR,"{""C"": 0.01}",0.24659207290811813,3
+D3,ALL,O2,M9F,4,LR,"{""C"": 0.1}",0.2387092847900384,3
+D3,ALL,O2,M9F,4,LR,"{""C"": 1.0}",0.2008743643151443,3
+D3,ALL,O2,M9F,4,LR,"{""C"": 10.0}",0.20425493341404546,3
+D3,ALL,O2,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.20599830647452275,3
+D3,ALL,O2,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.17329416049767407,3
+D3,ALL,O2,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.19844775621712116,3
+D3,ALL,O2,M9F,0,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.20496574714583896,3
+D3,ALL,O2,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2050897414086836,3
+D3,ALL,O2,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.17823337797941194,3
+D3,ALL,O2,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.19844775621712116,3
+D3,ALL,O2,M9F,0,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.20496574714583896,3
+D3,ALL,O2,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2050897414086836,3
+D3,ALL,O2,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.17823337797941194,3
+D3,ALL,O2,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.19844775621712116,3
+D3,ALL,O2,M9F,0,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.20496574714583896,3
+D3,ALL,O2,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2972895538962601,3
+D3,ALL,O2,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2995913022149995,3
+D3,ALL,O2,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.3049642550592177,3
+D3,ALL,O2,M9F,1,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.34182567422508336,3
+D3,ALL,O2,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2902578384812153,3
+D3,ALL,O2,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.3075298787282028,3
+D3,ALL,O2,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.3049642550592177,3
+D3,ALL,O2,M9F,1,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.34182567422508336,3
+D3,ALL,O2,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2902578384812153,3
+D3,ALL,O2,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.3075298787282028,3
+D3,ALL,O2,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.3049642550592177,3
+D3,ALL,O2,M9F,1,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.34182567422508336,3
+D3,ALL,O2,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2603996212817254,3
+D3,ALL,O2,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.24153589279390353,3
+D3,ALL,O2,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.29283918597271635,3
+D3,ALL,O2,M9F,2,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.26825900195688496,3
+D3,ALL,O2,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2547965907075598,3
+D3,ALL,O2,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.23533355666638656,3
+D3,ALL,O2,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.29283918597271635,3
+D3,ALL,O2,M9F,2,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.26825900195688496,3
+D3,ALL,O2,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2547965907075598,3
+D3,ALL,O2,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.23533355666638656,3
+D3,ALL,O2,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.29283918597271635,3
+D3,ALL,O2,M9F,2,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.26825900195688496,3
+D3,ALL,O2,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.28771574238806474,3
+D3,ALL,O2,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2818077765745557,3
+D3,ALL,O2,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2978890662586479,3
+D3,ALL,O2,M9F,3,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.26793281561118687,3
+D3,ALL,O2,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2845109796747768,3
+D3,ALL,O2,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2838639720508877,3
+D3,ALL,O2,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2978890662586479,3
+D3,ALL,O2,M9F,3,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.26793281561118687,3
+D3,ALL,O2,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.2845109796747768,3
+D3,ALL,O2,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.281412612754759,3
+D3,ALL,O2,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2978890662586479,3
+D3,ALL,O2,M9F,3,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.26793281561118687,3
+D3,ALL,O2,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 100}",0.28339105367147793,3
+D3,ALL,O2,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 20, ""n_estimators"": 300}",0.2623384557638541,3
+D3,ALL,O2,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2427248163799395,3
+D3,ALL,O2,M9F,4,LGBM,"{""num_leaves"": 4, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2661767131294599,3
+D3,ALL,O2,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 100}",0.3107454393991431,3
+D3,ALL,O2,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 20, ""n_estimators"": 300}",0.26299979066093826,3
+D3,ALL,O2,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2427248163799395,3
+D3,ALL,O2,M9F,4,LGBM,"{""num_leaves"": 8, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2620401239066977,3
+D3,ALL,O2,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 100}",0.3107454393991431,3
+D3,ALL,O2,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 20, ""n_estimators"": 300}",0.26299979066093826,3
+D3,ALL,O2,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 100}",0.2427248163799395,3
+D3,ALL,O2,M9F,4,LGBM,"{""num_leaves"": 16, ""min_child_samples"": 40, ""n_estimators"": 300}",0.2620401239066977,3

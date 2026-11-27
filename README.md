@@ -1,3 +1,5 @@
+The [Restart 9 report](restart9_0/README.md) tests lighting, bars, liquor stores, night-time activity, police stations, highways, branch hours and ATM age with logistic regression and LightGBM. **The primary NYC-to-Chicago test failed**: average precision fell from 0.764 (crime-history baseline) to 0.712 (logistic) and 0.731 (LightGBM). The protocol was committed before any result was seen. One secondary signal, for ATM-premise crime in the pooled design, is reported as a hypothesis.
+
 # Three-city ATM study — phases 1–5
 
 The latest [Restart 7 Phase 4 report](restart7_0/phase4/README.md) completes the exploratory 2024-to-2025 benchmark. Adding 19 environmental predictors reduced primary average precision from **0.8042 to 0.7954**; the paired spatial 95% interval for the gain is **−0.0286 to +0.0125**. The numerical continuation rule failed, and **Phase 5 has not started**. Six validation groups passed, including exact replay of all 92 fitted models. The report records the unfavorable results, limitations and recommended next steps; the phases 1–3 release remains unchanged.

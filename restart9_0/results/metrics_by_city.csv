@@ -1,0 +1,11 @@
+design,target,outcome,city,n,pos,LR-M0,LR-M9,LGBM-M9,LR-M9F
+D1,Chicago,O1,Chicago,212,87,0.764,0.712,0.731,0.7
+D1,Chicago,O2,Chicago,212,23,0.126,0.11,0.129,0.127
+D1,Los Angeles,O1,Los Angeles,112,37,0.781,0.68,0.777,0.695
+D2,Chicago,O1,Chicago,212,87,0.768,0.751,0.733,0.74
+D2,Chicago,O2,Chicago,212,23,0.118,0.109,0.135,0.127
+D3,ALL,O1,Chicago,212,87,0.765,0.738,0.719,0.711
+D3,ALL,O1,Los Angeles,112,37,0.785,0.713,0.767,0.736
+D3,ALL,O1,New York City,611,345,0.82,0.831,0.821,0.834
+D3,ALL,O2,Chicago,212,23,0.096,0.107,0.116,0.135
+D3,ALL,O2,New York City,611,114,0.212,0.277,0.253,0.299

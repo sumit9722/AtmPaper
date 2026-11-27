@@ -1,0 +1,26 @@
+{
+  "primary_success": false,
+  "primary": [
+    {
+      "model": "LR-M9",
+      "ap_gain": -0.0521845991509835,
+      "bonf_low": -0.11521524376379547,
+      "bonf_high": 0.06519292789773676,
+      "brier_diff": -0.008045296953048092,
+      "passes_rule": false
+    },
+    {
+      "model": "LGBM-M9",
+      "ap_gain": -0.03336473909750293,
+      "bonf_low": -0.08392531438997093,
+      "bonf_high": 0.025683283165171406,
+      "brier_diff": -0.012089883296839965,
+      "passes_rule": false
+    }
+  ],
+  "packages": {
+    "lightgbm": "4.7.0",
+    "numpy": "2.5.5",
+    "pandas": "3.1.1"
+  }
+}
