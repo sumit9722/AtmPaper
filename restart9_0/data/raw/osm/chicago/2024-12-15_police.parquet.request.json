@@ -1,0 +1,1 @@
+{"url": "https://api.heigit.org/ohsome-api/v2/extraction/features.parquet", "params": {"aoi": "-87.97642,41.62427,-87.48045,42.06746", "time": "2024-12-15T00:00:00Z", "filter": "amenity=police", "clip": "false"}, "authentication": "header; not retained"}

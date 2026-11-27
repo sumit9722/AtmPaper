@@ -1,0 +1,1 @@
+{"url": "https://api.heigit.org/ohsome-api/v2/extraction/features.parquet", "params": {"aoi": "-118.67560,33.65178,-118.13059,34.34580", "time": "2023-12-15T00:00:00Z", "filter": "highway in (motorway, trunk, motorway_link, trunk_link) and type:way", "clip": "false"}, "authentication": "header; not retained"}
